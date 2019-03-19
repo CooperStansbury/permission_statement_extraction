@@ -1,0 +1,373 @@
+﻿This model clinical research consent form contains sample language. The FHCRC IRB recommends this sample language with the understanding that the authors of consent forms will edit the language to fit their studies. Please make consent forms as simple, clear, and short as you can while still including the required elements.
+All consent forms must address the OHRP general requirements for informed consent described in 45 CFR 46.116, available online at http://www.hhs.gov/ohrp/policy/consentckls.html. Consent forms for FDA-regulated studies must also address the elements of informed consent described in 21 CFR 50.25, available online at http://www.fda.gov/oc/ohrt/irbs/appendixb.html.
+
+Add institution names as needed. Include institutions anticipated to participate in this study, even if IRB approval is still pending. UW Consortium must include the University of Washington.
+The Short title is optional, but may be included to summarize complex study titles into easier to understand terms.
+
+Fred Hutchinson Cancer Research Center
+Consent to take part in a research study:
+
+[Short title: ADD SHORT TITLE]
+If the study uses different consent forms for different populations, identify the population group as the subtitle of the study. Otherwise delete line:
+
+The FHCRC IRB requires only that the PI be listed on the consent form. Others may be added if necessary.
+Principal Investigator:	Chris Doe MD PhD. University of Washington; Fred Hutchinson Cancer Research Center. 
+Emergency number (24 hours): 
+If appropriate, add information about using the emergency number, such as requesting a page. Otherwise delete line:
+
+
+
+If this consent might be signed by a legally authorized representative, parent or guardian on behalf of the study participant, add the following statement. Otherwise delete.
+
+If you are serving as a legally authorized representative, a guardian, or are providing parental permission for a child in this study, the terms "participant", "you", and "your" refer to the person for whom you are providing consent or parental permission. 
+Your doctors are inviting you to participate in a research study. The purpose of this research is [STATE PRIMARY PURPOSE AS BRIEFLY AS POSSIBLE].	
+If you agree to join the study, you [STATE THE PROCEDURES INVOLVED IN THE STUDY AS BRIEFLY AS POSSIBLE].
+We do not know if [NAME THE STUDY PRODUCT] would help [PREVENT OR TREAT] [NAME OF DISEASE]. [NAME OF STUDY PRODUCT] could cause side effects. 
+You do not have to join this study. You could choose to receive standard methods to [PREVENT or TREAT] [NAME OF DISEASE]. We will give you details about the purposes, procedures, risks and possible benefits related to this study. We will explain other choices that you have. We will also give you any other information that you need in order to make an informed decision about joining this study. 
+Following is a more complete description of this study. Please read this description carefully. Afterwards, you can ask questions that will help you decide whether to join the study. If you join this study, we would give you a signed copy of this form to keep for future reference. 
+We invite you to join this research study.
+When appropriate, include the approximate number of participants involved in the study. This is appropriate when the research involves more than minimal risk.
+We invite you to join this research study because you have [NAME OF DISEASE]. Up to [X] people will join this study.
+Research is not the same as treatment or medical care. The purpose of a research study is to answer scientific questions. 
+You do not have to be in the study. You are free to say "yes" or "no", or to drop out after joining. If you say "no," you would have no penalty or loss of benefits. Whatever you decide, your regular medical care would not change. 
+Why are we doing this study?
+Define the research question clearly and simply. Keep background information minimal.
+We are doing this study to examine [INSERT DESCIPTION]. We want to know [INSERT DESCIPTION].
+For clinical drug research, sample language for different phases is given below. 
+Throughout this model form, the term "treatment" stands for a drug, intervention, or device. Revise as needed. The term "treatment" should be avoided unless previous clinical studies have demonstrated that the benefits of using the study product clearly outweigh the risks.
+We are studying [GENERIC NAME OF STUDY PRODUCT] ([TRADE NAME]). [NAME OF STUDY PRODUCT] is [CHARACTERIZE IN A FEW WORDS, i.e., an experimental drug, a device, etc.].
+Phase 1:
+[NAME OF STUDY PRODUCT] has been tested in animals, but it has not yet been tested in people.
+In this study, we want to learn:
+* the best way to give [NAME OF STUDY PRODUCT].
+* how much [NAME OF STUDY PRODUCT] can be given safely.
+If you join this study, we would give you [NAME OF PRODUCT]. People who join at the beginning of the study will receive very low amounts of [NAME OF STUDY PRODUCT]. People who join later will receive larger amounts, until effects (good or bad) appear. We will watch carefully for any side effects. 
+Phase 2:
+In this study, we want to learn what effects, good or bad, [NAME OF STUDY PRODUCT] has on people with [TYPE OF CANCER OR CONDITION]. If you join this study, we would give you [NAME OF STUDY PRODUCT] and watch carefully for any side effects.
+Phase 3:
+In this study, we want to compare [NAME OF STUDY PRODUCT] to the standard treatment [NAME OF STANDARD TREATMENT] to learn which works better for people with [TYPE OF CANCER OR CONDITION].
+If you join this study, you would receive either [NAME OF STUDY PRODUCT] or [NAME OF STANDARD TREATMENT]. You would not get both.
+Randomized studies only. If the study is not randomized, delete this section.
+There are  groups of participants in this study. We will give different treatments to different groups, and compare the results. This is how we hope to find out if [RESEARCH QUESTION].
+In this study, we use a computer program to decide which treatment to give. If you join this study, you would not be allowed to choose the treatment. You would have a -in- chance of receiving [NAME OF STUDY PRODUCT].
+What research tests, procedures, and treatments are done in this study?
+Describe the specific research procedures clearly and simply. Do not describe standard care. If an intervention is experimental, say so.
+Where applicable, indicate the amount of blood to be drawn; tissue use (banked, used for future research, stored indefinitely, immortalized in a cell line); where the procedure will take place (home, hospital, outpatient).
+Explain duration of each procedure. Depending on the complexity of the study, give treatment time points as part of these descriptions or in a table.
+If applicable, state whether patients may participate in some activities/tests only (for example, agreeing to complete a questionnaire but refusing to give a blood sample), or must agree to all activities/tests in order to be in the study.
+Use bullets if descriptions will fit in a single paragraph. Otherwise, use subheadings (style: Heading 2).
+If the study is complex, consider using a simple table or figure instead of text to illustrate the schedule of procedures.
+If you join this study, we would do these tests and procedures:
+* Questionnaire. We would ask you to fill out three questionnaires-one when you join the study, another one six months later, and another one after the first year. Each questionnaire has [DESCRIBE] questions. Some of the questions may be sensitive. Questions that make you feel uncomfortable would not have to be answered.
+* [NAME OF PROCEDURE]. [BRIEF DESCRIPTION].
+If you are in Group , we would do these tests and procedures:
+* [NAME OF PROCEDURE]. [BRIEF DESCRIPTION].
+* [NAME OF PROCEDURE]. [BRIEF DESCRIPTION].
+After you have finished taking [NAME OF STUDY PRODUCT], you would enter the follow-up part of the study. We would do these tests and procedures:
+* [NAME OF PROCEDURE]. [BRIEF DESCRIPTION].
+* [NAME OF PROCEDURE]. [BRIEF DESCRIPTION].
+How long would you stay in this study?
+Define total expected time, and then break down into treatment and follow-up as appropriate. If there are procedures or consequences for early withdrawal, state them clearly.
+If you join this study, you would stay in this study [for or until] about [TIMEFRAME OR EVENT].
+You would receive [NAME OF STUDY PRODUCT] for [DURATION]. After that, you would have follow-up exams in the office or clinic every [INTERVAL TIME] for [DURATION].
+When appropriate, explain the anticipated circumstances under which the subject's participation may be terminated by the investigator without regard to the subject's consent. Appropriate when there are anticipated circumstances under which the investigator may terminate participation of a participant.
+Doctors could take you out of this study at any time. This would happen if:
+* They think it is in your best interest not to continue in the study.
+* You not able or willing to follow study procedures.
+* The whole study is stopped.  
+If you withdraw from the study for any reason, previously collected information would remain in the study records and would be included in the analysis of results. This information could not be removed from the study records. 
+Revise this section according to the study's LTFU plan. If there will be no LTFU, delete this section.
+Long-term follow-up means keeping track of someone's medical condition for a long time. If you join this study, we would [STATE THE TYPE, METHOD, AND FREQUENCY OF FOLLOW-UP CONTACTS] to see how you are doing. We would also ask your doctor to send a copy of your medical records. This information will help us learn about the long-term effects of [NAME OF STUDY PRODUCT].
+You do not have to be in long-term follow-up. You could say "yes" or "no". Either way, you could still join this study. If you drop out of the study, you would be asked if we could call you [STATE THE TYPE, METHOD AND FREQUENCY OF FOLLOW-UP CONTACT].
+If you choose not to join long-term follow-up, you would not be contacted regularly, and we would not ask your doctor to send medical records, but we might still need to contact you for some other reason.
+
+What are the side effects (risks)?
+When appropriate, include a statement that the particular treatment or procedure may involve risks to the participant which are currently unforeseeable. Appropriate when the research involves investigational test articles or other procedures in which the risks to participants are not well known.
+In this part of the consent form, we describe the side effects we expect from the tests and treatments in this study. [NAME OF STUDY PRODUCT] could cause side effects we do not know about yet. We carefully watch everyone in the study for side effects.  
+If you join this study, we would tell you if we discover new side effects that could affect you. 
+Add examples to the following paragraph. Also, if the paragraph would make more sense after the description of individual drug risks, consider moving it there.
+This form lists side effects of individual drugs. Other side effects could occur when we use these drugs together.
+If appropriate, remove "risk of death" sentence in the following paragraph.
+Side effects may be mild or very serious. Medicines could be given to help lessen side effects. Many side effects go away soon after you stop taking [NAME OF STUDY PRODUCT]. In some cases, side effects can last a long time or never go away. There also is a risk of death.
+
+Describe any foreseeable risks, stresses or discomforts to be expected. If a side effect may be irreversible, long-term or life threatening, say so. Do not state that there are no risks.
+If applicable, divide risks into likely, less likely, and rare but serious. There are no standard definitions for these categories. As a guideline, "likely" can be viewed as occurring in > 20% of patients and "less likely" in < 20% of patients. Adjust these levels for specific study agents. 
+Sample language for specific drug risks is available in the NCI website ;
+http://ctep.cancer.gov/protocolDevelopment/sideeffects/drugs.htm.
+In the "likely" and "less likely" categories, identify those side effects that may be 'serious'. 'Serious' is defined as side effects that may require hospitalization or may be irreversible, long-term, life-threatening, or fatal.
+Side effects that occur in < 3% of participants do not have to be listed unless they are serious, and should then appear in the "rare but serious" category.
+
+Likely (>% of patients)Less likely (-%)Rare but serious (<%)[ITEM]
+Likely side effects of [ITEM] are:
+* [ITEM].
+* [ITEM].
+Less likely side effects of [ITEM] are:
+* [ITEM].
+* [ITEM].
+Rare but serious side effects of [ITEM] are:
+* [ITEM].
+* [ITEM].
+Radiation risks
+Delete this section if not needed.
+
+Reproductive risks
+Delete this section if not needed. Limit information to what is appropriate for the audience (for example, women of childbearing age).
+Chemotherapy and radiation treatments could cause sterility (unable to have children).
+When appropriate, include a statement that if the participant was or became pregnant, the particular treatment or procedure might involve risks to the embryo or fetus, which were currently unforeseeable. Appropriate when the research involves women of childbearing potential and the risk to fetuses of the drugs, devices, or other procedures involved in the research is not well known.
+Taking [NAME OF STUDY PRODUCT] may involve unknown risks to an embryo fetus (unborn baby) or nursing infant. Therefore, you could not join this study if you are pregnant, if you are planning to become pregnant, or if you are breast-feeding.  
+If you join this study, you would have to use an effective method of birth control from the time this form is signed until at least [DURATION] after the last dose of [NAME OF STUDY PRODUCT]. If you are already using a method of birth control, you would have to check with the study doctor or a member of the study staff to make sure it is acceptable. 
+If you became pregnant after joining this study, you would have to notify the study doctor immediately. Participation in this study would end, and you would receive counseling and follow up throughout the pregnancy and for about 6 months after the child is born. 
+The effects of fathering a child are also unknown. Men who join this study must also agree to use one or more forms of effective and acceptable birth control from the time this form is signed until at least [DURATION] after the last dose of [NAME OF STUDY PRODUCT].
+Non-physical risks
+If disclosure of pedigree or genetic testing results has the potential to pose a risk to insurability, damage familial relationships or cause psychological harm, indicate measures (such as counseling, confidentiality protections) to be taken by participant and study doctor to minimize these risks.
+If you join this study, non-physical risks are:
+* You might not be able to work.
+* Results of genetic tests might be released by accident. This risk is very low, because we keep personal information private. If these results became known, you could have problems with family members or insurance.
+* [ITEM].
+* [ITEM].
+Other possible side effects
+Side effects may have been noted during treatment whose relationship to treatment is unknown. Because some local IRBs request to be informed of these possible side effects, this information, when available, is provided to the study chair. Including this information in the consent form is not mandatory. Side effects in this category do not have to be labeled as "likely", "less likely" or "rare but serious" and should not be repeated if they have already been disclosed in this form.
+Some people who received [NAME OF STUDY PRODUCT] have reported other side effects. We do not know if [NAME OF STUDY PRODUCT] caused these side effects. They are:
+* [ITEM].
+* [ITEM].
+Some people who received [NAME OF STUDY PRODUCT] have reported [SIDE EFFECT]. We do not know if [NAME OF STUDY PRODUCT] caused [SIDE EFFECT].
+What are the benefits?
+Choose one appropriate statement depending on the "phase".  If no particular Phase applies to the project choose one of the appropriate statements below.
+We do not know if [NAME THE STUDY PRODUCT] would help [PREVENT or TREAT] [NAME OF DISEASE].  We hope the information we learn will help people with [DISEASE OR CONDITION] in the future.
+Although the study will not benefit you directly, we hope the information we learn will help people with [DISEASE OR CONDITION] in the future.
+Phase 1:
+We do not know if this study would help you. The use of [NAME OF STUDY PRODUCT] is still investigational, and we are testing it to find the highest safe dose. We hope the information from this study will help us test [NAME OF STUDY PRODUCT] further in the future.
+Phase 2:
+We do not know if this study would help you. We are testing [NAME OF STUDY PRODUCT] to see its effects on people with [TYPE OF CANCER OR CONDITION].  You might get better if you receive [NAME OF STUDY PRODUCT], but your condition could stay the same or even get worse. We hope the information from this study will help other people with [TYPE OF CANCER or CONDITION] in the future.
+Phase 3:
+We do not know if this study would help you. We are testing [NAME OF STUDY PRODUCT] by comparing it to [NAME OF STANDARD TREATMENT], the standard treatment for [TYPE OF CANCER OR CONDITION]. You could take  [NAME OF STANDARD TREATMENT] without joining this study. The research treatment in this study might be less effective than [NAME OF STANDARD TREATMENT].
+You might get better if you receive [NAME OF STUDY PRODUCT], but your condition could stay the same or even get worse. We hope the information from this study will help other people with [NAME OF STANDARD TREATMENT] in the future.
+You have other choices besides this study.
+You do not have to join this study. You are free to say "yes" or "no". Your regular medical care would not change if you decide to say "no". 
+
+You have other choices for treatment.  Each of these choices has risks and benefits. You should talk to your doctor or healthcare provider about these choices.  
+Other choices include: [DESCRIBE ALTERNATE OPTIONS e.g. Standard Treatment, Another Research Study, No Treatment, Comfort Care]. 
+Enrollment in this study may exclude you from other research studies. 
+Protecting Privacy as an Individual and the Confidentiality of Personal Information 
+If you join this study, some people or organizations might need to look at your medical records and research records for quality assurance or data analysis. They include:
+Edit list as needed.
+If this is a multicenter trial and FHCRC is the coordinating center, repeat institutions listed at the beginning of the consent only if they will have access to patient-specific data or records from FHCRC participants in the study. If FHCRC is the coordinating center, collaborating center consents should list FHCRC as having access to their patient-specific data/records.
+Delete the FDA from this list if the research does not involve the testing of an FDA regulated drug or device.
+If this is an IND study, add IND sponsor/institution.
+Add pharmaceutical companies or representatives if the study is industry sponsored.
+Add cooperative group (SWOG, COG, etc.) where applicable.
+Add statistical research center if statistical analysis is done and coordinated offsite.
+* Researchers involved with this study.
+* [NAME OF SPONSOR(s)] (the sponsor of the study) and their agents. 
+* Institutional Review Boards (IRB), including the Fred Hutchinson Cancer Research Center IRB. An IRB is a group that reviews the study to protect the rights and welfare of research participants.
+* Fred Hutchinson Cancer Research Center, University of Washington, Seattle Children's, and Seattle Cancer Care Alliance.
+* US National Institutes of Health, National Cancer Institute, Office for Human Research Protections, Food and Drug Administration, and other regulatory agencies as required.
+We will do our best to keep personal information confidential. But we cannot guarantee total confidentiality.  Personal information may be given out if required by law.  For example, workplace safety rules may require health workers to contact you about lab tests. Or a court may order study information to be disclosed. Such cases are rare.
+We will not use personal information in any reports about this study, such as journal articles or presentations at scientific meetings.
+
+The following paragraphs must be included if this study will involve the conduct of study procedures at UW Medicine facilities or SCCA, or if the study procedures will be conducted by UW Physicians medical staff. You will need to choose which paragraphs are appropriate to insert depending on whether your study has a therapeutic intent (i.e., to treat a disease or health conditions) or non-therapeutic intent (i.e., to study or prevent disease or health conditions). 
+If this study is "Non-Therapeutic" or involves healthy volunteers, has a certificate of confidentiality issued from NIH, or contains sensitive information (e.g., HIV/AIDS, mental health conditions), include the following "longer" 5 paragraph statement.
+
+Policies of the University of Washington (UW Medicine) and the Seattle Cancer Care Alliance (SCCA) require that certain information about participation in this research must be included in permanent medical records. 
+If you join this study but do not already have a medical record at UW Medicine or SCCA, we would create a record even if the only connection with UW Medicine or SCCA involves this research study. 
+   The information in the permanent medical record would include:
+* Name of the study.
+* Name of the group or company that is paying for the research.
+* The number the group or company assigned to this study.
+* The name of the researcher.
+* The name of the study coordinator.
+* Contact phone number for the study.
+* Contact email address for the study.
+* Emergency phone number for the study.
+
+If you join this study, information about research procedures and test results might also be put in your medical record. This information would include: [INSERT LIST]
+If you join this study, information about your participation would be made part of your permanent medical record. This information would include a copy of this consent form. If an insurance company or employer or anyone else were authorized to see the medical record, they would see a copy of this consent form. 
+If this study is considered "Therapeutic" where the primary research objective of the study involves treatment of a disease or other health condition, include the following "shorter" 1 paragraph statement.
+
+
+
+If you join this study, information about participation would be made part of your permanent medical record. This information would include a copy of this consent form. If an insurance company or employer or anyone else were authorized to see your medical record, they would see a copy of this consent form. 
+OR
+If you join this study, information about your participation would be made part of your permanent medical record. This information would include a copy of this consent form. If you authorize others to see your medical record, they would see a copy of this consent form.
+If you are obtaining a federal Certificate of Confidentiality, insert the following 3 paragraphs.
+
+We have a Certificate of Confidentiality from the federal [INSERT NAME OF INSTITUTE THAT ISSUED THE CERTIFICATE]. This Certificate helps us protect the privacy of people who join this study. If you join the study, the Certificate means that generally we would not have to give out identifying information about you even if we were asked to by a court of law. We would use the Certificate to resist any demands for identifying information. 
+We could not use the Certificate to withhold research information if you give written consent to give it to an insurer, employer, or other person.  
+This protection has some limits. We would voluntarily provide the information: 
+* To a member of the federal government who needs it in order to audit or evaluate the research. 
+* To individuals at the University of Washington, the funding agency, and other groups involved in the research, if they need the information to make sure the research is being done correctly. 
+* To the federal Food and Drug Administration (FDA), if required by the FDA. 
+* To someone who is accused of a crime, if he or she believes that our research   records could be used for defense. 
+* To authorities, if we learn of child abuse, elder abuse, or if patients might harm themselves or others. 
+If Protected Health Information (PHI) is used for research, see http://extranet.fhcrc.org/EN/sections/iro/irb/hipaa.htmlfor HIPAA compliance forms.
+
+Conflict of Interest - If this research study is subject to a UW Conflict Management plan, add the required UW conflict disclosure language here. Reference UW GIM Policy 10, and the UW Human Subjects division template consent form, or the following link http://www.washington.edu/research/hsd for more information.
+
+Genetic Information Protection - If this research involves genetic testing include the following 3 paragraphs additional confidentiality section regarding GINA:
+How is my genetic information protected?
+
+A federal law called the Genetic Information Nondiscrimination Act (GINA) helps protect genetic information about people who join research studies. 
+
+GINA restricts access to genetic information so that it cannot be used for health insurance coverage decisions. GINA prevent health insurance companies or group health plans from 
+
+* Asking for genetic information obtained in research studies, or
+* Using genetic information when making decisions regarding your eligibility or premiums 
+GINA does not help or protect against genetic discrimination by companies that sell life, disability or long term care insurance. 
+Would we pay you if you join this study?
+If compensation is involved, state the value of such compensation, method of payment and payment schedule (such as mailed to participants, given to participant in person, etc.). If payment is prorated, describe the prorated scale if the participant decides to withdraw or is withdrawn by the researcher.
+Modify as appropriate to fit your study
+There is no payment for being in this study.
+OR
+If you join this study and do what is necessary, you would receive a check for $[#]. If you do not complete the study, you would receive a partial payment based on the following schedule [DESCRIBE].
+OR
+If you join this study, we would pay you $ after each study visit.
+If total payments are expected to exceed the threshold for IRS 1099 reporting on individuals for Miscellaneous income ($600 as of 2009 tax year) include the following statement at the end of the payment section:
+
+Keep the social security information separate from the research records.
+Payments for being in the study may be taxable. If you join the study, we would need your social security number for tax reasons.
+
+Would you have extra costs if you join this study? 
+State protocol-specific information about costs to participants. Inclusion of additional costs to the participant that may result from participation in the research is appropriate when it is anticipated that participants may have additional costs.
+One approach is to state that there are some extra costs, and list everything (tests, procedures, agents, etc.) that is NOT covered. Another approach is to state that participant or insurer will have to pay costs except for those listed, and list everything that IS covered. Various examples are given here. Edit as needed.
+There are no extra costs for being in this study.
+OR
+If you join this study, you would have some extra costs. Your insurance company might pay these costs, but some insurance policies do not cover these costs. We could help find out whether your insurance company would cover these costs.
+The extra costs are:
+Choose all that apply and delete the rest:
+* Cost of tests that are given more often than usual.
+* Cost of [NAME OF STUDY PRODUCT].
+* Paying the people who give [NAME OF STUDY PRODUCT], and the cost of the equipment they use.
+* Cost of people and equipment to give [NAME OF STUDY PRODUCT].  There is no charge for [NAME OF STUDY PRODUCT] itself.
+* Cost of standard doctor visits and lab tests.
+* Cost of any other medical care needed because of this study.
+If you join this study, you or your insurance company would have to pay for the costs of standard treatment in this study.
+You would not be billed for:
+* [ITEM].
+* [ITEM].
+If [NAME OF STUDY PRODUCT] is approved as a treatment while this study is still going on, you or your insurance company might have to pay for [NAME OF STUDY PRODUCT] in order to complete this study.
+What if you get sick or hurt after you join this study?
+All consent forms must describe any compensation for injury available to participants.
+For studies where the sponsor does not provide compensation (e.g. NIH funded studies) the following 3 paragraphs must be included in the consent:  
+If the research study has a Sponsor who has agreed to pay for study related injury, revise the wording in paragraphs two and three as necessary per the Clinical Trial Agreement.  E.g. industry sponsored studies, or other sponsors who may offer compensation for injury.
+
+For a life threatening problem, call 911 right away or seek help immediately.  Contact your study doctor when the medical emergency is over or as soon as you can.   
+
+For all other medical problems or illness related to this research, immediately contact [FILL IN AS APPROPRIATE].  They will treat you or refer you for treatment.  You or your health insurance will have to pay for the treatment. There are no funds to pay you for a research-related injury, added medical costs, loss of a job, or other costs to you or your family.  State or national law may give you rights to seek payment for some of these expenses.  You do not waive any right to seek payment by signing this consent form.
+
+You or your insurer will be billed for treatment of problems or complications that result from your condition or from standard clinical care.
+For all studies involving more than minimal risk, always include this statement at the end of the "what if I get hurt" section as a separate paragraph:
+You would not lose any legal right to seek payment for treatment if you sign this form.
+We invite you to donate tissue samples for other research.
+Delete this section is not applicable.
+Use the terms "samples", "tissues", or "specimens" as appropriate, but consistently 
+After we do tests on tissue in this study, some tissue may be left over. We invite you to donate this leftover tissue for future research. This may include genetic research. 
+If you join this study, you would not have to donate tissue for research. You would be free to say "yes" or "no". Regular medical care would not change if you say "no." 
+If you donate tissue, it would be stored in a secure location. If we want to use your tissue for other research or share it with other scientists for research, an ethics review committee (IRB) would review the request. The IRB would decide if we need to ask you for permission to do the research. 
+
+Your donated tissue would be used only for research. This research could be done by for profit companies. Researchers would not report their results to you or your doctors. The research results would not be included in medical records. The results would not affect your medical care. 
+Research with tissue might help develop new products. If these products make money, there is no plan to share the money with the participants who donate the tissue. 
+If you donate tissue for research, you could withdraw the donation at any time by calling Dr. [NAME] at [000-000-0000]. You would have no penalty for withdrawing the donation, and regular medical care would not change. We could not return donated tissue, but we might be able to destroy the donated tissue. We could not destroy tissue if it is stored or shared without any label saying who donated it. In this case, it could still be used for research.  
+Future genetic research
+Delete this section is not applicable. 
+Several generic databases are available to help researchers understand different diseases. These databases contain DNA code and medical information from participants who have various diseases. 
+As part of this study, we would like to release DNA code and information about your medical condition into a genetic database in order to help future research. The genetic database would not contain names, addresses, or other information that could be used to identify you. 
+The DNA code in a genetic database cannot be used by itself to identify any specific person. A researcher who already has DNA code about you could use information from a genetic database to learn more about you. Once we release information to a genetic database, we no longer have any control over the use of this information. 
+Your rights
+* You do not have to join this study. You are free to say "yes" or "no". 
+* If you get sick or hurt in this study, you do not lose any of your legal rights to seek payment by signing this form.
+* During the study, we might learn new information that you need to know. For example, some information may affect your health or well-being. Other information might make you change your mind about being in this study. If we learn these kinds of information, we would tell you.
+* If you join this study, you would not have to stay in it. You could stop at any time (even before you start). Your regular medical care would not change. You would have no penalty for stopping, but it would be better not to join the study if you think that you would change your mind later.  
+When appropriate, explain the consequences of a participant's decision to withdraw from the research. Appropriate when withdrawal from the research is associated with adverse consequences. 
+When appropriate, explain procedures for orderly termination of participation by the participant. Appropriate when the research includes such procedures.
+* If you decide to drop out, we would want you to tell the study doctor. The doctor could tell you about the effects of stopping [NAME OF STUDY PRODUCT]. You and the doctor could talk about the follow-up care and testing that would help the most. 
+If there are plans to ask withdrawing subjects to continue in the non-interventional follow-up phase of the research, include a statement about which follow-up activities will continue, or indicate a separate consent will be presented. Modify the following statement as appropriate:
+* Before you leave the study, the doctor might ask you to continue in the [DESCRIBE] follow-up part of the study. 
+* OR
+* Before you leave the study, the doctor might ask you to sign a separate consent form to continue in the follow-up part of the study. 
+If this is a clinical intervention trial, the following statement must be included in the consent. All clinical intervention trials reviewed by the FHCRC IRB must be registered with clinicaltrials.gov. For more information, regarding registration with www.clinical trials.gov, contact FHCRC Clinical research Support or visit http://grants.nih.gov/grants/guide/notice-files/not-od-08-014.html
+A description of this clinical trial will be available on http://www.ClinicalTrials.gov, as required by U.S. Law. This Web site will not include information that can identify you. At most, the Web site will include a summary of the results. You can search this Web site at any time. 
+Your responsibilities
+If you join this study, you would have some responsibilities. 
+* Follow the schedule of study visits and procedures.
+* Takes study medications as directed. 
+* Prevent pregnancy.
+* Tell us about side effects.   
+For more information
+If you have questions or concerns about this study, you could talk to your doctor anytime. Other people you could talk to are listed below.
+In the table below, include both FHCRC and UW contact information if this is a UW Consortium study if Fred Hutch remove Human Subject's Division.
+
+If you have questions about:Call:This study (including complaints and requests for information) (Dr. )
+ ()If you get sick or hurt in this study (Dr. )Your rights as a research participant206-667-4867 (Karen Hansen, Director of Institutional Review Office, Fred Hutchinson Cancer Research Center)
+206-543-0098 (Human Subjects Division, University of Washington)Your bills and health insurance coverageInclude emergency number only if it is also listed on the front page. It is required if outpatient treatment is involved or if an investigational new drug or device will be used.
+Emergency number (24 hours): 
+Adjust which additional opt in/out questions apply to this consent and revise as appropriate.
+Read each question and think about your choice. When you decide on each question, please circle YES or NO.
+
+Do you agree to donate your tissue to study cancer?
+(circle one)
+YES 	NO 	
+
+Do you agree to donate your tissue to study other health problems, such as diabetes, Alzheimer's disease, or heart disease?
+ (circle one)
+YES 	NO 	
+
+Is it OK if someone contacts you in the future to ask you to donate more tissue for research?
+(circle one) 
+YES 	NO 	
+
+
+Is it OK if we send your genetic information to one or more databases for future research?
+(circle one)
+YES 	NO 	
+
+Signatures
+Adjust the "(age 14+)" for the appropriate range (e.g., age 14 to 17) to reflect inclusion criteria for teens in this study who would provide documented assent by signing the main consent form in addition to their parent(s) who provide parental permission for the teen. Do not reflect an age lower than 14+ in the main consent. If only adults will be enrolled, remove the "Age" from the signature line.
+If you have read this form (or had it read to you), asked any questions, and agree to participate, please sign:
+Participant (age 14+) / Printed Name, Signature, and Date
+
+If this consent form might be used to obtain parental permission, one parental signature line should be included.
+Parent or legal guardian / Printed Name, Signature, and Date
+
+If required under the regulations, IRB directive, or otherwise, please include a second parental signature line. This should be signed by the second parent / legal guardian unless:
+- Other parent is deceased.
+- Other parent is unknown.
+- Other parent is incompetent to provide permission.
+- Other parent is not reasonably available.
+- Or, only one parent has legal responsibility for the care and custody of the child.
+
+These situations should be noted on the second signature line as appropriate.
+Other parent or legal guardian / Printed Name, Signature, and Date
+
+
+If consent might be obtained from a legally authorized representative, include the following statement and signature line.
+
+Note: Use of legally authorized representative to consent on behalf of participants who lack the capacity to provide legally effective informed consent must be prospectively approved by the IRB.
+Legally Authorized Representative: If you have read this form (or had it read to you), asked any questions, and consent on behalf of the participant, please sign:
+Legally authorized representative / Printed Name, Signature, and Date
+
+
+Relation to the participant
+
+
+
+Include a Witness signature line on your consent only if witness signature is required by regulations (e.g., physical incapacity to read or write English or difficulty with English language comprehension), IRB directive, or agreement with study sponsor.
+If you served as an interpreter or witness during the consent process, sign below to indicate you attest to the accuracy of the presentation to the participant and the apparent understanding of the research by the participant.
+
+Witness or Interpreter / Printed Name, Signature, and Date
+
+Researcher's statement
+
+The Researcher's statement and signature is mandatory in the case of studies needing to comply with ICH guidelines (typically required by Industry sponsors). Unless you need to comply with ICH, this statement and signature is not required. A pre-signed consent form is not acceptable.
+
+If you have a research statement and signature line on your IRB approved consent form, you are required to have the person conducting the consent discussion sign the researcher statement.
+I have discussed the research study, including procedures and risks, with the person signing above. A copy of the signed consent form will be given to the participant.
+
+Person obtaining consent signature / Printed Name, Signature, and Date
+Protocol: 
+Current version date: 
+Previous version date: 
+Copies to: 
+
+
+057IRBform_ModelConsentClin.doc / Version 10.01 / 03-27-15 / Page 1 of 1 
+

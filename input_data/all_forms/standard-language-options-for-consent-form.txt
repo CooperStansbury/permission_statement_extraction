@@ -1,0 +1,646 @@
+﻿List of Additional Standard Language Statements for the Consent Form
+	[These statements are not currently embedded in the Consent Template]
+
+
+
+[Child/LAR/Proxy Statement]
+
+1. If You Are Making a Decision For Someone Else
+
+Some people in this study may have a medical condition or a disability that does not allow them to make important decisions for themselves .  If you have been asked to decide for someone else whether they should be in this study, please read this consent form carefully.  
+
+In this  form, we use the words "you" and "your."  If you are reading this form and deciding for someone else, the words 'you' and 'your' refer to that other person, not to you.
+
+
+
+[Randomization]
+
+2. How We Decide Which Study Group You Will Be In
+
+This study will have  <insert number> different groups of research subjects like you.  To decide which group you will be in, we will use a method of chance.  This method is like flipping a coin or rolling dice.  Each group will get slightly different care.  
+
+
+[Placebo]
+
+3. What A Placebo Is
+
+A placebo is a pill or a liquid that looks like medicine but is not real.   It will have no medical effect on you.
+
+
+
+[Double-Blind Statement]
+
+4. You Will Not Know Which Group You Are In
+
+You will not know which treatment group you are in.  Neither will your study doctor.  This information needs to be kept secret so that the study is based on scientific results, not on peoples' opinions.  However, we can give this information out if you have an emergency.
+
+If you are in an emergency, make sure you tell the emergency staff about this study.  They can contact us, and we will give them all relevant information.
+
+
+
+[Placebo Run-In]
+
+5. You Will Get A Placebo Sometime During This Study
+
+A placebo is a pill or a liquid that looks like medicine but is not real.   It will have no medical effect on you.
+
+Sometime during this study, we will give you  a placebo for <enter time length>.  This will allow us to see what your illness is like when you are not taking real medicine.  The study doctor will know when you are taking a placebo..  <insert "He" or "She"> will watch you closely during this time to make sure you are all right.
+
+
+
+
+[Single Blind Statement]
+
+6. You Will Not Know Which Group You Are In-But Your Study Doctor Will
+
+You will not know which treatment group you are in.  Your study doctor will know.  This information needs to be kept secret so that the study is based on scientific results, not on peoples' opinions.  However, we can give this information out if you have an emergency.
+
+If you are in an emergency, make sure you tell the emergency staff about this study.  They can contact us, and we will give them all relevant information.
+
+
+7. Banking of Samples/Data in a Central/National Repository 
+
+When this study is over, we intend to put any remaining samples [if applicable: including genetic samples] into the [name of the repository] repository for future studies [if applicable: related to specify the future use]. They will be stored in the repository indefinitely without your name or any other identifying information on them.  As such, once your samples are sent to the repository, you will not be able to have them removed.  Researchers for future studies must first get permission from the [name of the repository] repository to use samples from the repository. 
+
+The following checkbox gives you the choice of allowing us to put any remaining samples in the [name of the repository] repository. Even if you decide not to have your remaining samples stored, you can still participate in this study. 
+
+I give permission to have my ______ stored: (check one below and initial)
+
+□ Yes, store all samples including the genetic samples          ______ Initials ______ Initials
+
+□ Yes, store all sample but not the genetic samples               ______ Initials ______ Initials
+
+□ No, I do not give permission to have any samples stored    ______ Initials ______ Initials
+
+
+
+[Venipuncture Risk]
+
+8. Risks of Having Blood Taken
+
+In this study we will need to get about _____ [teaspoons/tablespoons] of blood from you. We will get blood by putting a needle into one of your veins and letting the blood flow into a glass tube.  You may feel some pain when the needle goes into your vein.  A day or two later, you may have a small bruise where the needle went under the skin. 
+
+
+
+
+9. Risks of Having Blood Taken By Finger Stick
+
+In this study we will need to get a few drops of blood from your finger.  To do this, we will make a small prick on your finger and draw the blood into a tiny tube.  You will feel a slight pain when the needle pricks your finger.  Your fingertip may be sore for a day or two.  
+
+
+
+10. Risks of Having Blood Taken By Heel Stick
+
+
+In this study we will need to get a few drops of blood from your baby's heel.  To do this, we will make a small prick on your baby's heel and draw the blood into a tiny tube.  Your baby may cry when the needle pricks the skin.  There may be a bruise on your baby's heel the next day, and your baby's heel may be sore for a couple of days.  We will take blood from your baby  ____ times this way during the study.
+
+
+
+  
+11. Risks of Having An IV Inserted In Your Vein
+
+In this study we will insert a needle, connected to a plastic tube, into a vein in [on] your <insert body location>.  We will use the tube to take blood samples or give you fluids.  You will feel some pain when we first insert the tube into your vein.  You may have some redness, swelling, or bruising where the tube goes under your skin.  In some cases, this type of  tube can cause an infection where it goes under the skin.  In  rare cases, it can cause a blood clot in the vein.  You will have this tube inserted for about <insert time>.
+
+
+
+
+[Central Venous Line Risks]
+
+12. Risks of Having a Plastic Tube (Central Venous Line) in a Large Vein
+
+In this study we will need to insert a  plastic tube into one of your large veins.  We will use this tube to take blood samples or give you fluids.  Before we insert the tube, we will give you some numbing medicine to reduce the pain.  We will then use a needle to insert the tube under your collarbone or into your neck.  Even with the numbing medicine, you will feel some pain when we insert the needle.  
+
+There are some risks from having a tube like this inserted into your vein.  In rare cases, this type of  tube can cause bleeding, a collapsed lung, or air bubbles in the blood that can lead to a severe brain injury.  If a tube like this is left in place for more than 5 days, there is some risk of infection.  You could also have an allergic reaction to the numbing medicine, but this rare.
+
+
+[Femoral Artery Catheter Risks]
+
+13. Risks of Having a Plastic Tube (Catheter) In Your Femoral Artery
+
+In  this study we will need to put a plastic tube into the femoral artery in your groin. We will use this tube to take blood samples or give you fluids.  Before we do this, we will give you some numbing medicine to reduce the pain.  Even with the numbing medicine, you will still feel some pain when the needle goes in.  
+
+There are some risks to having a tube like this put into your femoral artery.  There is a very small chance that putting in the tube could cause a tear in your artery, or a blood clot.  There is also a very small chance that putting in the  tube could cause permanent nerve damage.  We will try to prevent these things from happening.  It is rare, but you could also have an allergic reaction to the numbing medicine.
+
+
+
+
+14. Risks Of Having Arterial Blood Gas Taken
+
+In this study we will draw blood from one of your main arteries to see how well your lungs move oxygen into your bloodstream and take carbon dioxide out.  To do this, we will insert a needle into one of your arteries.  We may give you a small amount of numbing medicine to reduce the pain before we put the needle in.  But even with the numbing medicine, you will still feel some pain.  You may also get a small bruise where the needle goes under your skin.  
+
+There is a very small chance that  the needle could damage your artery.  That damage would need to be repaired with surgery.  We will need to perform this test <insert number> times.
+
+
+15. Risks of Having a Skin Biopsy
+
+In this study we will need to take <insert number>  small sample[s] of your skin.  This procedure is called a "biopsy."  Before we take the sample[s], we will give you some medicine to numb the area.  Then we will press a hollow needle into your skin.  When we take the needle out, it will remove a small circle of skin called a "plug."   
+
+There are some risks to taking a sample of skin this way.  There is a small chance that you could get an infection where the needles goes in.  There is also a small chance that you could have an allergic reaction to the numbing medicine.  After your skin heals up, you may have a small scar where we take the sample. 
+
+
+
+16. Risks of Muscle Biopsy
+In this study we take a small sample of muscle tissue from you.  This procedure is called "muscle biopsy."  Before we take the tissue samples, we will numb the skin.  We will then make a small cut in the skin and insert a hollow needle.
+
+You may feel discomfort when we inject the numbing medicine (the anesthetic) but during the actual muscle removal, the discomfort should be minimal. There is a risk of infection, muscle cramp, bleeding, bruising, and nerve damage. The risk of infection, muscle cramp, bleeding, and bruising can be minimized if you follow the instructions for caring for the incision. A very small and minor scar may remain as a result of the incision. You could also have an allergic reaction to the numbing drug.  You will be screened prior to the procedure for history of allergic reactions to the numbing medicine (e.g., lidocaine).
+
+
+
+[Liver Biopsy Risk]
+
+17. Risks of Having A Liver Biopsy
+
+In this study we will take a small sample of tissue from your liver.  This procedure is called a "biopsy."  Before we take the sample, we will numb the skin outside the liver.   We will then make a small cut in the skin and insert a hollow needle.  You may feel pressure when this needle goes into your liver.  When we take the needle out, it will remove a small circle of tissue from your liver, called a "plug."  
+
+After we take the sample of liver tissue, we may ask you to lie still for 1 to 2 hours to make sure there is no bleeding.  In order to prevent bleeding, you should not take aspirin for 1 week before or 1 week after this procedure.  You should not do any heavy lifting or major exercise for about 2 weeks after this procedure.  
+
+There is a small risk of bleeding after having this procedure, which may require an operation to stop.  In rare cases, taking liver tissue this way may injure an organ next to the liver.  You could also have an allergic reaction to the numbing medicine, but this is rare.  In very rare cases, there have been deaths.
+
+
+
+18. Risks of Having a Bone Marrow Sample Taken
+
+In this study we will take a sample of bone marrow from your <insert location> bone.  Before we take the sample, we will give you some numbing medicine on the skin outside your <insert location> bone.  After your skin is numb, we will push a special needle into the center of your <insert location>  bone.  Then we will draw the bone marrow up into the syringe.  When we do this, you will have a "pulling" feeling as the marrow leaves the bone and goes into the syringe.  The area around the bone will be sore for a few days.  
+
+There is a very small chance that you will be allergic to the numbing medicine.  There is also a very small chance that you could bleed or develop an infection.
+
+
+
+19. Risks of Having an MRI
+
+In this study we will take Magnetic Resonance Images (MRI's) of your <insert body area>.  The MRI machine uses powerful magnetic waves to take pictures inside the body.  The waves themselves are not harmful, but they can cause metal to heat up and electronics to stop working.  
+
+You should NOT have an MRI if you have metal or electronic devices inside your body.   Heart pacemakers and insulin pumps are examples of electronic devices.
+
+The MRI machine is a small round tube.  It might make you uncomfortable if you do not like tight spaces.  
+
+The most common side effect of having an MRI is flashing lights in the eyes.  This is caused by the magnetic waves and is not harmful.  Some people also experience warmth and reddening of the skin.  This usually goes away after a few minutes. 
+
+If you are pregnant, be sure to tell the person giving you the MRI.
+
+______________________________________________________________________
+Radiation Risk Statements
+If your study involves a radiological procedure, such as X-ray, CT scan, angiogram, or radiation treatment for cancer, select the appropriate risk statement from those that follow.  Most of these statements already contain an estimate of how much radiation the subject will get.  
+
+If you are performing a radiological procedure that is not listed, you may adapt one of the statements below and include an estimate of the radiation dose the subject will receive, expressed in terms of days, months, or years of background radiation. 
+
+
+* 1 millirem = .01 millisieverts = 1 day's worth of natural background radiation
+
+
+The best way to estimate the dose a procedure will give a subject is to contact a radiologist or a nuclear medicine specialist at the facility that will perform the procedure.  The radiologist or nuclear medicine specialist will be familiar with the specifications of the machine or with the isotope that will be used and can provide a more accurate estimate than someone outside the facility. 
+
+If you cannot obtain an estimate from the facility that will perform the procedure, you may contact the UCH Radiation Safety Officer, Radiology department for assistance, though you may be charged for assistance.
+
+
+Note 1:  The FDA states in 21 CFR 361 that any subject of a research study must receive only the smallest dose of radioactive material practical without jeopardizing the results of the study.  
+
+Note 2:  The FDA states also that the radiation dose to a subject who is NOT being treated therapeutically (e.g. for cancer) shall not exceed 3 rem (3,000 millirem; 30 mSv) of radiation in a single procedure or 5 rem (5,000 millirem; 50 mSv) in a single year, to the whole body, active blood-forming organs, lens of the eye, or gonads.
+
+
+
+X-ray Risk Statement
+
+20. X-ray Risk
+
+As part of this study we will perform <insert number> X-ray scan[s] of your <insert site>.  X-rays are a type of radiation.  
+
+Your natural environment has some radiation in it.  This series of X-rays will give you about the same amount of radiation that you would get from your environment in  <multiply the number of scans by 2 > days.  
+
+
+DEXA Risk Statement
+
+21. DEXA Risk
+
+As part of this study we will perform <insert number> DEXA scan[s] of your <insert body area>.  DEXA  is a way of looking inside the body by using X-rays.  X-rays are a type of radiation.
+
+Your natural environment has some radiation in it.  This DEXA will give you about the same amount of radiation that you would get from your environment in  <multiply the number of scans by 2 > days.  
+		
+
+Computed Tomography (CT) Risk Statement
+
+	Note to Investigators:  CT's and Children
+
+CT scans are sometimes erroneously compared to standard X-rays in terms of radiation exposure.  In reality, the two procedures give vastly different levels of exposure.  While an X-ray scan will typically result in (an exposure) a whole-body radiation dose of about 2 millirem, or 2 day's worth of  background radiation from the environment, a CT can deliver up to several hundred-even a few thousand-times that amount of radiation.
+
+Due to the potential of CT for delivering large doses of radiation to children, the FDA has issued a Public Health Notification entitled  "Reducing Radiation Risk from Computed Tomography for Pediatric and Small Adult Patients."  Below are some excerpts from this notification:
+
+
+"The individual risk from the radiation associated with a CT scan is quite small compared to the benefits that accurate diagnosis and treatment can provide.  Still, unnecessary radiation exposure during medical procedures should be avoided.  This is particularly important when the patient is a child, since children exposed to radiation are at a relatively greater risk than adults.  The American College of Radiology has noted, 'Because they have more rapidly dividing cells than adults and have longer life expectancy, the odds that children will develop cancers from x-ray radiation may be significantly higher than adults.' It has been estimated by the National Research Council's Committee on the Biological Effects of Ionizing Radiation that children less than 10 years of age are several times more sensitive to radiation than middle-aged adults. Unnecessary radiation may be delivered when CT scanner parameters are not appropriately adjusted for patient size. When a CT scan is performed on a child or small adult with the same technique factors that are used for a typically-sized adult, the small patient receives a significantly larger effective dose than the full-sized patient." 
+ 
+
+The FDA goes on to make several recommendations to reduce dose to small patients.  Most of these relate to CT machine settings.  However, the last one pertains to anyone who might order a CT for a patient:
+
+
+"Eliminate inappropriate referrals for CT.  In some cases,  conventional radiography, sonography, or magnetic resonance imaging (MRI) can be just as effective as CT, and with lower radiation exposure.  Most conventional x-ray units deliver less ionizing radiation than CT systems, and sonography and MRI systems deliver no x-ray radiation at all.  It is important to triage these examinations to eliminate inappropriate referrals or to utilize procedures with less or no ionizing radiation."
+
+
+So especially when the subject is a child, Investigators should consider whether the data they are trying to obtain requires the use of CT or whether some other modality can provide that data.
+
+
+
+Computed Tomography (CT) Risk Statement
+
+	
+22. Computed Tomography (CT) Risk
+
+As part of this study we will perform a CT scan of your <insert appropriate body region:  head....chest...abdomen...pelvic area...chest and abdomen....abdomen and pelvic area...chest, abdomen, and pelvic area...>.   CT is a way of taking detailed pictures inside your body by using X-rays.  X-rays are a type of radiation.
+
+You get some radiation from your environment.  You get radiation from bricks and concrete, from some foods, and from radon gas, which is an invisible gas that seeps out of the ground.  The amount of radiation that this CT scan will deliver to your body (give you) is about the same as you would get from living in your environment for <select the appropriate number value, and underline and bold the value:  CT of head= [1 year]...chest= [1 year]...abdomen= [3 years]...pelvic area= [1 year]...chest and abdomen= [4 years]...abdomen and pelvic area= [4 years]...chest, abdomen and pelvic area= [5 years]...>.
+
+[ Note to Investigators:  If you are performing multiple scans, such as a pre-contrast scan, a contrast scan, and a post-contrast scan, be sure to multiply the number you select above for the background radiation by the number of scans you are giving.  e.g. 3 scans of the abdomen multiplied times 3 year's background radiation = 9 year's background radiation.  Delete this paragraph from your consent form when finished. ]
+
+This is an estimate.  The amount of radiation you get could be higher or lower, depending on the machine, the power setting, and your body weight. Exposure to radiation at high levels increases a risk of developing cancer. There is no evidence of such risks for diagnostic procedures. 
+
+The risk of this procedure is not equal for everyone.  The risk is much higher for unborn babies if the mother has this procedure.  The risk is also much higher for young children and teenagers.  The risk is much lower for people over the age of 30. 
+
+
+
+Angiography Risk Statement
+
+23. Angiography Risk
+
+As part of this study we will perform an angiography of your <insert vein name> vein.   An angiography is a way of looking at your veins by using X-rays.  X-rays are a type of radiation.
+ 
+You get some radiation from your environment. It comes from the outer space, from soil, rocks,    bricks and concrete, from some foods, and from radon gas, which is an invisible gas that seeps out of the ground.  The amount of radiation that you will receive during angiography scan will give you is about the same as you would get from living in your environment for 2 years.  
+
+ [ Note to Investigators:  This is a very rough estimate of exposure.  Due to the high variability of procedures calling for angiography, the actual exposure to the patient can vary greatly.  If you can obtain a better estimate of exposure from the radiologist who will be assisting with the procedure, you may use that estimate instead of the one provided here.  The estimate provided here is 600 mrem, or 6mSv = 2 year's background radiation. ]
+
+This is an estimate.  The amount of radiation you receive could be higher or lower, depending on your body size and how long the procedure takes.
+ 
+This procedure has some risk.  The FDA estimates that if 1,200 people receive this amount of radiation, 1 of those people will later develop cancer. Note, that a risk of developing cancer in a lifetime for an average person in the United States is 1 in 3.  
+
+[ Note to Investigators:  If you provide your own estimate of radiation exposure above, be sure to adjust the risk factor here.  The FDA states that the risk of fatal cancer after receiving 1 rem, or 10 mSv, is 1 in 2000.  You can adjust this rate proportionately to your dose using this equation:  (10 mSv [or 1000 mrem]   your dose estimation) X 2000.   e.g.:  (10 mSv  15 mSv) X 2000 = 1333.  Rounded to nearest 100, it becomes 1300) ]
+
+The risk of this procedure is not equal for everyone.  The risk is much higher for unborn babies if the mother has this procedure.  The risk is also significantly higher for young children and teenagers who have this procedure.  The risk is much lower for people over the age of 30.
+
+
+
+
+
+
+Radioactive Tracer Risk Statement (e.g. MUGA)
+
+24. Radioactive Tracer Risk
+
+As part of this study we will perform a <optional; insert scan type> scan of your <insert organ/body part> by using radioactive tracer.  We will first inject the tracer.  Then we will look at the area through a scanner.  You will get some radiation from the tracer.
+ 
+Your natural environment has some radiation in it. It comes from the outer space, from soil, rocks, bricks and concrete, from some foods, and from radon gas, which is an invisible gas that seeps out of the ground.  The amount of radiation that this procedure will give you is about the same as you would get from your environment in  <Note:  contact the radiology department where the scan will be performed and obtain an estimate of whole-body dose equivalent in mSv; then divide that number by 3 mSv>  years.  
+
+This is an estimate.  The amount of radiation you receive could be higher or lower, depending on how much tracer is injected into your body, and on your body size. There is a small chance that you can develop cancer. 
+  
+The risk of this procedure is not equal for everyone.  The risk is much higher for unborn babies if the mother has this procedure.  The risk is also significantly higher for young children and teenagers who have this procedure.  The risk is much lower for people over the age of 30.
+
+
+
+Bone Scan Risk Statement
+
+25. Bone Scan Risk
+
+As part of this study we will perform a bone scan of your <insert bone name>.   A bone scan is a way of seeing if there are any problems with the way your bones are growing.  
+
+To do the bone scan we will need to inject a radioactive tracer into your blood stream.  You will get some radiation from this tracer.
+ 
+You natural environment has some radiation in it. It comes from the outer space, from soil, rocks, bricks and concrete, from some foods, and from radon gas, which is an invisible gas that seeps out of the ground.  The amount of radiation that this procedure will give you is about the same as you would get from your environment in 1 year.  
+
+This is an estimate.  The amount of radiation you receive could be higher or lower, depending on how much tracer is injected into your body, and on your body size. There is a small chance that you can develop cancer. 
+
+The risk of this procedure is not equal for everyone.  The risk is much higher for unborn babies if the mother has this procedure.  The risk is also significantly higher for young children and teenagers who have this procedure.  The risk is much lower for people over the age of 30.  
+
+
+Radiation Therapy Risks
+
+26. Radiation Therapy Risk
+
+As part of this study we will give you radiation therapy to your <insert body area>.  Radiation therapy is a way of destroying cancer tissue while preserving as much of the surrounding healthy tissue as possible.
+
+You get some radiation from your environment.  This procedure will give you radiation in much larger amounts than you would normally get from your environment.  However, the radiation will be concentrated in areas where you have cancer.  
+
+By getting this therapy, you have some risk of developing a second type of cancer.  The actual risk to you depends on many things, such as the amount of radiation you receive and how susceptible your cells are to radiation.  These things are difficult to determine, but the risk of developing a second type of cancer is generally low, 5-7 per 1000.
+
+The actual amount of radiation you get from this procedure will depend on how large the cancer is and how many treatments you receive.  Your doctor can tell you more about this.
+  
+The risk of this procedure is not equal for everyone.  The risk is much higher for unborn babies if the mother has this procedure.  The risk is also significantly higher for young children and teenagers who have this procedure.  The risk is much lower for people over the age of 30.
+
+
+
+
+
+
+[benefit statement-some medical benefit for subject]
+
+27. What are the possible benefits of the study?
+
+This study is designed for the researcher to learn more about ________.  
+However, there is no guarantee that your health will improve if you join this study.  Also, there could be risks to being in this study.  If there are risks, these are described in the section describing the discomforts or risks.
+
+
+
+
+[benefit statement-no medical benefit for subject]
+
+28. This Study Is Not Intended to Have Any Benefit to You
+
+This study was not designed to treat any illness or to improve your health.  Also, there could be risks to being in this study.  If there are risks, these are described in the section called Risks Or Discomforts You May Experience In This Study. 
+
+
+
+[alternative treatments for studies with medical benefit to subject-use only if applicable]
+
+
+29. Are there alternative treatments?
+
+There may be other ways of treating your  <list disease or medical problem here>.  These other ways include <list alternative treatments, or delete sentence if none>.   [You could also choose to get no treatment at all - if relevant.]  
+
+You should talk to your doctor about your choices.  Make sure you understand all of your choices before you decide to take part in this study.  You may leave this study and still have these other choices available to you. 
+
+
+
+[alternative treatments for oncology studies]
+
+30. There May Be Other Treatments For Your Cancer
+
+There may be other ways of treating your  <list disease or medical problem here> . These other ways include <list accepted alternative treatments, you may include other investigational treatments, but NOT specific studies>.  
+
+You have the following choices available to you:
+
+ Get any of the cancer treatments listed above, together with a treatment for your  pain and symptoms.
+ Get treatment only for your pain and symptoms, but no treatment for the cancer itself.
+ Get no treatment at all.  
+
+You should talk to your doctor about your choices.  Make sure you understand all of your choices before you decide to take part in this study.  You may leave this study and still have these other choices available to you.
+
+
+
+
+
+[Costs to Subject-Sponsor Pays Nothing]
+
+
+31. Will I have to pay for anything?
+
+You or your insurance company will have to pay the cost of all medical care that you get in this study as this is all treatment you would receive if you did not participate in the study.  The results of some or all of the tests that you receive will be used by the sponsor for research purposes.
+
+
+
+[Cost to Subject--Sponsor Pays for Experimental Procedures Only]
+
+
+32. The Sponsor of This Research Will Pay for Experimental Costs Only
+
+There are some medical treatments that you would have to get for your condition whether you were in this study or not.  You will have to pay for these.  There are other medical treatments that you will get because you are in this research study.  <Insert sponsor or other agency> will pay for those.   Those medical treatment are <insert a list of the treatments that the sponsor is paying for>.
+
+
+
+[Sponsor Pays for Study Drug But Not for Care]
+
+
+33. The Sponsor of This Research Will Pay for The Study Drug Only
+
+<Insert sponsor or other agency> will give you the study drug for free.  You or your insurance company will have to pay the costs of  all other medical care for your condition [illness].  These are the same costs that you would have to pay if you were not in this study.
+
+
+
+
+[Sponsor Pays All Costs of Study]
+
+
+34. The Sponsor of This Research Will Pay All Costs of This Study
+
+<Insert sponsor or other agency> will pay for all treatments and medicines you will get in this study.  You will not have to pay for any medical care that is part of this study. 
+
+
+[Statement for High-Cost Treatments ( >$1,000.00 to subject)]
+
+
+35. The Treatments in This Study Are Very Expensive
+
+The treatments and medicines in this study are very expensive.  You or your insurance company will have to pay for [all/many/most/some] of these procedures and medicines if you enter this study.  The cost could be as high as  <give dollar estimate> .  Ask your study doctor if you have questions. A financial counselor is also available to help you understand what your insurance company will or will not cover.
+
+
+
+[Drugs are Commercially Available-include with any statement above IF applicable]
+
+
+36. You Can Get the Study Drug from Other Places 
+
+If you were not in this study, you could buy the study drug at a pharmacy or in a drug store.  However, you might have to get a prescription from a doctor first.
+The study drug is approved by the FDA but not for the way in which it is used in this study.  This is called an off label use.  You or your insurance company will have to pay for the study drug.  
+
+
+[Device is Commercially Available-include with any statement above IF applicable]
+
+
+37. You Can Get the Study Device from Other Places
+
+<insert manufacturer name> is the company that makes <insert name of device>.  You can order  <insert name of device>  directly from <insert manufacturer name>, or from a distributor.  
+The study drug is approved by the FDA but not for the way in which it is used in this study.  This is called an off label use.  You or your insurance company will have to pay for the study drug.  
+
+
+[Subject Payment]
+
+
+38. Will I be paid for being in this study?
+
+You will be paid $XX.XX for each visit in this study (if the amount will vary from visit to visit, state the different amounts and visit types) .  This will add up to a total of $XXX.XX if you complete all of the visits <if  some subjects may get a particular procedure while others may not, break this into different amounts and explain>.  If you leave the study early, or if we have to take you out of the study, you will be paid only for the visits you have completed.
+
+It is important to know that payments for participation in a study is taxable income. 
+
+
+
+(example of actual text).
+
+"You will be paid $50.00 for each visit in this study.  This will add up to a  total of $500.00 if you complete all of the visits.  If you leave the study early, or if we have to take you out of the study, you will be paid only for the visits you have completed." 
+
+It is important to know that payments for participation in a study is taxable income. 
+
+
+ [Voluntary Participation-for studies where there is medical treatment for subject]
+
+39. Is my participation voluntary?
+
+Taking part in this study is voluntary.  You have the right to choose not to take part in this study.  If you choose to take part, you have the right to stop at any time.  If you refuse or decide to withdraw later, you will not lose any benefits or rights to which you are entitled.  
+
+If you leave this study, you will still receive your normal medical care.  The only medical care that you will lose is the medical care you are getting as part of this study.  You might be able to get that same kind of medical care outside of the study.  Ask your study doctor. 
+
+
+
+[Voluntary Participation-for studies where there is NO medical treatment for subject]
+
+40. Is my participation voluntary?
+
+You do not have to be in this study if you do not want to be.  Even if you decide to be in this study, you can change your mind and stop at any time.  If we learn new information that might make you want to leave this study, we will tell you about it. 
+
+If you leave this study, you will not lose any of the benefits that you would normally get outside of this study.  Leaving this study will not affect your employment status or your reputation.  Leaving this study will not change your ability to get government assistance.  If you leave this study, the only benefits that you will lose are the ones you are getting as part of this study.
+ 
+
+
+[ Study Withdrawal-for studies where there is medical treatment for subject]
+
+41. Can I be removed from this study?
+
+You may be taken out of the study if the study doctor thinks it is not safe for you to be in the study.  You can be taken out of the study even if you do not want to leave the study.  Also, <insert sponsor name> can decide to stop the study at any time.
+
+If you are taken out of the study, you will still receive your normal medical care.  The only medical care that you will lose is the medical care you are getting as part of this study.  You might be able to get that same kind of medical care outside of the study.  Ask your study doctor. 
+
+
+
+ [ Study Withdrawal-for studies with NO medical treatment for subject]
+
+42. Can I be removed from this study?
+
+You may be taken out of this study if the study doctor thinks it is not safe for you to be in the study.  You can be taken out of the study even if you do not want to leave the study.  Also, <insert sponsor name> can decide to stop the study at any time.
+
+If you are taken out of this study, you will not lose any of the benefits that you would normally get outside of the study.  Being taken out of the study will not affect your employment status or your reputation.  Being taken out of the study will not change your ability to get government assistance.  If you are taken out of the study, the only benefits you will lose are the ones you are getting as part of this study.
+
+
+
+
+43. A Subject Advocate is Also Available to Answer Questions
+
+The main person to talk to if you have questions about this study is <insert contact name>.  [Her/his] phone number is <insert phone number>.  You can also talk to a Subject Advocate at the the Clinical Translation Research Center (CTRC).  The phone number there is<insert phone number>. [<insert phone number>for pediatric studies].
+
+
+
+
+
+[New Statement-Photography, Video Tape, Audio Tape]
+
+[Amplifying Text]
+
+Include the following statement if you will be recording data about your subjects using any type of recordable medium.  To simplify things, COMIRB recommends that you state the storage duration as "50 years" any time the duration will be greater than the duration of the study itself.  This will avoid the need to later submit an amendment to increase the storage duration.
+
+
+44. What Will Happen to my Recorded Information?
+
+In this study we will be recording <list whatever applies>.  We will use  <state medium of recording-e.g. notebook, computer files, cassette tapes, CD's, video tapes, etc >.  We will keep this information secure and private.  We will store it for <state duration of storage>.  At the end of that time, we will destroy it. 
+ 
+
+
+[Reporting of Child Abuse, Neglect, or Threatened Violence]
+
+
+45. Things That Must  be Reported to The Authorities
+
+We respect your right to privacy.  But there are some things we cannot keep private.  If you give us information about child neglect or child abuse, we have to report that to Social Services.  If you give us information about someone hurting someone else, we have to report that to the police.  If a court orders us to hand over your study records, we have to hand  them over to the court. 
+	
+ 
+
+
+46. If You Test Positive for HIV or Hepatitis
+
+If you test positive for HIV (Human Immunodeficiency Virus) and/or Hepatitis in this study, we must report your name to the Colorado Department of Public Health and Environment.  Finding out that you have HIV or Hepatitis may make it hard for you to get insurance.
+
+
+47. If You will obtain a Certificate of Confidentiality
+A Certificate of Confidentiality has been obtained from the Federal Government for this study to help insure your privacy.  This Certificate means that the researchers cannot be forced to disclose information that may identify you, even by a court subpoena, in any federal, state, or local civil, criminal, administrative, legislative or other proceedings.    But, if you request disclosure, we can release the information.
+The Certificate cannot be used to resist a demand for information from personnel of the United States Government that is used for auditing or evaluation of federally funded projects or for information that must be disclosed in order to meet the requirements of the federal Food and Drug Administration (FDA)
+[The researchers should include language such as the following if they intend to make voluntary disclosure about things such as child abuse, intent to hurt self or others, or other voluntary disclosures.]  The Certificate of Confidentiality does not prevent the researchers from disclosing voluntarily, without your consent, information that would identify your as a participant in the research project under the following circumstances. [The researchers should state here the conditions under which voluntary disclosure would be made.  If no voluntary disclosures will be made, the researchers should so state.]
+
+
+48. If You are in a Detention Facility
+
+You have a choice about being in this study.  Being in this study will not change your release date, your parole status, or your living conditions. 
+
+In this study we might ask you some questions about illegal drugs or illegal activities.  If other people found out this information, you could get into more trouble.  To keep that from happening, we will make sure that the paper with your answers on it does not have your name, only a code.  We will also make sure that we keep your answers locked up.  
+
+The federal government requires us to keep your information private.   But if you give us information about child abuse, we will have to report that.  If you give us information about someone hurting someone else, we will have to report that.  If a court orders us to hand over your study records, we will have to hand them over to the court. 
+
+
+
+[Injury and Compensation-With Compensation]
+
+
+49. What happens if I am injured or hurt during the study?
+
+<Insert PI name> should be informed about any injury you experience while you take part in this study.   [His/Her] phone number is <insert phone number>.  
+
+If you are hurt by this research, we will give you medical care.  Medical treatment will be provided at no cost to you or your insurance company for a research-related injury. The sponsor and the investigator will determine if your injury or illness is research-related.  The term "research-related injury" means physical injury caused by drugs or procedures required by the study which are different from the medical treatment you would have received if you had not participated in the trial.
+
+
+ [Injury and Compensation-No Compensation]
+
+50. What happens if I am injured or hurt during the study?
+
+If you have an injury while you are in this study, you should call <insert name> immediately.  [His/her] phone number is <insert phone number>. 
+
+We will arrange to get you medical care if you have an injury that is caused by this research.  However, you or your insurance company will have to pay for that care.
+
+
+
+51.  Mandatory language for studies under IND, IDE or as required by the grant
+
+A description of this clinical trial will be available on http://www.Clinical Trials.gov, as required by U.S. Law. This Web site will not include information that can identify you. At most, the Web site will include a summary of the results. You can search this Web site at any time."
+
+52.  Genetic Information Nondiscrimination Act (GINA)
+A Federal law, called the Genetic Information Nondiscrimination Act (GINA), generally makes it illegal for health insurance companies, group health plans, and most employers to discriminate against you based on your genetic information. This law generally will protect you in the following ways: 
+* Health insurance companies and group health plans may not request your genetic information that we get from this research. 
+* Health insurance companies and group health plans may not use your genetic information when making decisions regarding your eligibility or premiums. 
+* Employers with 15 or more employees may not use your genetic information that we get from this research when making a decision to hire, promote, or fire you or when setting the terms of your employment. 
+All health insurance companies and group health plans must follow this law by May 21, 2010. All employers with 15 or more employees must follow this law as of November 21, 2009. 
+Be aware that this new Federal law does not protect you against genetic discrimination by companies that sell life insurance, disability insurance, or long-term care insurance.
+
+
+53. Storage of blood and /or tissue for this study or for banking for future use
+
+I give my permission for my blood and tissue to be stored in a central tissue bank at ______________ for future use by the study investigators:
+
+1. I give my permission for my blood and tissue samples to be kept by ________ for use in future research to learn more about how to prevent, detect, or treat _________.
+
+_______YES		_________NO		_________Initials
+
+2. I give my permission for my study doctor (or someone he or she chooses) to contact me in the future to ask me to take part in more research.
+
+_______YES		_________NO		_________Initials
+
+3. I give my permission for my blood and tissue samples to be used for research about other health problems (for example: causes of heart disease, osteoporosis, diabetes).
+
+_______YES		_________NO		_________Initials
+
+I agree to take part in the study having to do with research on blood and tissue as indicated above.
+
+Signature____________________________  Initials________  Date___________
+
+
+
+54. Agreement to be in this study
+I have read this paper about the study or it was read to me.  I understand the possible risks and benefits of this study.  I know that being in this study is voluntary.  I choose to be in this study: I will get a copy of this consent form.
+
+
+
+Signature:____________________  Print Name _______________  Date________
+      (subject)		
+
+Consent form explained by: _____________Print Name _________ Date________
+
+
+Investigator ______________________________   Date ______________
+
+
+
+[If Applicable, Signature Line For Studies with
+an LAR or Proxy Decision Maker]
+
+______________________________________________	  Date_________
+Legally Authorized Representative/ 
+Proxy Decision Maker
+
+
+
+[If Applicable, Signature Line For Studies With Children Ages 14-18 who can read this form (children 8-14 should sign a SEPARATE assent form; for children 0-8, the parents are consented.)]
+
+______________________________________________	  Date_________
+Child
+
+[If Applicable, Signature Line For Independent Witness required by COMIRB or the sponsor.]
+
+______________________________________________	  Date_________
+Independent Witness
+
+
+
+
+1
+Standard Language Statements for the Consent Form
+CF-158, Effective 8-6-15
+

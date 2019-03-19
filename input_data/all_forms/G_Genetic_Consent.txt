@@ -1,0 +1,51 @@
+﻿Consent Form Module: Genetic Testing, Version: June 1, 2014
+This module outlines the purpose, risks, benefits, and confidentiality of records for genetic research/testing as part of a larger study.
+
+G1. GENETIC TESTING
+
+Genetic testing is done on blood and other specimens. In this study, we will do genetic testing on your <blood or specimen>. This will be collected <identify method and timeframe>. Genetic testing will be done because <include reason for genetic testing>.
+
+This genetic study is for research only. The purpose is not to discover information that could be used to change your medical care, make or change your diagnosis, or advise you on your risk of diseases. 
+
+Will the item for genetic testing will be identified or de-identified? Choose one statement and delete the other.
+Information that can identify you will be attached to your <blood or specimen>. The study team will make every effort to protect the information and keep it confidential, but it is possible that an unauthorized person might see it. Depending on the kind of information being collected, it might be used in a way that could embarrass you. It is against federal law (GINA) for health insurance companies to deny health insurance, or large employers to deny jobs, based on your genetic information. But the same law does not protect your ability to get disability, life, or long term care insurance. If you have questions, you can talk to the study doctor about whether this could apply to you.
+
+Information that can identify you will not be attached to your <blood or specimen>
+
+Will the results be given to the subject? Choose one statement and delete the other. If the study allows the subject to receive the genetic test results, allow the subject the choice not to receive them.
+You will not be given your genetic test results.
+
+You will be given your genetic test results. Dr. <PI> can arrange for you to meet with a genetic counselor. You can request that Dr. <PI> give it to relatives, your personal doctor, insurance companies, etc. 
+Initial if you do NOT want to receive your genetic test results:
+___ I do not want to receive my genetic test results.
+
+My decision about the genetic study
+If the subject can still participate in the study whether or not they allow genetic testing, use this set of questions 1, 2, and 3: 
+
+Initial either 1 or 2:
+1.____I do NOT want genetic testing done on my <blood or specimen> in this study.  This means that I can still participate in the study.  
+
+2.____I agree to have genetic testing done on my <blood or specimen> in this study.
+
+3.____I give Dr. <PI name> permission to give my genetic test results to: _______
+__________________________ (subject to fill in blank).
+
+If the subject can NOT participate in the study if refusing genetic testing, use this set of questions 1, 2, and 3: 
+
+1.____I do NOT want genetic testing done on my <blood or specimen> in this study. This means that I cannot participate in the study.  
+	Stop here and speak to Dr. ____.  Do not sign this form.
+
+2.____I agree to have genetic testing done on my <blood or specimen> in this study.
+
+3.____I give Dr. <PI name> permission to give my genetic test results to: _______
+__________________________ (subject to fill in blank).
+
+
+
+
+
+
+
+
+
+

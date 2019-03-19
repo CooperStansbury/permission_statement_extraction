@@ -1,0 +1,84 @@
+﻿Online Consent Template, Version Date 4.13.13 (replaces Online Consent Template dated 9-13-2012)
+
+INSTRUCTIONS (should be deleted)
+Instructions in the gray text boxes should be deleted.
+
+Use language understandable to the subject. Readability should be at a 7th grade reading level. 
+
+Do not type in the footer.  At approval, the IRB will merge the IRB number and Expiration Date into the footer.
+
+Note:  the footer does not have to be included when you upload the consent as part of your online survey.  The footer is for record keeping purposes only so be sure to retain a copy with the current expiration date.  If your project is Exempt, you will not have an expiration date.  
+
+
+Online Consent Form
+
+You do not need the traditional section headings for an online consent; however you do need to include the necessary information.  
+
+I am  (Insert name),   a  (Insert title such as student, faculty member, nurse, etc.),   in the Department of  (Insert Department's name)   at Northwestern University.  if study is International, add: in the United States.
+
+I am conducting a research study to…  (Describe the purpose of the study) . 
+
+If you agree to participate, you will be asked to …  (describe what is being asked of the participant, identify any procedures which are experimental, and provide the expected duration of the subject’s participation) . 
+
+Your participation in this study does not involve any risk to you beyond that of everyday life.
+  Or   
+The risks from participating in this study may include …  (Provide a description of any reasonably foreseeable risks or discomforts to the subjects, including any physical or emotional risks, as well as potential breaches of confidentiality)   
+
+You are not likely to have any direct benefit from being in this research study.	
+  Or   
+
+The possible benefits to you from this study include…
+ add:  
+Taking part in this study may help researchers to better understand...
+	
+State any benefits that can be reasonably expected in a way that is not potentially coercive. If this study focuses on persons with a condition (e.g., a learning disability) avoid stating that the subject may benefit from closer monitoring of their condition.
+Do not include information on payment or reimbursement for participation here. Put this information in the financial information below.
+
+If participation in the research project provides course credit, describe this in a separate section on Course Credit and Alternatives.  
+
+Participation in this study will involve no cost to you. You will not be paid for participating in this study.
+  Or   
+
+• provide specific information about payment and reimbursement (e.g., dollars per visit, payment for testing, evaluation, transportation).
+• specify when payment will be made and in what form.
+• for lottery drawings, include the following: when the drawing(s) will occur,  how payment will be made, the value of the prize(s), the number of prizes, and the chances of winning.
+• Acceptable terms include “payment,” “remuneration,” “reimbursement,” “gift,” “prize,” “token of appreciation,” etc. 
+
+It the survey is anonymous and there are no identifiers being collected, state that in one sentence. If no identifiers are being collected but there is a request for email or other contact in order to send remuneration, then state how the email or name will be separated from the rest of the data.  
+
+  Then include:   For online surveys hosted by a third party:    This survey is being hosted by  (name the entity hosting the Web page/database used for data collection)   and  (involves/does not involve)   a secure connection. Terms of Service, addressing confidentiality, may be viewed at  provide URL .
+
+ Or  
+
+Study records that can identify you will be kept confidential by … (describe the mechanisms for maintaining confidentiality of data, i.e.,  removing identifiers, storing data with a study code, allowing only research staff to review data, keeping data in a password protected computer, etc.)  The results of the research study may be published, but your name will not be used. 
+Your participation in this research study is completely voluntary.  You can skip questions in the survey and you can withdraw at any time by just exiting the survey.
+
+If you have any questions about this study you may contact: (Insert PIs name) is the person in charge of this research study and can be reached at  (insert phone number) .   You can also contact   (insert name and phone number of any other qualified member of the research team) . Questions about your rights as a research subject may be directed to the Institutional Review Board (IRB) Office of Northwestern University at (312) 503-9338.  if study is International, include the International Calling Codes in with all phone #’s
+
+If you want a copy of this consent for your records, you can print it from the screen. If you would you like documentation linking you to this research study, please email your request to the Principal Investigator at (insert email address).
+If you wish to participate, please select the Accept button below to begin the survey.  
+
+If you do not wish to participate in this study, please select the Decline button, and your session will end. 
+
+Sincerely,
+PI Name, Address, Phone #, Email
+Student/Study Coordinator, Address, Phone#, Email (if applicable)
+
+
+
+
+
+
+
+Version Date: 
+
+
+		 
+«IRBNo»
+
+Page 1 of 1
+			          NU IRB Approved through «ExpireDate»
+			
+
+
+

@@ -1,0 +1,685 @@
+th
+Personalized Genomic Medicine Laboratory  630 West 168  Street 
+Department of Pathology and Cell Biology  P&S17-401 
+www.pathology.columbia.edu  New York, NY 10032 
+  Tel: 212-305-9706 
+OFFICE USE 
+ O :   Fax: 212-342-0420  NLY
+CCGP sequencing reviewed:  Lab Acc. #:__________ 
+ 
+Informed consent for Columbia Combined Genetic Panel (CCGP) for Adults 
+Please read the following form carefully and discuss with your ordering physician/genetic counselor before signing consent.  
+th
+Personalized Genomic Medicine Laboratory  630 West 168  Street 
+Department of Pathology and Cell Biology  P&S17-401 
+www.pathology.columbia.edu  New York, NY 10032 
+  Tel: 212-305-9706 
+OFFICE USE 
+ O :   Fax: 212-342-0420  NLY
+CCGP sequencing reviewed:  Lab Acc. #:__________ 
+1. The nature of the test and how it will be performed.  
+What is the Columbia Combined Genetic Panel (CCGP)? 
+ The Columbia Combined Panel is a genetic test that evaluates changes in your DNA that might be the cause 
+of your clinical condition.  A gene is an individual unit of DNA. Exons are the most important regions of the gene that 
+provide the instructions for the body to make proteins and chemicals that allow it to function properly.  Changes in 
+genes, called mutations, can lead to disease. The Columbia Combined Panel tests for exons of many genes at the 
+same time. The genes are chosen based on their known role in disease that cause symptoms like yours. Because 
+this test examines a larger portion of the genetic material than traditional tests, it might discover the cause of disease 
+in cases where other tests were inconclusive. Because the Columbia Combined Panel is more complicated than prior 
+genetic testing you may have had, the consent and ordering process must be thorough and will be done with the 
+assistance of a genetic counselor and/or your doctor.  
+How is the test done?  
+ Two tubes (two teaspoons) of blood will be collected from you.  Based on your family tree, your genetic 
+counselor or doctor may also recommend that blood be drawn from two or more members of your family, such as 
+your parents or siblings, to help with interpretation of test results.  The genes tested by the CCGP are part of the DNA 
+in your blood cells. DNA from your blood is purified, and the exome sequence is obtained (or “read”) using high 
+throughput sequencing. The sequence obtained for the genes included in the CCGP is then searched for changes 
+that are known or suspected to cause disease.  
+How is this test interpreted? 
+ Once the DNA sequence of the exons of the genes of interest is read, the information obtained is analyzed 
+for differences between your sequence and a reference (“normal) sequence.  Everyone has places in their sequence 
+that are different from the reference. These differences make us unique and usually do not cause medical problems.  
+To determine whether the changes that are found are neutral, or can cause disease, the following steps are taken: 
+First, the variations in your sequence will be compared with a list of mutations that are known to cause 
+medical problems in other people with symptoms similar to yours. Subsequently one will examine whether disruptive 
+mutations not previously described are present in genes that are known to cause the type of disease you have. 
+Changes found will be compared to the changes seen in your selected family members with or without the disease (if 
+available) to confirm that the changes are indeed the cause of your disease.  
+ 
+2. The Primary Purpose of the test (why it is being performed).  
+The test is being performed primarily to detect one (or more than one) genetic cause for your condition. The condition  
+you are being tested for is _____________________, which causes ___________________________________.   
+The test results may be complex, so you must obtain genetic counseling before signing 
+this consent. 
+ 
+ 
+ 
+th
+Personalized Genomic Medicine Laboratory  630 West 168  Street 
+Department of Pathology and Cell Biology  P&S17-401 
+www.pathology.columbia.edu  New York, NY 10032 
+  Tel: 212-305-9706 
+OFFICE USE 
+ O :   Fax: 212-342-0420  NLY
+CCGP sequencing reviewed:  Lab Acc. #:__________ 
+3. What kinds of results may be obtained, what is their significance for health, and what 
+should you do after receiving the results?   
+What kind of results may be reported? 
+There are several different kinds of results that may be reported. All results will go directly to your doctor or 
+your other healthcare provider who ordered the test. 
+1. Positive for disease-causing mutation(s): You may have one or more genetic changes that are known to 
+cause a specific genetic condition in other individuals with similar symptoms.  The variant or variants 
+would then be called a mutation or mutations and would be interpreted as the cause of your symptoms. 
+2. No disease causing mutation(s) found: It is possible that the test will not find any genetic change that 
+could explain your symptoms.  This type of test result does not mean your condition is not genetic. The 
+result would not take away whatever current diagnoses doctors may have given for your condition.  
+3. Variant with uncertain significance: Sometimes the test will find a variation that is predicted to be 
+important, but has not been reported or seen before in people with your condition.  Such a variant may or 
+may not be the cause of your symptoms. The lab would report it as a “variant with uncertain significance” 
+if there is evidence strongly suggesting that it is related to your condition. 
+ 
+Are there any types of results that will not be given to me? 
+Yes, there are a few types of results that will not be included in the report your doctor gets.  
+1. Mutations that are not directly related to your condition (incidental findings) will not be reported. 
+2. We might use your relatives’ samples to help us diagnose your condition, but we will not report results for 
+these individuals. However, your genetic results might have implications for your relatives. It is important 
+that you discuss these implications with your genetic counselor. 
+3. The DNA that will be tested on the sequencer will include genes that are not related to your condition.  
+We will NOT analyze these genes. Therefore, results for these genes will NOT be available to you OR 
+us, and will not be reported. IF your doctor decides to test for the other genes in our large panel of genes, 
+he/she will have to order another test.  
+ 
+What should I do if there is a positive result? 
+             This is a test to identify a genetic cause of your clinical condition. If the test is positive for a genetic cause of 
+your clinical condition, you may wish to consult your physician or have further genetic counseling or undergo further 
+independent testing. 
+____ (Initial) I understand that I have the option to seek further independent testing, and that I should obtain genetic 
+counseling to help me understand the results.  
+Are there limitations to the testing? 
+Yes, there are several limitations to the Columbia Combined Genetic Panel: 
+1. The test will not detect mutations in genes that are not known to be associated with your symptoms.  
+2. The test report is generated based on current medical knowledge. A mutation that is not known to be the 
+cause of a genetic condition today may be shown to be disease-causing in a year or two.  We do not 
+generate updated reports for the test, unless we are requested to do so by the patient. There is a fee 
+th
+Personalized Genomic Medicine Laboratory  630 West 168  Street 
+Department of Pathology and Cell Biology  P&S17-401 
+www.pathology.columbia.edu  New York, NY 10032 
+  Tel: 212-305-9706 
+OFFICE USE 
+ O :   Fax: 212-342-0420  NLY
+CCGP sequencing reviewed:  Lab Acc. #:__________ 
+associated with providing an updated report.   
+3. The test is not currently validated to detect large-scale alterations in the DNA content of the patient’s 
+cells.  These include losses or duplications of many genes.  Another genetic test called “microarray” is 
+available for this purpose.  A microarray test might be ordered by your physician before the CCGP 
+testing. 
+4. The test may not be able to detect genetic disorders that are caused by expansion of repetitive regions of 
+the genome. One example is Fragile X syndrome.  If one of these conditions is suspected, your physician 
+should order the appropriate test. 
+5. The test is not able to detect mutations in the part of the DNA that is not part of the exons, (the coding 
+portion of the gene), such as parts of the DNA that help regulate gene function.  
+6. The test may detect findings of uncertain significance, which cannot be proven with complete certainty to 
+be the cause of your condition (see types of results described above). 
+7. Finding a disease-causing mutation may not result in a treatment, cure, or a prognosis (knowledge about 
+how a disease is expected to progress).  
+8. Standard lab limitations caused by human error, such as sample contamination or sample mix-up, may 
+occur but are unlikely. 
+____ (Initial) I understand the limitations to CCGP 
+4. When DNA testing detects the most common disease-causing changes in a gene, the 
+test result is highly accurate. 
+5. Implications of positive and negative results for your diagnosis 
+Predicting the results of the CCGP in advance is not possible. Predicting in advance what the results will mean for 
+your health is also not possible. This is due to the fact that many genes are tested and many different positive results 
+can be obtained. Each of these different results will have potentially different implications.  A negative result (not 
+finding variants) will not change your clinical diagnosis.  
+6. Who will have access to the results?  
+            The results of the CCGP will become a part of your medical record. Test results are stored in the laboratory’s 
+computer records, and are normally automatically sent to computerized medical records of New York Presbyterian 
+Hospital and Columbia University. If you do not want these results to be sent to these records, you must inform us 
+about this. Unless you tell us not to transmit them, the results will become part of your electronic medical record. 
+Even if they do not become part of the electronic medical record, the results may be made available to 
+individuals/organizations with legal access to your medical record, on a strict “need-to-know” basis. Those with legal 
+access include, but are not limited to, the physicians and nursing staff directly involved in your care, the your current 
+and future insurance carriers and others specifically authorized by you or your authorized representative to gain 
+access to your medical records. 
+____ __(Initial) I understand, that the results will be automatically transmitted to my electronic medical records in the 
+NYPH and Columbia University EMRs. I do not object to this.  
+_______(Initial) Please do not transmit any of the results to the hospital or university electronic medical records. I 
+understand that the results will continue to be part of the laboratory’s electronic information system. If test results are 
+not entered into my hospital or university electronic medical records, future physicians may not have access to those 
+results. I understand that I must assume responsibility for informing my future physicians about findings of CCGP test 
+that affect my healthcare.  
+ 
+th
+Personalized Genomic Medicine Laboratory  630 West 168  Street 
+Department of Pathology and Cell Biology  P&S17-401 
+www.pathology.columbia.edu  New York, NY 10032 
+  Tel: 212-305-9706 
+OFFICE USE 
+ O :   Fax: 212-342-0420  NLY
+CCGP sequencing reviewed:  Lab Acc. #:__________ 
+7. How long are the CCGP results kept in the testing lab? 
+The laboratory will keep the identified CCGP raw data in the lab for 5 years. The final report will be kept as 
+long as possible, at least 5 years.  After this, the data from which the final report was generated will be de-identified, 
+and will be stored in a database that does not include any names or other information that would link them back to 
+any individual. However, information about the type of disease and the type of symptoms associated with the genetic 
+findings will be preserved.  Because this is a new test, it is important to keep track of the types of mutations and 
+variants that are being found in association with particular diseases. This helps us improve our diagnostic 
+capabilities. This might not directly benefit you, but it might benefit future patients with similar conditions. Please 
+indicate your choice below. 
+____ (Initial) I agree to my CCGP data being stored indefinitely in a de-identified way. 
+____ (Initial) I do not want my CCGP data being stored indefinitely, even if it is de-identified. 
+ 
+8. Statement that no additional tests will be performed on this sample, without specific, 
+signed authorization by the patient/legal representative, and that after 60 days, unless 
+consent is given, the sample will be destroyed. 
+--How long are the samples kept in the lab? 
+Blood and DNA samples are normally discarded after 60 days following test completion, unless you provide 
+us consent to store the DNA after testing is performed.  Storing your sample may allow you to request testing in the 
+future without having to obtain a new sample, or to participate in future research, should you wish to do so.  
+____ (Initial) The laboratory may keep my DNA used in my CCGP testing indefinitely should I desire such testing, or 
+if I want to participate in research in the future. I understand that no additional genetic tests will be performed without 
+my specific consent/instructions. The DNA may be used only for quality control purposes. There is no guarantee of 
+availability past 60 days. If I decide to participate in research in the future, I will instruct the laboratory, and there will 
+be a requirement of a separate IRB-approved consent). 
+____ (Initial) Do not keep my DNA used in my CCGP testing linked to information that can identify who I am. I 
+consent to the use of my de-identified DNA for quality control purposes or for research in which my identity cannot be 
+determined. I understand that any research using the de-identified DNA will require a specific IRB approval and 
+oversight.  
+____ (Initial) Please discard DNA and other biologic materials used in my CCGP testing, 60 days after all testing is 
+completed.  
+9. What are the risks of testing?  
+1. Identification of familial relationships: CCGP may identify familial relationships other than those originally 
+reported.  For example, non-paternity (when the reported father of the child is not the biological father) or 
+half sibling-ships (when siblings do not share the same father AND mother) would be detected. You may 
+choose whether or not to be informed of this information, in case it is revealed during the testing.  
+ 
+2. Discrimination. The genetic non-discrimination law prevents insurance companies from using your 
+genetic information to deny health insurance coverage. However, the law does not cover life insurance, 
+th
+Personalized Genomic Medicine Laboratory  630 West 168  Street 
+Department of Pathology and Cell Biology  P&S17-401 
+www.pathology.columbia.edu  New York, NY 10032 
+  Tel: 212-305-9706 
+OFFICE USE 
+ O :   Fax: 212-342-0420  NLY
+CCGP sequencing reviewed:  Lab Acc. #:__________ 
+disability insurance or long term care insurance. The detection of an incidental condition may affect your 
+future ability to buy these forms of insurance or get the best insurance rates. By New York State Law, 
+your consent is required for the release of these results to insurance companies. However, you may be 
+required to release this information to the insurance companies for your contract with them to be valid.  
+ 
+3. Requirement for further testing: CCGP may identify genetic changes that may require additional testing 
+to evaluate.  This could result in anxiety, uncertainty, and additional expenses that may or may not be 
+covered by your insurance. 
+  
+4. Detection of untreatable conditions. CCGP may identify serious, untreatable genetic conditions. It can 
+result in unexpected psychological trauma, both for you and your family. The detection of such a 
+condition could also affect the health or health care needs of your siblings, children, or other close 
+relatives.    
+10. Statement of Financial responsibility 
+____ (Initial) I understand that I, having requested testing to be performed, am responsible for the cost of this testing 
+and will be required to pay for any/all of the test cost if health insurance does not reimburse the laboratory. In 
+addition, if health insurance pays for the test, I understand that the laboratory is required to bill me for the co-pay or 
+coinsurance that is required by my health plan.  
+11. CONSENT FOR CCGP TESTING 
+All of the above has been explained to me, to my satisfaction, and my signature below attests to the same.  
+Signature of person being tested __________________________________   Date _________ 
+Signature of health care provider __________________________________   Date _________ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+th
+Personalized Genomic Medicine Laboratory  630 West 168  Street 
+Department of Pathology and Cell Biology  P&S17-401 
+www.pathology.columbia.edu  New York, NY 10032 
+  Tel: 212-305-9706 
+OFFICE USE 
+ O  Fax: 212-342-0420  NLY:  
+CCGP sequencing reviewed:  Lab Acc. #:__________ 
+11a. Consent of family members submitting a sample for evaluation of patient’s results.  
+I understand that I am submitting my blood sample to help evaluate the results obtained on the person being tested, 
+and that results obtained from my sample will be used solely for this purpose. I will NOT be informed of any test 
+results on my sample. If I request any test results, I will have to be tested separately. If questioned by an insurance 
+carrier, I can state that I have not been tested for these conditions.  
+ 
+Name of Family Member: __________________         Relationship to Person:_____________________ 
+ 
+Signature: _______________________________       Date _________ 
+ 
+I understand that I am submitting my blood sample to help evaluate the results obtained on the person being tested, 
+and that results obtained from my sample will be used solely for this purpose. I will NOT be informed of any test 
+results on my sample. If I request any test results, I will have to be tested separately. If questioned by an insurance 
+carrier, I can state that I have not been tested for these conditions.  
+ 
+Name of Family Member: __________________           Relationship to Patient:_____________________ 
+ 
+Signature: _______________________________         Date _________ 
+ 
+I understand that I am submitting my blood sample to help evaluate the results obtained on the person being tested, 
+and that results obtained from my sample will be used solely for this purpose. I will NOT be informed of any test 
+results on my sample. If I request any test results, I will have to be tested separately. If questioned by an insurance 
+carrier, I can state that I have not been tested for these conditions.  
+ 
+Name of Family Member: __________________             Relationship to Patient:_____________________ 
+ 
+Signature: _______________________________           Date _________ 
+th
+Personalized Genomic Medicine Laboratory  630 West 168  Street 
+Department of Pathology and Cell Biology  P&S17-401 
+www.pathology.columbia.edu  New York, NY 10032 
+  Tel: 212-305-9706 
+OFFICE USE 
+ ONLY:   Fax: 212-342-0420  
+CCGP sequencing reviewed:  Lab Acc. #:__________ 
+ 
+Notice to Health Care Practitioner: 
+ 
+The above document is a consent form for the Columbia Combined Genetic Panel 
+(CCGP) test, a targeted multigene test. Currently, the laboratory will only accept test 
+requests after the patient/parent or legal guardian/next of kin has received genetic 
+counseling from a genetic counselor, clinical geneticist, or neurogeneticist with 
+experience in counseling patients for such a test. By NY State law, the patient/or 
+authorized representative needs to be counseled about issues related to the current 
+condition, implications of positive and negative test results, as well as other issue 
+related to health insurance, and possible effects on life insurance. Please explain the 
+above consent to the patient, or authorized representative/guardian, and obtain an 
+informed consent.  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+th
+Personalized Genomic Medicine Laboratory  630 West 168  Street 
+Department of Pathology and Cell Biology  P&S17-401 
+www.pathology.columbia.edu  New York, NY 10032 
+  Tel: 212-305-9706 
+OFFICE USE 
+ O :   Fax: 212-342-0420  NLY
+CCGP sequencing reviewed:  Lab Acc. #:__________ 
+To support the laboratory analysis, please provide a detailed clinical picture of the patient’s 
+clinical syndrome, the clinical differential diagnosis, and a pedigree. All of these will help in 
+the interpretation of the pathogenicity of the variants that will be found.  
+ 
+CCGP patient entry form 
+ 
+Patient Name:         Date:    
+ 
+Clinical diagnosis:                Age of onset:  ______ 
+ 
+Clinical features; symptoms and signs (circle appropriate responses; Y = yes; N = no; NA = information 
+not available) 
+ 
+Primary symptom:            Floppy baby  Y N NA 
+ 
+Perinatal insult   Y N NA  Asthenia  Y N NA 
+ 
+Developmental delay  Y N NA  Short stature  Y N NA 
+ 
+Retarded in school  Y N NA  Hirsute   Y N NA 
+ 
+Exercise intolerance  Y N NA  Congestive heart failure Y N NA 
+ 
+Nausea/vomiting  Y N NA  Resp. insufficiency  Y N NA 
+ 
+Gastrointest. pseudoobstruction Y N NA  Diabetes mellitus Y N NA 
+ 
+Headache   Y N NA  Hypothyroidism  Y N NA 
+ 
+Migraine headache  Y N NA  Hypoparathyroidism Y N NA 
+ 
+Stroke    Y N NA  Optic atrophy  Y N NA 
+ 
+Episodic coma   Y N NA  Ophthalmoplegia Y N NA 
+ 
+Dementia   Y N NA  Ptosis   Y N NA 
+ 
+Seizures   Y N NA  Retinopathy  Y N NA 
+ 
+Myoclonus   Y N NA  Cerebral blindness Y N NA 
+ 
+Cerebellar signs  Y N NA  Hearing loss  Y N NA 
+            
+Proximal limb weakness Y N NA   
+ 
+Neuropathy   Y N NA  State neuropathy type:    ____   
+ 
+Other:        Other: ______________________________ 
+th
+Personalized Genomic Medicine Laboratory  630 West 168  Street 
+Department of Pathology and Cell Biology  P&S17-401 
+www.pathology.columbia.edu  New York, NY 10032 
+  Tel: 212-305-9706 
+OFFICE USE 
+ O :   Fax: 212-342-0420  NLY
+CCGP sequencing reviewed:  Lab Acc. #:__________ 
+ 
+Laboratory studies:     Imaging studies: 
+ 
+Elevated lactate Y N NA  Angiogram Normal  Abnormal NA 
+ 
+Elevated pyruvate  Y N NA  MRI  Normal  Abnormal NA 
+ 
+Elevated CSF protein Y N NA  SPECT  Normal  Abnormal NA 
+ 
+ECG - Heart Block Y N NA  CBF  Normal  Abnormal NA 
+ 
+ECG - Preexcitation sy. Y N NA  CT  Normal  Abnormal NA 
+ 
+EMG/NCS - Neuropathy Y N NA  BG calcification: Y  N  NA 
+ 
+Myopathic  Y N NA  Other:         
+ 
+Neurogenic  Y N NA  
+ 
+Axonal   Y N NA 
+ 
+Demyelinating  Y N NA 
+ 
+Mixed   Y N NA 
+ 
+Other:         
+ 
+Positive family history: Y N NA Died:   Y N 
+ 
+If yes, please explain:    Autopsy: Y N 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Alphabetical List of Columbia Combined Genetic Panel (CCGP) Genes 
+A B C D
+AARS ADAMTS13 ALOX12B ASB10 AVP BAG3 C10orf2 CBL CFHR5 CNGB3 COX10 D2HGDH DSC2
+AARS2 ADAMTS17 ALOXE3 ASL AVPR1A BBS1 C12orf62 CBS CFI CNNM4 COX15 DARS2 DSG2
+ABAT ADAMTS2 ALS2 ASMT AVPR2 BBS10 C12orf65 CC2D2A CFL2 CNTN3 COX20 DCLRE1C DSG4
+ABCA1 ADAMTSL2 ALX4 ASPA BBS12 C19orf12 CCDC50 CFTR CNTN4 COX4I2 DCTN1 DSP
+ABCA12 ADCK3 AMH ASPM BBS2 C1QTNF5 CCL2 CHD7 CNTNAP2 COX6B1 DCX DST
+ABCA3 ADSL AMN ASS1 BBS4 C2 CCM2 CHM COA5 CPOX DDX20 DSTYK
+ABCA4 AFF2 AMPD1 ATL1 BBS5 C20orf7 CD2AP CHMP2B COCH CPT1A DES DTNA
+ABCB1 AFG3L2 AMT ATM BBS7 C2orf71 CD320 chrM:1-1657COL11A1 CPT2 DFNA5 DUOX2
+ABCB11 AGK ANG ATN1 BBS9 C3 CD40LG CHRM3 COL11A2 CRB1 DFNB31 DYNC1H1
+ABCB7 AGL ANK1 ATP13A2 BCKDHA C3orf58 CD46 CHRNA2 COL17A1 CREBBP DFNB59 DYSF
+ABCC6 AGPAT2 ANK2 ATP1A2 BCKDHB C8orf37 CDH23 CHRNA4 COL1A1 CRTAP DGKE
+ABCC8 AGRN ANKRD1 ATP1A3 BCKDK C8orf38 CDH3 CHRNA7 COL1A2 CRX DGUOK
+ABCC9 AGT ANKRD11 ATP2A2 BCOR C9orf72 CDHR1 CHRNB2 COL2A1 CRYAB DHCR7
+ABCD1 AGTR1 ANO5 ATP2C1 BCS1L C9orf72introCDK5RAP2 CHST3 COL3A1 CRYGD DHDDS
+ABHD5 AGTR2 AP1S2 ATP5E BDNF CA2 CDKL5 CHSY1 COL4A1 CSRP3 DIABLO
+ACAD11 AGXT AP2S1 ATP6AP2 BEAN1 CA4 CDKN1C CISD2 COL4A3 CSTA DIAPH1
+ACAD9 AHCY APCDD1 ATP6V0A2 BEST1 CABP4 CDON CLCN1 COL4A4 CSTB DIAPH3
+ACADM AHI1 APOE ATP6V0A4 BLM CACNA1A CDSN CLCN2 COL4A5 CTF1 DKC1
+ACADSB AIFM1 APOL1 ATP6V1B1 BMP15 CACNA1C CDT1 CLCN5 COL4A6 CTNS DLAT
+ACADVL AIPL1 APP ATP7A BMP4 CACNA1F CEACAM16 CLCNKB COL5A1 CTSD DLD
+ACE AIRE APTX ATP7B BMPR2 CACNA1H CENPJ CLDN14 COL5A2 CUL3 DLG3
+ACO2 AKAP9 AQP2 ATP8B1 BOLA3 CACNA2D1 CEP152 CLDN16 COL6A1 CUL4B DLL3
+ACSL4 AKT1 AR ATPAF2 BRAF CACNA2D4 CEP164 CLDN19 COL6A2 CYP11A1 DMD
+ACTA1 AKT2 ARFGEF2 ATR BRP44L CACNB2 CEP290 CLN3 COL6A3 CYP11B1 DMPK
+ACTA2 AKT3 ARHGEF6 ATRX BRWD3 CACNB4 CEP41 CLN5 COL7A1 CYP17A1 DNAJC19
+ACTC1 ALAS2 ARHGEF9 ATXN1 BSCL2 CALR3 CERKL CLN6 COL9A1 CYP1B1 DNAJC5
+ACTG1 ALDH1B1 ARL13B ATXN10 BSND CAPN3 CFB CLN8 COL9A2 CYP21A2 DNM1L
+ACTN2 ALDH3A2 ARL6 ATXN2 BTD CASK CFC1 CLRN1 COMP CYP27A1 DNM2
+ACTN4 ALDH5A1 ARMS2 ATXN3 BTK CASQ2 CFD CNBP COQ2 CYP4F22 DNMT1
+ACVRL1 ALDH7A1 ARSA ATXN7 CASR CFH CNGA1 COQ4 CYP4V2 DNMT3B
+ADA ALG1 ARSE AUH CAV1 CFHR1 CNGA3 COQ6 CYP7B1 DOK7
+ADAM9 ALMS1 ARX AUTS2 CAV3 CFHR3 CNGB1 COQ9 DPYD
+E F G H I J K
+EARS2 EXT2 F2 FKRP G6PC GEMIN7 GPR179 HADHA HPS1 IDH3B JAG1 KAL1 KRAS
+ECI1 EYA1 F5 FKTN G6PD GEMIN8 GPR56 HARS HPS3 IDS JAK3 KANSL1 KRIT1
+EDA EYA4 F7 FLG GAA GFER GPR98 HARS2 HPSE2 IDUA JPH2 KARS KRT1
+EDAR EYS F8 FLNA GABRA1 GFM1 GPSM2 HBA1 HR IFITM5 JPH3 KBTBD13 KRT10
+EDARADD FA2H FLT4 GABRA4 GFM2 GRHL2 HBA2 HRAS IFRD1 JUP KCNA1 KRT14
+EDN3 FAM134B FLVCR1 GABRA5 GFPT1 GRIA3 HBB HSD11B2 IGBP1 KCNC3 KRT16
+EDNRB FAM161A FLVCR2 GABRB3 GHR GRIN1 HBD HSD17B10 IKBKAP KCNE1 KRT17
+EFEMP1 FAN1 FMR1 GABRD GJB1 GRIN2A HBE1 HSD17B4 IKBKG KCNE2 KRT2
+EFHC1 FANCA FN1 GABRG2 GJB2 GRIN2B HBG1 HSD3B7 IL1RAPL1 KCNE3 KRT5
+EFHC2 FANCB FOLR1 GABRG3 GJB3 GRK1 HBG2 HSPA9 IL2RG KCNH2 KRT6A
+EGF FANCC FOXC1 GABRQ GJB6 GRM6 HBM HSPB1 ILDR1 KCNJ1 KRT6B
+EGR2 FANCD2 FOXD3 GALK1 GJC2 GRN HBQ1 HSPB8 ILK KCNJ10 KRT81
+EHMT1 FARS2 FOXE1 GALNS GK GRXCR1 HBZ HSPD1 IMPDH1 KCNJ11 KRT83
+EIF2AK3 FASTKD2 FOXE3 GAMT GLA GSS HCCS HSPG2 IMPG2 KCNJ13 KRT85
+ELANE FBLN5 FOXG1 GARS GLB1 GUCA1A HCN1 HTRA1 INF2 KCNJ2 KRT86
+ELN FBN1 FOXH1 GAS1 GLDC GUCA1B HCN2 HTT INPP5E KCNJ5
+ELOVL4 FBN2 FOXI1 GATA4 GLE1 GUCY2D HCN4 HUWE1 INSR KCNJ8
+EMD FBP1 FOXL2 GATA5 GLI2 GYG1 HDAC8 INVS KCNMA1
+EMX2 FCGR2C FOXP1 GATA6 GLI3 GYS1 HES7 IQCB1 KCNQ1
+EN2 FERMT1 FOXP2 GATAD1 GLIS2 GYS2 HEXA IQSEC2 KCNQ2
+ENG FGD1 FOXRED1 GATM GLMN HEXB ISCU KCNQ3
+ENO3 FGD4 FRAS1 GBA GLRA1 HGF ITGA2B KCNQ4
+ENPP1 FGF10 FREM1 GBE1 GNAT1 HGSNAT ITGA6 KCNV2
+EPM2A FGF14 FSCN2 GCH1 GNAT2 HIBCH ITGA7 KCTD7
+ERCC6 FGF23 FTCD GCSH GNE HLCS ITGB4 KDM5C
+ESPN FGF3 FTL GDAP1 GNPTG HMBS ITPR1 KIAA0196
+ESRRB FGF8 FTSJ1 GDF1 GNRH1 HMCN1 KIAA2022
+ETFA FGFR2 FUS GDI1 GNS HNF1B KIF1A
+ETFB FGG FXN GDNF GP1BB HOXA1 KIF1B
+ETFDH FH FXYD2 GEMIN2 GP6 HOXA13 KIF5A
+ETHE1 FHL1 FZD4 GEMIN4 GPC3 HOXA4 KLF8
+EVC FIG4 GEMIN5 GPD1L HOXB1 KLHL3
+EXT1 FKBP10 GEMIN6 GPR143 HPRT1 KLHL7
+L M N O P
+L1CAM LRPPRC MAGI2 MLL2 MYO5A NAA10 NEK8 NRXN1 OAT PABPN1 PEX10 PLP1 PROP1
+LAMA2 LRRK2 MAGT1 MNX1 MYO6 NAGLU NEU1 NSD1 OCA2 PAFAH1B1 PEX2 PMP22 PROS1
+LAMA3 LRSAM1 MAK MPV17 MYO7A NAT8L NEXN NSDHL OCLN PAH PEX6 PNKD PRPF3
+LAMA4 LRTOMT MAN2B1 MPZ MYOC NCF1 NF1 NTRK1 OCRL PAK3 PEX7 PNKP PRPF31
+LAMB1 LYST MAOA MRE11A MYOM1 NCF2 NF2 NUBPL OFD1 PANK2 PFKM PNPLA2 PRPF6
+LAMB2 MAP2K1 MRPL3 MYOT NDE1 NFU1 NXF5 OPA1 PAPSS2 PFN1 PNPO PRPF8
+LAMB3 MAP2K2 MRPL44 MYOZ2 NDP NHLRC1 NXNL1 OPA3 PARK2 PGAM2 PNPT1 PRPH2
+LAMC2 MAPT MRPS16 MYPN NDRG1 NHS NYX OPHN1 PARK7 PGK1 POLG PRPS1
+LAMP2 MARK1 MRPS22 NDUFA1 NIPA1 OPN1LW PARP1 PGM1 POLG2 PRRG3
+LARGE MARS2 MSX1 NDUFA10 NIPAL4 OPN1MW PAX2 PHEX POMGNT1 PRRT2
+LARS MARVELD2 MTFMT NDUFA11 NIPBL OPN1SW PAX3 PHF6 POMT1 PRSS1
+LAS1L MATR3 MTHFD1 NDUFA12 NKX2-1 OPRM1 PAX6 PHF8 POMT2 PRSS56
+LBR MAX MTHFR NDUFA2 NKX2-5 OPTN PAX9 PHKA1 PON1 PRX
+LCA5 MBD5 MTM1 NDUFA9 NLGN3 OTC PC PHKA2 POR PSEN1
+LCAT MBTPS2 MTMR2 NDUFAF1 NLGN4X OTOA PCBD1 PHYH PORCN PSEN2
+LDB3 MC1R MTO1 NDUFAF2 NLRP3 OTOF PCDH10 PIGL POU3F4 PSMB8
+LDHA MCCC2 MTPAP NDUFAF3 NNT OTX2 PCDH15 PIK3CA POU4F3 PSTPIP1
+LGI1 MCOLN1 MTTP NDUFAF4 NODAL OXTR PCDH19 PIK3R2 POU5F1 PTCH1
+LHB MCPH1 MVK NDUFAF7 NOP56 PCNT PINK1 PPP2R2B PTCHD1
+LHFPL5 MECP2 MYBPC3 NDUFB3 NOTCH1 PDE6A PITPNM3 PPT1 PTEN
+LIAS MED12 MYCN NDUFB9 NOTCH3 PDE6B PITX2 PQBP1 PTH1R
+LIPN MED25 MYH11 NDUFS1 NPC1 PDE6C PKD1 PRCD PTPN11
+LITAF MEF2C MYH14 NDUFS2 NPHP1 PDE6G PKD2 PRICKLE1 PTPRC
+LLGL1 MEFV MYH6 NDUFS3 NPHP3 PDHA1 PKHD1 PRICKLE2 PTPRO
+LMNA MERTK MYH7 NDUFS4 NPHP4 PDHB PKLR PRKAG2 PTPRQ
+LMX1B MET MYH9 NDUFS6 NPHS1 PDHX PKP2 PRKAR1A PUS1
+LOR MFN2 MYL2 NDUFS7 NPHS2 PDLIM3 PLA2G5 PRKCG PYCR1
+LOXHD1 MFRP MYL3 NDUFS8 NR1I3 PDP1 PLA2G6 PRKCSH PYGM
+LPIN1 MFSD8 MYLK2 NDUFV1 NR2E3 PDSS1 PLCB1 PRKG2
+LPIN2 MID1 MYO15A NDUFV2 NR3C2 PDSS2 PLCE1 PRNP
+LRAT MITF MYO1A NEB NRAS PDYN PLEC PROC
+LRIG2 MKKS MYO1E NEBL NRCAM PDZD7 PLN PROK2
+LRP5 MKS1 MYO3A NEFL NRL PEX1 PLOD1 PROM1
+Q R S T U V
+RAB27A ROBO2 SACS SDHD SLC17A8 SMAD3 SPINK5 TACO1 TMC1 TREX1 UBE2A VANGL1
+RAB39B ROM1 SAG SEC63 SLC19A3 SMAD4 SPINT2 TAF1 TMEM126A TRIM32 UBE3A VAPB
+RAB40AL RP1 SALL1 SEMA3E SLC1A3 SMAD9 SPR TARDBP TMEM127 TRIM37 UBQLN2 VCAN
+RAB7A RP1L1 SALL4 SEMA4A SLC22A12 SMARCAL1 SPRED1 TAZ TMEM187 TRIOBP UCHL1 VCL
+RAF1 RP2 SARS2 SEPN1 SLC22A5 SMARCB1 SPRN TBP TMEM216 TRMU UMOD VCP
+RAG1 RP9 SBDS SEPT9 SLC24A1 SMC1A SPTAN1 TBX1 TMEM237 TRPC6 UNC119 VDR
+RAG2 RPE65 SBF2 SERAC1 SLC25A12 SMN1 SPTBN2 TBX22 TMEM43 TRPM1 UNC13D VEGFA
+RAI1 RPGR SCAF8 SERPINB6 SLC25A19 SMN2 SPTLC1 TBX5 TMEM67 TRPM6 UPF3B VHL
+RANGRF RPGRIP1 SCARB2 SERPINC1 SLC25A20 SMOC1 SPTLC2 TCAP TMEM70 TRPV4 UQCRB VLDLR
+RARS2 RPGRIP1L SCN1A SERPINH1 SLC25A22 SMOC2 SRPX2 TCF4 TMIE TSC1 UQCRQ VPS13A
+RASA1 RPL10 SCN1B SETX SLC25A3 SMPD1 STAMBP TCIRG1 TMLHE TSC2 USH1C VPS13B
+RAX2 RPS17 SCN2A SGCA SLC25A4 SMPX STAT3 TCOF1 TMPO TSEN2 USH1G VSX1
+RB1 RPS6KA3 SCN2B SGCB SLC26A4 SMS STIL TEAD1 TMPRSS3 TSEN34 USH2A VSX2
+RBFOX1 RRM2B SCN3A SGCD SLC26A5 SNAI2 STK11 TECTA TMPRSS6 TSEN54 VWF
+RBM10 RS1 SCN3B SGCE SLC29A3 SNCA STRAP TEK TNFRSF11A TSFM
+RBM20 RYR1 SCN4A SGCG SLC2A1 SNRNP200 STRC TERT TNFRSF1A TSPAN12
+RBP3 RYR2 SCN4B SGSH SLC2A10 SNRNP70 STS TFR2 TNNC1 TSPAN7
+RBP4 SCN5A SH3TC2 SLC34A1 SNRPA STXBP1 TGFBR1 TNNI3 TTBK2
+RD3 SCN7A SHANK3 SLC34A3 SNRPC STXBP2 TGFBR2 TNNT1 TTC19
+RDH12 SCN8A SHH SLC37A4 SNTA1 SUCLA2 TGIF1 TNNT2 TTC21B
+RDH5 SCN9A SHMT1 SLC3A1 SOD1-SFRS1 SUCLG1 TGM1 TNPO3 TTC8
+RDX SCNN1A SHOC2 SLC45A2 SOS1 SURF1 TGM2 TNXB TTN
+REEP1 SCNN1B SHOX SLC4A1 SOX10 SYN1 TGM6 TOPORS TTPA
+RELN SCNN1G SHROOM4 SLC4A4 SOX18 SYNE1 TH TOR1A TTR
+REN SCO1 SIL1 SLC6A4 SOX2 SYNGAP1 THAP1 TP53 TUBA1A
+RET SCO2 SIX1 SLC6A5 SOX3 SYP THBD TP63 TUBB2B
+RGR SCRIB SIX2 SLC6A8 SOX9 THOC2 TPK1 TUFM
+RGS9 SDCCAG8 SIX3 SLC7A9 SPAST TIMM44 TPM1 TULP1
+RGS9BP SDHA SIX5 SLC9A3R1 SPATA7 TIMM8A TPM2 TWIST1
+RHO SDHAF1 SKIV2L SLC9A6 SPG11 TIMP3 TPM3 TYMP
+RIMS1 SDHAF2 SLC12A1 SLC9A9 SPG20 TK2 TPO TXNRD2
+RLBP1 SDHB SLC12A3 SLCO1B3 SPG21 TLR3 TPP1 TYR
+RNF8 SDHC SLC16A2 SLIT2 SPG7 TLR4 TPRN
+W X Y Z
+WAS XK YARS ZBTB24
+WDPCP XPNPEP3 YARS2 ZCCHC18
+WDR19 ZDHHC15
+WDR62 ZDHHC9
+WFS1 ZEB2
+WIPF1 ZFYVE26
+WNK1 ZFYVE27
+WNK4 ZIC2
+WNT2 ZNF41
+WNT4 ZNF423
+WRN ZNF513
+WT1 ZNF674
+ZNF711
+ZNF81
+th
+Personalized Genomic Medicine Laboratory  630 West 168  Street 
+Department of Pathology and Cell Biology  P&S17-401 
+www.pathology.columbia.edu  New York, NY 10032 
+  Tel: 212-305-9706 
+OFFICE USE 
+ O  Fax: 212-342-0420  NLY:  
+CCGP sequencing reviewed:  Lab Acc. #:__________ 
+Description of high-throughput sequencing tests for genetic disorders offered 
+by the Personalized Genomic Medicine Laboratory of Columbia University 
+Medical Center  
+ 
+Overview 
+ The human genome contains in excess of 20000 protein coding genes. In a 
+constantly updated encyclopedia of mendelian human disorders, OMIM, as of October 16, 
+2012, there are about 3600 phenotypes described in which the molecular basis of the 
+disease is known. There is also an additional 3600 phenotypes listed that have no known 
+molecular basis to date.  The number of genes described on the site is past 14,000, and 
+all these genes are thought to be relevant to human disease, although maybe only half of 
+them have a confirmed role in one or more genetic disorders.   
+The current paradigm for genetic diagnosis rests on PCR and microarray-based 
+detection of specific mutations of known significance and/or Sanger sequencing that 
+allows detection of previously described, as well as novel mutations, in genes that have 
+been well established to play a role in a specific disease.  These methods work well for 
+screening for specific mutations or for demonstration of mutations in a small number of 
+genes, if the gene(s) to test can be largely ascertained based on the clinical phenotype.  
+However, they fall short in cases where the phenotype and genotype correlation is not 
+strong enough to efficiently guide the decision-making process as to what mutation in 
+which gene should be tested for. In cases like congenital hearing loss in which over 100 
+loci have been implicated, it is often impossible to establish in what order to perform the 
+review of genes linked to the phenotype.  Even if a more logical phenotype based 
+approach is available, like in the case of muscular dystrophies, the diagnostic odyssey is 
+often too painful and expensive to undertake.  Since genetic information is changing at a 
+rapid pace, clinicians may be unaware of all known genes and, therefore, fail to order the 
+appropriate tests. NGS allows for simultaneous sequencing of large number of genes that 
+might carry mutations causing the symptoms of a patient at an affordable price. This 
+prevents individual clinician bias in testing decisions and improves diagnostic success 
+rate.   
+We offer four clinical NGS tests at the Personalized Genomic Medicine Laboratories at 
+Columbia University Medical Center. These are full mitochondrial genome sequencing 
+(MGS), the Columbia Combined Genetic Panel (CCGP), whole exome sequencing (WES) 
+and whole genome sequencing (WGS) tests. The MGS and CCGP tests are for patients 
+whose disease shows a very characteristic phenotype strongly associated with mutations 
+in the mitochondrial genome, or in a few dozen candidate genes. The WES and WGS 
+tests are to be used in situations where one cannot generate a credible list of candidate 
+genes to be tested. These tests interrogate all coding regions or the entire genome, 
+respectively. In addition to identifying known disease causing mutations and probable 
+disease causing mutations in disease associated genes they can also identify entirely 
+new private mutations in genes previously not linked to the disease.  Confirmation of the 
+disease causing nature of these novel mutations is based on segregation of the mutation 
+in families and structural and functional characteristics of the mutation and the gene itself.    
+th
+Personalized Genomic Medicine Laboratory  630 West 168  Street 
+Department of Pathology and Cell Biology  P&S17-401 
+www.pathology.columbia.edu  New York, NY 10032 
+  Tel: 212-305-9706 
+OFFICE USE 
+ O :   Fax: 212-342-0420  NLY
+CCGP sequencing reviewed:  Lab Acc. #:__________ 
+ 
+Indication for testing 
+ The presence of a congenital developmental abnormality of presumed genetic 
+origin 
+ Development of symptoms that suggest the presence of a genetic disorder with 
+mitochondrial or Mendelian inheritance 
+ 
+Methodology 
+ Hardware: Illumina sequencing instruments: MiSeq for MGS and CCGP tests and 
+HiSeq2500 for WES and WGS tests.  
+ Capture reagents: We use PCR to capture the mitochondrial genome and Agilent 
+Sureselect technology to capture the regions of interest (ROI) for the CCGP and 
+WES studies.  The WGS does not require capture, since the entire genome is 
+sequenced. 
+ 
+Specimen requirements 
+ All specimens should carry two independent identifiers.  
+ Blood > 300microliters, should be anti-coagulated, preferably with citrate or EDTA 
+and should be less than a week old.   
+ Muscle biopsy specimens (>50mg) should be refrigerated from the time of biopsy 
+to arrival to the lab.  
+ DNA should be greater than 10kb median length. We optimally need 3 micrograms 
+of genomic DNA at concentrations 50-200ng/microliter. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

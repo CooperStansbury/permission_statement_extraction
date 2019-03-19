@@ -1,0 +1,291 @@
+﻿
+
+Protocol Title:Principal Investigator:Description of Subject Population:Version Date:
+INSTRUCTIONS:  This template is only part of the informed consent process.  Many sections of this document include brief instructions and wording suggestions in bold font to provide investigators with a general overview of information required in the section.  The instructions/information in bold font should be replaced with your protocol-specific information.
+
+Please note that not all of the information in this form will apply to your study.  Please delete any sections that do not apply to your study and add any information that applies to your study but is not included in this template.  This is only a template and should be used as a guide.  The Principal Investigator is responsible for ensuring that the study details are included in the consent form.
+
+Please delete all shaded instruction boxes prior to submitting this form to the CRC IRB.  
+Introduction
+
+Please read this form carefully.  The purpose of this form is to provide you with important information about taking part in a research study.  If any of the statements or words in this form are unclear, please let us know. We would be happy to answer any questions.
+
+If you have any questions about the research or any portion of this form, please ask us.  Taking part in this research study is up to you.  If you decide to take part in this research study we will ask you to sign this form.  We will give you a copy of the signed form.
+
+The person in charge of this study is [Insert name of PI.  If student also include faculty advisor name].  [Name of PI] can be reached at [Add contact information.]  [If you are a student, include the name and contact information of your Faculty Advisor]. We will refer to this person as the "researcher" throughout this form. 
+
+
+Why is this study being done?
+
+The purpose of this study is to [Briefly explain the purpose of the study]
+
+We are asking you to take part in this study because you are/have [Specify reason for recruitment.]
+
+About total number of subjects will take part in this research study at Boston University.
+
+Name of funding agency/sponsor is paying for this research to be done.
+
+
+How long will I take part in this research study?
+
+We expect that you will be in this research study for total study time.  During this time, we will ask you to make number study visits to location (e.g. Psychology lab at Boston University)
+
+
+What will happen if I take part in this research study?
+
+INSTRUCTIONS: Provide a list of all study procedures/tests/activities and when they will occur.  Include the following information:
+
+* The length and duration of visits and procedures. 
+* Which procedures are being performed as standard of care and which are part of the research study, when applicable. 
+* Information about the study design, e.g., randomization
+* Special requirements, e.g., stopping current medications, fasting before tests
+* Reasons and procedures for early withdrawal from the study
+* Sending data/specimens to research collaborators 
+* Storage of data/specimens for future use 
+If you agree to take part in this study, we will ask you to sign the consent form before we do any study procedures.
+
+Study Visit 1
+
+INSTRUCTIONS:  Below is a list of possible procedures. Customize this list for your study.  Use the format below for all subsequent study visits (Visit 2, Visit 3, etc.) 
+Visit 1 will take about how long to complete.  At this visit, we will ask you to do the following procedures:
+* Give you some questionnaires to fill out about your physical health, mood, mental and emotional health, quality of life, and habits
+* Ask about your medical and mental history
+* Ask about your medications
+* Measure your vital signs (blood pressure, temperature, heart and breathing rates)
+* Give you and ECG (electrocardiogram).  This test checks the electrical activity of your heart.  We will place several, small, sticky pads on your chest, arms, and legs.  There is a wire attached to each pad.  The wires connect to a machine that makes a recording of your heart rhythm.
+* Interview you about your experiences with describe subject.
+* Take part in a focus group.  A focus group is a small group of people who take part in a discussion about a selected topic.  The focus group will be led by a member of the research staff.  The focus group leader will ask the group members about their opinion of topic.
+* Give you an MRI (magnetic resonance imaging) of your body location.  A MRI is a test that uses a magnetic field and pulses of radio wave energy to make pictures of organs and structures inside the body.  During the MRI, we will ask you to lie still on a table that slides into a tunnel-shaped machine.  The machine is slightly wider than your body.  The top and sides of the tunnel will be very close to your body.  The MRI machine makes loud noises as it take pictures of the insides of your body.  We will give you earplugs to reduce the noise.  You will be able to hear and speak to the research staff at all times during the MRI procedures.  We can stop the procedure at any time, if necessary, the MRI will take about amount of time.
+
+Before you have the MRI, we will ask you about any metal within your body (this includes certain dyes in tattoos).  You will need to remove all metal objects (such as hearing aids, dentures, jewelry, watches, and hairpins) from your body because these objects may be attracted to the powerful magnet used for the test.  
+* Ask you complete tasks on the computer
+* Give you an EEG (electroencephalogram).  An EEG is a test that measures and records the electrical activity of your brain. We will put special sensors (electrodes) on your head.  There is a wire attached to each sensor.  The wires connnect to a computer. The computer records your brain's electrical activity on the screen or on paper as wavy lines.
+
+
+INSTRUCTIONS:  If subjects will be randomized to different study arms include the information below.
+We will assign you by chance (like a coin toss) to one of two study groups.  One group will describe group (e.g will receive brochures on lifestyle changes) and the other group describe group (e.g. will receive brochures on lifestyle changes and also meet with a counselor).  You and the researcher cannot choose your study group.  You will have an equal chance/ 2 out of 2 chance, etc. of being assigned to either study group.
+
+INSTRUCTIONS:  If subjects will be audio or video taped, add the following information.  Choose the appropriate language depending on whether audio or video taping will be done.  Include information about how the tapes will be used and how long they will be stored.
+
+Audio/Videotaping
+
+We would like to audio/videotape you during this study.  If you are audio/videotaped it will/will not be possible to identify you in the video.   We will store these tapes in a locked cabinet and only approved study staff will be able to see the tapes.  We will label these tapes with a code instead of your name.  The key to the code connects your name to your videotape.  The researcher will keep the key to the code in a password-protected computer/locked file.  State how long tapes will be stored.
+
+Do you agree to let us audio/videotape you during this study?
+
+______YES			______NO		_______INITIALS
+
+
+INSTRUCTIONS:  If you would like to store data for future research include the information below.
+Storing Study Information for Future Use
+
+We would like to store your study information for future research related to condition/topic (e.g depression, memory, learning, etc.).  We will label all your study information with a code instead of your name.  The key to the code connects your name to your study information.  The researcher will keep the code in a password-protected computer/locked file.
+
+Do you agree to let us store your study information for future research related to condition/topic?
+
+______YES			______NO		_______INITIALS
+
+
+INSTRUCTIONS:  If you will be sending study information to researchers outside of Boston University, add the language below.
+Sending Study Information to Research Collaborators Outside Boston University
+
+We will send your study information to research collaborators at outside site.  We will label all your study information with a code instead of your name.  The key to the code connects your name to the study information.  The researcher will keep the key to the code here at Boston University and will not share it with our research collaborators.  Nobody outside of Boston University will know which study information is yours.
+
+
+How Will You Keep My Study Records Confidential?
+
+We will keep the records of this study confidential by [state how you will ensure that the subject's records are kept confidential].  We will make every effort to keep your records confidential.  However, there are times when federal or state law requires the disclosure of your records.
+
+Reporting child/elder abuse, if applicable:  If, during your participation in this study, we have reasonable cause to believe that child/elder abuse is occurring, he/she must report this to authorities as required by law.  The researcher will make every reasonable effort to protect the confidentiality of your research information.  However, it might be possible that a civil or criminal court might demand the release of identifiable research information.
+
+Reporting Suicidal Risk:  If, during your participation of this study, we have reason to believe that you are at risk for being suicidal or otherwise harming yourself, we are required to take the necessary actions.  This may include notifying your doctor, your therapist, or other individuals.  If this were to occur, we would not able to assure confidentiality.
+
+The following people or groups may review your study records for purposes such as quality control or safety:
+* The Researcher and any member of his/her research team
+* The Institutional Review Board at Boston University.  The Institutional Review Board is a group of people who review human research studies for safety and protection of people who take part in the studies.
+* The sponsor or funding agency for this study
+* Federal and state agencies that oversee or review research
+
+The study data will be stored state here data will be stored.  
+
+The results of this research study may be published or used for teaching.  We will not put identifiable information on data that are used for these purposes.
+
+If Certificate of Confidentiality is Obtained:  We have a Certificate of Confidentiality from the Department of Health and Human Services (DHHS) for this study.  This certificate adds special protection for research information that identifies you. This Certificate does not mean that the government approves or disapproves of this study.  
+
+With this Certificate, we cannot be forced (for example by court order or subpoena) to release any identifying research information about you.  You should understand that the Certificate does not prevent you or a member of your family from voluntarily releasing information about yourself or your participation in this research study.  If an insurer, employer, or other person obtains your written consent to receive research information, then the researchers may not use the Certificate to withhold that information.
+
+The Certificate does not prevent the researchers from voluntarily disclosing, without your consent information that would identify you as a subject in this research study if we: 1) are concerned that you may be suicidal (thinking about killing yourself) or at immediate risk of seriously harming yourself or others, or 2) learn about serious harm to your or someone else such as child abuse or elder abuse.  Under these circumstances we will notify the appropriate people (such as your personal doctor, counselor, Department of Social Services, or other authorities).
+
+
+Study Participation and Early Withdrawal
+
+Taking part in this study is your choice.  You are free not to take part or to withdraw at any time for any reason.  No matter what you decide, there will be no penalty or loss of benefit to which you are entitled.  If you decide to withdraw from this study, the information that you have already provided will be kept confidential.
+
+If students are enrolled:  You may choose not to be in the study or to stop being in the study before it is over at any time.  This will not affect your class standing or your grades at Boston University.  You will not be offered or receive any special consideration if you take part in this research study.
+
+If the researcher can withdraw the subject:  Also, the researcher may take you out of this study without your permission.  This may happen because:
+* The researcher thinks it is in your best interest
+* You can't make the required study visits
+* Other administrative reasons
+
+INSTRUCTIONS:  If you want to contact the subject in the future to follow-up to questions or to recruit for future studies, add the language below.
+Future Contact
+
+We may like to contact you in the future either to follow-up to this study or to see if you are interested in other studies taking place at Boston University.  
+
+Do you agree to let us contact you in the future?
+
+______YES			______NO		_______INITIALS
+
+
+
+What are the risks of taking part in this research study?
+INSTRUCTIONS: The information in this section should be limited to the risks and discomforts related to the procedures done for research purposes, and should not include those related to a research subject's routine medical care.  Below are some common risks. Customize this section according to your protocol.
+MRI Risks
+There are no known harmful effects from the strong magnetic field used for MRI. But the magnet is very powerful. The magnet may affect pacemakers, artificial limbs, and other medical devices that contain iron. The magnet will stop a watch that is close to the magnet. Any loose metal object has the risk of causing damage or injury if it gets pulled toward the strong magnet.
+You should not have an MRI if you have claustrophobia (fear of small spaces).  The top and sides of the machine will be very close to your body.  Because of this, you may feel anxious while inside the MRI machine.  If you do feel anxious during the procedure, you can ask us to stop the MRI at any time.
+If you are pregnant or suspect you are pregnant, you should inform the study staff before the MRI examination. Although there is no known risk of using MRI in pregnant women, the safety of MRI during pregnancy has not been established.  Therefore, you cannot have an MRI for this study if you are pregnant or think that you are pregnant.
+We are doing the MRI in this study to answer research questions, not to give you medical care.  This MRI is not the same as one that your own doctor would order.  It may or may not show problems that would be found on a regular MRI,
+If we do see something that looks like a medical problem, we will ask a radiologist (a doctor who specializes in looking at MRI scans results) to review the results.  If the radiologist thinks there might be a problem, we will tell you and help you get follow-up care.
+            If the radiologist thinks that you might have a medical problem, but it turns out that you don't, we may have caused you to worry unnecessarily.
+
+	Risks of Completing Tasks
+	
+	You may get tired during the tasks.  You can rest at any time.
+
+	Questionnaire/Survey Risks
+	
+You may feel emotional or upset when answering some of the questions.  Tell the interviewer at any time if you want to take a break or stop the interview.
+
+You may be uncomfortable with some of the questions and topics we will ask about.  You do not have to answer any questions that make you feel uncomfortable.
+
+Loss of Confidentiality
+
+The main risk of allowing us to use and store your information for research is a potential loss of privacy.  We will protect your privacy by labeling your information with a code and keeping the key to the code in a password-protected computer.
+
+Focus Groups
+The researchers will ask you and the other people in the group to use only first names during the group session. They will also ask you not to tell anyone outside the group what any particular person said in the group. However, the researchers cannot guarantee that everyone will keep the discussions private. 
+
+
+
+
+Are there any benefits from being in this research study?
+INSTRUCTIONS: The first sentence should indicate that the participant may not benefit from taking part in this research study.  Do not include payment as a benefit.  Include the following information in this section:
+* Possible benefits to the subject (if any).
+* Benefits to others in the future
+
+
+If no benefits:  There are no benefits to you from taking part in this research.
+
+If possible benefits: You may or may not benefit from taking part in this study.  Possible benefits include may include state benefit.
+
+If future benefit: Others may benefit in the future from the information that is learned in this study.
+
+
+What alternatives are available?
+INSTRUCTIONS:  
+* List any alternatives.  If there is no alternative to participation, the statement below is sufficient
+* For studies awarding course credit for participation, describe the IRB-approve alternative to research participation, for which equal credit will be awarded
+You may choose not to take part in this research study.
+
+If subjects are also patients:  You do not have to take part in this research study to be treated for medical condition being studied.  Other treatments available for your condition include: state other available treatments
+
+
+Can I still get medical care at Boston Medical Center if I choose not to participate in this research study?
+
+INSTRUCTIONS:  If subjects are receiving medical care and/or being seen or recruited at BMC include this section.  If not, delete this section.
+Yes, you may still get medical care at Boston Medical Center if you choose not to take part in this study.  Your decision will not change the care you receive now or in the future.   Taking part in this research is your choice.  If you decide to take part in this study, you may leave/stop the study at any time.  There will be no penalty to you and your medical care will not be affected.  If you would like to stop taking part in this research you should let us know.  
+
+
+Will I get paid for taking part in this research study?  
+INSTRUCTIONS:  Include the following information in this section:
+* Provide specific information about payment (money or other forms of compensation or reimbursement, e.g., gift certificate, meal voucher, parking voucher, and travel expenses)
+* Include how the amount of compensation is calculated if the subject does not complete the entire study for any reason, e.g., "If you do not complete all of the study visits, we will give you $25 for each study visit you completed."
+* State when subjects will be paid (e.g. after each visit or after study is completed, etc.)
+* For lottery drawings, include the following: when the drawing will occur, who will conduct the drawing, how payment will be made, the value of the prize, the number of prizes, and the chances of winning.
+
+Note:  If participants will not be paid or will not receive other forms of compensation for participation, please state.
+
+See sample statements below.
+We will not pay you for taking part in this study.
+
+We will pay for your (parking/transportation) while you are taking part in this study.
+
+We will pay you state amount for each visit/task that you complete.  If you complete all the study visits/tasks, we will pay you a total of state amount.  If you do not complete the entire study, we will pay you for each visit/task that you complete.
+
+We will give you (state amount of course credit) for taking part in this study.
+
+We will enter your name into a lottery drawing for state prize.  With number of subjects taking part in the study, your chances of winning are state chance, e.g. 1 in 500.  The drawing will be conducted by state person after all subjects have completed the study which will be on or about, date.  The study staff will contact you if you won this lottery.
+
+
+What will it cost me to take part in this research study?
+
+There are no costs to you for taking part in this research study.
+
+If subject will be receiving standard medical care/therapy while taking part in the study:  
+If you are receiving medical treatment as part of your routine clinical care while taking part in this research study, your routine clinical care will be billed to you/your insurance company in the usual way.
+
+
+What happens if I am injured as a result of participating in this research study?
+
+If you are injured as a result of taking part in this research study, we will assist you in getting medical treatment.  However, your insurance company will be responsible for the cost.  Boston University does not provide any other form of compensation for injury.
+
+
+If I have any questions or concerns about this research study, who can I talk to?
+
+You can call us with any concerns or questions. Our telephone numbers are listed below:  List contact information for PI and/or other applicable study staff.  State the hours that study staff can be contacted.  If you are a student, include the contact information for your Faculty Advisor.
+
+If you have questions about your rights as a research subject or want to speak with someone independent of the research team, you may contact the Boston University IRB directly at 617-358-6115.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Statement of Consent 
+
+I have read the information in this consent form including risks and possible benefits.  I have been given the chance to ask questions.  My questions have been answered to my satisfaction, and I agree to participate in the study.  
+
+SIGNATURE
+
+
+______________________________________
+ Name of Subject
+
+
+______________________________________		____________________
+Signature of Subject		Date
+
+
+I have explained the research to the subject and answered all his/her questions.  I will give a copy of the signed consent form to the subject.
+
+
+________________________________________	
+Name of Person Obtaining Consent
+
+
+________________________________________		_______________________
+Signature of Person Obtaining Consent		Date
+      
+
+Boston University Charles River Campus (CRC) IRB		Page 1 of 3
+Consent Form Template; 
+Version date:  December 13, 2013
+
+
+

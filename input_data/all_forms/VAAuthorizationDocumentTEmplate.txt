@@ -1,0 +1,93 @@
+﻿
+DIRECTIONS FOR USE OF THIS TEMPLATE: 
+• The IRB does not use an approval stamp in the footer of the authorization document. Do not add a watermark template to the footer.
+• Complete the header with the requested information (i.e. title of study and PI name, version date). 
+• Read guidelines for each section, complete as applicable for your project and then delete the template guidelines.  
+• Example text may be used if needed but should not be italicized.  Instructions in red font should be replaced or deleted.  
+• Phrases such as “I understand…” or “You understand…” are not appropriate and should not be included in the document.
+• The document should be written at an appropriate grade level for the group of participants. Most word processors include the ability to assess the reading level.
+• The form should include the section headings indicated by bold, underline, and capital text.  The descriptions provided in each section are included to assist you in writing an adequate consent document. These are consistent with VA policy, Federal regulation.  If you need assistance in preparing your document, please feel free to contact the VA Human Research Protection Program Office at 801-582-1565 extension 4866.
+
+AUTHORIZATION FOR USE OF MY PROTECTED HEALTH INFORMATION 
+
+You have been asked to be part of a research study under the direction of <<insert name of Principal Investigator>> and <<his or her>> research team.  The purpose of this study is <<insert brief description of study in one or two sentences; see Description of Purpose in next paragraph for more information>>.
+
+Description of Purpose:  The HIPAA authorization includes a description of each purpose for which the information will be used or disclosed.  A statement such as “for research purposes” is sufficient, though a more thorough description is preferred.  If the study will eventually close, but the data will remain in a repository, the authorization should cover both events. (Ref: VHA Handbook 1605.1, ¶14b).  This description of purpose can be copied and pasted from the Consent Form into this HIPAA authorization.
+
+By signing this document, you authorize the Veterans Health Administration (VHA) to permit <<insert PI name>> and the research team to use and disclose the following information about you.
+
+You can choose whether or not you will participate in this research study. However, in order to participate you have to sign this authorization form.
+
+
+
+This is the information we will use and/or disclose: The following list includes examples of information that might be used and/or disclosed.  Modify the following list as appropriate – delete or add items as necessary.  Identify the information in a specific and meaningful manner.
+- Name
+- Address
+- Telephone number
+- Family medical history
+- Allergies
+- Current and past medications or therapies
+- Information from a physical examination, such as blood pressure reading, heart rate, breathing rate, and temperature
+- All other tests and procedures that will be performed in the study (be specific)
+- Any other personal health information that will be obtained from other sources to be used in the research record, including prior medical history, tests or records from other sites (be specific).  THIS IS ONLY AN EXAMPLE-IF INFORMATION IS NOT GOING TO BE USED FROM OTHER SOURCES AND/OR SITES, DO NOT INCLUDE THIS STATEMENT IN YOUR AUTHORIZATION
+
+By signing this Authorization, I am giving permission for the Principal Investigator and their research team to use and disclose the categories of my protected health information that the Principal Investigator has checked below:
+
+* Drug Abuse
+* Alcoholism or alcohol abuse
+* Testing for or Infection with Human Immunodeficiency Virus (HIV)
+* Sickle Cell Anemia
+
+Others who will have access to your information for this research project are the University of Utah’s Institutional Review Board (the committee that oversees research studying people) and authorized members of the VA Salt Lake City Health Care System (VASLCHCS) workforce who need the information to perform their duties (for example: to provide treatment, to ensure integrity of the research, and for accounting or billing matters). Offices within the VA such as the Office Research Oversight, the Office of Research Development, the Inspector General and the Government Accounting Office who have authority to review and evaluate the conduct of research may have access to your information.
+Disclosure: If you might disclose PHI to anyone outside the VASLHCS use the following language: 
+In conducting this study, we may share your information with groups outside the VASLCHSC. The information we share may include information that directly identifies you. These are the groups: 
+Modify this list as appropriate - delete or add items as necessary.  For EACH LISTING, include a brief description of WHY they will receive the information. The examples below are suggestions and may be used as applicable.  
+- Other local hospital(s) that we are working with: <<list University of Utah or any other local hospitals where information could be shared>> who are working with the investigators in studying the impact of this treatment.
+- (Specify that the study is a multi-site study that combines VA data with non-VA data, and where data will be combined and analyzed for the study.)
+- Other academic research centers we are working with: <<list all other academic centers including those at the University of Utah, and explain their roles in project>> who are working with the investigators in studying the economic impact of this treatment;
+- <<Name of group or company>>, a research data coordinating office that is responsible for collecting results and findings from all the researchers;
+- <<Name of group or company>>, a pharmaceutical company that will use the results for submissions to the Food and Drug Administration;
+- <<Name of agency>>, a federal agency that needs to confirm the accuracy of the results submitted to the government;
+- <<Name of group or company>>, a contract research organization, whose job is to review and correct any mistakes before the results are given to the sponsor or government;
+- <<name any other groups and why they will receive the results>>
+Individually-identifiable health information disclosed pursuant to the authorization may no longer be protected by Federal laws or regulations and may be subject to re-disclosure by the recipient.
+
+       Include the following verbatim:
+You may revoke this authorization.  This must be done in writing.  You must either give your revocation in person to the Principal Investigator or the Principal Investigator’s staff, or mail it to <<insert name and mailing address of PI>>.  If you revoke this authorization, we will not be able to collect new information about you, and you will be withdrawn from the research study.    However, we can continue to use information we have already started to use in our research, as needed to maintain the integrity of the research.  
+
+Include the following paragraph if participants will not have access to their information during the study:
+You have a right to information used to make decisions about your health care. However, your information from this study will not be available during the study; it will be available after the study is finished.
+       Include one of the following sentences:
+This authorization does not have an expiration date. 
+This authorization lasts until this study is finished.
+PI may set a specific expiration date.
+
+Non-research-related treatment, payment, enrollment, or eligibility for benefits cannot be conditioned on you completing an authorization.
+
+I authorize you to use and disclose health information about me for this study, as you have explained in this document.________________________________________________________________________________________Participant’s Name or Legal Representative (please print)Participant’s Signature or Legal Representative
+(Attach authority to sign: Health Care Power of Attorney or Legal Guardian appointment)Date
+Include the following section if a caregiver is providing consent for the participant, but does not have the authority to sign the authorization form as either (a) an individual with documented Health Care Power of Attorney, or (b) an individual with documented Legal Guardianship.  Delete this section if participants requiring a Legally Authorized Representative will not be enrolled.  
+
+FOR CAREGIVERS OR REPRESENTATIVES WHO ARE NOT LEGALLY DOCUMENTED REPRESENTATIVES:
+I confirm that I have read this authorization document.  I acknowledge receipt of the authorization provisions for this study, as described in this document, on behalf of the participant named in the document heading.  ________________________________________________________________________________________Name of Individual Providing Acknowledgment (please print)Signature of Individual Providing Acknowledgement DatePlease describe your relationship to the participant:
+
+___________________________________________________________________________________________________
+
+
+
+VA  Department of Veterans AffairsVA Authorization for Use of Protected Health Information for Research Purposes
+ Page 1 of 1Participant Name:                                                                                                            Date:  _________                            Title of Study: Principal Investigator:	VAMC:    Salt Lake City (660) 
+Authorization Version Date:_______________________________ Last 4 SSN:    Sponsor Name: 
+
+
+
+Version: 080813
+
+
+
+
+
+
+
+
+
