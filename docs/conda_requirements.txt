@@ -270,7 +270,6 @@ pyasn1-modules=0.2.4=py_0
 pycodestyle=2.5.0=py_0
 pycosat=0.6.3=py27h1de35cc_1001
 pycparser=2.19=py_0
-pycrypto=2.6.1=py27h1de35cc_1002
 pycurl=7.43.0.2=py27ha12b0ac_0
 pyflakes=2.1.0=py_0
 pygments=2.3.1=py_0
@@ -298,7 +297,7 @@ python-libarchive-c=2.8=py27_1004
 python.app=1.2=py27h1de35cc_1200
 pytz=2018.9=py_0
 pywavelets=1.0.1=py27h917ab60_1000
-pyyaml=3.13=py27h1de35cc_1001
+pyyaml=5.1=py27h1de35cc_0
 pyzmq=18.0.0=py27h111632d_0
 qt=5.6.2=h822fa55_1013
 qtawesome=0.5.6=pyh8a2030e_0
