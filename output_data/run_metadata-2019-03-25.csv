@@ -2,7 +2,3 @@ variable,value
 preliminary sentence threshold,9
 candidate similarity threshold,0.95
 secondary sentence threshold,9
-variable,value
-preliminary sentence threshold,9
-candidate similarity threshold,0.95
-secondary sentence threshold,9
