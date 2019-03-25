@@ -1,0 +1,694 @@
+﻿Protocol Title:  
+
+[If required by the sponsor you may add the Sponsor Protocol Number such as noted
+Here: 
+[Sponsor Protocol Number: (protocol number)]
+
+
+DF/HCC Principal Research Doctor / Institution:  
+
+DF/HCC Site-Responsible Research Doctor(s) / Institution(s):  
+[Here identify the specific site and the research doctor responsible at that site. If there are none, delete this line.]
+[Descriptor If there is more than one consent form used for this protocol, insert a descriptor here, e.g., Consent for Optional Biopsies, or Consent for Phase II, etc.  Please then describe below only what applies to the part of the study that is described here] 
+
+NOTES to Informed Consent Authors: 
+
+This template contains DF/HCC recommended language for informed consent documents.  Informed consent authors should avoid changing this text except where it is not relevant or appropriate to a specific protocol.
+* Model text for use in the informed consent form is in black text.  In most cases the black text should be retained when adapting the template to a specific protocol.  However, for some types of studies, the language may not be appropriate. If you have questions about the applicability of text in this template, please contact the Office for Human Research Studies (OHRS) at (617) 632-3029.
+* Instructions and examples for informed consent authors are in [brackets and italics].  A blank line, ______, is used where the information to be inserted is clear. 
+* The term "research doctor" has been used throughout the template because the Principal Investigator of a cancer treatment trial is a physician.  If this template is used for a trial where the Principal Investigator is not a physician, another appropriate term should be used instead of "research doctor".
+* Once completed, please delete all instructions, i.e., blue text - these statements are provided for guidance to consent writers only.  After deleting instructions, please review the consent form for proper formatting and eliminate orphan heading (i.e., where the heading is printed by itself at the bottom of a page and the text follows on the next page).
+* OPTIONAL STUDIES: Whenever possible, the IRB prefers that the optional studies be incorporated into the main consent under a separate section. Each optional studies section should include a separate section for the participant's initials and the date. This initial/signature section should be placed after the privacy section and before the assent/consent documentation sections.
+* COMBINATION PHASE STUDIES (e.g. Phase I/II): Generally, the IRB will review separate consent forms for each phase of the study.  Only the consent form for the phase that is open needs be submitted.  Please contact OHRS if both the Phase I and Phase II portions will be open to enrollment concurrently.
+* PHASE I and NON-TREATMENT STUDIES: Please do not use the word "treatment" when referring to the "study drug." Please use "study drug," "study agent," "study drug administration," etc. as appropriate.
+* TISSUE COLLECTIONS/OWNERSHIP: If the protocol involves the collection of tissue, where appropriate, please include the following statement, "If participation in this protocol involves providing a specimen of your tissue, please know that if the investigator leaves the institution, the research and the tissue might remain at the DF/HCC or might be transferred to another institution."
+* SHARING TISSUE/DATA WITH COMMERCIAL ENTITIES: When sending the data or tissue with commercial entities, please make sure that the protocol states with whom identified and de-identified information will be shared. 
+If you are a parent or guardian of a child under 18 years old, the word "you" refers to your child.  You, the parent, will be asked to read and sign this document to give permission for your child to participate.  [Delete this paragraph if the study involves adults only.]
+
+A. INTRODUCTION
+
+You are invited to take part in a clinical trial, a type of research study, because you have ____ [State the general disease to be studied, for example: colon cancer] [Describe specifically the type/stage/presentation of the disease being studied here.  For example: "Colon cancer that has spread and has not responded to standard treatment."]  This research study is studying a ____ [State the primary study intervention modality, for example: chemotherapy, surgical intervention, targeted therapy, etc.] as a possible treatment for this diagnosis.  
+
+The names of the study interventions involved in this study are:
+* [insert name of study intervention #1, e.g.: XYZ-123987]
+* [insert name of intervention #2: e.g. Surgical Removal of the Lymph Nodes]
+* [insert name of intervention #3: e.g. Stem Cell Transplant]
+* etc.
+
+For purposes of this research, you will be referred to as a "participant".  
+
+It is expected that about ____ [state the total number at all participating centers] people will take part in this research study. 
+
+_______ [name of sponsor or supporter] is supporting this research study by providing ____ [funding for the research study, the study drug, etc.].  
+
+This research consent form explains why this research study is being done, what is involved in participating in the research study, the possible risks and benefits of participation, alternatives to participation, and your rights as a research participant.  The decision to participate is yours.  If you decide to participate, please sign and date at the end of this form. We will give you a copy so that you can refer to it while you are involved in this research study. If you choose not to participate in this research study, the research doctors will discuss other treatment options with you and/or refer you back to your primary doctor. 
+
+We encourage you to take some time to think this over, to discuss it with other people and your primary doctor, and to ask questions now and at any time in the future.
+
+
+B. WHY IS THIS RESEARCH STUDY BEING DONE? 
+
+[Select the appropriate paragraph to include as appropriate for the Phase of the study.  This section should also clearly explain what portions of the protocol are investigational / experimental as opposed to procedures that are done as standard of care.]
+
+[For Phase I studies, include the following:]
+This research study is a Phase I clinical trial, which tests the safety of an investigational intervention and also tries to define the appropriate dose of the investigational intervention to use for further studies.  "Investigational" means that the intervention is being studied.  
+
+[For Phase I/II studies in Phase I, include the following:]
+This is a Phase I/II clinical trial.  You are being asked to participate in the Phase I portion of the study.  A Phase I clinical trial tests the safety of an investigational intervention and also tries to define the appropriate dose of the investigational intervention to use for further studies.  "Investigational" means that the intervention is being studied.  
+
+[For Phase I/II studies in Phase II, include the following:]
+This is a Phase I/II clinical trial.  You are being asked to participate in the Phase II portion of the study.  Phase II clinical trials test the safety and effectiveness of an investigational intervention to learn whether the intervention works in treating a specific disease.  "Investigational" means that the intervention is being studied.  
+  
+[For Phase II studies, include the following:]
+This research study is a Phase II clinical trial.  Phase II clinical trials test the safety and effectiveness of an investigational intervention to learn whether the intervention works in treating a specific disease.  "Investigational" means that the intervention is being studied.  
+
+[For Phase II/III studies in Phase II, include the following:]
+This is a Phase II/III clinical trial.  You are being asked to participate in the Phase III portion of the study.  Phase II clinical trials test the safety and effectiveness of an investigational intervention to learn whether the intervention works in treating a specific disease.  "Investigational" means that the intervention is being studied.  
+
+ [For Phase III studies:]
+This research study is a Phase III clinical trial.  Phase III clinical trials gather more information about safety and effectiveness by studying different populations and different dosages (or techniques) and by using the investigational intervention in combination with other interventions.
+
+[For Phase II/III studies in Phase III, include the following:]
+This is a Phase II/III clinical trial.  You are being asked to participate in the Phase III portion of the study.  Phase III clinical trials gather more information about safety and effectiveness by studying different populations and different dosages (or techniques) and by using the investigational intervention in combination with other interventions.
+
+[For Phase IV studies (including Phase III/IV studies in Phase IV) include the following:]
+This research study is a Phase IV clinical trial, which tests the safety and effectiveness of an investigational combination of drugs, each of which have been previously approved for use by the FDA to treat your specific disease.
+
+[If this is a Single Patient IND, include the following:]
+This research study is a Single Patient IND study, which is a way to provide an investigational therapy to an individual patient who is not eligible to receive the investigational therapy on an available clinical trial.  To be eligible for a single patient IND, the patient has to have a serious or life-threatening illness for which no other treatments are available.
+
+[If this is an Expanded Access Trial, include the following:]
+This research study is an Expanded Access Trial, which is a way to provide an investigational therapy to individuals who are not eligible to receive that therapy in a clinical trial, but have a serious or life-threatening illness for which other treatments are not available.  Expanded access trials allow individuals to receive promising but not yet fully studied or approved treatments when no other treatment option exists.
+
+[If this is a Pilot Study, include the following:]
+This research study is a Pilot Study, which is the first time investigators are examining this study intervention.
+
+[If this is a Feasibility Study, include the following:]
+This research study is a Feasibility Study, which is the first time investigators are examining this study intervention.
+
+[If this is an Emergency Use Study, include the following:]
+This research study is an Emergency Use Study, which is a way to provide an investigational therapy to an individual patient in a life-threatening situation in which no standard acceptable treatment is available and in which there is not sufficient time to obtain Institutional Review Board (IRB) approval prior to treatment.  An IRB is a group of individuals that review and approve the detailed plan for the research before it starts.  IRBs are intended to protect participants in research by ensuring the trial is well designed and ethical.  IRBs also weigh the risks and the benefits and review the investigators safety plan.  After the investigational therapy is administered the investigator will notify the IRB of the Emergency Use.   
+
+
+[If the intervention is FDA regulated but NOT FDA approved for any use, please include the following:] 
+The FDA (the U.S. Food and Drug Administration) has not approved [specify the drug/device name] as a treatment for any disease.
+
+[If the intervention is FDA regulated and FDA Approved, but not FDA approved for this indication, please include the following:] 
+The FDA (the U.S. Food and Drug Administration) has not approved [specify the drug/device name] for your specific disease but it has been approved for other uses.
+
+[If the intervention is FDA regulated and FDA Approved for this indication, please include the following:] 
+The FDA (the U.S. Food and Drug Administration) has approved [specify the drug/device name] as a treatment option for your disease.
+
+
+[If this is a first in human study, include the following:]
+This is the first time that [specify the drug/device name] will be given to humans.
+
+[If this is a first in children study, include the following:]
+This is the first time that [specify the drug/device name] will be given to children.
+
+
+[Please explain in lay language why this study is being done and what you hope to learn from the research, include the following information:
+In this research study, we are...
+* What is the name of the intervention that is being studied;
+* How was the intervention developed or identified as a possible treatment;
+* How is the intervention expected to treat the disease; 
+* Specify whether the intervention been used as a treatment for another disease, or if it has only been tested in laboratory experiments; 
+* Explain what information was learned from any prior uses / investigations;
+* Describe what you are hoping to learn in this research (e.g. looking for the highest dose that can be given safely or whether it works in combination with other drugs, etc.]
+
+
+C. WHAT OTHER OPTIONS ARE THERE?
+
+Taking part in this research study is voluntary. Instead of being in this research study, you have other options which may include the following [include in bulleted format only those items that are appropriate; delete bulleted items that are not appropriate for this participant population or this research study. For example, if participants would not be candidates for palliative care outside the research context, do not include the "comfort care" bullet as an option]:
+
+* Receive standard treatment including ____ [specify the standard treatment].
+* Take part in another research study. 
+* Receive the same drugs, but not as part of a research study. 
+* Receive no therapy specific to your cancer.
+* Comfort care, also called palliative care.  This type of care may help to reduce pain, tiredness, appetite problems and other problems caused by the cancer.  It does not treat the cancer directly, but instead tries to treat the symptoms.  
+
+Please talk to the research doctor about your options before you decide whether you will take part in this research study.
+
+
+D. WHAT IS INVOLVED IN THE RESEARCH STUDY?
+
+[Instructions:
+* Please describe each study procedure in bullet format so the participants understand what will happen and then use a table to specify when the procedures will occur. 
+* Please also make sure to define the length of a cycle in days or weeks.
+* Specific instructions about how to take the drug, vomited and missed doses, etc., should not be included in the consent form but should be included in a separate drug diary.]  
+
+[For dose escalation studies, insert the following:]  Since we are looking for the highest dose of the study drug that can be administered safely without severe or unmanageable side effects in participants that have [insert disease name], not everyone who participates in this research study will receive the same dose of the study drug.  The dose you get will depend on the number of participants who have been enrolled in the study before you and how well they have tolerated their doses. 
+
+[For randomized studies, insert the following:] Because no one knows which of the study options is best, you will be "randomized" into one of the study groups: ____ [describe the groups]. Randomization means that you are put into a group by chance. It is like flipping a coin.  Neither you nor the research doctor will choose what group you will be in. [If blinded include the following: "Neither you nor the research doctor will know what group you are in."]  You will have a ____ [equal/one in three/etc.] chance of being placed in any of the following groups: 
+
+[Describe each study group, for example:  
+* Arm A: Standard Chemotherapy for 12 treatments plus placebo
+* Arm B: Standard Chemotherapy for 12 treatments plus study drug
+* Arm C: Standard Chemotherapy for 6 treatments plus placebo
+* Arm D: Standard Chemotherapy for 6 treatments plus study drug]
+
+
+[For placebo studies, insert the following:]  You will be given a study medication and it will contain either ____ [name of drug] or placebo (pills with no medicine).
+
+[If applicable, include the following information here: Please explain whether the study drug will or will not be available after the study ends.] 
+
+Sometimes it is hard to keep track of all of the details and procedures that are part of a research study.  We will describe them in this consent form and you can refer to this at any time during the research study.
+
+If a drug diary will be given please include the following: If you take part in this research study you will be given a drug diary.  You will be asked to document information in the drug diary about the study treatment you are being asked to take.
+
+If a study calendar will be given, please include the following: If you take part in this research study you will be given a study calendar.  Information about what to expect during and between study visits will be included in the study calendar.
+
+
+[If applicable, include information about any study visits that may be excessively long especially if the visit will be more than several hours and/or require an overnight stay.]  
+
+
+Before the research starts (screening):  
+After signing this consent form, you will be asked to undergo some screening tests or procedures to find out if you can be in the research study.  Many of these tests and procedures are likely to be part of regular cancer care and may be done even if it turns out that you do not take part in the research study.  If you have had some of these tests or procedures recently, they may or may not have to be repeated.  
+
+[List all screening tests and procedures, using a bulleted format, for example:]
+* A medical history, which includes questions about your health, current medications, and any allergies.
+* Performance status, which evaluates how you are able to carry on with your usual activities. 
+* An assessment of your tumor by one or more of the following standard assessment tools: X-ray, CT (Computerized Tomography) scan, MRI (Magnetic Resonance Imaging) or PET (Positron Emission Tomography) scans
+* Blood tests. 
+* Urine test.
+* [add additional tests as appropriate (e.g. DCE-MRI (Dynamic Contrast Enhanced-Magnetic Resonance Imaging) scans].
+
+If these tests show that you are eligible to participate in the research study, you will begin the study treatment.  If you do not meet the eligibility criteria, you will not be able to participate in this research study.
+
+
+Additional research procedures to be performed at the time of screening but not required to determine eligibility:  
+[This section typically lists the procedures that must be completed before registration, but are not procedures to determine eligibility - if not applicable, please delete section.]
+* Blood tests, [if appropriate: including baseline tests so that we can measure any additional effect of the study drug and disease status], [and/or if appropriate add: or to look for a marker for your particular type of cancer.] 
+* Pharmacokinetic (PK) blood samples: PK blood samples to monitor how your body absorbs and breaks down the study drug.  Each blood sample will be approximately ___ teaspoon.
+* HIV tests, [if appropriate: You will have blood samples (about 2 tablespoons) taken to test for HIV (human immunodeficiency virus).  The purpose of this routine laboratory test is to determine whether the virus that is associated with Acquired Immune Deficiency (AIDS) that harms the immune system is present in your blood.  The results of these tests will appear in your medical record and will be shared with health care workers involved in your care.  The test results will be shared with the study sponsor(s), its subcontractors and/or its agents to perform functions relating to the conduct of this research.  All positive results will be shared with a health authority (e.g., the State Department of Health) as required by law.] 
+
+
+[Instructions: Duplicate the Study Visit section as many times as needed.  Please list all tests and procedures, using the template language in bulleted format as shown below.]
+
+Study Visit: [Add here a Visit Description (e.g. Before Study Treatment Begins, Day 1 of Each Cycle, Cycle 3, Day 15, or After Study Treatment Ends)]
+
+[If appropriate, please describe the study visit here in paragraph form.]
+
+This visit will involve the following:
+* Oral Study Drug(s):  Each treatment cycle lasts _____ weeks/days during which time you will be taking the study drug ____ times per day.  This will continue for up to ____ days/weeks/months/cycles/years.    
+* Infused Study Drug(s):  You will be given the study treatment(s) once every ___ days/weeks into your vein (by intravenous infusion) over about ___ minutes/hours.  This will continue for up to ___ weeks/cycles.  
+* You may be pre-medicated with drugs to reduce the chance of having a sensitivity reaction to the study treatment.  If you tolerate the study treatment without a reaction, then pre-medications may be changed by your doctor.
+* Clinical Exams:  During this visit you will have a physical exam and you will be asked questions about your general health and specific questions about any problems that you might be having and any medications you may be taking.
+* Performance status, which evaluates how you are able to carry on with your usual activities. 
+* Scans (or Imaging tests): We will assess your tumor by ___ [the appropriate imaging modality, e.g., CT scan or MRI, etc.]
+* Photographs:  Photographs will be taken of your tumor to assess the response of your tumor to the treatment. Care will be taken to ensure these do not reveal your identity.
+* Blood tests. 
+* Urine test.
+* Tumor biopsies. [Please describe in detail what is involved.  If a separate consent form will be signed for the biopsy procedure, please state this here.]
+* [Add here as necessary.]
+
+
+Research Study Plan:
+[If appropriate, include a simple table.  The schema from the protocol should not be used as it is usually too complex. The main purpose of the table is to tell participants when the procedures described above will be conducted.] 
+
+Example of a simplified chart:
+
+Visit 1Visit 2Visit 3Visit 4Visit 5Every 4 weeksEvery 8 weeksFinal
+ VisitScreeningDay 1Day 15Day 29Day 57Medical History & Physical ExamXXXXXXXXBlood TestXXXXXXXXCT scanXXXBone Marrow BiopsyXTumor BiopsyXXPregnancy TestXXXXXUrine TestXXXXXEKGXXXXXReceive study drugXXXX
+
+Planned Follow-up: 
+[Explain the follow-up procedures.  For example: We would like to keep track of your medical condition for the rest of your life.  We would like to do this by calling you on the telephone once a year to see how you are doing.  Keeping in touch with you and checking your condition every year helps us look at the long-term effects of the research study.].  
+
+
+E. HOW LONG WILL I BE IN THIS RESEARCH STUDY?
+
+You will be in this research study for about [estimated length of time].  
+[Or - you will be on the study treatment for about _________ [e.g., 6 months] and be followed for __________. [e.g., 3 years]]
+
+The research doctor may decide to take you off the research study for many reasons including if:
+* It is considered to be in your best interest
+* The study treatment or procedures are found to be unsafe or ineffective
+* There is any problem with following study treatments and procedures
+* Your condition worsens
+* A decision is made to close the study
+* Or for other unforeseen reasons that make it necessary to stop your participation in the research study
+
+If you are removed from the research study, the research doctor will explain to you why you were removed.  [Include, if appropriate what will happen if the participant is removed from the study, e.g. "The research doctor and research team will help arrange for your continued care.  If you are removed from the research study, you may be followed for up to one year.  You may continue on study treatment in the extension phase of the research study, if your research doctor determines that you are showing evidence of clinical benefit from the treatment."]  
+
+In addition, you can stop participating in the research study at any time, however, the FDA requires that any information collected up to the point of your withdrawal cannot be removed from the study.  If you decide to stop participating in this research study, we encourage you to talk to the research doctor and your primary doctor first.
+
+
+F. WHAT ARE THE RISKS OR DISCOMFORTS OF THE RESEARCH STUDY?
+
+[There is specific language that must be included in consent forms for research that involves gene transfer and retroviral drugs. The institutional biosafety offices will provide this language.]
+
+[Standard language - use only when appropriate for the study:]  There are risks to taking part in any research study. One risk is that you may get a study drug [for dose escalating studies include: or study dose of a drug] that does not help treat your disease or that makes your condition or disease worse.  Another risk is that there may be side effects.  
+
+All cancer treatments can have side effects, which can range from mild and reversible to severe, long lasting and possibly life-threatening.  There is a great deal of variability among side effects of different cancer treatments and between individuals.  In a research study, all of the risks or side effects may not be known before you start the study. You need to tell your doctor or a member of the study team immediately if you experience any side effects. 
+
+Everyone in the research study will be watched carefully for side effects.  You will be monitored during the administration of study drugs to keep track of your blood counts and organ function, particularly your kidney and liver function.  If you experience side effects, they may go away after you stop taking the study drug.  Some side effects can be mild; but others can be long lasting and may never go away.  Some may be life-threatening or fatal. 
+
+Since the effect of the study drug(s) taken with other medications may not be known, it is important that you tell the research doctor about all prescription and non-prescription drugs, herbal preparations and nutritional supplements that you are taking or planning to take. There may also be some foods that you should avoid while on this research study and your research doctor will review this information with you.
+
+During the research study, you will be notified of newly discovered side effects or significant findings, which may affect your health or willingness to participate.  You may be asked to sign a new consent form that shows that you have been informed of new information relating to this research study.
+
+[List the side effects using lay language in the categories below according to the likelihood of occurrence. 
+* Indicate what the side effect means for the participant (e.g., abnormal blood tests showing liver damage which is usually reversible when the drug is stopped or dose reduced). 
+* Give information on the reversibility of the side effect.  
+* Do not use symbols like "<" or ">".  Instead use the terms "less than" or "greater than" or whatever is most appropriate for the symbol being replaced.
+* Please format the bullets under each risk using lay terminology. Please avoid using technical medical terms unless they are the term used in speaking with subjects (in which case the term can be listed in parentheses following the lay language description.
+* Please do not include information that will become out of date or need to be updated.  For example, instead of stating "Of the thirty individuals who have received this drug to date, ten have experienced the following side effects..." please generally state: "The following side effects have been experienced by individuals who have received this drug:" Similarly, instead of stating "one participant experienced xyz...", please include these risks under the rare risks.
+* Please refer to the Common Risk Language Database available at the OHRS website for lay terminology: www.dfhcc.harvard.edu/ohrs and look under "New Submissions."
+* If there are required interventions associated with the administration of the study drug, then those risks should also be included. For example, if the administration of the study drug requires the placement of a central line, then include those risks. 
+
+NOTE for Cooperative Group Trials Only: (i.e., CALGB, ECOG, CTSU, NABTT, COG, etc.) Highly recommend presenting the risks as set forth in the model consent document and not cutting and pasting those risks into the format below. You may use your discretion in deciding whether to simply use the risk format in the cooperative group model consent. This often is both the most straightforward way to handle this, avoids potentially missing toxicities that are essential to include for cooperative groups and will be easier to maintain with future amendments. Please note that similar or related risks may be consolidated into one bullet and risks should always be presented using lay terminology that is meaningful to participants. 
+
+NOTE for Phase I Trials: Where known, the percentages, grouped as outlined below, should be used to categorize risks associated with drugs used in the trial.  Also, if first in man consider including a statement that not all risks are known.
+
+Additionally, if this is a dose escalation study, please include a statement such as the following:  "One risk is that you may get a dose of the study drug that does not help treat your disease or that makes your condition or disease worse.  Another risk is that there may be side effects."
+
+NOTE for Phase II and III Trials: Percentages should be used to categorize risks associated with drugs in Phase II and Phase III trials. As a guideline, "likely" risks are those occurring in greater than 50% of patients; "frequent" in 10-50% of participants; "occasional" in 1-10%; and "rare" in less than 1%. However, if the exact percentages are not known, then the terms likely, frequent, occasional, and rare can be used without including the associated percentage categories. You should be sure to identify those side effects that may be "serious." Serious is defined as side effects that may require hospitalization or may be irreversible, long-term, life threatening or fatal.
+
+NOTE re what risks to include: Please list risks for the following:
+* Risks associated with the investigational drug, device or biologic
+* Risks associated with drugs or combination of drugs being evaluated as part of the study regardless of whether they are used on or off label
+* Risks associated with any procedures that will be performed only as part of the research (i.e., the procedures would not be conducted if the participant were not participating in the study)
+* Risks associated with any procedures required to administer the drugs, e.g., placement of a central line. ]
+
+Risks Associated with [Study Intervention Name]:
+Likely [If applicable, add: (More than a 50% chance that this will happen)]
+* [List risks using a bulleted format with the most significant risks listed first. Make sure that you use lay language to describe a risk.]
+
+Frequent [If applicable, add: (Between a 10-50% chance that this will happen)]   
+* [List risks using a bulleted format with the most significant risks listed first. Make sure that you use lay language to describe a risk.] 
+
+Occasional [If applicable, add: (Between a 1-10% chance that this will happen)]
+* [List risks using a bulleted format with the most significant risks listed first. Make sure that you use lay language to describe a risk.]
+
+Rare [If applicable, add: (Less than a 1% chance that this will happen)]
+* [List risks using a bulleted format with the most significant risks listed first. Make sure that you use lay language to describe a risk.]
+
+[Include the following paragraph if the study involves research biopsies, scans or x-rays.] Cancer research often includes biopsies, scans, x-rays that are also provided as routine care.  The following describes the side effects of procedures done only for the purposes of research. 
+
+Risks Associated with Biopsies:
+[For studies that involve biopsy of tissue other than bone marrow, use the following language. Include only what pertains to the research study.] Biopsies are normally performed under the guidance of an imaging technique. Each procedure requires a separate consent prior to the biopsy. The risks may include:
+* Pain and discomfort. The amount of pain and discomfort will vary, depending on the location of the biopsy site. These risks can be discussed with the study doctor.
+* Minor bleeding at the biopsy site.
+* Tenderness at the biopsy site.
+* Scarring at the biopsy site.
+* Rarely, an infection at the biopsy site.
+
+[If applicable insert the following:] Uncommonly, complications from biopsies can be life threatening. As with any interventional procedure, other potentially serious complications from bleeding or organ damage may occur. These might require additional surgical intervention.
+
+Radiation Risks Associated with Scans and X-Rays: 
+[This language will be reviewed by the appropriate Radiation Safety Offices and should be consistent with the Radiation Safety Screening Form.  Only include if the scans are not standard of care.]  While you are in this research study, CT scans, PET/CT scans, Bone Scans, x-rays, mammograms, and/or other scans utilizing radioactivity [Include only those scans/x-rays that are applicable.] may be used to evaluate your disease.  The frequency of these exams is slightly greater than what you would receive as standard care. In the long term, over many years, there is a very low risk of developing a new cancer as a result of the radiological evaluation and treatment for your cancer.  [Include if appropriate:] Certain types of drugs or combinations of these drugs with radiation may further slightly increase the risk of developing a new cancer.  This risk is described above, in the section about the risks associated with [study drug(s)].
+
+
+Risks Associated with Mammograms: 
+[For studies that involve ONLY mammograms that are more frequent than standard of care, you may use the following language. For studies that involve mammograms and other radioactive agents, please add this language to the previous section, "Risks Associated with Radiological Scans and X-Rays."]  While you are in this research study, mammograms may be used to evaluate your disease.  [If scans are for research purposes state: The frequency of these exams is greater than what you would receive as standard care.  But if scans are NOT for research purposes state: The frequency of these exams is about the same as what you would receive as standard care.] There is thought to be a low but increased risk of cancers associated with radiation in the long term over many years.  
+
+[If done for screening purposes only, please include the following:] In addition, there is a chance of having an abnormal mammogram. This could require further testing with a breast biopsy and possible other tests. If you have an abnormal mammogram, this could result in your needing a breast biopsy you would not otherwise get. An abnormal mammogram may cause you to feel upset, worried, or depressed. If you are upset, you may speak with the research doctor or ask to be referred for additional emotional support.
+
+Risks Associated with MRI Scans: 
+When having an MRI (Magnetic Resonance Imaging) scan, you will lie still on a table that slides into a tunnel slightly wider than your body. People who feel uncomfortable in confined spaces (claustrophobia) may feel uncomfortable in the narrow cylinder. If you feel uncomfortable in confined spaces, please tell your research doctor. Your doctor may give you a medication to make you feel more comfortable. As images are taken, a loud banging noise will be produced.  Earplugs or headphones will be available if needed. The MRI can be stopped at any time at your request, but the scan may not be complete.
+
+[Include only if appropriate:] 
+Risks Associated with Contrast Agents Used During Scans:
+[Include only if appropriate:] There is a small risk with using a contrast agent that is injected into a vein during the ______ [indicate type of scan, eg. CT scan or MRI].  The contrast agent is a special dye that highlights organs, blood vessels or tissue to make them more visible.  Depending on the type of contrast agent that is used, it may cause decreased kidney function or worsen kidney function in people who already have decreased kidney function.  Therefore, we will monitor your kidney function closely while you participate in this study.  If there is any change in your kidney function, we may have to remove you from the study.
+
+[Include only if appropriate:] Uncommonly, some people have allergic reactions (such as hives and itching) to the contrast agent.  Serious reactions (for example, drop in blood pressure, difficulty breathing or severe allergic reaction and death) are rare.  
+
+Reproductive Risks: 
+[Include if appropriate:] The drugs used in this research study may affect a fetus.  While participating in this research study, you should not become pregnant [delete for studies with only male participants] or father a baby [delete for studies with only female participants], and should not nurse a baby [delete for studies with only male participants].  Let your doctor know immediately if you become pregnant or find out that you are going to be the father of a child.  We can provide counseling about preventing pregnancy for either male or female study participants. 
+
+[When applicable, include the following:] In the event that your partner becomes pregnant, it may be critical to share information regarding your participation in this research study with that person.  Your research doctor should also be told if this happens.  The study sponsor may want to collect data on your partner's pregnancy.  
+[For certain agents, such as thalidomide and related compounds, additional risks should be included as appropriate.]  
+
+Non-Physical Risks: 
+[Include if appropriate:] Because of side effects or the time required for tests and clinic visits while you are on this research study, you may be unable to keep up with your normal daily activities. 
+
+[Include if appropriate:] The questionnaires used in this study may be upsetting. If you find the questionnaires upsetting, you may speak with the research doctor or ask to be referred for additional emotional support.
+
+
+G. WHAT ARE THE BENEFITS OF THE RESEARCH STUDY?
+
+[Include if Phase I Study:] 
+This study is unlikely to help you. Taking part in this research study may help us learn more about ____ [study drug/procedure, etc.] as a treatment for ____ [enter type of cancer] that may help people in the future.
+  
+					OR
+
+[Include if Phase II Non-Controlled Study:] 
+This study may or may not help you because researchers do not know how ____ [study drug/procedure, etc.] will compare to the usual approach. This study may help researchers learn things that may help people in the future.
+
+					OR
+
+[Include if Phase II or III Controlled Study:] 
+This study may or may not help you, but researchers should learn if it can improve your survival by six months or more compared to the usual survival of about two years with the usual approach for treating ____ [enter type of cancer]. This study may also help researchers learn things that may help people in the future.  
+
+H. CAN I STOP BEING IN THE RESEARCH STUDY AND WHAT ARE MY RIGHTS?
+
+You have the right to choose not to sign this form.  If you decide not to sign this form, you cannot participate in this research study. 
+
+You can stop being in the research study at any time.  Tell the research doctor if you are thinking about stopping or decide to stop.  He or she will tell you how to stop.  Leaving the research study will not affect your medical care outside of the research study.  
+
+If you choose not to participate, are not eligible to participate, or withdraw from this research study, this will not affect your present or future care and will not cause any penalty or loss of benefits to which you are otherwise entitled. [NOTE for Cooperative Group Trials: Highly recommend presenting this paragraph as set forth in the model consent document.] 
+
+It is important to tell the research doctor if you are thinking about stopping so your research doctor can evaluate the risks from stopping the ____ [drug /combination of drugs / intervention].  [Please include the following statement if there are risks associated with stopping the study drug abruptly: In some cases, the abrupt stopping of a drug can have risks in itself.] Another reason to tell your research doctor that you are thinking about stopping is to discuss what follow-up care and testing could be most helpful for you.
+
+
+I. WILL I BE PAID TO TAKE PART IN THIS RESEARCH STUDY?
+
+[Please state whether participants will receive payment for participating in this study. If they will receive payment, please describe. Please note that this section should not be used to describe compensation for research related injuries which is covered later in this consent form.]
+
+[Please include the following language, if applicable:]
+The study sponsor may reimburse you for qualifying study-related travel costs and/or expenses.  Study staff will review the reimbursement plan and any requirements for reimbursement with you.
+
+[When the research might lead to a medical discovery that could result in the commercial development of a product or medical test, include the following statement:] We may use your samples and information to develop a new product or medical test to be sold.  The sponsor and hospital may benefit if this happens. There are no plans to pay you if your samples are used for this purpose. 
+
+
+J. WHAT ARE THE COSTS?
+
+Taking part in this research study might lead to added costs to you or your insurance company.
+
+[NOTE: Please state whether the cost of the study drug will be covered.  Please do not list who will cover payment for costs for procedures because they might conflict with the billing grids.] 
+
+[If appropriate, include the following] You will not be charged for ____ [insert drugs]. [If appropriate, include the following] It is possible that ____ [insert drugs] may not continue to be supplied free for some reason.  If this would occur, your research doctor will talk with you about your options. 
+
+[If this applies to your study, add this statement:] You or your insurance company will be charged for portions of your care during this research study that are considered standard care, [if applicable, add "including the following study drugs...."]. You may be responsible for co-payments and deductibles that are typical for your insurance coverage.
+
+[For drugs that are commercially available, but used off label, please include the following language if applicable (e.g., peer reviewed publications supporting the off-label use).  Please contact your clinical trials billing department if you have questions: [Drug name] is commercially available which means that the FDA has approved it for use in patients with another type of cancer.  Because there is evidence that supports using this drug in patients with your type of cancer, you or your insurance company will be billed for the cost of _____[drug name].]
+
+If you have questions about your insurance coverage, or the items you might be required to pay for, please call financial services for information.  The contact information for financial services are:  [include only the relevant institutional numbers]
+
+* Beth Israel Deaconess Medical Center: (617) 667-5661
+* Boston Children's Hospital: (617) 355-7188
+* Brigham and Women's Hospital: (617) 732-5524 or (617) 732-7485
+* Dana-Farber Cancer Institute: (617) 632-3455
+* Massachusetts General Hospital: (617) 726-2191
+* Dana-Farber/Brigham and Women's Cancer Center (DF/BWCC) in clinical affiliation with South Shore Hospital: (781) 624-4329
+* Dana-Farber/New Hampshire Oncology-Hematology: (603) 552-9106
+* Dana-Farber/Brigham and Women's Cancer Center  (DF/BWCC) at Milford Regional Medical Center: (508) 422-2970
+* Dana-Farber Cancer Institute at Steward St. Elizabeth's Medical Center: (800) 664-3884
+* Massachusetts General Hospital/North Shore Cancer 
+Center: (978) 882-6319
+* Massachusetts General Hospital at Emerson Hospital - Bethke: (978) 287-3043 or (978) 287-3064
+* The Lawrence. & Memorial Cancer Center in affiliation with Dana-Farber Community Cancer Care: (860) 442-0711 ext. 4702
+* Cape Cod Healthcare: (508) 862-7575
+* Lowell General Hospital: (978) 937-6600
+* Newton Wellesley Hospital: (617) 243-6392
+* New Hampshire Oncology-Hematology, P.A.:  (603) 622-6484
+
+The National Cancer Institute provides an online resource to help people participating in cancer clinical trials understand which services their insurance company is required by law to pay.  This can be found at the website below or can be provided by the study team:
+
+www.cancer.gov or 1-800-4-CANCER (1-800-422-6237)
+
+
+K. WHAT HAPPENS IF I AM INJURED OR SICK BECAUSE I TOOK PART IN THIS RESEARCH STUDY?
+
+[Include only what applies to the study. If there is sponsor-specific injury language to include, please include it, but avoid redundancy and do not include any exculpatory language, i.e., language that suggests to participants that they are giving up rights or benefits.
+
+
+If you think you have been injured as a result of taking part in this research study, tell the person in charge of this research study as soon as possible.  The research doctor's name and phone number are listed in this consent form.
+
+We will offer you the care needed to treat injuries directly resulting from taking part in this research.  We may bill your insurance company or other third parties, if appropriate, for the costs of the care you get for the injury, but you may also be responsible for some of them.
+
+[If applicable, please include the following paragraph (refer to the OHRS Information Sheet on Sponsor Requests for PHI related to Adverse Events (AE)):] 
+[Name of sponsor/funding source] will pay your costs for reasonable and necessary care if you have been injured as a result of taking part in this research study.  If you receive Medicare and [Name of sponsor/funding source] pays for medical treatment for injury relating to your participation in this research, [Name of sponsor/funding source] will need to collect certain personal information about you, such as your name, date of birth, gender, social security number or Medicare identification number and information related to this research study.  By signing this informed consent form, you are giving permission to [Name of sponsor/funding source] to collect your personal and treatment related information and report it to the Centers for Medicare & Medicaid Services (CMS), while participating in the study and for as long as [Name of sponsor/funding source] is required by the government to report this information.  The sponsor will not use this information for any other purpose.
+
+There are no plans for any of the sponsors of this study to pay you or give you other compensation for the injury.  You do not give up your legal rights by signing this form.
+
+
+L. WHAT ABOUT CONFIDENTIALITY?
+
+We will take measures to protect the privacy and security of all your personal information, but we cannot guarantee complete confidentiality of study data. 
+
+[If medical information will become part of the hospital medical record include then add this statement:] Medical information created by this research study may become part of your hospital medical record and may be forwarded to your primary doctor. Information that does not become part of your medical record will be stored in your study file.  [If this is a clinical trial where participants are registered with QACT then add this statement:] It may also become part of a DF/HCC research database.  
+
+[When applicable add:]  The results of this research study may be published. You will not be identified in publications without your permission.
+
+For all Clinical Trials registered on clinicaltrials.gov (DF/HCC SOP REGIST-200) participants must be notified in the informed consent document that clinical trial information has been or will be submitted for inclusion in the clinical trial registry databank.  The required statement is as follows:
+
+[When applicable add without any modification to the language:] A description of this clinical trial will be available on http://www.ClinicalTrials.gov, as required by U.S. Law.  This Web site will not include information that can identify you.  At most, the Web site will include a summary of the results.  You can search this Web site at any time.
+
+M. CERTIFICATE OF CONFIDENTIALITY
+
+[Include this section ONLY if a Certificate of Confidentiality has been obtained for the study.  If you choose to also include sponsor language, please remove duplicative information.]
+
+This research study is being conducted by ____ [add name of organization obtaining the certificate].  To help protect your privacy, ____ [add name of organization obtaining the certificate] has obtained a Confidentiality Certificate from the Department of Health and Human Services (DHHS).
+
+With this Certificate, ____ [add name of organization obtaining the certificate] cannot be forced (for example, by court subpoena) to disclose information that may identify you in federal, state, or local civil, criminal, administrative, legislative or other proceedings. Disclosure will be necessary, however, upon request of the Department of Health and Human Services for audit or program evaluation purposes.
+
+You should understand that a Certificate of Confidentiality does not prevent you or a member of your family or even the research doctor from voluntarily releasing information about yourself or your involvement in this research. Note however, that if an insurer or employer, learns about your participation, and obtains your consent to receive research information, then ____ [add name of organization obtaining the certificate] may not use the Certificate of Confidentiality to withhold this information. This means that you and your family must also actively protect your own privacy.
+
+N. WHOM DO I CONTACT IF I HAVE QUESTIONS ABOUT THE RESEARCH STUDY?
+
+If you have questions about the study, please contact the research doctor or study staff as listed below:
+
+[Add contact information for principal research doctor, research doctors and study staff as appropriate for each site - use a bulleted format.
+
+For example:
+
+Dana-Farber Cancer Institute
+* Chris Smith, MD: (617) 632-0000
+* Pat Black, RN, NP: (617) 632-0000
+
+Include a phone number and instructions on what to do if the participant needs to contact study staff outside normal business hours, for example: 
+
+24-hour contact: DFCI: Chris Smith, MD at (617) 632-0000 or page at (617) 632-0000 beeper 40000.]
+
+For questions about your rights as a research participant, please contact a representative of the Office for Human Research Studies at DFCI (617) 632-3029. This can include questions about your participation in the study, concerns about the study, a research related injury, or if you feel/felt under pressure to enroll in this research study or to continue to participate in this research study. 
+
+O. PRIVACY OF PROTECTED HEALTH INFORMATION
+
+Federal law requires Dana-Farber/Harvard Cancer Center (DF/HCC) and its affiliated research doctors, health care providers, and physician network to protect the privacy of information that identifies you and relates to your past, present, and future physical and mental health conditions ("protected health information").  If you enroll in this research study, your "protected health information" will be used and shared with others as explained below.
+
+1. What protected health information about me will be used or shared with others during this research?
+
+* Existing medical records, including mental health records.
+* New health information created from study-related tests, procedures, visits, and/or questionnaires
+
+2. Why will protected information about me be used or shared with others?
+
+   The main reasons include the following:
+* To conduct and oversee the research described earlier in this form;
+* To ensure the research meets legal, institutional, and accreditation requirements; 
+* To conduct public health activities (including reporting of adverse events or situations where you or others may be at risk of harm); and
+* To provide the study sponsor with information arising from an adverse event or other event that relates to the safety or toxicity of the drug for the purpose of this or other research relating the study drug and its use in cancer; and,
+* Other reasons may include for treatment, payment, or health care operations.  For example, some medical information produced by this research study may become part of your hospital medical record because the information may be necessary for your medical care. (You will also be given a notice for use and sharing of protected health information.)
+
+3. Who will use or share protected health information about me?
+
+* DF/HCC and its affiliated research doctors and entities participating in the research will use and share your protected health information.  In addition, other DF/HCC offices that deal with research oversight, billing or quality assurance will be able to use and share your protected health information.
+
+4. With whom outside of DF/HCC may my protected health information be shared?
+
+While all reasonable efforts will be made to protect the confidentiality of your protected health information, it may also be shared with the following entities:
+
+* Outside individuals or entities that have a need to access this information to perform functions relating to the conduct of this research such as analysis by outside laboratories on behalf of DF/HCC and its affiliates (for example, data storage companies, insurers, or legal advisors).
+* The sponsor(s) of the study, its subcontractors, and its agent(s): ____ [enter name of sponsor] 
+* Other research doctors and medical centers participating in this research, if applicable
+* Federal and state agencies (for example, the Department of Health and Human Services, the Food and Drug Administration, the National Institutes of Health, and/or the Office for Human Research Protections), or other domestic or foreign government bodies if required by law and/or necessary for oversight purposes. A qualified representative of the FDA and the National Cancer Institute may review your medical records.
+* Hospital accrediting agencies
+* A data safety monitoring board organized to oversee this research, if applicable
+* Other, ____ [please specify] 
+
+Some who may receive your protected health information may not have to satisfy the privacy rules and requirements.  They, in fact, may share your information with others without your permission. 
+
+5. For how long will protected health information about me be used or shared with others?
+
+* There is no scheduled date at which your protected health information that is being used or shared for this research will be destroyed, because research is an ongoing process.  
+
+6. Statement of privacy rights:
+
+* You have the right to withdraw your permission for the research doctors and participating DF/HCC entities to use or share your protected health information.  We will not be able to withdraw all the information that already has been used or shared with others to carry out related activities such as oversight, or that is needed to ensure quality of the study. To withdraw your permission, you must do so in writing by contacting the researcher listed above in the section: "Whom do I contact if I have questions about the research study?"
+* You have the right to request access to your protected health information that is used or shared during this research and that is related to your treatment or payment for your treatment, but you may access this information only after the study is completed.  To request this information, please contact the researcher listed above in the section: "Whom do I contact if I have questions about the research study?"
+
+
+
+P. OPTIONAL RESEARCH STUDIES: 
+
+[If there are no optional research studies or procedures, please delete this section.  If there are optional research studies or procedures, please briefly describe them where indicated and for each optional study please include the template lines for participants to indicate their choice.  Please add as many template Optional Study sections as needed including a sequential identification number for each added Optional Study.]
+
+You are being asked to participate in some optional studies.  If you decide not to participate in any of the optional studies, you can still participate in the main research study.  Please take your time to make your decision and discuss it with your family and friends.  
+
+Your participation in these optional research studies is voluntary, and you will not be penalized or lose any benefits if you refuse to participate or decide to stop.  
+
+Optional Study #1:
+
+[Please describe the first Optional Study here]
+
+Please indicate whether or not you want to take part in the optional research studies.
+ Not applicable
+ Yes      					 Initials                       Date
+ No       					 Initials                       Date
+
+
+Optional Study #2: 
+
+[Please describe the second Optional Study]
+
+Please indicate whether or not you want to take part in the optional research studies.
+ Not applicable
+ Yes      					 Initials                       Date
+ No       					 Initials                       Date
+
+
+Optional Study #3: 
+
+[Please describe the third Optional Study]
+
+Please indicate whether or not you want to take part in the optional research studies.
+ Not applicable
+ Yes      					 Initials                       Date
+ No       					 Initials                       Date
+
+
+
+Q. DOCUMENTATION OF ASSENT
+
+[Delete this Assent Section if the research DOES NOT involve children or if you expect Assent will not be required by the IRB.]
+Signature of participant between age of 10 and 18: The person doing this research study has explained what will happen to me if I take part in this research study.  My signature below means that I want to be in this research study.  I can decide not to take part in this research study if I do not want to and nothing will happen to me if I decide I do not want to participate.  
+
+____________________________________	__________________
+Signature of Participant				Date
+
+To be completed by person obtaining assent:
+
+The assent discussion was initiated on  	 (date). 
+	The information was presented in age-appropriate terms.  The minor:
+		Agreed to take part in the study
+		Did not agree to take part in the study
+
+	An assent discussion was not initiated with the minor for the following reason(s):
+		Minor is incapacitated
+		Minor is under 10 years of age
+		Other	
+		
+
+Signature of Individual obtaining assent: 	
+
+Printed name of above: 	
+
+Date: 	
+
+
+R. DOCUMENTATION OF CONSENT
+
+My signature below indicates:
+* I have had enough time to read the consent and think about participating in this study;
+* I have had all of my questions answered to my satisfaction;
+* I am willing to participate in this study;
+* I have been told that my participation is voluntary and I can withdraw at any time
+
+
+												
+Signature of Participant				Date
+or Legally Authorized Representative  
+
+
+												
+Relationship of Legally Authorized Representative to Participant  
+
+
+[Please include the second signature line below ONLY if the IRB has determined that a second signature is required.]
+
+My signature below indicates:
+* I have had enough time to read the consent and think about participating in this study;
+* I have had all of my questions answered to my satisfaction;
+* I am willing to participate in this study;
+* I have been told that my participation is voluntary and I can withdraw at any time
+
+
+												
+Second Signature of Legally Authorized Representative	Date
+
+
+												
+Relationship of Legally Authorized Representative to Participant  
+
+
+Adult Participants
+
+To be completed by person obtaining consent:
+
+The consent discussion was initiated on  	 (date).
+
+Signature of individual obtaining consent: 	
+
+Printed name of above: 		
+
+Date: 	
+
+	A copy of this signed consent form will be given to the participant or legally authorized representative, or, where the participant is a minor, the participant's parent or legal guardian.
+For Adult Participants
+ 1)  The participant is an adult and provided consent to participate.
+		1a)  Participant (or legally authorized representative) is a non-English speaker and
+	signed the translated Short Form in lieu of English consent document:
+	As someone who understands both English and the language spoken by the participant, I interpreted and/or witnessed, in the participant's language, the researcher's presentation of the English consent form.  The participant was given the opportunity to ask questions. 
+       Signature of Interpreter/Witness: 	
+       Printed Name of Interpreter/Witness: 	
+       Date: 	
+
+		1b)  Participant is illiterate
+	The consent form was read to the participant who was given the opportunity 		to ask questions. 
+       Signature of Witness: 	
+       Printed Name of Witness: 	
+       Date: 	
+
+	2)  The participant is an adult who lacks capacity to provide consent and his/her legally authorized representative:
+       	2a) gave permission for the adult participant to participate 
+       	2b) did not give permission for the adult participant to participate 
+       
+       
+Minor Participants
+
+To be completed by person obtaining consent:
+
+The consent discussion was initiated on  	 (date).
+
+Signature of individual obtaining consent: 	
+
+Printed name of above: 		
+
+Date: 	
+
+	A copy of this signed consent form will be given to the participant or legally authorized representative, or, where the participant is a minor, the participant's parent or legal guardian.
+
+	The parent or legally authorized representative gave permission for the minor to participate.
+		Parent or legally authorized representative is a non-English speaker and signed
+		the translated Short Form in lieu of English consent document
+	As someone who understands both English and the language spoken by the participant, I interpreted and/or witnessed, in the participant's language, the researcher's presentation of the English consent form.  The participant was given the opportunity to ask questions. 
+       Signature of Interpreter/Witness: 	
+       Printed name of Interpreter/Witness: 	
+       Date: 	
+
+		Parent or legally authorized representative is illiterate
+		The consent form was read to the parent or legally authorized representative
+	who was given the opportunity to ask questions. 
+       Signature of Witness: 	
+       Printed Name of Witness: 	
+       Date: 	
+
+	The parent or legally authorized representative did not give permission for the minor to participate
+[Delete this box if the research involves adults only.]
+
+
+Research Consent Form
+for Biomedical Research
+Dana-Farber/ Harvard Cancer Center
+BIDMC/BCH/BWH/DFCI/MGH/Partners Network Affiliates 	OHRS 04.07.14
+
+
+Page 1 of 3
+
+DFCI Protocol Number:	TBDDate DFCI IRB Approved this Consent Form:	TBD Date Posted for Use:	TBDDate DFCI IRB Approval Expires:		TBD
+
+Research Consent Form		
+Dana-Farber/ Harvard Cancer Center
+BIDMC/BWH/CH/DFCI/MGH/Partners Network Affiliates
+OHRS 09.10.08
+Supercedes Version Dated: 3-03
+
+
+
+1
+
+
+DFCI IRB Protocol Number: for OHRS use onlyDate Posted for Use: for OHRS use onlyDate DFCI IRB Approved this Consent Form: for OHRS use onlyDate DFCI IRB Approval Expires: for OHRS use only
+
+

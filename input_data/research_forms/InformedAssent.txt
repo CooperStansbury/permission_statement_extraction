@@ -1,0 +1,265 @@
+﻿
+
+20, AVENUE APPIA – CH-1211 GENEVA 27 – SWITZERLAND – HTTP://INTRANET.WHO.INT/HOMES/RPC/ERC  – HTTP://WWW.WHO.INT/RPC/RESEARCH_ETHICS
+
+
+
+
+
+ (language should be at a level appropriate to the child's age and development)
+This template is written for a pre-adolescent or young adolescent.
+
+
+Notes to Researchers:
+1. Please note that this is a template developed by the WHO ERC to assist the Principal Investigator in the design of their informed consent forms (ICF). It is important that Principal Investigators adapt their own ICFs to the outline and requirements of their particular study. The logo of the Institution must be used on the ICF and not the WHO logo. 
+
+2. The informed assent form consists of two parts: the information sheet and the consent certificate. 
+
+3. Do not be concerned by the length of this template. It is long only because it contains guidance and explanations which are for you and which you will not include in the informed assent forms that you develop and provide to participants in your research. 
+
+4. This template includes examples of key questions that may be asked at the end of each section, that could ensure the understanding of the information being provided, especially if the research study is complex. These are just examples, and suggestions, and the investigators will have to modify the questions depending upon their study.
+
+5. In this template:
+• square brackets indicate where specific information is to be inserted 
+• bold lettering indicates sections or wording which should be included
+• standard lettering is used for explanations to researchers only and must not be included in your assent forms. The explanation is provided in black, and examples are provided in red in italics. Suggested questions to elucidate understanding are given in black in italics.
+
+
+TEMPLATE ON FOLLOWING PAGE
+
+
+
+
+
+
+An Informed Assent Form does not replace a consent form signed by parents or guardians. The assent is in addition to the consent and signals the child's willing cooperation in the study. 
+
+
+[Informed Assent Form for _____________________]
+
+Name the group of individuals for whom this assent is written. Because research for a single project is often carried out on a number of different groups of individuals - for example children with malaria, children without malaria, students - it is important that you identify which group particular assent is for. 
+
+( This informed assent form is for children between the ages of 12 - 16 who attend clinic X and who we are inviting to participate in research Y.)
+
+
+
+[Name of Principle Investigator]
+[Name of Organization]
+[Name of Sponsor]
+[Name of Project and Version]
+
+
+This Informed Assent Form has two parts:
+• Information Sheet (gives you information about the study)
+• Certificate of Assent (this is where you sign if you agree to participate)
+
+You will be given a copy of the full Informed Assent Form
+
+
+Part I: Information Sheet
+Introduction 
+This is a brief introduction to ensure the child knows who you are and that this is a research study. Give your name, say what you do and clearly state that you are doing research. Inform the child that you have spoken to their parents and that parental consent is also necessary. Let them know that they can speak to anyone they choose about the research before they make up their mind.
+
+ (Example: My name is ____and my job is to research and test vaccines to see which work best to stop malaria before it makes someone sick .We want to know if this new vaccine will stop children from getting sick and we think this research could help tell us that. 
+
+ I am going to give you information and invite you to be part of a research study. You can choose whether or not you want to participate. We have discussed this research with your parent(s)/guardian and they know that we are also asking you for your agreement. If you are going to participate in the research, your parent(s)/guardian also have to agree. But if you do not wish to take part in the research, you do not have to, even if your parents have agreed. 
+
+You may discuss anything in this form with your parents or friends or anyone else you feel comfortable talking to. You can decide whether to participate or not after you have talked it over. You do not have to decide immediately.
+
+There may be some words you don't understand or things that you want me to explain more about because you are interested or concerned. Please ask me to stop at anytime and I will take time to explain).
+
+Purpose: Why are you doing this research?
+Explain the purpose of the research in clear simple terms. 
+(Example:We want to find better ways to prevent malaria before it makes children sick. We have a new vaccine to prevent malaria which we are hoping might be better than the one that is currently being used. In order to find out if it is better we have to test it.)
+
+Choice of participants: Why are you asking me?
+Children, like adults, like to know why they are being invited to be in the research. It is important to address any fears they may have about why they were chosen. 
+
+(Example:We are testing  this vaccine on children who are  your age - between 12 and 16 years old - who live in a place where there is malaria . We are only  testing the vaccine on children who do not have malaria.)
+
+Participation is voluntary: Do I have to do this? 
+State clearly and in child-friendly language that the choice to participate is theirs. If there is a possibility that their decision not to participate might be over-ridden by parental consent, this should be stated clearly and simply. 
+
+(Example:You don't have to be in this research if you don't want to be. Its up to you. If you decide not to be in the research, its okay and nothing changes. This is still your clinic, everything stays the same as before.  Even if you say "yes" now, you can change your mind later and its still okay. 
+
+If applicable: If anything changes and we want you to stay in the research study even if you want to stop, we will talk to you first .)
+
+➢ Examples of question to elucidate understanding: If you decide not to take part in this research study, do you know what your options are? Do you know that you do not have to take part in this research study, if you do not wish to? Do you have any questions?
+
+I have checked with the child and they understand that participation is voluntary __(initial)
+
+Information on the Trial Drug [Name of Drug]: What is this drug and what do you know about it?
+Include the following section only if the protocol is for a clinical trial:
+
+1) give the phase of the trial and explain what that means. Explain to the participant why you are comparing or testing the drugs. 
+2) provide as much information as is appropriate and understandable about the drug such as its manufacturer or location of manufacture and the reason for its development. 
+3) explain the known experience with this drug  
+4) explain comprehensively all the known side-effects/toxicity of this drug, as well as the adverse effects of all the other  medicines that are being used in the trial
+
+
+ (Example:The vaccine we are testing in this research is called ABX. It has been tested twice before with adults who do not have malaria but who live in areas where malaria is common. We now want to test the vaccine  on teenagers who do not have malaria. This second research is called a "phase 2" trial. 
+
+The vaccine ABX is made by Company C.  It has very few side effects. It can make you feel tired for the first 24 hours after being given the drug. Also, 20% of the people who tried the drug in previous research experienced temporary swelling where the injection entered the skin. We know of no greater risk or other side effects. Some participants in the research will not be given the drug which we are testing. Instead, they will be given the drug XYZ, the drug which is most commonly used in this region to treat malaria. There is no risk associated with that drug and no known side effects.)
+
+Procedures: What is going to happen to me?
+Explain the procedures and any medical terminology in simple language. Focus on what is expected of  the child. Describe which part of the research is experimental. 
+
+
+(Example:We are going to test the vaccine by giving some of  the  children in the research study the new vaccine and the others are going to get the vaccine that is already being used to prevent malaria.  Neither you nor the researchers will know which vaccine you were given until after the study is over. By doing the research like this, we can compare which of the vaccines is better without being influenced by what we think or hope the research will show. 
+
+If you decide that you want to do this, there will be three  things that happen.
+1. In about ten days, you will come to the clinic with your parents and you will get an injection/shot in your arm. This is either the vaccine that we are testing or the vaccine that is usually used to prevent malaria. 
+
+2.. At the clinic we will also give you a mosquito net to take home and sleep under. Maybe you have seen these before. They stop mosquitoes from biting you during the night when you sleep.
+
+3. Once a month for six months after that, you will come to the clinic and the nurse will take your temperature.  She will also take a little bit of your blood, about three or four drops, from your finger with a finger prick. This might hurt a little but the hurt will go away before very long.
+
+Altogether you will come to the clinic 7  times over 7 months. At the end of seven months, the research will be finished.  
+
+I have a picture here to show you what will happen. You can ask me to stop and explain again at any time and I will explain more about the process).  
+ 
+➢ Examples of question to elucidate understanding: Can you tell me if you remember the number of times that we are asking you  to come to the hospital to complete the treatment? How many times extra will you have to come if you decide to take part in the research study?  How many injections will you be given? How many tablets? How much blood will be taken from your veins, using a syringe and needle? Over how many weeks? Etc. Do you have any other questions? Do you want me to go through the procedures again?
+
+I have checked with the child and they understand the procedures ________(initial))
+
+Risks: Is this bad or dangerous for me? 
+Explain any risks using simple, clear language. 
+
+(Example:The vaccine is considered safe. It has already been tested on adults and on other children. There has been nothing that has worried us at all. If anything unusual happens to you, however, we need to know and you should feel free you to call us anytime with your concerns or questions. Another way of us knowing how you are is by having you come to the clinic every month for a check-up. If you get sick or have concerns or questions in-between the scheduled visits to clinic, you should let me or the staff nurse know. You don't have to wait for a scheduled visit.)
+
+
+Discomforts: Will it hurt?
+If there will be any discomforts state these clearly and simply. State that they should tell you and/or their parents if they are sick, experience discomfort or pain. Address what may be some of the child's worries, for example,  missing school or extra expense to parents.
+
+(Example:There are a few  other things that I want you to know. 
+
+The injection might hurt for just a second when it goes into your arm. It might get a little bit red and hard around the place where the injection/needle goes in. That should go away in a day. If it hurts longer than that, or if it stays hard for longer or swells up, tell your parents or me. If you feel bad or strange, tell us.
+
+Sleeping under a mosquito net can be uncomfortable because it can be hot and stuffy.
+
+Sometimes you may not want to come to the clinic to get your blood checked or have your temperature taken. Its important that you try to come. It won't take very long. You will miss a little bit of school - about an hour every month - and we will tell your teacher about that so that she knows its okay.) 
+
+➢ Examples of question to elucidate understanding: Do you understand that, while the research study is on-going, no-one may know which medicine you re receiving? Do you know that the medicine that we are testing  is a new medicine, and we do not know everything about it? Do you understand that you may have some unwanted side-effects from the medicines? Do you understand that these side-effects can happen whether or not you are in the research study? Etc. Do you have any other questions?
+
+I have checked with the child and they understand the risks and discomforts ____(initial)
+
+Benefits: Is there anything good that happens to me?
+Describe any benefits to the child. 
+
+(Example:Nothing really good might happen to you. The vaccine may not stop you from getting malaria.  But this research might help us to find a vaccine now or later that could help other children. There are a couple of good things if you do decide that you want to do this. You do get regular check-ups with the nurse so that if you are sick, we will know very soon and this can be important. And you will keep the mosquito net which will help keep mosquitoes away from you. Because mosquitoes cause malaria, this is important.) 
+
+I have checked with the child and they understand the benefits_____ (initial)
+
+Reimbursements:  Do  I get anything for being in the research? 
+Mention any reimbursements or forms of appreciation that will be provided. Any gifts given to children should be small enough to not be an inducement or reason for participating. WHO does not encourage incentives beyond reimbursements for expenses incurred  as a result of participation in the research. These expenses may include, for example, travel expenses and reimbursement for time lost. The amount should be determined within the host country context.
+   
+ (Example:Because you live quite far from the clinic, we will give your parents enough money to pay for the trip here and (whatever other expense is reasonable).
+
+➢ Examples of question to elucidate understanding: Can you tell me if you have understood correctly the benefits that you will have if you take part in the study? Do you know if the study will pay for your travel costs and time lost, and do you know how much you will be re-imbursed? Do you have any other questions?
+
+Confidentiality: Is everybody going to know about this?
+Explain what confidentiality means in simple terms. State any limits to confidentiality. Indicate what their parents will or will not be told.
+
+(Example:We will not tell other people that you are in this research and we won't share  information about you to anyone who does not work in the research study. After the research is over, you and your parents will be told which of the two injections you received and the results.
+
+Information about you that will be collected from the research will be put away and no-one but the researchers will be able to see it. Any information about you will have a number on it instead of your name. Only the researchers will know what your number is and we will lock that information up with a lock and key. It will not be shared with or given to anyone except [name who will have access to the information, such as research sponsors, DSMB board, your clinician, etc].)
+
+➢ Example of question to elucidate understanding: Did you understand the procedures that we will be using to make sure that any information that we as researchers collect about you will remain confidential? Do you have any questions about them? 
+
+Compensation: What happens if I get hurt?
+Describe to the ability of the child to understand and explain that parents have been given more information.
+
+(Example:If you become sick during the research, we will  look after you. We have given your parents information about what to do if you are hurt or get sick during the research.)
+
+Sharing the Findings: Will you tell me the results?
+Describe to the ability of the child to understand that the research findings will be shared in a timely fashion but that confidential information will remain confidential. If you have a plan and a timeline for the sharing of information, include the details. Also tell the child that the research will be shared more broadly, i.e. in a book, journal, conferences, etc. 
+
+ (Example:When we are finished the research, I will sit down with you and your parent and I will tell you about what we learnt. I will also give you a paper with the results written down. Afterwards, we will be telling more people, scientists and others, about the research and what we found. We will do this by writing and sharing reports and by going to meetings with people who are interested in the work we do.) 
+
+Right to Refuse or Withdraw: Can I choose not to be in the research? Can I change my mind?
+You may want to re-emphasize that participation is voluntary and any limits to this.  
+
+(Example:You do not have to be in this research. No one will be mad or disappointed with you if you say no. Its your choice. You can think about it and tell us later if you want. You can  say "yes"  now and change your mind later and it will still be okay.)
+
+Who to Contact: Who can I talk to or ask questions to?
+List and give contact information for those people who the child can contact easily (a local person who can actually be contacted). Tell the child that they can also talk to anyone they want to about this (their own doctor, a family friend, a teacher).
+
+(Example:You can ask me questions now or later. You can ask the nurse questions. I have written a number and address where you can reach us or, if you are nearby, you can come and see us. If you want to talk to someone else that you know like your teacher or doctor or auntie, that's okay too.)
+
+If you choose to be part of this research I will also give you a copy of this paper to keep for yourself. You can ask your parents to look after it if you want. 
+
+➢ Example of question to elucidate understanding: Do you know that you do not have to take part in this study if you do not wish to? You can say No if you wish to? Do you know that you can ask me questions later, if you wish to? Do you know that I have given the contact details of the person who can give you more information about the study? Etc.
+
+You can ask me any more questions about any part of the research study, if you wish to. Do you have any questions?  
+ 
+PART 2: Certificate of Assent
+This section can be written in the first person. It should include a few brief statements about the research and be followed by a statement similar to the one identified as 'suggested wording' below. If the child is illiterate but gives oral assent, a witness must sign instead . A researcher or the person going over the informed assent with the child must sign all assents. 
+
+(Example:I understand the research is about testing a new vaccine for malaria and that I might get either the new vaccine which is being tested or the vaccine which is currently being used. I understand that I will get an injection and that I will come for regular monthly check-ups at the clinic where I will give a blood sample with a finger prick.)
+ 
+
+I have read this information ( or had the information read to me)  I have had my questions answered and know that I can ask questions later if I have them. 
+
+I agree to take part in the research.
+
+OR
+
+I do not wish to take part in the research and I have not signed the assent below.___________(initialled by child/minor)
+
+Only if child assents:
+Print name of child ___________________
+Signature of child: ____________________
+Date:________________
+           day/month/year   
+
+
+If illiterate:
+A  literate witness must sign (if possible, this person should be selected by the participant, not be a parent, and should have no connection to the research team). Participants who are illiterate should include their thumb print as well.  
+
+I have witnessed the accurate reading of the assent form to the child, and the individual has had the opportunity to ask questions. I confirm that the individual has given consent freely. 
+
+Print name of witness (not a parent)_________________  AND    Thumb print of participant
+Signature of witness ______________________
+Date ________________________
+                Day/month/year
+	
+
+
+
+
+
+I have accurately read or witnessed the accurate reading of the assent form to the potential participant, and the individual has had the opportunity to ask questions. I confirm that the individual has given assent  freely. 
+
+Print name of researcher_________________
+Signature of researcher___________________ 
+Date__________________
+             Day/month/year
+
+Statement by the researcher/person taking consent
+I  have accurately read out the information sheet to the potential participant, and to the best of my ability made sure that the child  understands that the following will be done:
+1.
+2.
+3.
+I confirm that the child was given an opportunity to ask questions about the study, and all the questions asked by him/her have been answered correctly and to the best of my ability. I confirm that the individual has not been coerced into giving consent, and the consent has been given freely and voluntarily. 
+  
+ A copy of this assent form  has been provided to the participant.
+
+Print Name of Researcher/person taking the assent________________________				
+Signature of Researcher /person taking the assent __________________________
+Date ___________________________			
+                 Day/month/year
+
+
+
+
+
+
+Copy provided to the participant ________(initialed by researcher/assistant) 
+
+Parent/Guardian has signed an informed consent ___Yes   ___No  _____(initialed by researcher/assistant)
+
+
+
+
+Page 1 of 1
+

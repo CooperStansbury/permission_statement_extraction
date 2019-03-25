@@ -1,0 +1,865 @@
+D58.0000 
+University of Kentucky Issues to be Addressed and Sample Consent 
+Language for Tissue/Specimen Repositories or  
+Individual Studies Banking Material for Future Use  
+ 
+Informed consent for repositories and specimen banking is typically broad to allow for a wide range of 
+potential future uses in research. However, the consent document should be specific enough to inform 
+participants about concepts such as unspecified future research, unlimited medical record access, 
+incidental findings, and large-scale data sharing.   
+ 
+Repositories have used a number of consent approaches to enhance donor comprehension, autonomy, 
+and personal control over future use of donated material. Repositories may choose a tiered approach to 
+allow participants to consent to select uses as long as systems are in place to ensure participant’s 
+wishes are followed. Another approach involves a simplified consent containing key issues, used in 
+conjunction with supplemental material such as glossaries to define terms or FAQs to reiterate concepts. 
+For instance, the consent could present implications of genetic testing, while a glossary could define and 
+provide background information on the role human genes play in health and disease.   Dynamic consent 
+is a novel approach using modern communication strategies such as ongoing, interactive web-based 
+consent.   
+ 
+Ultimately, research conducted by recipient investigators who access material from the repository must 
+be consistent with the uses described in the bank protocol and consent form.   
+ 
+The following categories address issues and points to consider when designing an informed consent 
+document for a research repository or a study that involves specimen banking for future use. Sample 
+language, addressing issues common to general research repositories, follows each category.  The 
+categories are grouped to ensure inclusion of informed consent elements required by federal 
+regulations.  Studies that involve greater than minimal risk or invasive procedures to collect specimens 
+specifically for research are directed to use the injury and compensation language from the standard UK 
+Medical Consent Template.  
+ 
+Because there is extensive variation in the way banks and repositories operate, a “one size fits all” 
+template is not feasible.  A pre-fabricated, sample repository template is available on the UK IRB forms 
+webpage, however investigators are advised not to use the template verbatim, but consider all of the 
+following issues and customize the final consent form to fit the unique characteristics of their repository 
+or their study that involves specimen banking.   
+ 
+Using the sample template language:  
+• For simplicity, the word “bank” is used in the sample language to represent a repository, and the word “sample” 
+is used to represent a tissue sample, specimen, body fluid, etc.  
+• Customize the language to describe the unique characteristics of the repository.  
+• Instructions, examples and optional wording are italicized.    
+• Where optional wording is provided, choose the applicable version and delete what is not applicable.  
+• Use lay language and terminology throughout the document and consider use of educational tools such as 
+glossaries, illustrations, etc to simplify the consent form and enhance the consent process. Examples are 
+available at the following links: Beskow, 2010 Duke Biobank FAQ;  National Cancer Institute Biorepositories 
+FAQ; A Guide to Your Genome; Genomic Data Sharing Glossary;    
+• Reformat and remove the instructions, unwanted text, and underlines from the final form.  
+ 
+If use is for an individual investigator banking specimens as an optional sub-study:  
+• Choose applicable statements from each category below and combine in one Optional Sub-Study Section that 
+may be incorporated in the full research consent form. (See Optional Sub-Study section). 
+D58.0000 
+ 
+Issues to be Addressed and Sample Consent Language for Tissue/Specimen Repositories or 
+Individual Studies Banking Material for Future Use 
+ 
+Purpose of Research Repository 
+ Inform participants of the purpose of the research repository. 
+ If applicable, provide a description of the types of research that may be conducted.  
+ Inform participants of all material that will be collected and maintained in the repository (e.g., leftover 
+tissue, specimens, medical history, and health related questionnaires, current or future medical record 
+information). 
+ If applicable, inform participants that samples may be used for genetic research. Provide lay 
+descriptions of genes, genetic material, genomic or phenotypic information.  You may provide 
+supplemental education materials such as brochures, glossary of terms, etc.  
+ Indicate the (number) of participants OR state specific pool of potential participants  
+(e.g., patients seen at a particular facility, patients with a certain diagnosis, etc.). 
+ Parental permission must have been obtained in order to use newborn dried blood spots collected on 
+or after March 18, 2015 for federally funded research.  
+ 
+ 
+ 
+ SAMPLE TEMPLATE LANGUAGE 
+  
+ What is the purpose of the bank? 
+  
+ The purpose of the bank is to collect and store samples of (tissue, blood, and/or other 
+ biologic specimens), along with health information for research purposes.  Researchers can 
+ then use the stored materials for future research studies to learn more about (cancer, 
+ diabetes, and other health problems).  The bank provides a ready supply of samples, so 
+ researchers do not have to look for donors for each new study.   
+  
+ The bank will enroll _______(number) of participants.  
+ OR 
+ The goal of the bank is to ask patients ______(specify pool of potential participants) if they 
+ would like to participate. Having samples from many people allows the researchers to identify 
+ trends and discover better ways to diagnose, prevent, and treat many conditions.  
+ 
+ The researchers who obtain your samples from the bank may use the genetic material 
+ (genes, DNA, RNA) in your sample to learn about the role genes play in heath and disease.  
+ Results of genetic studies may also reveal information about your family members.   
+  
+  
+  
+  
+Dura  tion and Location of Storage  
+  Inform participants how long sample will be stored; indicate if indefinite. 
+ Inform participants of the physical location of the bank. 
+ 
+ 
+ SAMPLE TEMPLATE LANGUAGE 
+  
+ Where will samples and information be stored and for how long? 
+  
+ The samples and information will be stored at ______________(describe location/facility) 
+ ________________(indefinitely, for no longer than XXX years/months) or until they are all 
+ used up.  
+ 
+2 
+ 
+D58.0000 
+ 
+Issues to be Addressed and Sample Consent Language for Tissue/Specimen Repositories or 
+Individual Studies Banking Material for Future Use 
+ 
+Procedures 
+ Describe procedures for obtaining specimens and information.  
+ Indicate if requesting unlimited access to medical records (which may include psychiatric, 
+genetic, HIVAIDS, alcohol/substance abuse information) or if collecting medical information 
+from participant.  
+ Indicate if collecting only samples leftover from clinical procedures.  
+ Specify if study involves collection of tissue solely for research purposes (e.g., collecting extra 
+tissue from a biopsy for research). Note: Include injury and compensation section from the 
+standard UK Medical IRB consent template.  
+ Inform participants of conditions under which data & specimens will be released to recipient 
+investigators (e.g. de-identified, direct or indirect identifiers). 
+ 
+ 
+ SAMPLE TEMPLATE LANGUAGE 
+  
+ What will the bank collect and store for research?  
+ 
+If collecting leftover tissue:  
+We would like to keep some of the tissue or sample that is leftover from a procedure that you 
+are already having as part of your clinical care, such as a blood draw, surgery, or biopsy.  
+Your tissue or sample will always be used first to help make clinical decisions about your care 
+or health.   
+ 
+If collecting extra tissue from a clinical procedure:  
+We would like to collect ____ (specify amount) of extra tissue from your (specify procedure, 
+surgery, biopsy) that you are already having as part of your clinical care.  Your tissue or 
+sample will always be used first to help make clinical decisions about your care or health.  
+The extra tissue will be kept for research.   
+ 
+If collecting blood or other specimens: 
+We would like to collect (draw x tube(s),about X tablespoons) of blood; a sample of urine, 
+saliva, hair, etc.) for use in future research.  
+ 
+Specify if collecting information from participant such as a health questionnaire or medical 
+history: 
+ We also would like (to interview you and/or for you to answer some questions on a form 
+about your health, medical condition, medical history, and/or quality of life. You can skip any 
+question that you do not want to answer. (If bank protocol involves repeated contacts to 
+update information) We will contact you no more than once a year to update this information. 
+ 
+Specify if requesting current and future access to the medical record: 
+We also would like to have permission to look at your medical records from time to time. We 
+would collect general information related to your health such as test results, treatments, and 
+doctor’s notes. Medical records may also include psychiatric, genetic, HIVAIDS, 
+alcohol/substance abuse information. The confidentiality section below provides details about 
+how we will keep your information private. 
+ 
+ 
+ 
+3 
+ 
+D58.0000 
+ 
+Issues to be Addressed and Sample Consent Language for Tissue/Specimen Repositories or 
+Individual Studies Banking Material for Future Use 
+ 
+ 
+Sharing of Material, Secondary Use, and Future Use by Recipient Investigators -  
+ Inform participants how often and for what purpose they will be re-contacted (if applicable) or 
+give participants option to indicate if willing to be re-contacted.  
+ Participants may want to limit use of sample, (tiered consent).  Use “opt-in”, “opt-out” boxes 
+where the bank protocol offers options for participants.  
+ Indicate plans for sharing material/data (e.g., UK researchers, researchers outside of UK). 
+ Generally, personal identifiers may not be released to recipient investigators.  Indicate if 
+samples will be stripped of identifiers prior to sharing with researchers. 
+ Describe the process for obtaining a determination regarding whether secondary use involves 
+“human participant research” which requires IRB review. 
+ Instructions related to genomic data sharing are provided in the next section.  
+    
+SAMPLE TEMPLATE LANGUAGE 
+ 
+Will you be contacted about future research? 
+ 
+Neither the bank or researchers who access samples or information from the bank will contact 
+you about future research.  If you wish to participate in research studies, you may find information 
+at www.ukclinicalresearch.com.  
+SAMPLE TEMPLATE LANGUAGE 
+ 
+How will the bank share samples and information with other researchers?  
+ 
+Your sample or information may be shared with University of Kentucky (UK) researchers and 
+researchers outside of UK.   
+ 
+Researchers may contact the bank to request permission to use samples or information for their 
+studies.  An oversight committee will review the researcher’s qualifications and proposed 
+research. The committee will also determine if any additional review or approval is necessary.  
+ 
+If plan includes sharing only de-identified sample/information:   
+The bank will remove all information that could identify you such as your name, address, medical 
+record number, etc, before sharing with researchers. Include if applicable: The bank will use 
+________________ (a process, software, barcodes) to match your samples with your medical 
+information without releasing your identity. The researchers will sign an agreement promising not 
+to try to use any of the sample or information to identify you. The bank will not share information 
+that could identify you without your permission.   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+4 
+ 
+D58.0000 
+ 
+Issues to be Addressed and Sample Consent Language for Tissue/Specimen Repositories or 
+Individual Studies Banking Material for Future Use 
+ 
+ 
+ 
+NIH Genomic Data Sharing (GDS):  
+NIH funded projects that generate large-scale genomic data have specific sharing 
+requirements under the NIH Genomic Data Sharing policy.  Investigators who intend to use 
+research or clinical specimens collected or cell lines created after January 25, 2015, to 
+generate genomic data may only do so with consent, even if the data are generated from 
+specimens that are de-identified (see NIH GDS Consent Guidance). NIH expects 
+investigators to obtain consent for participants' genomic and phenotypic data (which may 
+include some clinical information) to be used for future research purposes and to be shared 
+broadly through databases. The databases may be generally accessible to the public 
+(unrestricted access) or accessible only with the permission of governance committees or 
+other processes (controlled access).  The consent needs to inform participants about large-
+scale genomic data sharing and explain whether the data will be shared via unrestricted- or 
+controlled-access databases, or both.  
+SAMPLE TEMPLATE LANGUAGE 
+Large-Scale Data Sharing: 
+Genomic data is information about a genome which is a person’s complete set of DNA. DNA 
+stores messages or codes.  Codes strung together are known as ‘genes’.  Genes carry 
+information that is passed on to future generations.  Researchers can do studies that are more 
+powerful when they share with each other the data or information they get from studying human 
+genomes. Data obtained from analyzing your genomic information and your medical information 
+may be put into scientific databases along with information from other research participants.  Your 
+name and other information that could identify you will not be included.  Therefore, no one would 
+know just from looking at the data that the information came from you.   
+ 
+Unrestricted access database:  
+The information from this study will be freely available in a public, unrestricted database that 
+anyone can use. [For example], the public database will include information on hundreds of 
+thousands of genetic variations in your DNA code, as well as your ethnic group and sex. The only 
+health information included will be whether you had [disease X] or not. This public information will 
+not be labeled with your name or other information that could be used to easily identify you. 
+However, it is possible that the information from your genome, when combined with information 
+from other public sources could be used to identify you, though we believe it is unlikely that this 
+will happen. 
+ 
+Controlled access databases:  
+Your individual genomic data and health information will be put in a controlled-access database. 
+This means that only researchers who apply for and get permission to use the information for a 
+specific research project will be able to access the information. Your genomic data and health 
+information will not be labeled with your name or other information that could be used to identify 
+you. Researchers approved to access information in the database will agree not to attempt to 
+identify you.  
+ 
+Additional samples including population specific language is available from the 
+ NIH National Human Genome Research Institute  
+ 
+ 
+ 
+5 
+ 
+D58.0000 
+ 
+Issues to be Addressed and Sample Consent Language for Tissue/Specimen Repositories or 
+Individual Studies Banking Material for Future Use 
+ 
+ 
+Benefits 
+ Inform participant of no direct benefit or of uncertainties regarding benefits. 
+ Include other potential benefits as appropriate, (e.g., advancement of knowledge; clinical 
+relevance to individual, family, or society as a whole. 
+SAMPLE TEMPLATE LANGUAGE 
+ 
+Will you benefit from taking part in the (bank)?  
+ 
+There is no direct benefit to you.  The knowledge gained from research on your sample may help 
+others in the future.  
+ 
+ 
+ 
+ 
+Risks 
+ Social Risks:  Breach of confidentiality could impact insurability, employability, reproduction 
+plans, family relationships, immigration status, paternity suits, and stigmatization, if 
+applicable. 
+ Psychological Risks:  Address potential for distress from breach of confidentiality or impact of 
+learning results; impact if no effective therapy exists; psychological stress for family 
+members. 
+ If applicable, inform participants of federal privacy protections such as the Genetic 
+Information Nondiscrimination Act (GINA), which generally makes it illegal for health 
+insurance companies, group health plans and most employers to discriminate against 
+participants based on their genetic information. 
+ Physical Risks:  Physical risks associated with collecting samples for research purposes or 
+risks from collecting extra tissue during a clinical procedure.  
+ Unknown Risks:  Participants should be informed that there may be risks that at this time are 
+not known. 
+ 
+ 
+Examples of Variables Affecting Risks 
+ Will identifiers be linked directly or indirectly to the samples? 
+ Are safeguards for protecting privacy and maintaining confidentiality adequate? 
+ Has the repository obtained a HHS approved Certificate of Confidentiality? 
+ Will the repository be collecting more tissue than needed for clinical purposes? 
+ Will specimens be used for genetic research? 
+ What is the current state of technology with respect to the planned genetic testing? 
+ If genetic testing is anticipated, will participants be informed of results of test? 
+ Could publishing results of pedigree studies, lead to identification even when names or 
+identifiers are withheld?  
+ Will both genomic and phenotypic data be collected? What safeguards are in place to protect 
+the data? 
+ 
+ 
+6 
+ 
+D58.0000 
+ 
+Issues to be Addressed and Sample Consent Language for Tissue/Specimen Repositories or 
+Individual Studies Banking Material for Future Use 
+ 
+SAMPLE TEMPLATE LANGUAGE 
+ 
+Are there risks from taking part in the (bank)? 
+ 
+Physical:  
+There is no additional physical risk from collecting leftover tissue from a procedure that is being 
+done as part of your clinical care.   
+ 
+Include if additional blood is being collected as part of the research via venipuncture:  
+Risks associated with blood sampling are generally slight, but may include soreness, bruising, 
+pain, infection, possible fainting, bleeding.  
+ 
+Include if additional tissue will be collected during a clinical procedure:  
+When we collect extra tissue during your procedure, we will limit the amount so that there is no 
+significant increase in risk to you OR describe specific additional risks associated with 
+additional tissue collection.   
+ 
+Privacy and Social/Psychological:  
+There is a risk that someone could get access to the information stored in the bank.  In spite of 
+the security measures and safeguards we will use, we cannot guarantee that your identity will 
+never become known.   
+ 
+Include if genetic testing is possible:  
+Even without your name or identifiers, genetic information is unique to you making it possible 
+for someone to trace it back to you. The results of genetic research apply to both you and your 
+family members.  In some cases, it could be used to make it harder for you to get or keep a job 
+or insurance.  Genetic information could be used in ways that could cause you or your family 
+distress.   
+ 
+There is a Federal law called the Genetic Information Nondiscrimination Act (GINA).  Generally, 
+GINA makes it illegal for health insurance companies, group health plans, and most employers 
+to discriminate against you based on your genetic information. Be aware that GINA does not 
+protect you against discrimination by companies that sell life insurance, disability insurance, or 
+long-term care insurance.  It also does not prohibit discrimination on the basis of already known 
+genetic disease. 
+ 
+Unknown: 
+There may be risks that at this time are unknown.  As technology advances, there may be new 
+ways of linking information back to you that we cannot foresee now. 
+ 
+ 
+ 
+Injury and Compensation  
+ If study is greater than minimal risk or involves invasive procedures to collect specimens or 
+extra tissue specifically for research, use applicable language from the standard UK Medical 
+Informed Consent Template.   
+ 
+7 
+ 
+D58.0000 
+ 
+Issues to be Addressed and Sample Consent Language for Tissue/Specimen Repositories or 
+Individual Studies Banking Material for Future Use 
+ 
+Confidentiality and Privacy 
+ Address procedures for protecting privacy of participants and maintaining confidentiality of 
+data. 
+• Explain if material will be collected and stored with direct identifiers, with no identifiers, 
+or with codes that provide a confidential link to identifiers.  
+• Describe plans for physical & electronic security of data/sample. 
+• If data are going to be collected and/or stored electronically, refer to the suggested 
+procedures in the guidance document, “Confidentiality and Data Security for 
+Electronic Data”. 
+• Indicate if a Certificate of Confidentiality has been obtained.  
+• Indicate if recipient investigators will sign an agreement prohibiting attempts to re-
+identify participants. 
+ Address limits to confidentiality (e.g., who will have access and under what circumstances). 
+• Indicate if designated repository staff will have access to identifiable medical record 
+information.  
+• Indicate whether third parties (e.g., officials, administrators, sponsors) would have 
+access. 
+SAMPLE TEMPLATE LANGUAGE 
+ 
+How is your privacy and confidentiality protected?  
+ 
+The bank will take careful steps to keep your information confidential. (Insert description of 
+procedure(s) used for protecting confidentiality of data including paper records, computer records, 
+jump drives and portable storage devices)   
+ 
+We will remove information such as your name or other direct identifiers from your sample and 
+medical information.  We will label your samples and information with a code.  The coded sample 
+and information will be _________________(describe security of storage, e.g., a locked freezer 
+that is located behind locked doors, a password protected database).  Only select bank staff will 
+have access to the list that links the code to you.  The bank staff members sign an agreement to 
+keep your identity a secret to the extent allowed by law. In very unusual cases, staff at the bank 
+may be required to release your identifiable medical and research information in response to an 
+order from a court of law.  
+ 
+Officials of the Food and Drug Administration (if applicable), the National Institutes of Health (if 
+applicable), Department of Defense (if applicable), the University of Kentucky, and 
+________________ (indicate the sponsor’s name or any group that may have access to 
+information) may look at or copy pertinent portions of records that identify you. 
+ 
+Include if you have obtained a Certificate of Confidentiality (if applicable):  
+To help us protect your private information, we have obtained a Certificate of Confidentiality from 
+the National Institutes of Health. With this Certificate, we cannot be forced to disclose information 
+that may identify you, even by a court subpoena, in any federal, state, or local civil, criminal, 
+administrative, legislative, or other proceedings. We will use this Certificate to resist any demands 
+for information that would identify you, with the following exceptions:  
+• auditing or evaluation of federally funded projects;  
+• inspection by the federal Food and Drug Administration (FDA)(if applicable);   
+• or voluntary releases such as where you have shared your information, given written 
+consent to allow access to your information, or disclosed abuse or a situation requiring 
+reporting to authorities to prevent harm to yourself or others.  
+8 
+ 
+D58.0000 
+ 
+Issues to be Addressed and Sample Consent Language for Tissue/Specimen Repositories or 
+Individual Studies Banking Material for Future Use 
+ 
+Payment, Costs, and Commercialization 
+ Inform participant of any financial compensation or costs of participation not covered in study 
+such as the costs of genetic counseling or psycho/social counseling (if applicable). 
+ Inform participants if research could lead to commercially valuable product. 
+ What financial gain, if any, the participant would receive from any inventions/patents resulting 
+from use of specimens. 
+ 
+ 
+ SAMPLE TEMPLATE LANGUAGE 
+  
+ Does taking part in the bank cost anything?  
+  
+ There will be no additional costs or charges to you for taking part in the bank.   
+ You will not need to pay for sample collection or blood test done just for the bank.    
+  
+ Will you receive any rewards for taking part in the bank?  
+  
+ You will receive _____ for donating your sample or information to the bank. 
+ OR 
+ You will not be paid for donating your sample or information to the bank. 
+  
+ The sample and information that you are donating will no longer belong to you.  The research 
+ may lead to new medical knowledge, tests, treatments, or products.  These products could have 
+ some financial value.  There are no plans to provide financial payment to you or your relatives 
+ should this occur. 
+ 
+ 
+Significant New Findings: Participant Access to Individual Research Results or Incidental 
+Findings Including Genetic Data 
+ Inform participants regarding what results or incidental finding will be offered to participants. 
+ Indicate if findings will be reviewed to determine if appropriate to return. 
+ Define incidental findings, if applicable. 
+ Inform participants if results will not be provided and explain why.  
+ If findings are to be disclosed, describe disclosure procedures (e.g., genetic counseling). 
+ If findings are to be disclosed, explain implications of making results or incidental findings 
+available. 
+ Allow participants to opt in or out of receiving results or future findings with this consent, or 
+indicate if participants will be contacted and offered a “result-specific” consent in the event 
+that a result or finding is deemed returnable.  A result-specific consent provides the 
+implications or ramifications of receiving the result or incidental finding that has been 
+discovered. An example of a single-subject, result-specific informed consent is available at 
+http://www.research.uky.edu/ori/IRB-Survival-Handbook.html#Specimen.  
+ 
+9 
+ 
+D58.0000 
+ 
+Issues to be Addressed and Sample Consent Language for Tissue/Specimen Repositories or 
+Individual Studies Banking Material for Future Use 
+ 
+SAMPLE TEMPLATE LANGUAGE 
+ 
+Will you be given individual results from the research tests?  
+ 
+Generally, tests done for research purposes are not meant to provide clinical information. 
+Because the researchers will not have access to information that identifies you, the research 
+findings will generally not be provided to you.  There is a slight possibility that during a research 
+project, a researcher could discover something that could affect the health of you or your family.   
+If this occurs, the finding will be reviewed by _______________  (specify review by a special 
+committee, an expert consultant) to determine if it is in your best interest to contact you.   
+ 
+If so, _______________(the bank, your primary/clinical care provider) will contact you at the 
+contact information you provided.   With the help of 
+ a (medical specialist, a genetic counselor), they will present possible risks or benefits of 
+receiving the information.  At that time you can choose to receive or refuse the result or finding.  
+If you would like more information about this call_____________________. 
+ 
+OR 
+ Do you give permission for (the bank, researchers) to contact you  with information 
+about research results or incidental findings that are  determined to be important to 
+you/your family’s health? (Incidental  findings are unforeseen findings discovered during the 
+course of  the research that may affect you or your family’s health).    
+ 
+ ___   Yes ___   No  _________Initials 
+ 
+ You may also withdraw your consent to be contacted with  information about research 
+results or incidental findings by sending a  written request to ___(provide bank phone and 
+mailing address). 
+   
+   
+ 
+ 
+Alternatives 
+ One alternative is not to participate or provide specimen to repository. 
+ Indicate if other opt-in or opt-out choices are offered.  
+SAMPLE TEMPLATE LANGUAGE 
+ 
+If you don’t want to take part, are there other choices?  
+ 
+If you do not want to take part in the repository, there are no other choices except not to take 
+part.  Your decision will not affect your current or future medical care.  
+ 
+ 
+ 
+ 
+ 
+10 
+ 
+D58.0000 
+ 
+Issues to be Addressed and Sample Consent Language for Tissue/Specimen Repositories or 
+Individual Studies Banking Material for Future Use 
+ 
+Optional Sub-Study: Additional considerations if request to bank material for future use is an 
+optional part (sub-study) of another study.  
+ Modify language to specify the request is on behalf of an individual investigator or research 
+sponsor.   
+ Address all applicable issues above when developing language for optional banking sub-
+study.     
+ Indicate that participation is not required in order to participate in the main study.  Include 
+opportunity to “opt-in” and “opt-out” of participating.  
+SAMPLE OF TEMPLATE LANGUAGE 
+ 
+Optional Sub-Study:  
+ 
+In addition to the main study, you are being asked to volunteer for an optional sub-study that 
+involves (select and include statements addressing applicable issues from categories above).   
+ 
+  
+ After reading and considering the above information, indicate below if you give permission for 
+(insert investigator or sponsor) to keep your (specify - tissue/blood sample, DNA and/or 
+medical/health information) at ______________(insert location) until they are used up but no 
+longer than______________(insert time frame) years for use in future research to learn more 
+about how to prevent, detect, or treat ______________(insert name of disease)?  
+ 
+Remember your participation in this sub-study is optional. You can still be in the main study even 
+if you do not wish to participate in this sub-study.  
+If you answer yes, you also give your authorization for your accompanying health information to 
+be used and disclosed along with the blood (and /or tissue). 
+ Yes, I choose to participate in the optional banking sub-study. ____Initials  
+ No, I choose not to participate in the optional banking sub-study.___Initials  
+ 
+ 
+ 
+ 
+Voluntary Participation and Withdrawal from the Repository 
+ Inform participants that participation is voluntary and refusal imparts no loss of entitled 
+benefits. 
+ Inform participants whether they may in the future request samples be destroyed. 
+ Inform participants of procedures for subsequently requesting that samples/materials be 
+destroyed, or 
+ Inform participants of procedures for subsequently requesting that identifiers be removed 
+from materials (if applicable). 
+ Describe any limitations on ability of participants to withdraw data or samples (e.g. specimens 
+may not be able to be retrieved once they are distributed). 
+ 
+ 
+11 
+ 
+D58.0000 
+ 
+Issues to be Addressed and Sample Consent Language for Tissue/Specimen Repositories or 
+Individual Studies Banking Material for Future Use 
+ 
+SAMPLE TEMPLATE LANGUAGE 
+ 
+What if you choose not to participate or change your mind and want to withdraw from 
+taking part in the bank?  
+ 
+Taking part in the bank is voluntary.  Choosing not to take part will not affect your care or cause 
+you to lose benefits to which you are entitled.  You may withdraw your permission to continue 
+taking part in the bank at any time.  To do so, you must send a written withdraw request to the 
+bank at ________(insert address).  The bank will destroy any remaining samples and 
+information that has been stored.  In addition, it may be possible for the bank to destroy the 
+code that links you with your sample and medical information.  However, the samples and 
+information that has already been shared with other researchers or placed in shared databases 
+cannot be withdrawn.   
+ 
+ 
+Who to contact with questions, concerns, etc?  
+ 
+ Inform participants who to contact for questions or issues related to the repository. 
+ Inform participants who to contact regarding their rights as a research participant. 
+ 
+ 
+ SAMPLE OF TEMPLATE LANGUAGE 
+  
+ What if you have additional questions, suggestions, concerns or complaints? 
+  
+ Before you decide whether to accept this invitation to take part in the bank, please ask any 
+ questions that might come to mind now.  You may contact the __________ at ___________ 
+ for questions in the future.  If you have any questions about your rights as a volunteer, 
+ contact the University of Kentucky Office of Research Integrity staff, between 8:00 am 
+ and 5:00 pm, Mon-Fri at 859-257-9428 or toll free at 1-866-400-9428. We will give you a 
+ signed copy of this consent form to take with you. 
+ 
+ 
+ 
+12 
+ 
+D58.0000 
+ 
+Issues to be Addressed and Sample Consent Language for Tissue/Specimen Repositories or 
+Individual Studies Banking Material for Future Use 
+ 
+HIPAA 
+ Unless the HIPAA Authorization requirement is waived by the IRB, include HIPAA 
+authorization language for use and disclosure of Protected Health Information.  
+AUTHORIZATION TO USE OR DISCLOSE YOUR IDENTIFIABLE HEALTH INFORMATION  
+ 
+The privacy law, HIPAA (Health Insurance Portability and Accountability Act), requires researchers to 
+protect your health information.  Protected Health Information is defined as any of the *HIPAA recognized 
+identifiers in combination with health information. 
+ 
+Your Protected Health Information that may be accessed, used and/or released includes: 
+ 
+• (List all of the protected health information∗ to be collected for this protocol/bank such as demographic 
+information, results of physical exams, blood tests, X-rays, and other diagnostic and medical 
+procedures, medications, treatment notes as well as medical history.  Also include Medicare Health 
+Insurance Claim Numbers (HICN), Social Security Numbers (SSN) and Employer Identification 
+Numbers (EIN) if regulated by Medicare reporting provisions) 
+ 
+The bank may use and share your Protected Health Information with: 
+ 
+(Note:  The information listed in this section should include all the agencies/researchers included in the 
+consent form; however, the authorization may require additional information or more specific information 
+than the consent form.)   
+ 
+• The University of Kentucky’s Institutional Review Board/Office of Research Integrity. 
+• Law enforcement agencies when required by law. 
+• University of Kentucky representatives. 
+•  (UK Hospital if applicable.  You must include this item if you are providing financial compensation for 
+study participation or obtaining lab results from UKMC.) 
+• (If your research fall under the purview of a government agency (i.e., FDA, NIH, etc.) list them in this 
+section of the authorization form.) 
+• (Investigational Drug Service (IDS) if investigational drugs are dispensed through IDS.) 
+• (Center for Clinical and Translational Science (CCTS) if CCTS staff involved in the study.) 
+• (University of Kentucky Researchers and Researchers outside of the University of Kentucky who are 
+authorized via written agreement with the bank.) 
+• (List any collaborators or outside laboratories),  
+• (If applicable – list the sponsor’s name and its agent(s) or government agency funding your research.) 
+• (List any other groups with whom the information may be shared.) 
+• (If a result or incidental finding that may impact your ( or your family’s) health is discovered, the finding 
+will be reviewed by a committee to determine if you should be contacted.  Your primary physician or 
+healthcare provider, a genetic counselor, or medical specialist may also be consulted to review the 
+finding.  
+ 
+∗ Name, Address, Dates Directly Related to an Individual, Telephone/Fax Number, E-mail/Internet Protocol or Web URL Address, Social Security 
+Number, Medical Record or Health Plan Number, Account Number, Certificate of License Number, Photographic Images, Vehicle Identifiers, 
+Device Identifiers, Biometric Identifiers, Any Other Unique Code 
+ 
+13 
+ 
+D58.0000 
+ 
+Issues to be Addressed and Sample Consent Language for Tissue/Specimen Repositories or 
+Individual Studies Banking Material for Future Use 
+ 
+The bank agrees to only share your health information with the people listed in this document.   
+Should your health information be released to anyone that is not regulated by the privacy law, your health 
+information may be shared with others without your permission; however, the use of your health 
+information would still be regulated by applicable federal and state laws.   
+You (insert may or will)] not be allowed to participate in the research bank if you do not sign this form.   If 
+you decide not to sign the form, it will not affect your: 
+• Current or future healthcare at the University of Kentucky 
+• Current or future payments to the University of Kentucky   
+• Ability to enroll in any health plans (if applicable) 
+• Eligibility for benefits (if applicable) 
+ 
+After signing the form, you can change your mind and NOT let the bank or researcher(s) release or 
+use your health information (revoke the Authorization). If you revoke the authorization: 
+ 
+• You will send a written letter to: (name and contact information) to inform the bank of your 
+decision. 
+• Researchers may use and release your health information already obtained from the bank. 
+• Your protected health information may still be used and released should an individual research 
+result or incidental finding be discovered that could affect you or your family’s health. 
+• You may not be allowed to participate in the bank. 
+ 
+The use and sharing of your information has no time limit.  
+ 
+If you have not already received a copy of the Privacy Notice, you may request one.  If you have 
+any questions about your privacy rights, you should contact the University of Kentucky’s Privacy 
+Officer between the business hours of 8:00 am and 5:00 pm EST, Mon-Fri at: (859) 323-1184. 
+ 
+You are the participant or are authorized to act on behalf of the participant.  You have read this 
+information, and you will receive a copy of this form after it is signed. 
+When developing the consent/authorization form, please format to ensure the signature lines fall on a 
+page containing text. 
+_________________________________                        ____________________________ 
+Signature of research participant or *research  Date 
+participant’s legal representative 
+ 
+_________________________________  __________________________ 
+Printed name of research participant or   Representative’s relationship to  
+*research participant’s legal representative  research participant 
+ 
+*(If, applicable) Please explain Representative’s relationship to participant and include a description of 
+Representative’s authority to act on behalf of participant: 
+ 
+_____________________________________________________________________________ 
+ 
+________________________________________________________________          _________ 
+Name of [authorized] person obtaining informed consent/HIPAA authorization     Date 
+  
+ 
+_________________________________________ 
+Signature of Principal Investigator or Sub/Co-Investigator 
+ 
+14 
+ 
+D58.0000 
+ 
+Issues to be Addressed and Sample Consent Language for Tissue/Specimen Repositories or 
+Individual Studies Banking Material for Future Use 
+ 
+References 
+ 
+ University of Kentucky Frequently Asked Questions (FAQs) on the Return of Research Results or Incidental 
+Findings, 2014.  
+ 
+ Bioethics Commission on Incidental Findings: Anticipate and Communicate Ethical Management of Incidental 
+and Secondary Findings in the Clinical, Research, and Direct-to-Consumer Contexts, Washington, D.C. Dec. 
+2013, http://bioethics.gov/node/3183 
+ 
+ Steinsbekk KS, Myskja BK, Solberg B. Broad consent versus dynamic consent in biobank research: Is passive 
+participation an ethical problem? Eur J Hum Genet. 2013 September; 21(9): 897–902. 
+http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3746258/ 
+ 
+ National Human Genome Research Institute, Informed Consent for Genomics Research: Consent Form 
+Examples and Model Consent Language. http://www.genome.gov/27526660 
+ 
+ Beskow LM, Friedman JY, Hardy NC, Lin L, Weinfurt KP (2010) Developing a Simplified Consent Form for 
+Biobanking. PloS ONE 5(10):e13302. doi:10.1371/journal/.pone.0013302 
+ Beskow LM, Friedman JY, Hardy NC, Lin L, Weinfurt KP. Genet Med. 2010 Sep; 12(9):567-72.  
+ Informed Consent and Genomic Incidental Findings: IRB Chair PerspectivesAuthor(s): Christian M. Simon, 
+Janet K. Williams, Laura Shinkunas, Debra Brandt, SandraDaack-Hirsch and Martha Driessnack. Journal of 
+Empirical Research on Human Research Ethics: An International Journal, Vol. 6, No. 4 (December 2011), pp. 
+53-67 
+ URL: http://www.jstor.org/stable/10.1525/jer.2011.6.4.53  
+ 
+ “Annotated Consent Document for the Texas Cancer Research Biobank,” Texas Cancer Research Biobank, 
+December 19, 2013, http://www.genome.gov/Pages/PolicyEthics/InformedConsent/ConsentFormExample4.pdf  
+ 
+ Clayton, Ellen Wright; Karen K. Steinberg; Muin J. Khoury; Elizabeth Thomson; Lori Andrews; Mary Jo Ellis 
+Kahn; Loretta M. Kopelman; Joan O. Weiss.  “Informed Consent for Genetic Research on Stored Tissue 
+Samples.”  Journal of American Medical Association 13 Dec. 1995: 1786-1792. 
+ 
+ Glass, Kathleen Cranley, Charles Weijer, Roberta M. Palmour, Stanley H. Shapro, Trudo M. Lemmens, and 
+Karen Lebacqz.  “Structuring the Review of Human Genetics Protocols:  Gene Localization and Identification 
+Studies.”  IRB A Review of Human Participants Research July-Aug. 1996. 
+ 
+ “Informed Consent Elements Tailored to Genomics Research,” National Human Genome Research Institute, 
+December 19, 2013, http://www.genome.gov/pfv.cfm?pageID=27026589  
+ 
+ Fabsitz, R. R., McGuire, A., Sharp, R. R., Puggal, M., Beskow, L. M., Biesecker, L. G., Bookman, E., Burke, 
+W., Gonzalez Burchard, E., Church, G., Wright Clayton, E., Eckfeldt, J. H., Fernandez, C. V., Fisher, R., 
+Fullerton, S. M., Gabriel, S., Gachupin, F., James, C., Jarvik, G. P., Kittles, R., Leib, J. R., O’Donnell, C., 
+O’Rourke, P. P., Lyman Rodriguez, L., Schully, S.D., Shuldiner, A. R., Sze, R. K.F., Thakuria, J. V., Wolf, S. 
+M., Burke, G. L. (2010). Ethical and Practical Guidelines for Reporting Genetic Research Results to Study 
+Participants: Updated Guidelines From a National Heart, Lung, and Blood Institute Working Group. Circ 
+Cardiovasc Genet., 3, 574-580. Retrieved June 26, 2012 from circgenetics.ahajournals.org  
+ 
+ Kaneshiro, Julie. “Tissue Repositorying Post HIPPA: Requirements of 45 CFR Part 46,” OHRP Presentation at 
+PRIM&R IRB Conference, Washington, D.C., December 2003. 
+ 
+ Summary and Guidance regarding the Genetic Information Nondiscrimination Act of 2008 (GINA), University of 
+Kentucky, Office of Research Integrity at http://www.research.uky.edu/ori/ORIForms/D101-GINA.pdf. 
+    
+ University of Kentucky, Office of Research Integrity, Instruction page for the Medical IRB informed consent 
+form under the section DNA Repositorying and Genetic Research (#12) which can be found on the ORI 
+website under http://www.research.uky.edu/ori/FormsHELP/S2C.htm, or the Instruction page for the 
+15 
+ 
+D58.0000 
+ 
+Issues to be Addressed and Sample Consent Language for Tissue/Specimen Repositories or 
+Individual Studies Banking Material for Future Use 
+ 
+Nonmedical IRB informed consent form under the section DNA Repositorying and Genetic Research (#8), 
+http://www.rgs.uky.edu/ori/FormsHELP/S2C_NM.htm. 
+ 
+ 
+ Wolf SM, Crock BN, Van Ness B, Lawrenz F, Kahn JP, Beskow LM, Cho MK, Christman MF, Green RC, Hall 
+R, Illes J, Keane M, Knoppers BM, Koenig BA, Kohane IS, Leroy B, Maschke KJ, McGeveran W, Ossorio P, 
+Parker LS, Petersen GM, Richardson HS, Scott JA, Terry SF, Wilfond BS, Wolf WA. Managing incidental 
+findings and research results in genomic research involving biorepositorys and archived data sets. Genet Med. 
+2012;14:361–384. doi: 10.1038/gim.2012.23. Web. 21 June 2013. 
+http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3597341/  
+ 
+ NIH Genomic Data Sharing Website http://gds.nih.gov 
+ 
+ NIH Guidance on Consent for Future Research Use and Broad Sharing of Human Genomic and Phenotypic 
+Data Subject to the NIH Genomic Data Sharing Policy 
+https://gds.nih.gov/pdf/NIH_Guidance_on_Elements_of_Consent_under_the_GDS_Policy_07-13-2015.pdf 
+ 
+ Newborn Screening Saves Lives Reauthorization Act https://www.govtrack.us/congress/bills/113/hr1281/text 
+ 
+ NIH Guidance related to Informed Consent for Research on Dried Blood Spots obtained through Newborn 
+Screening http://grants.nih.gov/grants/guide/notice-files/NOT-OD-15-127.html 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Prepared by Ada Sue Selwitz, MA & 
+Belinda Smith, MS, RD, CCRC 
+University of Kentucky Office of Research Integrity 
+ 
+ 
+J:\Master Outreach Documents\Survival Handbook\D - Guidance-Policy-Educational\D58-Issues-to-Address-Informed-Consent-for-
+Tissue-Specimen.doc 
+07/26/2016 
+16 
+ 

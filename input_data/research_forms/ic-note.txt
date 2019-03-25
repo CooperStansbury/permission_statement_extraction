@@ -1,0 +1,15 @@
+﻿Informed Consent Note
+
+Date: ________      Time: __________
+
+Participant's Name: ______________________________ has been evaluated for participation in protocol IRB/CCI # _____________, entitled: 
+________________________________________________________________________________________________________________________________________________ 
+The purpose, risks, benefits, and alternative treatments were explained to the participant. After going through the full informed consent process, he/she was found to be competent to understand the purpose, risks, benefits, and alternative treatments of his/her participation. He/she agrees to participate in this protocol.  Written consent was obtained. A signed copy of the HIPAA form and a copy of the Informed Consent were given to the participant. The Consent was signed prior to any study related procedures being performed. 
+
+Signature of Person Obtaining Consent: _______________________________________
+
+
+Printed Name of Person Obtaining Consent: ____________________________________
+
+http://cocoon.aecom.yu.edu/staging/cci/forms/cd_risk/ic_note.doc	Rev. 11/16/05
+

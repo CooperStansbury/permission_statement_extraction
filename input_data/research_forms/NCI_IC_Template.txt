@@ -1,0 +1,682 @@
+﻿NCI Consent Form Template Version Date: May 12, 2013
+NCI Consent Form Template for Adult Cancer Trials
+
+NOTES FOR CONSENT FORM AUTHORS*:
+* This document provides a Template to follow when writing consent forms for the majority of oncology trials. It recognizes the significant differences between various types of trials and provides phase-specific examples of recommended consent form language. This Template is not meant to be fully comprehensive; however, the lay language used and the format of the information should be followed as closely as possible when applying it to a specific study. In all cases, consent form authors should use simple language and be concise.
+
+* Based upon the consensus of an expert, cross-disciplinary panel, the NCI strongly recommends that consent forms not exceed six to nine pages. Suggestions for making the consent form more concise include:
+1. Focus on what makes the study different from the care a patient would typically receive. Instead of trying to cover everything that might happen during the trial, limit the information to the research issues.
+2. Eliminate repetition of information.
+3. Use lay language and explain concepts simply.
+4. Use Times New Roman size 12 font.
+
+* In the Template, instructions to consent form authors are formatted in a box. Placeholders for protocol-specific details, e.g., drug/intervention names and descriptions, are in italics; however, regular font should be used when inserting the details into the suggested consent form language.
+
+* A blank line, "__________", indicates that the local investigator should provide the appropriate information before submitting to the IRB.
+
+* The Template date in the header is for reference to this Template only and should not be included in the consent form distributed to investigators.
+
+* A simplified study schema should be included in the consent form if the study includes randomization, otherwise it is optional.
+
+* Recommendations for use of educational attachments to the consent form may be found on the last page of this Template. For example, while a lay-language, easy-to-read study calendar is a useful tool for study participants, it should not be part of the main consent form but could be included as an optional attachment. IRB review of attachments is required.
+
+*These notes for authors are instructional and should not be included in the consent form distributed to investigators.
+
+NOTES FOR LOCAL INVESTIGATORS*:
+* The goal of the informed consent process is to provide people with sufficient information for making informed choices about participating in research. The consent form provides a summary of the study, of the individual's rights as a study participant, and documents their willingness to participate. The consent form is, however, only one piece of an ongoing exchange of information between the investigator and study participant. For more information about informed consent, review the "Recommendations for the Development of Informed Consent Documents for Cancer Clinical Trials" prepared by the Comprehensive Working Group on Informed Consent in Cancer Clinical Trials for the National Cancer Institute. The Web site address for this document is http://cancer.gov/clinicaltrials/understanding/simplification-of-informed-consent-docs/
+
+* A blank line, "__________", indicates that the local investigator should provide the appropriate information before submitting to the IRB.
+
+*These notes for investigators are instructional and should not be included in the consent form sent to IRBs.
+
+Consent Form
+Notes to consent form authors about the Study Title:1. Section length limit: Both titles together should take up no more than one-quarter page.
+2. Include two titles:
+a. The reader-friendly lay title, which is called the "Study Title for Study Participants".
+b. The official title, which can be used by potential study participants for Internet searches and aids in tracking by study administrative personnel.
+3. For the lay title:
+a. Provide a brief (<20 words) title of the study in lay language.
+b. Use general terms.
+c. To make title concise, list the usual approach generically; e.g., chemotherapy, radiation therapy, surgery; rather than providing specific names, e.g., docetaxel, IMRT, laparoscopy.
+d. The study drug should be named.
+e. Use BOLD font.
+4. For the official title:
+a.	Insert study ID number, e.g., Protocol 0000, and official study title as provided by the study sponsor.
+b.   Do not use BOLD font.
+Study Title for Study Participants: (Insert Lay Title here)
+
+Text Examples for Lay Title:
+* Testing the addition of the antibody, cetuximab, to usual chemotherapy in advanced lung cancer
+OR
+* Testing the combination of two approved chemotherapy drugs after surgery for early stage lung cancer
+OR
+* Testing pioglitazone to prevent oral cancer in people with oral leukoplakia
+
+Official Study Title for Internet Search on http://www.ClinicalTrials.gov: (Insert Official Title here)
+
+What is the usual approach to my (insert type of cancer, precancerous condition, early detection, prevention of cancer, diagnosis, other)?
+Notes to consent form authors:1. Section length limit: This section should be between five and nine sentences and take up no more than one-quarter page.
+2. While there may not be a single, uniformly adopted standard of care in a particular disease, precancerous condition, or high-risk group, clinical trials generally assume a usual approach that the research hopes to improve upon. Providing a brief description of a usual approach, which should not be overly specific or detailed, allows the research to be placed into an appropriate context. Whenever appropriate, include an estimate of the expected outcome if the usual approach is utilized.
+3. For chemoprevention trials, state the precancerous condition or high-risk status (e.g., current or former smoker, oral leukoplakia) and the usual intervention received if not participating in a study.
+4. Avoid naming specific drugs as these could change with the availability of new treatments, except where a particular agent is so commonly accepted that it provides the easiest explanation.
+Text Examples for Chemoprevention/ Supportive Care Studies:
+
+Text Example: Chemoprevention Studies
+You are being asked to take part in this study because you are at increased risk for (insert type of cancer, e.g., lung) cancer. People who are at increased risk and choose not to participate in a study are usually followed closely by their doctor to watch for the development of cancer or (as appropriate) may receive a hormonal agent (specify) that has been approved by the FDA.
+
+Text Example: Screening/Supportive Care/Symptom Management Studies
+Treatments for cancer can cause side effects such as nausea and vomiting. People who do not take part in this study will receive standard medications that have been approved by the FDA for nausea and vomiting.
+
+Text Example: Behavioral Study
+Treatments for cancer can cause side effects such as fatigue. People who do not take part in this study will receive recommendations, such as encouragement to exercise, and/or ways to adjust their daily activities so they are less tired.
+
+Text Examples for Chemotherapy/Radiation Therapy/Surgery/Biologics/Imaging/Other Studies:
+
+Text Example: Phase 1 First in Human/Novel Route/Combination Studies or Non-randomized Phase 2 Studies
+You are being asked to take part in this study because you have (insert type of cancer, e.g., advanced pancreas) cancer. You have already been treated with (insert treatment modality, e.g., chemotherapy) and your disease is now growing. People who are not in a study are usually treated with (insert usual treatment modality, e.g., more chemotherapy) (indicate if FDA-approved).
+
+Text Example: Phase 2 Single Arm Study of a New Agent
+You are being asked to take part in this study because you have (insert type of cancer, e.g., advanced  brain cancer) which has grown or has recurred. People who are not in a study are usually treated with either surgery, radiation, or with drugs (indicate if FDA approved). Sometimes, combinations of these are used and your doctor can explain which may be best for you. These treatments can reduce symptoms and may stop the tumor from growing for several months or more.
+
+Text Example: Randomized Phase 2/3 Studies in Previously Untreated Patients
+You are being asked to take part in this study because you have (insert type of cancer, e.g., advanced prostate cancer that is sensitive to hormones). People who are not in a study are usually treated with hormonal drugs (indicate if FDA approved). Chemotherapy drugs are not usually used until the hormonal drug stops working against your type of cancer. For patients who receive the usual approach for this cancer, about (insert appropriate number) out of 100 are free of cancer at five years.
+
+Text Example: Phase 3 Randomized Studies with Multiple Randomizations
+You are being asked to take part in this study because you have (insert type of cancer, e.g., advanced non-small cell lung cancer). People who are not in a study are usually treated with surgery, chemotherapy, and radiation therapy. There are several FDA-approved chemotherapy drugs that are commonly used along with the radiation therapy. (Modify the following sentence to be consistent with the study) For patients who receive the usual approach for this cancer, about (insert appropriate number) out of 100 are free of cancer at five years.
+
+Text Example: Imaging Studies
+You are being asked to take part in this study because you have (insert type of cancer, e.g., advanced lung) cancer. People who are not in a study are usually diagnosed or have their treatment monitored with a (insert type of scan, e.g., CT) scan. These scans use (insert type of mechanism, e.g., radiation, magnets) to take pictures of your cancer.
+
+What are my other choices if I do not take part in this study?
+Notes to consent form authors:1. Section length limit: This section should be no more than one-quarter page.
+2. Additional bullets should include, when appropriate, alternative procedures or interventions.
+3. For comparative effectiveness studies in which two approved commercially-available approaches (tests, drugs, surgery, radiation, diagnostics, etc.) are being compared, the option of receiving one of the approaches outside of the trial should be included.
+Use the following text for all studies:
+If you decide not to take part in this study, you have other choices. For example:
+* you may choose to have the usual approach described above
+* you may choose to take part in a different study, if one is available
+* or you may choose not to be treated for cancer (as appropriate, consider adding) but you may want to receive comfort care to relieve symptoms.
+
+ Why is this study being done?
+Notes to consent form authors:1. Section length limit: This section should be between five and seven sentences and take up no more than one-quarter page.
+2. Provide a brief, phase-specific description of why the study is being done. For single arm phase 2 studies, indicate what is known about the drug/approach and indicate the amount of improvement (e.g., tumor shrinkage by one quarter is expected compared to the tumor's present size). For randomized phase 2 or 3 trials only, indicate the type and amount of improvement (e.g., survival, time to cancer recurrence, decrease in symptoms) that can be observed if the study is positive.
+3. Insert the names and types of investigational drugs/agents/interventions where indicated.
+4. Insert the number of people taking part in the study.
+5. If modifying the Template language is necessary, use simple, concise, lay language.
+Text Examples for Chemoprevention/Supportive Care/Other Studies:
+
+Text Example: Phase 1 Dose Escalation Chemoprevention Studies
+The purpose of this study is to test the safety of (insert name of drug or agent) at different doses to find out what effects, if any, it has on people. There will be about (insert number) people taking part in this study.
+
+Text Example: Phase 2 Non-randomized Chemoprevention Studies
+The purpose of this study is to test the safety of (insert name of drug or agent) and find out what effects, if any, (insert name of drug or agent) has on people and their risk of (insert type) cancer. (Indicate if the drug is FDA-approved or not). (Add the following sentence as appropriate). The study drug has not been shown to shrink (specify cancer type) but it has shrunk several types of cancer in animals. There will be about (insert number) people taking part in this study.
+
+Text Example: Phase 2 or 3 Randomized Chemoprevention Studies
+The purpose of this study is to compare the safety and effects of (insert name of drug or agent) with (insert name of currently-used drug or placebo) on people and their risk of (insert type) cancer. In this study, you will get either (insert name of drug/agent) or placebo, a (insert appropriate description for the placebo, e.g., pill/liquid) that looks like the study drug but contains no medication. To be better, the study drug should increase life by 1 year or more compared to the usual approach. There will be about (insert number) people taking part in this study.
+
+Text Example: Supportive Care Studies
+You have cancer and will be receiving chemotherapy that may cause nausea and vomiting. The purpose of this study is to test whether (insert name of drug/intervention) can reduce nausea and vomiting. The effects of (insert name of drug/intervention) will be compared to (a placebo or the usual approach). (If applicable, include the following sentence.) A placebo is a (insert appropriate description for the placebo, e.g., pill/liquid) that looks like the study drug but contains no medication. There will be about (insert number) people taking part in this study.
+
+Text Example: Behavioral Study
+You have (insert type) cancer and will be receiving chemotherapy that will cause fatigue. The purpose of this study is to test whether (insert intervention, e.g., yoga) can reduce fatigue. The effects of (insert intervention) will be compared to (describe comparative intervention, e.g., listening to relaxation tapes, or "the usual approach").
+
+Text Examples for Chemotherapy/Radiation Therapy/Surgery/Biologics/Imaging/Other Studies:
+
+Text Example: Phase 1 Dose Escalation Studies
+The purpose of this study is to test the safety of a study drug called (insert name of research drug, e.g., TST1234). This drug has been tested in animals but not yet in people. This study tests different doses of the drug to see which dose is safer in people. There will be about (insert number) people taking part in this study.
+
+Text Example: Phase 1 Novel Route/Combination Studies
+This study uses a combination of drugs (insert names of drugs, e.g., carboplatin and paclitaxel) that have already been FDA-approved to be given by vein. The purpose of this study is to test whether giving one of the drugs (insert name of drug, e.g., carboplatin) through the belly along with the other drug (insert name of drug, e.g., paclitaxel) by vein is safe. There will be about (insert number) people taking part in this study.
+
+Text Example: Phase 2 Non-randomized Studies
+The purpose of this study is to test any good and bad effects of the study drug called (insert name of drug, e.g., bevacizumab). (Insert name of drug(s)or investigational approach) could shrink your cancer but it could also cause side effects. Researchers hope to learn if the study drug will shrink the cancer by at least one-quarter compared to its present size. (The following sentence should be included as appropriate). (Insert name of drug(s)) has already been FDA-approved to treat other cancers. (The following sentence should be included only if the agent has not shown evidence of activity in humans). It has not been tested in (insert type of cancer, e.g., rectal) cancer, but has shrunk several types of tumors in animals. There will be about (insert number) people taking part in this study.
+
+Text Example: Phase 2 or 3 Randomized Studies
+The purpose of this study is to compare any good and bad effects of using a (specific drug, surgery or radiation approach) along with the usual chemotherapy, surgery or radiation therapy to using the usual chemotherapy, surgery or radiation approach alone. The addition of (insert name of drug(s) or investigational approach) to the usual (chemotherapy, surgery or radiation) could shrink your cancer/prevent it from returning (as appropriate) but it could also cause side effects. This study will allow the researchers to know whether this different approach is better, the same, or worse than the usual approach. To be better, the study drug(s)/study approach should increase life by six months or more compared to the usual approach (select other study primary endpoints as appropriate). (The following sentence should be included if appropriate). This chemotherapy drug, (insert name of drug, e.g., docetaxel), is already FDA-approved for use in (insert type of cancer, e.g., prostate) cancer but is usually not used until (e.g., hormone drug) stops working. There will be about (insert number) people taking part in this study.
+
+Text Example: Phase 3 Randomized Studies with Multiple Randomizations
+The purpose of this study is to test two things:
+(1) Compare any good and bad effects of using (e.g., a higher dose [74 Gray] of radiation) to the usual dose of (e.g., 60 Gray).
+(2) Compare any good and bad effects of adding (e.g., an extra antibody drug called cetuximab) to the usual chemotherapy (e.g., carboplatin and paclitaxel) to using the usual chemotherapy alone.
+Either of these different approaches could shrink your cancer but could also cause side effects. This study will allow the researchers to know whether this different approach is better, the same, or worse than the usual approach. If better, the new approaches should improve survival by 6 months compared to the usual approach. (Include the following sentence, if applicable.) Both the (insert description of first research intervention, e.g., higher radiation dose) and (insert description of second research intervention, e.g., cetuximab) have already been tested for safety; however, they are not part of the usual approach.
+
+There will be about (insert number) people taking part in this study.
+
+Text Example: Phase 2 or 3 Study with Integral Biomarker(s)
+Another purpose of this study is for researchers to learn if a biomarker test is helpful to decide ... (insert purpose of biomarker test, e.g., decide who should be enrolled in this study or decide which study group you will be in). An (insert how biomarker sample will be obtained, e.g., extra tube of blood will be drawn or tissue from your surgery will be used, etc. ...) for the biomarker test. Researchers do not know if using the biomarker test is better, the same, or worse than if you... (insert purpose of biomarker test, e.g., enrolled in this study or were put in a study group) without using the biomarker test.
+
+Text Example: Imaging Studies (Diagnostic, staging, or response to therapy)
+The purpose of this study is to test (insert name of research intervention, e.g., PET) scans, which are a different way to take pictures of your type of cancer. The researchers want to see if (insert name of intervention, e.g., PET) scans are better or the same as what is usually used, (insert name of usual approach, e.g., CT) scans, at diagnosing or monitoring your type of cancer. There will be about (insert number) people taking part in this study.
+
+Text Example: Phase 0/First-in-human Imaging Study
+The purpose of this study is to test if (insert name of research intervention, e.g., F18-Fluoroglutamine) can be used to take pictures of your type of cancer. This will be the first time that (insert name of research intervention, e.g., F18-Fluoroglutamine) is being tried in people. There will be about (insert number) people taking part in this study.
+
+Text Example: Phase 2 Non-randomized Imaging Agent Studies (biomarker example)
+The purpose of this study is to test if an imaging drug, not approved by the FDA, called (insert name of drug/agent, e.g., 18F-fluoride) is useful for evaluating your type of cancer. This drug is used to perform a (insert type of scan, e.g., PET) scan. The researchers want to see if the (insert type of scan, e.g., PET) scan, using the study drug, can improve upon the usual scans at diagnosing or monitoring your type of cancer. There will be about (insert number) people taking part in this study.
+
+What are the study groups?
+Notes to consent form authors:1. Section length limit: This section should be between seven to ten sentences and take up no more than three-quarters page.
+2. Provide a brief, phase-specific description of the study groups.
+3. Insert the names and types of drugs/agents/interventions as needed.
+4. For randomized studies, if the assignment is not 1:1, include a brief description of the assignment.
+5. Clearly identify the investigational arm(s).
+6. If modifying the Template language is necessary, use simple, concise, lay language.
+Text Example: Phase 1 Dose Escalation Studies
+Different doses of the study drug (insert name of research drug) will be given to several study participants. The first several study participants will receive the lowest dose. If the drug does not cause serious side effects, it will be given to other study participants at a higher dose. The doses will continue to increase for every group of study participants until side effects occur that require the dose to be lowered. Then the study is stopped. You (insert appropriate information, e.g., will/will not) be able to receive additional doses of the drug.
+
+Text Example: Phase 2 Non-randomized Studies
+All study participants will get the same study intervention. It will include the usual radiation therapy and chemotherapy (insert usual chemotherapeutics, e.g., 5-fluorouacil or capecitabine). All study participants will also get the study drug (insert name of research drug, e.g., bevacizumab).
+
+Text Example: Randomized Phase 2 Treatment Studies and Chemoprevention Studies
+This study has two study groups. Group 1 will receive the study drug (insert name of research drug) and Group 2 will receive a placebo, a (insert appropriate description for the placebo, e.g., pill/liquid) that looks like the study drug but contains no medication.
+
+A computer will by chance assign you to treatment groups in the study. This is called randomization. This is done by chance because no one knows if one study group is better or worse than the other.
+
+Text Example: Phase 3 Randomized Studies
+This study has two study groups.
+* Group 1 will get the usual (insert description of intervention, e.g., hormone or chemotherapy) drug used for this type of cancer (insert name of drug[s]).
+* Group 2 will get the usual (insert description of intervention, e.g., hormone or chemotherapy) drug used for this type of cancer (insert name of drug[s]) plus a study drug called (insert name of research drug, e.g., docetaxel).
+
+A computer will by chance assign you to treatment groups in the study. This is called randomization. This is done by chance because no one knows if one study group is better or worse than the others.
+
+(Note to informed consent authors: Study chart is optional if there is no randomization.) Another way to find out what will happen to you during this study is to read the chart below. Start reading at the left side and read across to the right, following the lines and arrows.
+
+
+
+
+
+Text Example: Phase 3 Randomized Studies with Multiple Randomizations
+All participants in this study will be given chemotherapy and radiation therapy.
+* Group 1 will get the usual chemotherapy (insert names of drugs, e.g., carboplatin and docetaxel) and the usual radiation dose (insert dose, e.g., 60 Gray).
+* Group 2 will get the usual chemotherapy (insert names of drugs, e.g., carboplatin and docetaxel) with a higher radiation dose than usual (insert research dose, e.g., 74 Gray).
+* Group 3 will get the usual chemotherapy (insert names of drugs, e.g., carboplatin and docetaxel)  and the usual radiation dose (insert dose, e.g., 60Gray) and a study drug called (insert name of research drug, e.g., cetuximab).
+* Group 4 will get the usual chemotherapy plus the higher radiation dose plus the study drug called (insert name of research drug, e.g., cetuximab).
+
+A computer will by chance assign you to treatment groups in the study. This is called randomization. This is done by chance because no one knows if one study group is better or worse than the others. Another way to find out what will happen to you during the study is to read the chart below. Start reading at the left side and read across to the right, following the lines and arrows.
+
+(Insert chart with four Groups, similar to the randomized study chart provided in the Phase 3 example above.)
+
+How long will I be in this study?
+Note to consent form authors:1. Section length limit: This section should be one or two sentences and take up no more than one-eighth page.
+Use the following text for all studies:
+You will receive the (insert description of intervention, e.g., study drugs) for (insert intervention length). After you finish (insert description of intervention), your doctor will continue to watch you for side effects and follow your condition for (insert study follow-up length).
+
+What extra tests and procedures will I have if I take part in this study?
+Notes to consent form authors:1. Section length limit: If the study has extra tests and procedures, this section is required but should be as brief as possible and take up no more than one-half page. If the study includes mandatory specimen collection, five to ten more sentences may be added and the length can be expanded to one page.
+2. You do not need to list those exams, tests, and procedures that are part of the usual approach. If the only exams, tests, or procedures that are being done are those performed using the usual approach, omit this section.
+3. Provide a list of research-related exams, tests, and procedures that are not part of the usual approach or that will be done more frequently than usual. Specify the frequency, if applicable.
+4. Please note: Sample text has been provided below for mandatory specimen collection. Sample text for optional specimen collection is provided in the "...Optional studies..." section located prior to the Signature line.
+Use the following text for all studies requiring extra exams, tests, and/or procedures:
+Most of the exams, tests, and procedures you will have are part of the usual approach for your cancer. However, there are some extra (insert appropriate word, e.g., exams, tests, and/or procedures) that you will need to have if you take part in this study.
+
+Before you begin the study:
+
+You will need to have the following extra (insert appropriate word, e.g., exams, tests, and/or procedures) to find out if you can be in the study:
+List exams, tests, and procedures that either would not be done for the usual approach or are performed more frequently than usual. Use bulleted format. Examples of extra exams, tests and procedures:
+* MUGA scan
+* Blood tests for studies of drug levels
+* CT scan of abdomen
+* Bone scan
+
+The following text example is provided for studies which include mandatory specimen collection:
+[Insert specimen type: Small pieces of cancer tissue removed by surgery, biopsies; A blood sample; A urine sample] will be taken for the study [state when the sample will be taken, for example, before you begin study drug; after the third dose; etc.] This sample is required in order for you to take part in this study because the research on the sample is an important part of the study. [Include brief description of how the specimen will be collected, e.g., "The research biopsy is done in a similar way to biopsies done for diagnosis." Include a brief description of how the specimen will be used.]
+
+[If applicable, include risks of biopsy or other specimen collection, e.g., "Common side effects of a biopsy are a small amount of bleeding at the time of the procedure, pain at the biopsy site, which can be treated with regular pain medications, and bruising. Rarely, an infection can occur."] [If applicable, include, "You will sign a separate consent form before the biopsy is taken. This will be a standard surgical consent form from the institution where the biopsy procedure takes place."]
+ 
+[If applicable, include whether any of the specimen left over will be stored for biobanking. If so, indicate that this will be discussed in the section on optional studies.]
+
+[If applicable, describe how the test results will be stored to protect privacy, e.g., "Your privacy is very important and the researchers will make every effort to protect it. Your test results will be identified by a unique code and the list that links the code to your name will be kept separate from your sample and health information." Also include whether or not the results will be available to the study participant or study doctor.]
+
+Neither you nor your health care plan/insurance carrier will be billed for the collection of the [insert sample type] that will be used for this study.
+
+Use the following text for all studies requiring extra exams, tests, and/or procedures:
+If the exams, tests, and procedures show that you can take part in the study, and you choose to take part, then you will need the following extra (insert appropriate words, e.g., exams, tests, and/or procedures). They are not part of the usual approach for your type of cancer. (If chemoprevention trial, state, "These are not part of the usual approach for your precancerous condition.")
+
+During the study:
+Examples of exams, tests, and procedures:
+* Blood tests every month for 1 year
+* CT scan of abdomen every 3 months for 2 years
+* Bone scan every 3 months for 2 years
+* Bone marrow biopsy immediately after study treatment is completed and 1 year later
+* Echocardiogram or MUGA scan to see how your heart is working every 3 months
+
+If study calendar is attached, this statement may be included instead of the bullets: A study calendar that shows how often these (insert appropriate words, e.g., exams, tests, and/or procedures) will be done is attached.
+
+What possible risks can I expect from taking part in this study?
+Notes to consent form authors:1. Section length limit: Limit this section to two to four pages maximum.If you choose to take part in this study, there is a risk that:
+Note to consent form authors: Select reasonably foreseeable risks and discomforts that are not physical side effects from the bullets below and/or include others, as relevant. Keep bulleted lists to no more than four items, if possible.
+* You may lose time at work or home and spend more time in the hospital or doctor's office than usual
+* You may be asked sensitive or private questions which you normally do not discuss
+* (For randomized studies only) The study drug(s)/study approach may not be better, and could possibly be worse, than the usual approach for your cancer.
+* (For studies requiring genetic testing) There is a risk someone could get access to the personal information in your medical records or other information researchers have kept about you. Someone might be able to trace this information back to you. The researchers believe the chance that someone will identify you is very small, but the risk may change in the future as people come up with new ways of tracing information. In some cases, this information could be used to make it harder for you to get or keep a job. (For non-U.S. participants, please verify the existence of such laws before including the following sentence.) There are laws against misuse of genetic information, but they may not give full protection. The researchers believe the chance these things will happen is very small, but cannot promise that they will not occur.
+* There can also be a risk in finding out new genetic information about you. New health information about inherited traits that might affect you or your blood relatives could be found during a study.
+
+The (specify type of study intervention, such as surgery, radiation therapy, drugs, etc.) used in this study may affect how different parts of your body work such as your liver, kidneys, heart, and blood. The study doctor will be testing your blood and will let you know if changes occur that may affect your health.
+
+There is also a risk that you could have side effects from the study drug(s)/study approach.
+
+Here are important points about side effects:
+* The study doctors do not know who will or will not have side effects.
+* Some side effects may go away soon, some may last a long time, or some may never go away.
+* Some side effects may interfere with your ability to have children.
+* Some side effects may be serious and may even result in death.
+
+Here are important points about how you and the study doctor can make side effects less of a problem:
+* Tell the study doctor if you notice or feel anything different so they can see if you are having a side effect.
+* The study doctor may be able to treat some side effects.
+* The study doctor may adjust the study drugs to try to reduce side effects.
+
+The tables below show the most common and the most serious side effects that researchers know about. There might be other side effects that researchers do not yet know about. If important new side effects are found, the study doctor will discuss these with you.
+
+Notes to consent form authors on how to present possible side effects: 1. Side effects of study group(s):
+a. For single-arm studies, list all possible side effects of the study drugs according to the recommendations given in 2-6 below.
+b. For multiple-arm studies with a control, the Table(s) of Possible Side Effects for the control arm should appear first and be followed by the Tables of Possible Side Effects for the drugs/agents used in the experimental arm(s).
+c. If the experimental arm consists of the usual treatment drugs/regimens (the control arm) plus experimental agent(s)/drug(s), the Table of Possible Side Effects for the usual treatment should not be repeated. The following statement should appear before the Table of Possible Side Effects for the investigational drugs/agents: "In addition to side effects outlined above for Group 1 and Group 2, people in this study who are in Group 2 may also experience the possible side effects of (insert name of research drug) listed below."
+2. Side effects of procedures:
+a. When describing risks for procedures, describe risks only for procedures that are beyond what would be considered as occurring during the usual treatment approach. The determination of deeming a procedure as part or not part of the usual treatment approach is left to the discretion of the investigator.
+b. Examples of procedures that are not part of the usual treatment approach could include an unusually large amount of blood to be drawn for PK, central line placement to administer the investigational agent, research biopsy, etc.
+3. Side effects of supportive drugs named in the consent form:
+a. Non-experimental supportive drugs need not have their side effects listed unless the treatment they support is the research question tested in the study. For example, side effects of Bactrim need not be listed when transplant is part of a study unless transplant is the actual study question in the trial.
+4. Side effects of classes of medications:
+a. If general classes of approved medications, such as a hormonal therapy or anti-emetics - where no specific drug is named - are required by the protocol, these do not need to be listed, nor their possible side effects included, in the consent form.
+5. Extremely specific possible side effects which are not perceived by the study participant, such as minor changes in lab values, should not be included in the consent form. Lab value changes that could be perceived by the study participant, or could be indicative of harm, should be listed, for example, the phrase "you could have liver damage," would be much more understandable to the study participant than "you could have elevated liver enzymes" or "you could have an elevation in (such-and-such lab value)."
+6. Definitions of frequency categories:
+a. "Common, some may be serious" - There is no standard definition of the frequency of risks included in this category however, as a guideline, "Common, some may be serious" can be viewed as occurring in greater than 20% and up to 100% of patients receiving the drug/agent.
+b. "Occasional, some may be serious"- There is no standard definition of the frequency of risks included in this category however, as a guideline, "Occasional, some may be serious" can be viewed as occurring between 4 and 20% of patients.
+c. "Rare, and serious" - Side effects that occur in less than 3% of patients do not have to be listed unless they are serious, in which case they should appear in the "Rare, and serious" category. This categorization will need to be modified for prevention studies.
+d. "Serious" is defined as side effects that may require hospitalization or may be irreversible, long-term, or life-threatening.
+e. "Possible, some may be serious" - This is a unique frequency category and may be used, when appropriate, for informing study participants of possible side effects related to IND agents for which the frequency of individual side effects has not yet been determined.
+7. Note on stating possible side effects for imaging agents: Certain FDA regulations will need to be considered when imaging agents are used depending on the imaging agent (IND vs. commercial) and the protocol. As examples of such guidances, please refer to: FDA's draft guidance for industry standards for clinical trial imaging endpoints, found at http://www.fda.gov/downloads/Drugs/GuidanceComplianceRegulatoryInformation/Guidances/UCM268555.pdf, and FDA's final guidance: "Developing Medical Imaging Drug and Biological Products" found at http://www.fda.gov/Drugs/DevelopmentApprovalProcess/DevelopmentResources/ucm092895.htm. Radiation Safety Committees may also require the mention of certain radiation-related information in the informed consent form.
+The following bullets are required for NCI's Cancer Therapy Evaluation Program (CTEP)-sponsored studies. Consent form authors for studies from other sponsors have the option of using them:1. CTEP is in the process of developing tables of possible side effects for its IND agents as well as for many other drugs commonly used in cancer treatment trials. These Tables should be inserted as illustrated below for the agents/drugs used in the cancer treatment trial. A list of agents/drugs for which tables of possible side effects have been developed, as well as the tables themselves, are available on CTEP's website at the following URL: http://ctep.cancer.gov/protocolDevelopment/#informed_consent 
+2. If a study uses a drug for which CTEP has not built a table of possible side effects, the same URL can be accessed for the tools and instructions to custom-build a table.
+3. For custom-built tables of possible side effects, the same format and frequency categories should be used.
+Note to consent form authors: The following tables of possible side effects for selected drugs and agents have been supplied as examples of what should be included for the regimens or drugs used in the study. Text and tables are examples for a randomized, phase 3 trial in colorectal cancer with Group 1 consisting of FOLFOX or FOLFIRI and Group 2 consisting of FOLFOX or FOLFIRI plus bevacizumab.
+Study Group 1 and Group 2 - Possible side effects of FOLFOX or FOLFIRI, either of which is the usual approach for this type of cancer:
+
+Possible Side Effects of FOLFOX
+COMMON, SOME MAY BE SERIOUS
+In 100 people receiving FOLFOX, more than 20 and up to 100 may have:* Anemia which may require blood transfusion
+* Diarrhea, nausea, vomiting
+* Difficulty swallowing
+* Tiredness
+* Bruising, bleeding
+* Numbness and tingling of the arms and legs
+* Increased risk of sunburn
+OCCASIONAL, SOME MAY BE SERIOUS
+In 100 people receiving FOLFOX, from 4 to 20 may have:* Heart attack
+* Chest pain
+* Abnormal heartbeat which may cause fainting
+* Hearing loss
+* Swelling and redness of the eye
+* Dry eye, mouth, skin
+* Problem with eyelid
+* Blurred vision with chance of blindness
+* Discomfort from light, watering eyes
+* Sores in internal organs
+* Fluid in the belly
+* Internal bleeding which may cause black tarry stool, coughing up blood, or blood in vomit or urine
+* Constipation, heartburn, passing gas
+* Sores in the throat or mouth
+* A tear or hole in internal organs that may require surgery
+* Chills, fever
+* Difficulty walking, opening mouth, with balance and hearing, smelling, eating, sleeping, talking or emptying the bladder
+* Swelling and redness at the site of the medication injection
+* Liver damage which may cause yellowing of eyes and skin
+* Allergic reaction which may cause rash, low blood pressure, wheezing, shortness of breath, swelling of the face or throat
+* Weight gain, weight loss, loss of appetite
+* Infection, especially when white blood cell count is low
+* Dehydration
+* Pain
+* Inability to move shoulder or turn head
+* Dizziness, headache
+* Changes in taste
+* Abnormal body movement including the eye and eyelid
+* Bleeding from multiple sites including the vagina, testis, or brain
+* Stroke which may cause paralysis, weakness
+* Muscle weakness
+* Seizure
+* Worry, confusion, depression
+* Increased urination
+* Stuffy nose
+* Cough, hiccups, sinus problems
+* Swelling of the body which may cause shortness of breath
+* Scarring of the lungs
+* Changes in voice
+* Increased sweating
+* Hives, hair loss, itching, rash
+* Flushing, hot flashes
+* High blood pressure
+* Low blood pressure which may cause feeling faint
+* Blood clot which may cause swelling, pain, shortness of breath
+* Damage to organs which may cause shortness of breath
+RARE, AND SERIOUS
+In 100 people receiving FOLFOX, 3 or fewer may have:* Kidney damage which may require dialysis
+* Redness, pain or peeling of palms and soles
+ Possible Side Effects of FOLFIRI
+COMMON, SOME MAY BE SERIOUS
+In 100 people receiving FOLFIRI, more than 20 and up to 100 may have:* Infection, especially when white blood cell count is low
+* Anemia which may require blood transfusion
+* Constipation, vomiting, nausea, diarrhea
+* Sores in mouth
+* Difficulty swallowing
+* Fever
+* Pain
+* Weight loss, loss of appetite
+* Bruising, bleeding
+* Tiredness, dizziness
+* Cough
+* Hair loss
+OCCASIONAL, SOME MAY BE SERIOUS
+In 100 people receiving FOLFIRI, from 4 to 20 may have:* Abnormal heartbeat
+* Watering eyes, discomfort from light, blurred vision
+* A tear or hole in the stomach which may require surgery
+* Allergic reaction which may cause rash, low blood pressure, wheezing, shortness of breath, swelling of the face or throat
+* Headache
+* Abnormal eye movement
+* Difficulty walking
+* Shortness of breath
+* Rash, itching
+* Increased risk of sunburn
+* Redness, pain or peeling of palms and soles
+* Scarring of the lungs
+* Blood clot
+RARE, AND SERIOUS
+In 100 people receiving FOLFIRI, 3 or fewer may have:* Damage to the heart which may cause swelling
+* Chest pain
+* Heart attack which may cause chest pain, shortness of breath
+Study Group 2 - In addition to side effects outlined above, people who are in Group 2 may also experience the possible side effects of bevacizumab listed below.
+
+Possible Side Effects of Bevacizumab
+COMMON, SOME MAY BE SERIOUS
+In 100 people receiving bevacizumab, more than 20 and up to 100 may have:* Diarrhea, nausea, vomiting
+* Tiredness
+* Headache
+* High blood pressure which may cause blurred vision
+OCCASIONAL, SOME MAY BE SERIOUS
+In 100 people receiving bevacizumab, from 4 to 20 may have:* Anemia which may require blood transfusion
+* Abnormal heartbeat which may cause fainting
+* Dizziness, fainting
+* Pain
+* Constipation, heartburn
+* Bleeding from multiple sites including the vagina or nose, or bleeding in the brain which may cause confusion
+* Internal bleeding which may cause black, tarry stool, blood in vomit or urine, or coughing up blood
+* Sores in mouth which may cause difficulty swallowing
+* Allergic reaction which may cause rash, low blood pressure, wheezing, shortness of breath, swelling of the face or throat
+* Infection, especially when white blood cell count is low
+* Non-healing surgical site
+* Weight loss
+* Loss of appetite
+* In children or adolescents: may interfere with growth
+* Kidney damage which may require dialysis
+* Cough, hoarseness, stuffy nose, shortness of breath
+* Itching, rash, hives
+* Blood clot which may cause swelling, pain, shortness of breath
+RARE, AND SERIOUS
+In 100 people receiving bevacizumab, 3 or fewer may have:* Heart attack or heart failure which may cause shortness of breath, swelling of ankles, or tiredness
+* A tear or hole in internal organs that may require surgery
+* Sores in the throat
+* Stroke which may cause paralysis, weakness
+* Brain damage, Reversible Posterior Leukoencephalopathy Syndrome, which may cause headache, seizure, blindness
+Examples of research imaging studies: 
+
+Text Example: Radiation Risk for Research Imaging Studies
+(Each site may need to modify this section to quote correct dosimetry for the type of study being performed and dosimetry for its own scanners and imaging protocols in accordance with its own institutional policies and procedures. The following text and risk estimate is an example only.)
+
+The (insert type of scan, e.g., PET, CT) that you will receive in this study will expose you to low amounts of radiation. Every day, people are naturally exposed to low levels of radiation that come from the sun and the environment. This type of radiation is called "background radiation". No one knows for sure whether exposure to low amounts of radiation is harmful for your body. However, scientists believe that being exposed to too much radiation can cause harmful side effects, including causing a new cancer.
+
+The (insert type of scan, e.g., PET, CT) that you will receive in this study will expose you to extra radiation that is equal to about (insert estimate, e.g., 2 year's worth) of background radiation. Most of the time, this low amount of extra radiation is not harmful to you. However, scientists believe that if you get extra radiation that is more than about 30 year's worth of background radiation, there is a chance of having a harmful side effect, including causing a new cancer. It is estimated that this could occur in about 1 out of every 1000 people who get a very large amount of extra radiation.
+
+Table example of risk presentation for Radiation Therapy Studies.
+Examples should be modified to add possible side effects related to treatment location.
+
+Possible Side Effects of Research Radiation Therapy
+COMMON, SOME MAY BE SERIOUS
+In 100 people receiving radiation therapy, more than 20 and up to 100 may have:* Reddening, tanning, or peeling of the skin
+* Mild pain
+* Hair loss
+* Tiredness
+* Diarrhea, nausea
+* Anemia, which may require transfusion
+* Infection, especially when white blood cell count is low
+OCCASIONAL, SOME MAY BE SERIOUS
+In 100 people receiving radiation therapy, from 4 to 20 may have:* Thickening and numbness of the skin
+* Sores or ulcers on the skin or near the cancer location
+* Permanent hair loss
+* Bleeding from the skin
+* Sores in mouth which may cause difficulty swallowing
+RARE, AND SERIOUS
+In 100 people receiving radiation therapy, 3 or fewer may have:* Damage to internal organs
+* Abnormal opening in internal organs which may cause pain and bleeding
+Use the following text for all studies:
+Let your study doctor know of any questions you have about possible side effects. You can ask the study doctor questions about side effects at any time.
+
+Reproductive risks: You should not get pregnant, breastfeed, or father a baby while in this study. The (specify intervention) used in this study could be very damaging to an unborn baby. Check with the study doctor about what types of birth control, or pregnancy prevention, to use while in this study.
+
+What possible benefits can I expect from taking part in this study?
+Notes to consent form authors:1. Section length limit: This section should be between two and three sentences and take up no more than one-eighth page.
+2. The statements below are generic and consent form authors should try to make their language specific to the study question when describing the potential research benefit.Text Example: Phase 1 Studies
+This study is unlikely to help you. This study may help us learn things that may help people in the future.
+
+Text Example: Phase 2 Non-randomized Studies
+This study has only a small chance of helping you because we do not know if the study drug/study approach is effective. This study may help researchers learn things that may help other people in the future.
+
+Text Example: Phase 2 and 3 Randomized Studies
+It is not possible to know at this time if the study drug(s)/study approach is better than the usual approach so this study may or may not help you. This study will help researchers learn things that will help people in the future.
+
+Can I stop taking part in this study?
+Notes to consent form authors:1. Section length limit: This section should be between five and eight sentences and take up no more than three-eighths page.Use the following text for all studies:
+Yes. You can decide to stop at any time. If you decide to stop for any reason, it is important to let the study doctor know as soon as possible so you can stop safely. If you stop, you can decide whether or not to let the study doctor continue to provide your medical information to the organization running the study.
+
+The study doctor will tell you about new information or changes in the study that may affect your health or your willingness to continue in the study.
+
+The study doctor may take you out of the study:
+* If your health changes and the study is no longer in your best interest
+* If new information becomes available
+* If you do not follow the study rules
+* If the study is stopped by the sponsor, IRB or FDA.
+
+What are my rights in this study?
+Notes to consent form authors:1. Section length limit: This section should be about four sentences and take up no more than one-eighth page.
+Use the following text for all studies:
+Taking part in this study is your choice. No matter what decision you make, and even if your decision changes, there will be no penalty to you. You will not lose medical care or any legal rights.
+
+For questions about your rights while in this study, call the ________________________ (insert name of center) Institutional Review Board at __________________ (insert telephone number). (Note to Local Investigator: Contact information for patient representatives or other individuals at a local institution who are not on the IRB or research team but take calls regarding clinical trial questions can also be listed here.)
+
+What are the costs of taking part in this study?
+Notes to consent form authors:1. Section length limit: This section should be between four and eight sentences and take up no more than one-quarter page.
+2. If appropriate, state which study agent(s) or procedures are provided free of charge.
+3. Indicate if the study participant and/or health plan is likely to be billed for any charges associated with these "free" tests or procedures.
+4. Outline any other pertinent financial support.
+Use the following text for all studies:
+The (study agent) will be supplied at no charge while you take part in this study. The cost of getting the (study agent) ready and giving it to you (As appropriate, add: "...is also provided at no charge." Or "...is not paid by the study sponsor so you or your insurance company may have to pay for this.") It is possible that the (study agent) may not continue to be supplied while you are on the study. Although not likely, if this occurs, your study doctor will talk to you about your options.
+
+You and/or your health plan/insurance company will need to pay for all of the other costs of (As appropriate, add: "caring for" Or "preventing" Or "treating") your cancer while in this study, including the cost of tests, procedures, or medicines to manage any side effects, unless you are told that certain tests are supplied at no charge. Before you decide to be in the study, you should check with your health plan or insurance company to find out exactly what they will pay for.
+
+You will not be paid for taking part in this study.
+
+(Note to consent form authors and investigators: Insert a description of any compensation for participation or reimbursement for expenses.)
+
+What happens if I am injured or hurt because I took part in this study?
+Notes to consent form authors:1. Section length limit: This section should be between four and six sentences and take up no more than one-quarter page.
+Use the following text for all studies:
+If you are injured or hurt as a result of taking part in this study and need medical treatment, please tell your study doctor. The study sponsors (will/will not) offer to pay for medical treatment for injury. Your insurance company may not be willing to pay for study-related injury. If you have no insurance, you would be responsible for any costs.
+
+If you feel this injury was a result of medical error, you keep all your legal rights to receive payment for this even though you are in a study.
+
+Who will see my medical information?
+Notes to consent form authors:1. Section length limit: This section should be between four to seven sentences and take up no more than one-quarter page.
+2. The NCI has recommended that HIPAA regulations be addressed by the local institution. Language pertaining to HIPAA compliance may or may not be included in the local consent form, depending on local institutional policy.
+Use the following text for all studies:
+Your privacy is very important to us and the researchers will make every effort to protect it. Your information may be given out if required by law. For example, certain states require doctors to report to health boards if they find a disease like tuberculosis. However, the researchers will do their best to make sure that any information that is released will not identify you. Some of your health information, and/or information about your specimen, from this study will be kept in a central database for research. Your name or contact information will not be put in the database.
+
+There are organizations that may inspect your records. These organizations are required to make sure your information is kept private, unless required by law to provide information. Some of these organizations are:
+* The study sponsor and any drug company supporting the study (Note to consent form authors: Delete drug company reference if not applicable.)
+* The Institutional Review Board, IRB, is a group of people who review the research with the goal of protecting the people who take part in the study.
+* The Food and Drug Administration and the National Cancer Institute in the U.S., and similar ones if other countries are involved in the study.
+
+Where can I get more information?
+Notes to consent form authors:1. Section length limit: This section should be between six and eight sentences and take up no more than one-quarter page.
+2. The second paragraph below complies with the new FDA regulation found at 21 CFR 50.25(c) and must be included verbatim in all consent forms for any applicable trial under the regulation. The text in this paragraph cannot be revised.
+Use the following text for all studies:
+You may visit the NCI Web site at http://cancer.gov/ for more information about studies or general information about cancer. You may also call the NCI Cancer Information Service to get the same information at: 1-800-4-CANCER (1-800-422-6237).
+
+A description of this clinical trial will be available on http://www.ClinicalTrials.gov, as required by U.S. Law. This Web site will not include information that can identify you. At most, the Web site will include a summary of the results. You can search this Web site at any time.
+
+Who can answer my questions about this study?
+Notes to consent form authors:1. Section length limit: This section should be between four and six sentences and take up no more than one-eighth page.
+Use the following text for all studies:
+You can talk to the study doctor about any questions or concerns you have about this study or to report side effects or injuries. Contact the study doctor __________________ (insert name of study doctor[s]) at __________________ (insert telephone number).
+
+ADDITIONAL STUDIES SECTION: (Indicate clearly to participants that this is a separate section)
+This section is about optional studies you can choose to take part in
+Notes to consent form authors:1. Section length limit: If the study mandates some of these optional studies be included, the text should be as brief as possible and take up no more than three pages.
+2. All of the regulatory elements of consent included in the primary consent form must pertain to the embedded optional study. If any do not apply, they must be addressed in the discussion of the optional study.
+3. Provide yes/no options at each decision point and do not require initials.
+4. After choosing which optional studies included below pertain to your specific research, delete the studies that do not pertain.
+5. If modifying the Template language to include other studies is necessary, use simple, concise, lay language.
+Use the following text if optional studies are included:
+This part of the consent form is about optional studies that you can choose to take part in. You will not get health benefits from any of these studies. The researchers leading this optional study hope the results will help other people with cancer in the future.
+
+The results (specify: will/ will not) be added to your medical records and you or your study doctor (specify: will/will not) know the results.
+
+You will not be billed for these optional studies. You can still take part in the main study even if you say "no" to any or all of these studies. If you sign up for but cannot complete any of the studies for any reason, you can still take part in the main study.
+
+Circle your choice of "yes" or "no" for each of the following studies.
+
+1. Optional imaging study - extra scan (Note to consent form authors: This example pertains to an extra scan for research purposes)
+If you choose to take part in this study, you will have an extra (insert name of standard clinical imaging procedure, e.g., PET scan). This scan is already used in medical care but it would be taken at a time point in your treatment that is not usual. Researchers would use this scan to (briefly describe purpose, e.g., try to learn more about how treatment works on cancer).
+
+If you agree to have this extra scan, it would involve (briefly describe procedures, e.g., blood draw, contrast agent, time). The risks would be (briefly describe, focusing on risks of extra scan, e.g., additional radiation risk, risk of contrast). (As applicable, insert: The scan [may or would] be used to guide your medical care. or The scan would only be used for research and not to guide your medical care.) If applicable, include the following statement: There are educational materials available about this type of scan. Ask your study doctor about them, if you would like more information.)
+
+Please circle your answer: I choose to take part in the imaging study and will have the extra (insert name of procedure, e.g., PET scan):
+YES			NO
+
+2. Optional imaging study - research scan or procedure (Note to consent form authors: This example pertains to an investigational scan or procedure.)
+If you choose to take part in this study, you will have an experimental (insert descriptor - scan or procedure) called (insert name of investigational imaging scan/procedure). Researchers hope this kind of (insert descriptor - scan or procedure) might one day be used to (briefly describe purpose, e.g., learn more about cancer and how treatment works on cancer). This (insert descriptor - scan or procedure) is still being tested and researchers do not know how accurate or useful it is.
+
+If you agree to have this (insert descriptor - scan or procedure), it would involve (briefly describe procedures). The risks would be (briefly describe, e.g., risks of investigational contrast agent). The (insert descriptor - scan or procedure) would only be used for research and not to guide your medical care.
+
+Please circle your answer: I choose to take part in the imaging study and will have the experimental (insert name of scan or procedure):
+	YES			NO
+
+3. Optional Quality of Life Study
+If you choose to take part in this study, you will be asked to fill out a form with questions about (briefly state topic, e.g., your physical and emotional well-being). Researchers will use this information to (briefly describe purpose, e.g., learn more about how cancer and cancer treatment affects people).
+
+You will be asked to fill out this form at (insert number) times: (insert bulleted list of time indicators, e.g., before surgery, after surgery before chemotherapy, and mode, e.g., inpatient, mail, or phone). Each form will take about (insert number) minutes to complete. The forms will ask about things like (briefly describe, e.g., fatigue, diarrhea). You may feel uncomfortable answering some of the questions, and you can skip any you do not want to answer.
+
+Please circle your answer: I choose to take part in the Quality of Life study and will fill out these forms:
+	YES			NO
+
+4. Optional Sample Collections for Laboratory Studies and/or Biobanking for Possible Future Studies
+Note to consent form authors: 1. Section title and content should be modified as applicable based on whether study has optional collections and/or biobanking.
+2. Some content for the biobanking consent has been used with the consent of the author, L. M. Beskow. The citation is as follows: Beskow LM, Friedman JY, Hardy NC, Lin L, Weinfurt KP (2010) Developing a Simplified Consent Form for Biobanking. PloS ONE 5(10):e13302. doi:10.1371/journal/.pone.0013302Researchers are trying to learn more about cancer, diabetes, and other health problems. Much of this research is done using samples from your tissue, blood, urine, or other fluids. Through these studies, researchers hope to find new ways to prevent, detect, treat, or cure health problems.
+
+Some of these studies may be about genes. Genes carry information about features that are found in you and in people who are related to you. Researchers are interested in the way that genes affect how your body responds to treatment.
+
+Note to consent form authors: The following is a text example for when a defined/known lab study can be described.)
+If you choose to take part in this study, the study doctor for the main study would like to collect (insert specimen to be collected, e.g., blood) for research on (briefly describe purpose).
+(Note to consent form authors: The following is a text example for when a specimen is being collected for future unspecified research.)
+If you choose to take part, (insert specimen to be collected, e.g., a sample of tissue from your previous biopsy) will be collected. The researchers ask your permission to store and use your samples and related health information (for example, your response to cancer treatment, results of study tests and medicines you are given) for medical research. The research that may be done is unknown at this time. Storing samples for future studies is called "biobanking". The Biobank is being run by (insert name of clinical trials organization) and supported by the National Cancer Institute.
+
+WHAT IS INVOLVED?
+If you agree to take part, here is what will happen next:
+1) Choose applicable sentence for the trial: About (insert number) tablespoons of blood will be collected from a vein in your arm. OR A sample from the tissue that was collected at the time of your surgery will be sent to the Biobank. OR A sample of tissue will be collected from the optional extra biopsy. [Revise as necessary to describe sample and collection. Should be noted if sample is drawn at same time as other draws, is residual material from embedded correlative, or already exists (archived tissue).]
+2) Choose 'a' or 'b' as applicable for the trial:
+a) Your sample and some related health information will be sent to a researcher for use in the study described above. (Include the following sentences, if applicable.) Remaining samples may be stored in the Biobank, along with samples from other people who take part. The samples will be kept until they are used up.
+OR
+b) For future unspecified research: Your sample and some related health information may be stored in the Biobank, along with samples and information from other people who take part. The samples will be kept until they are used up. Information from your medical record will be updated from time to time.
+3) Qualified researchers can submit a request to use the materials stored in the Biobanks. A science committee at the clinical trials organization, and/or the National Cancer Institute, will review each request. There will also be an ethics review to ensure that the request is necessary and proper. Researchers will not be given your name or any other information that could directly identify you. (Note to informed consent authors: In specific instances, if this statement is not accurate and information may be given to researchers, please include appropriate notification information.)
+4) Neither you nor your study doctor will be notified when research will be conducted or given reports or other information about any research that is done using your samples. (Note to informed consent authors: In specific instances, if this statement is not accurate and information may be given to study doctors, please include appropriate notification information.)
+5) Some of your genetic and health information may be placed in central databases that may be public, along with information from many other people. Information that could directly identify you will not be included.
+
+WHAT ARE THE POSSIBLE RISKS?
+1) The most common risks related to drawing blood from your arm are brief pain and possibly a bruise. (Revise as necessary to describe risks from the sample collection.)
+2) There is a risk that someone could get access to the personal information in your medical records or other information researchers have stored about you.
+3) There is a risk that someone could trace the information in a central database back to you. Even without your name or other identifiers, your genetic information is unique to you. The researchers believe the chance that someone will identify you is very small, but the risk may change in the future as people come up with new ways of tracing information.
+4) In some cases, this information could be used to make it harder for you to get or keep a job or insurance. (For non-US participants, please verify existence of such laws before including the following text.) There are laws against the misuse of genetic information, but they may not give full protection. There can also be a risk in knowing genetic information. New health information about inherited traits that might affect you or your blood relatives could be found during a study. The researchers believe the chance these things will happen is very small, but cannot promise that they will not occur.
+
+HOW WILL INFORMATION ABOUT ME BE KEPT PRIVATE?
+Your privacy is very important to the researchers and they will make every effort to protect it. Here are just a few of the steps they will take:
+1) When your sample(s) is sent to the researchers, no information identifying you (such as your name) will be sent. Samples will be identified by a unique code only. (Note to consent form authors: If investigators are receiving samples directly from sites without being coded, modify accordingly.)
+2) The list that links the unique code to your name will be kept separate from your sample and health information. Any Biobank and (insert name of clinical trials organization) staff with access to the list must sign an agreement to keep your identity confidential.
+3) Researchers to whom (insert name of clinical trials organization) sends your sample and information will not know who you are. They must also sign an agreement that they will not try to find out who you are.
+4) Information that identifies you will not be given to anyone, unless required by law.
+5) If research results are published, your name and other personal information will not be used.
+
+WHAT ARE THE POSSIBLE BENEFITS?
+You will not benefit from taking part. (Note to informed consent authors: In specific studies, if this statement is not accurate and information may be given to the study participant's physician for use in their care, please include appropriate notification information.)
+
+(Use the following sentence as applicable, e.g., when diagnosis has not been established: Your samples may be helpful to research whether you do or do not have cancer.) The researchers, using the samples from you and others, might make discoveries that could help people in the future.
+
+ARE THERE ANY COSTS OR PAYMENTS?
+There are no costs to you or your insurance. You will not be paid for taking part. If any of the research leads to new tests, drugs, or other commercial products, you will not share in any profits.
+
+WHAT IF I CHANGE MY MIND?
+If you decide you no longer want your samples to be used, you can call the study doctor, _________________, (insert name of study doctor for main trial) at ________________________ (insert telephone number of study doctor for main trial) who will let the researchers know. Then, any sample that remains in the bank will no longer be used and related health information will no longer be collected. Samples or related information that have already been given to or used by researchers will not be returned.
+
+WHAT IF I HAVE MORE QUESTIONS?
+If you have questions about the use of your samples for research, contact the study doctor, ________________, (insert name of study doctor for main trial), at _____________________ (insert telephone number of study doctor for main trial).
+
+Please circle your answer to show whether or not you would like to take part in each option (include only applicable questions):
+
+SAMPLES FOR THE LABORATORY STUDIES:
+I agree to have my specimen collected and I agree that my specimen sample(s) and related information may be used for the laboratory study(ies) described above.
+
+	YES		NO
+
+I agree that my study doctor, or their representative, may contact me or my physician to see if I wish to learn about results from this(ese) study(ies).
+
+	YES		NO
+
+SAMPLES FOR FUTURE RESEARCH STUDIES:
+	My samples and related information may be kept in a Biobank for use in future health research.
+
+	YES		NO
+
+I agree that my study doctor, or their representative, may contact me or my physician to see if I wish to participate in other research in the future.
+
+	YES		NO
+
+Use the following text if optional studies have been included:
+This is the end of the section about optional studies.
+
+My Signature Agreeing to Take Part in the Main Study
+Notes to consent form authors:1. Section length limit: This section should be four to five sentences and take up no more than one-quarter page.
+I have read this consent form or had it read to me. I have discussed it with the study doctor and my questions have been answered. I will be given a signed copy of this form. I agree to take part in the main study and any additional studies where I circled 'yes'. (Note to protocol authors - remove italicized text if not applicable. Remove italics, if the text does apply.)
+
+Participant's signature________________________________
+
+Date of signature_____________________________________
+
+
+(The following signature and date lines for the person(s) conducting the discussion may be included at the discretion of the study sponsor.)
+
+Signature of person(s) conducting the informed consent discussion___________________________________
+
+Date of signature_____________________________________
+
+Note to Consent Form Authors and Investigators:
+
+Recommendations about Attachments to the Consent Form (CF)
+
+1. Attachments should contain information for the study participant that is considered optional, and is not required for their understanding of the proposed research. Attachments may provide clarification, additional education, or provide information about other facets of overall cancer care.
+
+2. All required information should be contained within the CF itself. If the information is considered mandatory for the participants' understanding of the proposed research, then it should be in the CF.
+a) If a therapy or procedure is truly part of the research design - whether it is drug therapy, surgery, minimally invasive therapy, imaging, etc. - then information describing this therapy/procedure should be part of the CF.
+b) There is a difference between interventions that are part of standard care vs. a new indication of an already marketed intervention when research is being done. Marketed or available interventions (including scans) that are being used for a new indication should be treated as an experimental intervention and their side effects should be in the CF.
+
+3. A study calendar is useful to include as an optional attachment.
+a) Patient advocates have recommended attaching a calendar that is easy for study participants to understand, conveying what has to be done, when, and for how long. It should help the study participant plan his/her life during the study. It should not be formidable-looking or too complicated in format, especially as dates and timing often change during the course of treatment due to unforeseen events.
+
+4. Patient advocates have recommended the use of supportive educational materials that could help study participants better understand research-related information, such as biospecimen banking and treatment-related information for radiation therapy, surgery, chemotherapy, and imaging.
+a) NCI offers educational materials that cover many aspects of cancer, its treatment, and research, for example, the pamphlet, Taking Part in Cancer Treatment Research Studies. This pamphlet, and other materials, may be ordered on the NCI Web site at https://pubs.cancer.gov/ncipl/home.aspx or call 1-800-4- CANCER (1-800-422-6237) to request free copies.
+b) The FAQs about the NIH Certificate of Confidentiality may be found at http://grants.nih.gov/grants/policy/coc/faqs.htm#187. If a study has a Certificate of Confidentiality, the FAQs can be printed and used as an attachment.
+
+5. Since many people do not have access to the Internet, including only web links in an attachment is not considered to be useful.
+
+6. Friendly reminder - attached consent materials to the CF must be reviewed and approved by the IRB.
+
+
+
+Page 1 of 3
+
