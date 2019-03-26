@@ -1,66 +1,0 @@
-﻿ FORM 6: Collection and Storage of Human Biological Specimens for Future Research
-(Tissue Banking)
-Submit this completed form (with original PI's signature) to the IRB office (Box 817 or 15 Kneeland St, 1st floor)
-
-IRB #:       Principal Investigator:      Study Title:       Specimen Collection and Storage Information1. Name of Tissue Bank:      2. Address of Tissue Bank:      3. Contact person at the tissue bank:      
-Position or Title:      
-Tel #:      
-E-mail:      4. What is the role of Tissue Banking in this study?
-  Tissue Banking is the primary purpose of the study    Tissue Banking is an Optional part of the main study
-NOTE:  Refer to the Tissue Banking ICF Worksheet to ensure all relevant information is included in the ICF for tissue banking.5. Specify what type(s) of specimen(s) (blood, urine, stool, tumor, embryonic germ or stem cells, etc.) will be stored:        
-a. If fetal tissue* will be collected, explain why this tissue is required to achieve research goals (cord blood and placenta are not considered fetal tissue for the purposes of this form):      
-NOTE:  In addition to Federal regulations, Massachusetts state regulations govern the use of fetal tissue for research
-(M.G.L. Chapter 112, Section 12J).  For more information refer to the General Laws of Massachusetts. 6. For each type of specimen included in your response to #5 above, indicate how it will be collected (blood draw, bone marrow aspiration, needle biopsy, etc.)      7. The protocol and ICF each specify that the specimen(s) is being obtained (check all that apply):
-  Solely for research (would not be obtained as part of standard care), or
-  As part of standard clinical care (leftover/discard)
-  In addition to that which would be obtained for standard clinical care, specify how much this additional amount is for tissue banking:         
-  (For optional tissue banking only) in addition to what would be obtained for the main research study; specify how much this additional amount is for tissue banking:         8. The specimens to be transferred to the tissue bank will be (check one): 
-  Readily identified with the source individual's private or protected health information  
-  De-identified (stripped of all HIPAA identifiers) and not coded 
-  De-identified and coded; specify under what circumstances the code could be revealed:      
-  The protocol and/or Site-Specific Appendix specify where the key to the specimen code will be kept and how it will be secured. All information related to the code including the key is to be retained and secured by the Principal Investigator at Tufts Medical Center/Tufts University and must not be shared outside of the study team or Tufts Medical Center/Tufts University. 
-NOTE: For all applicable NIH funded research, all data and specimens should be collected and stored according to the NIH Genomic Data Sharing Policy.9. Specify how long specimens will be stored, or indicate if specimens will be stored indefinitely:      10. Specify under what circumstances a tissue bank representative or a recipient to whom the tissue bank distributes specimens would seek to contact the source individual (subject). If there are no such circumstances, state "none":      11. It is anticipated that the specimen(s) might be (check all that apply, if none apply go to next question):
-  Subjected to genetic testing  
-  Subjected to genome-wide analysis (must be specified in the ICF)  
-  Genotype and phenotype data will be shared broadly for research purposes (this is specified in the ICF, including with whom this data will be shared)
-  Used to create a perpetual cell line (immortalized)
-Refer to the NIH's FAQ on Human Subjects Research - Human Specimens, Cell Lines or Data for additional information.
-12. Results of any research performed on the specimens will be reported as follows (check all that apply, if none apply go to next question):
-  Conveyed to the source individual
-  Conveyed to the source individual's physician
-  Placed in the source individual's medical record
-For each checked item above, specify the rationale for conveying the results:       
-  Testing of research specimens is being conducted in a laboratory certified (CLIA-approved*) to conduct diagnostic testing 
-  If the research tests are experimental or of unknown or unproven clinical significance and the results will be provided to the source individual or physician or placed in the source individual's medical record, provide the rationale for this:      
-NOTE: If patient-specific research results are reported from the laboratory and those results will or could be used for the diagnosis, prevention, or treatment of any disease or impairment, or the assessment of the health of human beings, the laboratory must be CLIA certified.  
-Yes  No
- 13. The tissue bank will distribute the specimens for research use by other investigators and will identify the specimens that they distribute as follows.  If yes, check one of the following:
-   Readily identified with the source individual's identifiers
-   De-identified and coded: specify under what circumstances the code will or could be revealed:      
-   De-identified and not coded   
-Yes  No
-14. A copy of the tissue bank's written policies OR a detailed written statement from the tissue bank that describe the following items is being submitted as an attachment to this form:
-	a) The types of investigators or entities* to whom the specimens may be distributed, 
-	b) The types of research for which the specimens may be distributed, 
-c) The measures taken to guard against disclosure of the source individual's private and protected health information, 
-d) Who (e.g. an IRB) will oversee the distribution of specimens from the tissue bank to other investigators or entities.
-NOTE: The provision of human material/tissue to investigators/entities outside of Tufts Medical Center/Tufts University requires a contract such as a Materials Transfer Agreement (MTA) executed by Tufts Medical Center Grants and Contracts Office or Tufts University Office of Technology Transfer and Industry Collaboration.  
-Yes  No15. The protocol and ICF provides instructions on how the source individual may withdraw his/her consent for research use of specimens, if a source individual who initially consents to tissue banking changes his/her mind.    
-Yes  No16. The source individual's specimens might be used in the development of commercial products. 
-a. If yes, specify whether the source individual will receive any benefit or monetary gain from such development:        
-Yes  No
-17. The Tissue Bank proposes to pay money or provide any other remuneration to Tufts Medical Center/Tufts University, the Principal Investigator, or any member of the research team for the collection or use of the specimens. If yes, specify what the remuneration is, who it will be disbursed to, and its purpose:       Protected Health Information (PHI) Provided to Tissue Bank
-If PHI will not be provided to the tissue bank, then check N/A and go to the next section, N/A: 18. Provide a detailed description of any PHI that will be provided to the tissue bank along with the specimens:      19. Specify the duration and frequency at which PHI will be provided to the tissue bank:      20. Provide the rationale for sending PHI to the tissue bank:      21. The PHI that will be provided to the tissue bank will be (check one): 
-  Readily identified with the source individual's private or PHI 
-  De-identified and coded; specify under what circumstances the code could be revealed:      	
-  De-identified (stripped of all HIPAA identifiers) and not coded 
-  The protocol/Site-Specific Appendix specifies where the key to the PHI code will be kept and how it will be secured. All information related to the code including the key is to be retained and secured by the Principal Investigator at Tufts Medical Center/Tufts University and must not be shared outside of the study team or Tufts Medical Center/Tufts University.  
-Yes  No
-22. Specimens will be labeled and distributed to the tissue bank with any HIPAA identifiers from the source individual.
-Note: "collection date" or "date of surgery" will need to be removed for the specimens to be considered "De-identified" per HIPAA; however, if including dates or other HIPAA identifiers with the specimens is necessary, release of a limited data set may be required.Investigator AcknowledgementI certify that I have read the Policy For Research Involving Collection And Storage Of Human Biological Specimens For Future Research.
-I agree to maintain the confidentiality of all information in accordance with federal, state, and institutional privacy guidelines.Principal Investigator (type name):      Principal Investigator's signature: Date:      
-
-
-
-Version Date: 06/28/2016Page 1 of 1
-

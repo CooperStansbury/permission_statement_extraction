@@ -1,41 +1,0 @@
-﻿
-BU Charles River IRB
-Translation Attestation Form
-
-
-The Principal Investigator is responsible for ensuring that CRC IRB-approved study documents (e.g. consent forms, questionnaires, recruitment materials, etc.) are accurately translated into a language understandable to study subjects.  
-
-If any study documents are to be administered in languages other than English, the Principal Investigator must submit this form along with the translated documents to the IRB.  The translated documents and this form should be submitted to the IRB AFTER the IRB has approved the English version of the documents.  Translated documents cannot be administered until they have been approved by the IRB.
-
-SECTION A:  Protocol and Contact Information
-Protocol Number:Protocol Title:  Principal Investigator:
-SECTION B:  Documents Translated
-Document NameCurrent IRB Approval Period (If Exempt, list date of original approval)Translated Language
-
-Name of TranslatorQualifications of Translator
-
-
-
-
-
-
-
-
-
-SECTION C:  Verification of Translation
-Name of Verifier
-Qualifications of Verifier
-
-
-
-
-
-
-
-
-
-
-Note:  The translator cannot serve as the verifier
-I have read the attached document(s) and attest to the fact that it represents an accurate reflection of the attached English language document(s).
-Signature of the Verifier:_________________________________		Date:____________
-

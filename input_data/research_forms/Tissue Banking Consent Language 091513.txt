@@ -1,56 +1,0 @@
-﻿TISSUE BANKING CONSENT LANGUAGE
-
-For studies that involve tissue banking, specific language described below must be included in the consent document.  
-
-DIRECTIONS FOR USE OF THIS TEMPLATE:  
-* Read guidelines and complete each part as applicable for your project and then delete the template guidelines.  You may use the sample text or create your own language according to the guidelines.
-* If tissue banking is a sub-component to a larger study, paste the applicable consent language into the consent document under a separate heading for tissue banking.  All tissue banking elements should be discussed together.
-* Instructions and red text should be replaced or deleted.
-
-#Element DescriptionSample Language1State the purpose(s) for collecting tissues for the tissue bank and the type(s) of future research that may be done on the samples.  
-Sample text for a locally-managed bank:  As part of this study, we would like to put some of your blood in a tissue bank so that other researchers can use it in the future.  Future research about <<insert disease or condition>> may be done on your blood and it may help us learn more about the disease.  Your blood will be kept by Dr. <<insert name>> who manages the tissue bank at the University of Utah.  
-
-Sample text for a sponsor-managed bank:  As part of this study, we would like to put some of your blood in a tissue bank so that other researchers can use it in the future.  We don't know what kind of future research will be done, but we hope to learn more about diseases and how to treat them. Your blood will be kept by the study sponsor, <<insert sponsor name>>, who manages the tissue bank.2State what type of sample (blood, urine, tissue, etc.) will be collected.  
-3State who manages the tissue bank and where the tissues will be kept.  The tissue bank may be managed by the Investigator locally or may be managed by the study sponsor.4State whether or not it is mandatory to participate in the tissue bank if the participant wants to be in the full study.  Some studies require participation in the tissue bank as a condition of participation; this must be stated.  Other studies are designed only for the purpose of tissue banking.  If tissue banking is the purpose of the study, this must be made clear to the participant.
-
-You may not condition participation in a treatment/interventional trial upon mandatory participation in a tissue bank.  Participation in the tissue bank must be optional for treatment/intervention trials.  
-Sample text with tissue banking options: You do not have to participate in the tissue bank to be in the main part of this study.  No matter what you decide to do, your decision will not affect your medical care.  You can tell us your choice by initialing one of the choices below:
-
-___ YES,
-(initial)my sample(s) may be saved for future <<specify a specific condition/disease>> research.
-___ NO,
-(initial)my sample(s) must be destroyed at the end of this research project.
-Sample text for mandatory tissue banking:  If you do not want your blood to be saved for future research, you should not participate in this study.  No matter what you decide to do, your decision will not affect your medical care.
-5State whether or not personally identifiable information will be collected with the sample.  Include the type of identifiers (name, date of birth, etc.) that will be collected.  
-a. If identifiers are collected, state who will have access to the identifiable information (i.e. the Investigator, the sponsor, the other future investigators, etc.).  
-i. In order to allow maximum flexibility for sharing samples and identifiers with future researchers, the IRB encourages you to state that samples and identifiers may be shared within the local institution, as well as the local affiliate institutions.  Local affiliate institutions include the University of Utah, VA SLCHCS, and Primary Children's Medical Center. [N/A if the bank is managed exclusively by the sponsor on an external institution.]
-b. If identifiers are collected, state whether or not participants can choose to have their samples de-identified (de-identified means no identifiable link back to the participant exists).  Sample text for coded samples:  Your sample will be coded so that your name is not on the sample.  Dr. <<insert name>> and the University of Utah will keep your name in a separate place so that we can link your sample back to you later if we need to.  
-
-Your sample may be shared with researchers at the University of Utah and at other institutions. Dr. <<insert name>> will not give your name to other researchers who want to use your sample, but will only give them information like your age and what disease you have.  
-
-You can have your blood sample removed from this tissue bank later.  You will need to contact <<insert name>> at <<insert contact information>>.  
-
-Sample text for de-identified samples:  Your sample will not have your name or other personal information linked to it.  No one will be able to tell that you gave us the sample.  Your sample may be shared with researchers at the University of Utah and at other institutions. The only information we will keep with the sample is information like your age and what disease you have.  Because we will not keep your name or other identifying information when we store your blood, you will not be able to have the sample removed from the bank later.  
-
-Sample text with option to de-identify samples:  We would like to code your sample so that your name is not on it.  Dr. <<insert name>> and the University of Utah will keep your name in a separate place so that we can link your sample back to you later if we need to.  But if you do not want us to keep your name or any other identifying information with the sample, you can chose to have your sample remain anonymous.  You can tell us your choice by initialing one of the choices below:
-
-___ YES,
-(initial)my personal identifiers can be kept with my sample(s). All information will be kept secure and confidential.
-___ NO,
-(initial)my name and identifiers must be removed from my sample(s).  My sample(s) cannot be linked back to me.
-Your sample may be shared with researchers at the University of Utah and at other institutions. You can have your blood sample removed from this tissue bank later.  You will need to contact <<insert name>> at <<insert contact information>>.  If you decide to have your identifiers removed from your sample, you will not be able to withdraw your sample later because it cannot be linked back to you.6Describe the procedures that participants should follow if they want to withdrawn their samples from the tissue bank.7Include the commercialization language verbatim. Tissue or blood samples obtained from you in this research may help in the development of a commercial product by <<specify who will conduct future research on the sample, e.g. the University of Utah, the study sponsor, etc.>> or its research partners.  There are no plans to provide financial compensation to you should this occur.8State whether or not the future results or findings will be given back to the participant.  If results or findings will be disclosed, describe the process for this interaction.Sample text for not disclosing future results:  Because the results from future research will not directly affect your health care, we will not share the results from future studies with you or your doctors.
-
-Sample text for not disclosing future result because of de-identification: Because your sample cannot be linked back to you, we will not share the results from future studies with you or your doctors.  
-
-
-
-
-
-
-University of Utah		Page 1 of 3
-Version 091513
-
-
-
-
-

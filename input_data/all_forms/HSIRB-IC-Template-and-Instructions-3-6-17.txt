@@ -1,581 +1,0 @@
-﻿This document should be used to develop a consent form for:
-* Investigator-initiated studies 
-* Other studies where there is no consent template available from an industry sponsor or cooperative group 
-If there is a consent template available from the sponsor or cooperative group, use the HSIRB Informed Consent Template for Industry-Sponsored, Cooperative Group, or External IRB submissions (available at http://oprs.usc.edu/hsirb/hsirb-forms).  
-
-General Instructions for Using this Template
-
-1. Delete all instructions and examples (in red italics) and delete all text that is not applicable to your study.
-2. Delete the header of this template. Either insert the name and address of your institution and department in the header of the document or print the document on your institution/department letterhead. The name and address must appear on at least the first page of the consent form. 
-3. Insert your version date in the footer. Consent forms must have a version date and page numbers. 
-4. The title of the consent form must be the same as the full study title in the IRB application.
-5. Each section of the consent form is labeled as a "General Requirement" or an "Additional Element." If the section is labeled "General Requirement" it must appear in the consent form. If the section is labeled "Additional Element" it is optional and can be deleted if it does not apply to your study (45CFR46.116, 21CFR50.25). 
-6. If your project is sponsored by the Department of Defense (DOD), you must incorporate DOD-required language in your informed consent. See the "Elements to Include in the Informed Consent Document" section of the Guidelines for Investigators, available at: https://mrmc.amedd.army.mil/assets/docs/orp/guidelinesForInvestigators.doc.  
-7. If you plan to enroll participants who speak Spanish, the IRB will translate the approved English consent form into Spanish at no cost to investigators. You must request Spanish translation in item #22 in the iStar application. 
-8. If you plan to enroll participants who speak a language other than Spanish or English, you must arrange for the translation. Wait until AFTER the IRB has approved and stamped the English form to start the translation. You must submit the translated version of the IRB-approved consent form to the IRB for stamping before you use it. The IRB requires a Translation Certificate from the translator, certifying that the translated document is an accurate translation of the approved English document.
-9. Instructions for the Short Form Informed Consent: If you occasionally and unexpectedly enroll participants who do not speak English or Spanish, the OHRP Short Form can be used to obtain consent. Participants are given a copy of the Short Form (and Bill of Rights, if applicable) in their language. An interpreter fluent in the participant's language verbally presents the English consent form. The participant signs the Short Form and Bill of Rights in their language, the interpreter signs as the witness on the Short Form and English consent form, and the person obtaining consent signs the English consent form. Versions of the Short Form and Bill of Rights in various languages are posted on the HSIRB website at: http://oprs.usc.edu/hsirb/hsirb-forms/. 
-10. Follow the formatting, language, and word usage instructions found on the next pages.  
- 
-
-Guide for Authors and Editors of the Consent Form
-
-Consent form authors and editors must follow these instructions when creating new consent forms or revising existing consent forms. These instructions are intended to make it easier for participants to read and understand the research information. Following these instructions will speed up IRB review and approval of your consent forms. If you submit new or revised consent forms that do not comply with these instructions, your submission may be returned without review.  
-
-Formatting Instructions
-* Use a font size of 12 or larger.
-* Leave a one-inch right margin to accommodate the IRB stamp.
-* Adjust the margins to be left justified only ("ragged" right margin, not full justification).
-* Use bullets for long lists of procedures or risks.
-* Use subheadings to break up large amounts of text.
-
-Language / Style Instructions 
-* Avoid medical and scientific jargon; instead, use common, everyday language that can be understood by a participant with an 8th grade education.
-* If a technical term is used, define or explain it in lay language the first time.
-* Spell out abbreviations or acronyms the first time they are used. 
-* Use short sentences and short paragraphs.
-* Avoid details that do not help participants make a decision about being in the study. 
-* Avoid unnecessary duplication of information. 
-* Write in the second person ("you"), not the first person ("I").
-* Use active voice rather than passive voice whenever possible; for example, use "We will draw a blood sample", not "A sample of blood will be drawn."
-
-Word Usage
-
-Do Not Use: Use:adverse event or adverse effectside effectapproximatelyaboutdosinge.g., etc., or i.e.ml for volume of bloodteaspoon, tablespoon, or cuppatients (when referring to research participants)participantsphysiciandoctorprior tobeforeSponsorsponsor (do not capitalize)symbols such as < or > or & or ±subjects participantstreat or treatment when the study involves unapproved drugs, devices, or procedures
-California Experimental Subject's Bill of Rights
-
-►  Instructions for Experimental Subject's Bill of Rights:
-
-1.	If your research is a "medical experiment," participants must sign the Experimental Subjects Bill of Rights. 
-
-Section 24174 of the California Health and Safety Codes defines "medical experiment" as: 
-(a) The severance or penetration or damaging of tissues of a human subject or the use of a drug or device, as defined in Section 109920 or 109925, electromagnetic radiation, heat or cold, or a biological substance or organism, in or upon a human subject in the practice of research of medicine in a manner not reasonably related to maintaining or improving the health of the subject or otherwise directly benefiting the subject; 
-(b) The investigational use of a drug or device as provided in Sections 111590 and 111595;
-(c) Withholding medical treatment from a human subject for any purpose other than maintenance or improvement of the health of the subject.
-
-2.	The Experimental Subject's Bill of Rights should appear at the beginning of the consent form. 
-
-3.	If you are not obtaining consent from a parent or legally authorized representative, delete the signature line for "Parent or Legally Authorized Representative" and the "If signed by other than the research participant" line from the Bill of Rights. 
-
-4.	The language in the Experimental Subject's Bill of Rights cannot be modified. 
-
-5.	The Experimental Subject's Bill of Rights has been translated into many languages. The translated forms are available on the HSIRB website at: http://oprs.usc.edu/hsirb/hsirb-forms/. 
-
-6.	If your research is not a medical experiment as defined above, delete the Experimental Subject's Bill of Rights page from the consent form. 
-
-
-
-Study Title:
-
-Principal Investigator: 
-
-
-EXPERIMENTAL SUBJECT'S BILL OF RIGHTS
-
-You have been asked to participate as a subject in a medical experiment. Before you decide whether you want to participate in the experimental procedure, you have a right to the following information:
-
-CALIFORNIA LAW REQUIRES THAT YOU MUST BE INFORMED ABOUT:
-
-1. The nature and purpose of the study.
-2. The procedures in the study and any drug or device to be used.
-3. Discomforts and risks reasonably to be expected from the study.
-4. Benefits reasonably to be expected from the study.
-5. Alternative procedures, drugs, or devices that might be helpful and their risks and benefits.
-6. Availability of medical treatment should complications occur.
-7. The opportunity to ask questions about the study or the procedure.
-8. The ability to withdraw from the study at any time and discontinue participation without affecting your future care at this institution.
-9. Be given a copy of the signed and dated written consent form for the study.
-10. The opportunity to consent freely to the study without the use of coercion.
-
-I have carefully read the information contained above and I understand fully my rights as a potential subject in this study.
-
-
-Date: ___________________	Time: ________________
-
-
-Signature: _______________________________________
-      (Research Participant)
-
-Signature: _______________________________________
-      (Parent or Legally Authorized Representative)
-
-
-If signed by other than the research participant, indicate relationship: ______________
-
-INFORMED CONSENT
-[Add only if applicable:] PARENTAL PERMISSION / YOUTH ASSENT
-
-TITLE:
-
-PRINCIPAL INVESTIGATOR:
-
-DEPARTMENT:
-
-24-HOUR TELEPHONE NUMBER: [Required for greater than minimal risk studies; must be a USC phone number answered by a live person 24 hours a day]
-
-
-
-►  Instructions for Introductory Section:  
-Use this template for an Adult Informed Consent, a Youth Assent (for ages 14-17), or a Parental Permission form.
-For Parental Permission forms, add the following statement: "If you are reading this form as the parent of a participant, "you" refers to your child."
-If consent will be obtained from a Legally Authorized Representative, add the following statement: "If you are giving consent for another person, "you" refers to that person."  
-
-We invite you to take part in a research study. Please take as much time as you need to read the consent form. You may want to discuss it with your family, friends, or your personal doctor. If you find any of the language difficult to understand, please ask questions. If you decide to participate, you will be asked to sign this form. 
-
-[Include this funding paragraph only if applicable]
-This research study is sponsored by [insert sponsor name]. [Add only if applicable: Sponsor name] is the company that makes the [choose drug or device] being tested. They provide funding to cover the costs of conducting this study.
-
-WHY IS THIS STUDY BEING DONE?  (General Requirement)
-
-►  Instructions: 
-1. The purpose of human subjects research is to test a hypothesis or intervention on groups of people, not on individual patients or participants. The purpose of medical care is to help an individual patient. Do not "personalize" the purpose of the research. For example, state "The purpose of this study is to test the effects of the study drug in people with heart failure", not "The purpose of this study is to test the effects of the study drug on you."   
-2. If the study involves an unapproved drug or device, clearly state that the drug or device is not approved by the U.S. Food and Drug Administration. For example, state "The [name of drug/device] is an experimental drug/device. Experimental means that it has not been approved by the U.S. Food and Drug Administration (FDA)." 
-
-This study is about _________. We hope to learn ____________. You are invited as a possible participant because __________. About _____ participants will take part in the study.
-
-WHAT IS INVOLVED IN THE STUDY?  (General Requirement)
-
-►  Instructions: 
-1. Identify which procedures are done for standard of care and which procedures are done solely for the research.
-2. Describe the procedures only. Do not include information that appears in other sections. Do not include eligibility criteria in the informed consent.
-3. Describe the procedures chronologically.
-4. Use subheadings to help organize the section and increase readability.
-5. Describe the participant's assignment to a study group, the duration of each procedure, the frequency of each procedure, and the total duration of the participant's involvement in the study. State if any procedures will be conducted at the USC Clinical Trials Unit (CTU). 
-6. If applicable, describe randomization ("like pulling a number from a hat", "like rolling the dice", or "like flipping a coin"). Describe the participant's chances of receiving the study drug or device using a phrase such as "two out of three chances" rather than using a percentage. Describe double blind ("You and the investigator will not know what drug you are taking."). Define placebo ("a pill or liquid without any study drug").
-7. Genetic Testing and Genetic Research Information for the investigator:
-a. Genetic Testing: Genetic testing requires that the genetic test have a known association with a human trait or medical condition, be performed in a Clinical Laboratory Improvement Amendments (CLIA)-certified laboratory, and have the intent to release the results to participants and/or their health care providers. Furthermore, a genetic counselor should provide the results or be made available to the participant for the purpose of answering questions about the implications of the genetic testing results. All other forms of genetic testing are considered genetic research.
-b. Genetic Research: Testing of blood or tissue for genes without known associations with a human trait or medical condition is considered genetic research. Genetic testing (as outlined above) is also considered genetic research if the following criteria are met: (a) the testing is performed in a non-CLIA laboratory, and (b) there is no intent to release the results to research participants.
-8. If you are testing for any reportable diseases (such as HIV, hepatitis, tuberculosis, and sexually transmitted diseases), add a statement that positive test results must be reported to the local health agency.
-
-If you decide to take part, this is what will happen: ______ 
-
-Suggested language if you are conducting genetic testing or genetic research:
-
-Genetic Testing
-You are being asked to participate in genetic testing. Your [insert tissue/blood/ saliva/ other] sample will be tested for [insert types of tests]. You and your doctor will be given the results of this genetic testing.  A genetic counselor will [be available / provide you] with the results of this genetic testing.
-
-Genetic Research
-You are being asked to participate in genetic research. Results of this genetic research will not be used in your medical care. The results will not be given to you, the study doctor, or your personal doctor. 
-
-If you are testing for any reportable communicable diseases (such as HIV, hepatitis, tuberculosis, and sexually transmitted diseases), use the following language:
-
-This research requires testing for [insert HIV, hepatitis, other]. If you test positive, California law requires that we report your results to the local health department. If you test positive, we will refer you to a health care provider for medical care.
-
-Information about Samples and Data Collected as Part of This Research 
-
-►  Instructions: Add this heading and section only if it applies to your study. Do not include this section unless you are collecting research specimens and related data. If this section is included, it must match the specimen collection described in the research protocol. 
-1. Explain if you are collecting tissue, blood, or body fluid specimens as part of the research or if you are using excess tissue from routine tests.
-2. Disclose if providing these specimens is optional and if participants can participate in the study without providing these specimens.
-3. If optional specimens will be stored for future research, describe this and provide checkboxes for the participant to consent to the storage and testing. These checkboxes should be located just before the "Agreement" section.
-4. State whether or not results of the research testing will be given to the participant and/or personal doctor. 
-5. If participants will be given test results, the testing must be performed at a laboratory certified by CLIA (Clinical Laboratory Improvement Amendments). Delete this choice if results are not from a CLIA-certified laboratory.
-
-
-Example 1:
-You may already have surgery scheduled for your disease. If so, we will use a portion of your tissue from the surgery for research. 
-
-If you do not have surgery planned, we will ask you to provide some tissue for research. How the tissue is obtained and the risks from getting this tissue will be explained to you separately. 
-
-Example 2:
-This is an optional procedure. You do not have to agree to the [insert biopsy, blood draw, or other] to take part in this study. 
-
-Example 3:
-You (and your doctor) will not learn the results of research testing. Your doctor will not use these results to make a plan for your treatment. 
--or-
-You (and your doctor) will not learn the results of research testing. We do not know how to apply these results to your care. 
-
-Example 4:
-Cells from your body may be used to start a cell line. A cell line will grow in the laboratory forever. 
-
-Example 5:
-Each tissue and fluid sample contains genetic information about your parents and ancestors. It may be helpful for us to study members of your family. We will ask your permission before we approach your family members to be studied. 
-
-Example 6: If you provide checkboxes for the participant at the end of the consent document, add the following sentence:
-At the end of this consent form, you will be asked to decide if we can keep your samples and store them for future testing.   
-
-WHAT ABOUT PREGNANCY?  (Additional Element)
-
-►  Instructions: If appropriate, include a statement that the drug or procedure may involve risks to the participant (or to the fetus, if the participant is or may become pregnant) that are currently unforeseeable. Describe precautions that must be taken by female participants, male participants, and sexual partners of participants.
-
-We do not know whether this [study drug or study procedure] might hurt an                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             unborn baby. If you are pregnant, you cannot take part in this study. If you are a woman who could become pregnant, you must have a pregnancy test to make sure you are not pregnant. You must use birth control while on this study. These are some birth control measures that you can use: [insert methods].
-
-Suggested contraceptive language:
-Medically acceptable contraceptives include hormonal contraceptives (birth control pills, patches, implants, rings, or injections), barrier methods (such as a condom or diaphragm) used with a spermicide, an intrauterine device (IUD), or surgical sterilization (hysterectomy or tubal ligation for women, vasectomy for men). 
-
-Add only if applicable:
-If you are breastfeeding and do not want to stop, you may not take part in this study.
-
-WHAT ARE THE POSSIBLE RISKS AND DISCOMFORTS?  (General Requirement)
-
-►  Instructions: 
-1. Identify each procedure, drug, or device with a subheading and describe the risks associated with that procedure, drug, or device.
-2. Discuss the discomforts, inconveniences, and risks to be expected and describe how these will be managed. If applicable, give an estimate of the expected recovery time after the research.
-3. Address the most serious and common risks first, followed by uncommon and less serious risks in a separate paragraph, if warranted. 
-4. State if the risks are reversible or not.
-5. In addition to the physical risks and discomforts, describe any psychological, social, legal, or financial risks that may result from participation in this study (for example, any risk that confidentiality may be breached, that the research may provoke emotional responses on the part of the participant, or that the research may place the participant at risk for discrimination). It is not sufficient to state that the risk is small. 
-6. State if unforeseen risks are possible ("There may be other risks that the investigators did not expect. The investigators will watch you to see if you are experiencing any other side effects.") State if there are no known risks. 
-7. Provide estimates of the risks, if known and if meaningful. Include the seriousness and frequency of risk (for example, "Rare - 1 in 10,000 participants," "Uncommon - 1 in 1,000 participants," or "Common - 1 in 100 participants").
-8. If the study involves research-related radiation exposure, you must submit the study to the USC Radiation Safety Committee and add the radiation language provided by the committee.
-9. If the study involves biopsies, endoscopies, or imaging done for research purposes, you must include the risks of any sedatives, anesthetics, or contrast agents that may be used. 
-
-Possible risks and discomforts you could experience during this study include: ______.
--or-
-You might have some or all of the following discomforts or risks if you take part in this study: ______.
-
-Example for blood draws:
-Risks of blood draws include mild pain or discomfort, bruising and swelling around the puncture site, dizziness or fainting, or infection (rare).
-
-Examples for genetic testing:
-There have been concerns about the possibility of discrimination based on genetic findings. Despite these concerns, this has not been a problem to date. Federal and State laws provide some protection against employment or health insurance discrimination based on genetic findings. These protections do not extend to life insurance, disability insurance, or long-term care insurance. We will use our best efforts to keep the genetic findings in this study as confidential as possible.
--or- 
-A new federal law, called the Genetic Information Nondiscrimination Act (GINA), generally makes it illegal for health insurance companies, group health plans, and most employers to discriminate against you based on your genetic information. This law generally will protect you in the following ways:
-* Health insurance companies and group health plans may not request your genetic information that we get from this research.
-* Health insurance companies and group health plans may not use your genetic information when making decisions regarding your eligibility or premiums.
-* Employers with 15 or more employees may not use your genetic information that we get from this research when making a decision to hire, promote, or fire you or when setting the terms of your employment.
-Be aware that this new federal law does not protect you against genetic discrimination by companies that sell life insurance, disability insurance, or long-term care insurance.
-
-Some people may find it upsetting to learn that they have certain mutations or errors in genes that could lead to future health problems for themselves or their children.  
-
-Example for surveys or questionnaires:
-Some of the questions may make you feel uneasy or embarrassed. You can choose to skip or stop answering any questions that make you uncomfortable. 
-
-Example for breach of confidentiality:
-There is a small risk that people who are not connected with this study will learn your identity or your personal information.
-
-If the research involves highly sensitive information, add the following: 
-You are providing highly sensitive, personal information in this study. If people not connected with the study learn this information, you could have problems getting a new job, keeping your current job, finding housing, or getting insurance (health, disability, or life insurance). In highly unlikely situations, you could be charged with a crime.
-
-
-
-Incidental Findings
-►  Instructions: If applicable (such as for MRIs or other imaging done for research purposes), add information regarding incidental findings.
-
-It is possible that the research procedures could find a medical problem that is unrelated to the purpose of this study and that you did not know about before. If during the research procedures we learn information that may be important for you to know about, such as the possibility of a previously unknown medical condition, we will tell you. You may authorize the release and communication of the findings to your personal doctor. These findings may require additional testing or treatment. You will be responsible for the cost of any additional tests or related treatment.
-
-WILL YOUR INFORMATION BE KEPT PRIVATE?  (General Requirement) 
-
-► Instructions:
-1. Give a description of how personal information, research data, and related records will be coded or stored to prevent access by unauthorized personnel.
-2. Do not add HIPAA language that already appears in the separate USC HIPAA authorization form. It is acceptable to include a statement that participants will be asked to sign a separate HIPAA authorization form describing how their protected health information will be used (see Example 6 below). 
-3. Explain how participants' specific consent will be obtained if you plan to use their data for other purposes. 
-4. If applicable, state if and when individual responses to survey questionnaires will be destroyed after the data are analyzed. 
-5. If pictures, videos, or tape recordings will be used, describe the participant's right to review or edit the tapes, who will have access, and when tapes will be destroyed. Describe how personal identifiers will be disguised or deleted.
-6. Disclose if you are sending data and/or specimens outside the institution. Describe the methods used to protect the confidentiality of participants.
-7. Describe the circumstances, if any, under which a participant's personal information might be shared with participants' health care provider(s). You cannot ask participants to choose whether or not their personal doctors can be told about their participation in the study. Researchers cannot comply with a request that a personal doctor NOT be told. This information cannot be hidden from treating doctors at USC because of the nature of electronic health records. 
-8. If you have obtained a Certificate of Confidentiality for your study, you must include specific information in the informed consent. See the required language in Example 5 below. For additional information or application instructions for a Certificate of Confidentiality from the National Institutes of Health, visit:  https://humansubjects.nih.gov/coc/index 
-9. If you are conducting a clinical trial of a drug, biologic, or device, insert the paragraph explaining that information about the trial will be entered into ClinicalTrials.gov (see Example 3 below). . 
-
-Example 1: If the study is not subject to inspection by a funding agency, the FDA, or a sponsor, use the following paragraph.
-We will keep your records for this study confidential as far as permitted by law. However, if we are required to do so by law, we will disclose confidential information about you. The University of Southern California's Institutional Review Board (IRB) may review your records. The IRB is a research review board that is made up of professionals and community members who review and monitor research studies to protect the rights and welfare of research participants. We may publish the information from this study in journals or present it at meetings. If we do, we will not use your name.
-
-Example 2: If the study is subject to inspection by a funding agency, the FDA, or a sponsor, use the following two paragraphs. 
-We will keep your records for this study confidential as far as permitted by law. However, if we are required to do so by law, we will disclose confidential information about you. The University of Southern California's Institutional Review Board (IRB) may review your records. The IRB is a research review board that is made up of professionals and community members who review and monitor research studies to protect the rights and welfare of research participants. 
-
-Officials sent by the Food and Drug Administration (FDA), the sponsor, [insert sponsor name], or the funding agency, [insert funder name], may look at your research records and medical records. Other people who provide medical care or who handle billing and payment at USC may review your research records and medical records, if necessary to conduct the research. We may publish the information from this study in journals or present it at meetings. If we do, we will not use your name. 
-
-Example 3: For applicable clinical trials, add the following paragraph verbatim. If you wish to include the clinicaltrials.gov identifier number, add it as a separate sentence at the end. Do not embed the identifier number in the middle of this FDA-mandated paragraph. 
-A description of this clinical trial will be available on http://www.ClinicalTrials.gov, as required by US law. This web site will not include information that can identify you. At most, the web site will include a summary of the results. You can search this web site at any time.
-
-Example 4: For non-medical studies, add the following statement. 
-The people who work on the study will see your records. 
-
-Example 5: If there is a Certificate of Confidentiality for the study, use this exact wording.
-Officials sent by the Food and Drug Administration (FDA), the sponsor, [insert sponsor name], or the funding agency, [insert funder name], may look at your research records and medical records. The University of Southern California's Institutional Review Board (IRB) may review your records. The IRB is a research review board that is made up of professionals and community members who review and monitor research studies to protect the rights and welfare of research participants. Other people who provide medical care, or who handle billing and payment at USC, may review your research records and medical records if necessary to conduct the research. We may publish the information from this study in journals or present it at meetings. If we do, we will not use your name. 
-
-We have obtained a Certificate of Confidentiality from the National Institutes of Health [or insert other agency] to help protect your privacy. This certificate means that the researchers cannot be forced to tell people who are not connected with the study, including the court system, about your participation in this study.
-
-There are some exceptions to the privacy protection offered by the Certificate of Confidentiality.
-* If you ask us to give someone your information, we will. The Certificate of Confidentiality does not prevent you or a member of your family from voluntarily giving out information about you or your participation in this study.
-* If the study staff learns of possible abuse, neglect, or a risk of harm to yourself or others, we are required to tell the proper authorities.
-* If government agencies need to perform audits or evaluate a study that is funded by the Federal Government, including evaluations performed by the Federal Food and Drug Administration (FDA), we are required to share information about the study.
-
-This Certificate of Confidentiality does not mean the government approves of this research. If you enter the study after the Certificate of Confidentiality has expired, the researcher will tell you this and can no longer rely on the Certificate to protect your confidentiality.
-
-Example 6: Add this sentence if the research involves protected health information and participants must sign a HIPAA authorization form.
-You will be asked to sign a separate HIPAA Authorization for Research form authorizing the access, use, creation, and disclosure of your health information. 
--OR- 
-If this research involves obtaining / collecting your protected health information, you will be asked to sign a separate HIPAA Authorization for Research form. This form explains how your protected health information will be obtained, used, and disclosed. 
-
-
-WHAT ARE THE POSSIBLE BENEFITS OF TAKING PART IN THIS STUDY?  (General Requirement)
-
-►  Instructions: Money paid to participants, free medications, free medical care, extra diagnostic tests, or careful monitoring cannot be included as benefits of participation. 
-
-The possible benefits to you for taking part in this study may include _________. 
-
-You may not receive any direct benefit from taking part in this study. However, your participation in this study may help us learn _____________. 
-
-WHAT OTHER OPTIONS ARE THERE?  (General Requirement)
-
-►  Instructions: 
-1. Describe appropriate therapeutic, diagnostic, or preventive procedures that will be offered to participants if they decide not to participate in the study (if applicable). Explain the risks and benefits of these alternatives to the participant. Disclose if any standard treatment is being withheld. If this is not a treatment study, state "An alternative would be to not participate in this study."
-2. If prospective participants have a chronic, progressive disease for which no safe and effective treatment are available, state this. Describe opportunities for managing symptoms and improving ability to function so that it does not appear the participants will be abandoned if they choose to not participate in the study. 
-3. If prospective participants are suffering from a terminal illness, state if there are no alternative treatments available. Add that treatment of symptoms and pain control are available through supportive care such as hospice, home health care, clinics, or doctors.
-4. If participants can get the study drug, device, or procedures without being in the study, clearly state this.  
-
-Examples:
-There may be alternative(s) to participating in this study. These include ______________.  The study doctor will explain their risks and benefits to you. 
--or-
-An alternative would be not to take part in this study, and continue with your current care [add only if applicable].
-
-ARE THERE ANY PAYMENTS TO YOU FOR TAKING PART IN THE STUDY?  (Additional Element) 
-
-►  Instructions:
-1. Explain how and when participants will be paid and how much money they will be paid. Compensation cannot be withheld until the participant completes the entire study. Payment should be provided after each study visit. Compensation can be prorated if participants do not complete all study visits.
-2. If participants will receive cash payment over and above reimbursement for their expenses for taking part in the study, add the IRS paragraph below.
-
-You will receive $___________ for taking part in this study. 
-
-[IRS Paragraph]
-If you receive more than $600 per year for taking part in one or more research studies, you may be required to pay taxes on that money. This does not include any payments you receive to pay you back for expenses like parking fees [add other expenses if applicable]. You may receive an Internal Revenue Service (IRS) Form 1099 if you receive more than $600 in one year for taking part in one or more research studies. 
-
-Possible Commercial Products
-►  Instructions:
-1. Insert the first paragraph only if you intend to collect tissue and/or body fluid samples as part of the research and a commercial product may be developed from this research.
-2. Insert the second paragraph on cell lines only if you plan to create a cell line from the research specimens. If any human materials (tumor tissue, bone marrow, blood) are used for establishing a cell line that may be shared with other researchers and may in the future be of commercial value, the participant must be informed of that fact in the consent form and the cell line paragraph must be included verbatim. 
-
-All tissue and fluid samples are important to this research study. Your sample will be owned by [insert the University of Southern California or another university or a private company]. If a commercial product is developed from this research project, the commercial product will be owned by [insert the University of Southern California or its designee, another university, or a private company]. You will not profit financially from such a product. 
-
-Cells from your body may be used to start a cell line. A cell line is one that will grow in the laboratory. It may be of commercial value. There is no plan for you to receive payment for any commercial products that are developed. 
-
-WHAT ARE THE COSTS?  (Additional Element)
-
-►  Instructions:
-1. Choose the option that best matches the type of sponsor and funding for your study and add the template language to your consent form. These options correspond to the checkboxes in iStar #25.1. The consent form and iStar #25.1 must be consistent.
-2. Depending on the type of study funding, either the USC Clinical Trials Office or the Department of Contracts and Grants will provide the final cost language.
-
-Option 1. All costs are covered by the sponsor or funder. 
-
-The study will pay for all research tests and procedures. You and/or your health plan/insurance will not be billed for tests and procedures that are done in this research.
-
-Option 2. Research costs are paid by the sponsor or funding agency; routine health care costs are the responsibility of the participants and/or their healthcare plans.  
-
-Some tests and procedures are done only because of the research. The study will pay for tests and procedures that are done only because you are in this study.
-
-Some tests and procedures are done for your routine health care, and you would receive them even if you were not participating in this study. You and/or your health plan/insurance will be billed for the tests and procedures you need for routine health care while you are in this study. You will be billed in the same way as if you were not in a study. You will be responsible for any co-payments and deductibles required by your insurance. Some health plans/insurance companies will not pay these costs for people taking part in studies. Check with your health plan/insurance company to find out what they will pay for. If you have any questions about which tests or procedures will be billed to you and/or your health plan/insurance, ask the study doctor.
-
-When a drug/device is provided by the sponsor, add:
-
-The study drug/device will be provided by the sponsor free of charge while you are participating in this study.
-
-When a drug/device is not provided by the sponsor, add:
-
-You and/or your health plan/insurance will have to pay for the study device/drug.
-
-Option 3. All costs are the responsibility of the participants and/or their healthcare plans. 
-
-All tests and procedures provided to you for this research study are routine tests and procedures used to treat your illness, and you would receive these tests and procedures even if you were not participating in this study. You and/or your health plan/insurance will be billed for all tests and procedures in this study. You will be billed in the same way as if you were not in a study. You will be responsible for any co-payments and deductibles required by your insurance. Some health plans/insurance companies will not pay these costs for people taking part in studies. Check with your health plan/insurance company to find out what they will pay for.
-
-Option 4. Drug trials sponsored by the National Cancer Institute or other national institutes. 
-
-Most of the tests and procedures provided to you for this study are routine tests and procedures used to treat your illness. You would receive these tests and procedures even if you were not participating in this study. You and/or your health plan/insurance will be billed for the routine tests and procedures in the same way as if you were not in a study. You will be responsible for any co-payments and deductibles required by your insurance. Some health plans/insurance companies will not pay these costs for people taking part in studies. Check with your health plan/insurance company to find out what they will pay for. 
-
-The National Cancer Institute (NCI) will supply the [insert name of investigational agent] at no charge while you take part in this study. The NCI does not cover the cost of getting the [insert name of investigational agent] ready and giving it to you, so you or your insurance company may have to pay for this if there is a charge. Even though it probably won't happen, it is possible that the manufacturer will not continue to provide the [insert name of investigational agent] to the NCI for some reason. If this happens, the study doctor will talk to you about your options.
-
-Option 5. There are no costs related to participation.
-
-There is no cost to you for taking part in this study.
-
-Option 6. Other.
-
-[Describe costs to participants.]
-
-WHAT HAPPENS IF YOU GET INJURED OR NEED EMERGENCY CARE?  (General Requirement for studies involving greater than minimal risk; optional for minimal risk studies)
-
-►  Instructions:
-1. Choose the option that best matches the type of sponsor and funding for your study and add the template language to your consent form. These options correspond to the checkboxes in iStar #25.3. The consent form and iStar #25.3 should be consistent.
-2. Depending on the type of study funding, either the USC Clinical Trials Office or the Department of Contracts and Grants will provide the final injury language. Non-industry sponsored studies that use the Clinical Trials Unit (CTU) must include the specific CTU injury language provided below (Option 6). 
-
-Option 1. Costs for medical care from research-related injuries will be paid by the sponsor or funder. 
-
-If you think you have been hurt by taking part in this study, tell the study doctor immediately. If you require treatment because you were injured from participating in this study, treatment will be provided. The sponsor will pay for the treatment if your injury is the result of [insert either: your participation in the study or  use of the study drug/device and properly-performed research procedures.]
-
-However, by signing this form you have not given up any of your legal rights.
-
-Option 2. Costs for medical care from research-related injuries will not be paid by the sponsor or funder.
-
-If you think you have been hurt by taking part in this study, tell the study doctor immediately. If you require treatment because you were injured from participating in this study, treatment will be provided. You and/or your health plan/insurance will be billed for this treatment. The study sponsor will not pay for this treatment. 
-
-There are no plans to offer any type of payment for injury. However, by signing this form you have not given up any of your legal rights.
-
-Option 3. Study has no sponsor or funder who accepts liability for injury. 
-
-If you think you have been hurt by taking part in this study, tell the study doctor immediately. If you require treatment because you were injured from participating in this study, treatment will be provided. You or your health plan/insurance will be billed for the cost of this treatment. 
-
-There are no plans to offer any type of payment for injury. However, by signing this form you have not given up any of your legal rights. 
-
-Option 4. Study funder provides the investigational drug or device, but only accepts liability when instructions followed. 
-
-If you think you have been hurt by taking part in this study, tell the study doctor immediately. If you require treatment because you were injured from participating in this study, treatment will be provided. The funder will pay for treatment of injuries related to use of its drug/device according to the funder's instructions. For any other injuries you have while participating in this study, you and/or your health plan/insurance will be billed for the treatment. 
-
-There are no plans to offer any type of payment for injury. However, by signing this form you have not given up any of your legal rights. 
-
-Option 5. Other
-
-[Describe what will happen if a participant is injured.]
-
-Option 6. For non-industry sponsored studies that use the Clinical Trials Unit.
-
-You are participating in this study under the supervision of Dr. [insert study doctor's name]. Some or all of the study procedures will be performed on the USC Clinical Trials Unit (CTU) or by staff of the CTU at a location designated earlier in this consent form. If you get hurt or sick from participating in the study, you will be offered treatment for the injury. Who will pay for the treatment depends on how and where it occurs. If the injury is from the study drug or procedures performed or directed by Dr. [insert study doctor's name] or his/her staff, [explain the policy and if applicable, the sponsor's responsibility]. If you get hurt from a procedure performed by one of the CTU staff that was not under the direction of Dr. [insert study doctor's name], the CTU Advisory Committee will review your case and decide whether to pay for part or all of that care. The CTU will not provide any other money for the injury. 
-
-WILL YOU RECEIVE NEW INFORMATION ABOUT THIS STUDY?  (Additional Element)
-
-►  Instructions:
-This section will not always apply and can be omitted in certain studies, such as when participation involves only one visit or a single intervention.
-
-During the study, we may learn new things about the risks or benefits of being in the study. If we do, we will share this information with you. You might change your mind about being in the study based on this information. 
-
-WHAT ARE YOUR RIGHTS AS A PARTICIPANT, AND WHAT WILL HAPPEN IF YOU DECIDE NOT TO PARTICIPATE?  (General Requirement) 
-
-►  Instructions:
-List the procedures for orderly termination of participation. If applicable, describe consequences of a participant's decision to withdraw from the research study and state if the withdrawal must be gradual for safety reasons.
-
-Your participation in this study is voluntary. Your decision whether or not to take part will not affect your current or future care at this institution. You are not giving up any legal claims or rights. If you do decide to take part in this study, you are free to change your mind and stop being in the study at any time. You will not lose any rights if you decide to stop being in the study. If the withdrawal must be gradual for safety reasons, the study doctor [or investigator] will tell you.
-
-CAN YOU BE REMOVED FROM THE STUDY?  (Additional Element)
-
-►  Instructions:
-This section will not always apply and can be omitted in certain studies, such as when participation involves only one visit or a single intervention.
-
-You may be removed from this study without your consent for any of the following reasons: you do not follow the investigator's [or study doctor's] instructions, at the discretion of the investigator [or study doctor] or the sponsor, your disease gets worse, or the sponsor closes the study. If this happens, the investigator [or study doctor] will discuss other options with you. 
-
-DO THE INVESTIGATORS OR THE INSTITUTION HAVE A CONFLICT OF INTEREST?  (Additional Element)
-
-►  Instructions:
-1. Delete this section if there are no conflicts of interest.
-2. Add this section if the investigator, study staff, or the university have a conflict of interest in this research. For additional information, refer to the USC policy on conflict of interest at: http://policy.usc.edu/research-conflict-interest/. 
-3. In disclosing your proprietary interest and research interest in the informed consent, you may do so in general terms. At a minimum, you must disclose the nature of the interest, such as a paid consultant, a lecturer, a board member, an equity ownership, or a management or supervisory role in the sponsoring company. 
-
-Example 1: If there may be possible commercial product development in the future, the following statement can be used.
-The University of Southern California or the biotechnology company [insert company name] may use your [insert type of samples] for other research studies. Those studies may develop products that can be sold. If they make money from these products, you will not receive any money. 
-
-Example 2: If there is a financial interest in the sponsoring company, the following statement should be used.
-[Insert name of investigator or study doctor] has a financial interest in the company sponsoring this study. [Briefly describe the financial interest.] The nature of this conflict and the management of the conflict of interest have been reviewed by the USC Conflict of Interest Review Committee (CIRC).
-
-WHOM DO YOU CALL IF YOU HAVE QUESTIONS OR CONCERNS?  (General Requirement)
-
-►  Instructions: 
-Do not refer to "PhD" as "Dr" in the consent form for medical research. Use the name of the individual and his/her degree; for example, "Tommy Trojan, PhD". If the individual does not have a valid California medical license, the individual cannot be referred to as "Dr" and cannot use "MD" after his or her name in the consent document. To do so would be considered a misdemeanor under California Business and Professions Code section 2054.
-
-You may contact [insert name] at [insert phone number] with any questions, concerns, or complaints about the research or your participation in this study. If you feel you have been hurt by taking part in this study, please contact [insert name] at [insert phone number]. If you have questions, concerns, or complaints about the research and are unable to contact the research team, contact the Institutional Review Board (IRB) Office at 323-223-2340 between the hours of 8:00 AM and 4:00 PM, Monday to Friday. (Fax: 323-224-8389 or email at irb@usc.edu). 
-
-If you have any questions about your rights as a research participant, or want to talk to someone independent of the research team, you may contact the Institutional Review Board Office at the numbers above or write to the Health Sciences Institutional Review Board at LAC+USC Medical Center, General Hospital Suite 4700, 1200 North State Street, Los Angeles, CA 90033. 
-
-You will get a copy of this consent form.
-
-CHOICES FOR DATA AND SAMPLES COLLECTED AS PART OF THIS RESEARCH:
-
-►  Instructions:
-Add this section only if:
-* There are optional procedures and participants need to agree or not agree to the optional procedures
-* Participants have a choice about future use of their data / samples
-
-Example 1:
-I agree to the optional [insert biopsy, blood draw, or other sample collection]. 
-
-      Yes ________	No ________
-
-Example 2:
-
-My [insert data and/or samples] may be used for future research.
-
-      Yes ________	No ________
-
-
-	
-AGREEMENT: (General Requirement)
-
-►  Instructions: 
-1. Obtain signatures from the participant and the investigator/person obtaining informed consent (see Example 1). You may need to include additional statements and signature lines depending on your study population. Please refer to the examples shown below. A witness signature is required when the participant cannot see, read, write, or physically sign the consent form, or if the Short Form method is used to obtain consent. The Short Form method uses oral translation of the informed consent in a language understood by the participant combined with a Short Form written in the participant's language. The translator usually serves as the witness and signs the witness signature line. Translated Short Forms and instructions are available at http://oprs.usc.edu/hsirb/hsirb-forms . If no witness signature is needed, leave the witness signature line blank. 
-2. If a study procedure is done on the same day that the informed consent is signed, the participant and the person obtaining consent must provide the time of day when signing the informed consent. No study procedures may be done before the participant has signed the informed consent.
-3. If an interpreter/translator is needed, you should document the translation process in the medical record, research record, or case report form. If a consent form is needed in a language other than English or Spanish, use a translated OHRP Short Form and translated Experimental Subject's Bill of Rights (if applicable). Translated versions of these forms and the instructions for use are posted on the IRB website at: http://oprs.usc.edu/hsirb/hsirb-forms.  .  
-4. For minor participants (defined as under the age of 18 in California) who are over the age of 7 or are capable of providing assent:
-A.  An Assent form and a Parental Permission form are required. An Assent form template is available on the IRB web site under the "Forms and Instructions" section. 
-B.  If you believe that the Parental Permission form is suitable for use with older minors (generally, those 14 years of age and older), the child's signature section can be added to the Parental Permission form and this form can also serve as the Assent form (see Example 2).
-C.  Depending on the nature of the research, the permission of either one parent or both parents is needed (see chart below). In a situation where the permission of both parents is required and you cannot get in touch with one of the parents, you must make a reasonable effort to contact that parent (for example, by mail, by phone, or in person at the parent's last known address). Documentation of this information in the research chart is required (see Example 3). 
-Type of ResearchWho Signs the Consent DocumentsNot greater than minimal risk (45 CFR 46.404)Assent of child and permission of at least one parentGreater than minimal risk and the prospect of direct benefit to child (45 CFR 46.405)Assent of child and permission of at least one parentGreater than minimal risk and no prospect of direct benefit to child (45 CFR 46.406)Assent of child and permission of both parentsAny other research (45 CFR 46.407)Assent of child and permission of both parentsFor additional information on the types of research involving minors and who signs the consent forms, refer to: https://www.hhs.gov/ohrp/regulations-and-policy/guidance/special-protections-for-children/index.html. 
-5. If a pregnant woman or fetus is involved and if the research holds out the prospect of direct benefit solely to the fetus, then the consent of the pregnant woman and the father are obtained in accordance with the informed consent provision of Subpart A, except that the father's consent need not be obtained if he is unable to consent because of unavailability, incompetence, or temporary incapacity or if the pregnancy resulted from rape or incest (see Example 4).
-6. If your study relates to the cognitive impairment, lack of capacity, or serious or life-threatening diseases and conditions of research participants, add the signature line for the Legally Authorized Representative (see Example 5). If your study does not relate to these diseases and conditions of research participants, you cannot use a Legally Authorized Representative to obtain consent. The Legally Authorized Representative is defined by California Health and Safety Code (24178(c) and (e)) as follows:
-
-24178(c) Non-emergency room environment: 
-Surrogate informed consent may be obtained from a surrogate decision maker. The decision makers are listed in the following descending order of priority:
-1. The person's agent pursuant to an advance health care directive.
-2. The conservator or guardian of the person having the authority to make health care decisions for the person.
-3. The spouse of the person.
-4. An individual as defined in Section 297 of the Family Code.
-5. An adult son or daughter of the person.
-6. A custodial parent of the person.
-7. Any adult brother or sister of the person.
-8. Any adult grandchild of the person.
-9. An available adult relative with the closest degree of kinship to the person.
-When there are two or more available persons who are in different orders of priority pursuant to subdivision (c), refusal to consent by a person who is a higher priority surrogate shall not be superseded by the consent of a person who is a lower priority surrogate.
-
-24178(e) Emergency room environment: 
-Surrogate informed consent may be obtained from a surrogate decision maker who is any of the following persons:
-1. The person's agent pursuant to an advance health care directive.
-2. The conservator or guardian of the person having the authority to make health care decisions for the person.
-3. The spouse of the person.
-4. An individual as defined in Section 297 of the Family Code.
-5. An adult son or daughter of the person.
-6. A custodial parent of the person.
-7. Any adult brother or sister of the person.
-When there are two or more available persons described pursuant to subdivision (e), refusal to consent by one person shall not be superseded by any other of those persons.
-
-Example 1:
-I have read (or someone has read to me) the information provided above. I have been given a chance to ask questions. All my questions have been answered. By signing this form, I am agreeing to take part in this study.
-
-
-
-Name of Research ParticipantSignatureDate Signed (and Time*)
-I have personally explained the research to the participant using non-technical language. I have answered all the participant's questions. I believe that he/she understands the information described in this informed consent and freely consents to participate. 
-
-
-
-Name of Person Obtaining Informed ConsentSignatureDate Signed (and Time*)
-
-A witness is required when: (1) the participant cannot see, read, write, or physically sign the consent form, or (2) the Short Form method is used to obtain consent. In these situations, the witness must sign and date the consent form. If no witness is needed, leave this signature line blank.  
-
-
-Name of Witness SignatureDate Signed
-When Enrolling Minors 
-
-Example 2:
-If your child agrees to participate, have your child sign here. 
-
-Name of ChildChild's SignatureDate Signed (and Time*) 
-
-
-Example 3:
-
-Name of ParentSignatureDate Signed (and Time*) 
-Name of Second ParentSignatureDate Signed (and Time*) 
-When Enrolling Pregnant Women
-
-Example 4:
-
-
-Name of Father of Unborn ChildFather's SignatureDate Signed (and Time*) 
-When Obtaining Consent from a Legally Authorized Representative
-
-Example 5:
-
-
-Name of Legally Authorized RepresentativeSignatureDate Signed (and Time*)
-I have personally explained the research to the participant and/or the participant's legally authorized representative using non-technical language. I have answered all questions. I believe that he/she understands the information described and freely consents to participate. 
-
-
-
-Name of Person Obtaining Informed ConsentSignatureDate Signed (and Time*) 
-
-* If a study procedure is done on the same day the informed consent is signed, the time and date are required. No study procedures may be done before the participant has signed the informed consent. 
-
-USC HSIRB Informed Consent Template and Instructions
-March 6, 2017
-
-
-
-
-
-
-
-Version Date: Enter your version date		Page 1 of 1
-

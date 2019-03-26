@@ -1,65 +1,0 @@
-﻿Note: Bolded elements must be included in your consent form
-
-DESCRIPTION: 
-	Your child is invited to participate in a research study on (Describe project in non-technical language; include types of questions that will be asked, if applicable; explain purpose of the research.). Your child will be asked to (Describe procedures; mention video/audio taping, if applicable, and what will become of tapes after use, e.g., shown at scientific meetings; describe the final disposition of the tapes).
-
-(If applicable) An interpreter will be used in this study. Describe: 
-1. How you will guarantee that the bilingual interpreter will maintain the confidentiality
-    of subjects
-      2. Who the interpreter works for, and 
-      3. How the interpreter was recruited for your study.
-
-RISKS AND BENEFITS: 
-	The risks associated with this study are (Describe foreseeable risks or discomfort to subjects; if none, state as such). The benefits which may reasonably be expected to result from this study are (Describe any benefits; if none, state as such). We cannot and do not guarantee or promise that your child will receive any benefits from this study. 
- 
-(If applicable) Your decision whether or not to allow your child to participate in this study will not affect your child's grades or participation in school.
-.
-TIME INVOLVEMENT: 
-	Your child’s participation in this experiment will take approximately (amount of time).
-
-PAYMENTS: 
-	Your child will receive (Describe reimbursement; where there is none, state as such) as payment for his/her participation. 
-
-SUBJECT'S RIGHTS: 
-	If you have read this form and have decided to allow your child to participate in this project, please understand your child’s participation is voluntary and your child has the right to withdraw his/her consent or discontinue participation at any time without penalty or loss of benefits to which he/she is otherwise entitled. Your child has the right to refuse to answer particular questions.
-
-(If applicable: If you agree, your child’s identity will be made known in all written data resulting from the study. Otherwise,) 
-Your child’s individual privacy will be maintained in all published and written data resulting from the study.
-
-
-CONTACT INFORMATION: 
-Contact information should include the following as appropriate. Starred (*) paragraphs are required verbatim, except as noted below:
-*Questions, Concerns, or Complaints: If you have any questions, concerns or complaints about this research study, its procedures, risks and benefits, you should ask the Protocol Director, (name and phone number of Protocol Director). 
-*Independent Contact: If you are not satisfied with how this study is being conducted, or if you have any concerns, complaints, or general questions about the research or your rights as a participant, please contact the Stanford Institutional Review Board (IRB) to speak to someone independent of the research team at (650)-723-2480 or toll free at 1-866-680-2906. You can also write to the Stanford IRB, Stanford University, 3000 El Camino Real, Five Palo Alto Square, 4th Floor, Palo Alto, CA 94306.
-(If applicable)Appointment Contact: If you need to change your appointment, please contact (name) at (phone number).
-(If applicable)Alternate Contact: If you cannot reach the Protocol Director, please contact (name) at (phone number and/or pager number).
-
-Include as applicable:
-Indicate Yes or No:
- 
-I give consent for my child to be audiotaped during this study:       
-  _____ Yes    ____ No 
-
-I give consent for my child to be videotaped during this study:        
-  _____ Yes    ____ No
-
-I give consent for tapes resulting from this study to be used for (describe proposed use of tapes):
-  _____ Yes    ____ No	
-
-I give consent for my child’s identity to be revealed in all written data resulting from this study:
-  _____ Yes    ____ No
-
-
-
-
-_________________________________________________		_______________
-Signature(s) of Parent(s), Guardian or Conservator           			Date
-
-
-
-The extra copy of this signed and dated consent form is for you to keep.
-STANFORD UNIVERSITY   Parent or Legally Authorized 
-                                                   Representative Permission FormProtocol Director:(Only protocol directors or faculty sponsors whose names appear in the Personnel Info section of the eProtocol application may be listed here)Protocol Title:   
-
-File:TEM02C06  rev8  121613   	              1 of 1
-

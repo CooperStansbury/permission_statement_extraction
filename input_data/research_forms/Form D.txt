@@ -1,484 +1,0 @@
-﻿Consent to be part of a Research Study
-To be conducted at 
-Select appropriate Study sites
-University of Texas Health Science Center at San Antonio,
-University Health System (UHS),
-Texas Biomedical Research Institute,
-Southwest Research Institute,
-Christus Santa Rosa Health Care
-
-Information about this formEnrolling Children or Incompetent Adults
-Insert this paragraph only for studies enrolling children or incompetent adults
-If you are providing consent for someone else, for example your child, your next-of-kin or someone for whom you are the legal guardian or are designated as a surrogate decision maker on a medical power of attorney, please note that in the sections that follow the word "you" refers to the person you are providing consent for. 
-
-AND, for all studies include:
-You may be eligible to take part in a research study.  This form gives you important information about the study.  
-
-Please take time to review this information carefully.  You should talk to the researchers about the study and ask them any questions you have.  You may also wish to talk to others (for example, your friends, family, or a doctor) about your participation in this study.  If you decide to take part in the study, you will be asked to sign this form.  Before you sign this form, be sure you understand what the study is about, including the risks and possible benefits to you.
-
-Please tell the researchers or study staff if you are taking part in another research study.
-
-Voluntary Participation - You do not have to participate if you don't want to.  You may also leave the study at any time.  If you leave the study before it is finished, there will be no penalty to you, and you will not lose any benefits to which you are entitled.  
-
-General Information - "Who is conducting this research?"
-Principal Investigator
-The Principal Investigator (PI) is the researcher directing this study; the PI is responsible for protecting your rights, safety and welfare as a participant in the research.  The PI for this study is Insert the [name] and [degrees] of the PI and the PI's respective affiliations [department and institution]
-
-
-Co-Principal Investigator while a Co-PI is not encouraged, insert the following if study has a Co-Principal Investigator, insert 
-The Co-Principal Investigator shares the principal investigator's responsibilities for this study.  The Co-Principal Investigator for this study is Insert the [name] and [degrees] of the Co-PI and the Co-PI's respective affiliations [department and institution]
-
-Conflict of Interest  If any member of the research team has a potential financial conflict of interest related to the study, insert the following or similar statement (Language should be modified to fit the specific facts and circumstances.) Delete this section if no one has a potential financial conflict of interest
-A member of the research team, insert [name] is
-Select and edit the text below as needed
- - a paid consultant to the company which is paying for (part of) this study. 
- - a paid consultant or paid member of the Advisory Board, and receives payment for lectures from the company which is paying for (part of) this study.
-- an unpaid consultant to the company which is paying for (part of) this study.
-- a founder of the company, has stock in the company, and is a paid consultant to the company sponsoring this study.
-- an inventor of insert the [drug, compound, device, etc.,], for which a patent may be filed by the institution. If the patent is pursued, based on data from this and other research, royalties and other compensation may be received by the institution and the investigator. Thus, UTHSCSA and the investigator have a financial interest in the outcome of this study.
-
-AND if appropriate, add:
-UTHSCSA owns equity (stock) in the company insert the [name of the outside entity] which is paying for this study.
-
-AND if appropriate, add:
-In the future, it is possible that the results of this research could result in a financial benefit to insert the [name of the institution] and/or the principal investigator.  This institution has taken steps to not let this interfere with the way the study is conducted or your safety.
-
-AND
-If you require further information regarding the financial arrangements described in this paragraph, you should discuss the matter with the Principal Investigator.  
-
-Funding 
-If funded by an external entity, add:
-
-If the study is funded, an "external funding disclosure" statement must be included.  Select the template wording appropriate to the type of funding (either for profit or non-profit / federal).  If necessary, revise the applicable disclosure statement so that it is specific for your study.  
-
-For-Profit Funding
-[insert name of company providing funding ]  , a for-profit company, is funding this study.  The company designed the study, drafted the study plan and is providing money to [insert name the institution(s) receiving the support, e.g., UTHSCSA] so that the researchers can conduct the study.
-       Note: If this study was not designed by the company providing funding (e.g., the principal investigator designed the study), revise sentence above to state who designed the study and drafted the study plan. 
-
-Non-Profit or Federal Agency Funding
-[insert name of non-profit organization or funding agency], a [pick one: non-profit organization or federal agency] that promotes scientific research, is funding this study.  This organization is providing money to [insert name the institution(s) receiving the support, e.g., UTHSCSA] so that the researchers can conduct the study.
-
-Purpose of this study - "Why is this study being done?"Briefly (one paragraph) explain in lay-terms the reason for doing this study.  Do not describe the details of the protocol procedures here - that will be included in the Study Procedures section. 
-Provide sufficient background on the topic and explanation of medical or technical terms so that the information is understandable to the lay person.  Suggest using lay terms first followed by medical terms in parentheses, for example:  "...hardening of the arteries (atherosclerosis).
-
-You are asked to participate in this research study of  state what is being studied, e.g., a research study of colon cancer. Colon cancer is currently treated by (explain current standard of care)]. Currently available treatment is highly toxic or not entirely effective, etc. (Explain why this study needs to be done).
-
-The researchers hope to learn  state what the study is designed to discover or establish.  
-
-Investigation Use of Drug or Device If investigational use of drug, device insert following- if not applicable delete
-This study involves the use of an investigational [select one] drug(s)/device(s) called [insert name(s)].  "Investigational" means that the [select one] drug(s)/device(s) has/have not yet been approved by the U.S. Food & Drug Administration (FDA) for [select appropriate] treating/preventing/diagnosing [insert the disease or condition].  
-
-If Phase I, II or III drug studies choose one
-
-AND if Phase I 
-This is [choose one] the first study/one of the first studies involving humans to examine the safety of this/these drug(s).  We want to find out what effects, good and/or bad, it has on people who take/use it/them and [and if appropriate include] on the condition/disease.  The people in this study will be the first people to receive the drug(s).  As a result, information about the safety and effectiveness is incomplete and all of the side effects are not yet known.  
-
-OR For Phase II studies
-This study will help find out what effects, good and/or bad, this/these drug(s) has/have on people who take/use it/them [and if appropriate include] and on its/their effect on the condition/disease. The safety of this/these drug(s) in humans has been tested in prior research studies; however, some side effects may not yet be known.  
-
-OR For Phase III studies
-This study will compare the effects, good and/or bad, this/these drug (s) has/have on people who take/use it/them [and if appropriate include] and on the disease/condition, with those of other commonly used drugs/interventions.  The safety of this/these drug(s) in humans has been tested in prior research studies; however, some side effects may not yet be known.  
-
-OR For Device studies
-This study will help find out what effects, good and/or bad, this/these device(s) has/have. [Choose applicable statement] The people in this study will be the first people in whom the device(s) will be used.  As a result, information about the safety and effectiveness is incomplete and all of the side effects are not yet known. OR The safety of this/these device(s) in humans has been tested in prior research studies; however, some side effects may not yet be known.  
-
-OR If you are studying investigational therapy regimens with the use of a device (e.g., radiation therapy, radiofrequency ablation), please contact the OIRB for assistance with wording.
-
-AND For registration in clinicaltrials.gov (Refer to this guidance for more information): [delete any reference to clinicaltrials.gov if the study is NOT an "applicable clinical trial" and you do NOT plan to register it for other reasons]
-
-For "Applicable Clinical Trials":
-
-A description of this clinical trial will be available on http://www.ClinicalTrials.gov, as required by U.S. Law. This Web site will not include information that can identify you. At most, the Web site will include a summary of the results. You can search this Web site at any time. 
-
-OR For Other (e.g. Federal funding or ICMJE requirements)
-
-This trial may be registered on www.ClinicalTrials.gov, a publicly available registry of clinical trials. This Web site will not include information that can identify you. At most, the Web site will include a summary of the results. You can search this Web site at any time. 
-
-Information about Study Participants - "Who is participating in this research?"
-You are being asked to be a participant in this study because  state general reason why the person was identified to participate.  For example, because they have the disease being studied and if applicable why it is reasonable for this particular subject to participate; they have not responded the standard care; they are already scheduled for the procedure being studied, etc. This is not intended to be a repetition of the inclusion criteria.
-
-How many people are expected to take part in this study? 
-This study will enroll approximately [insert total # enrolled (not completers)] study participants.
-
-
-Information about Study Procedures - "What will be done if you decide to be in the research?"
-While you are taking part in this study, you will be asked to attend approximately [insert #] visits with the researchers or study staff.  If required to stay overnight for any visits or the study will occur while hospitalized revise this section accordingly.  
-It may be necessary for you to return to the hospital/clinic every [insert number of days/months/years]. Indicate whether the study visits will be held in conjunction with visits the subject would be making as part of routine care.  For life time follow-up studies, include a description of the duration of participation.
-
-If using screening procedures Screening - After you sign this consent to participate, exams, tests, and/or procedures may be done as described below to find out if you can continue in the study; this is called screening. We may be able to use the results of exams, tests, and/or procedures you completed before enrolling in this study.  You will be told which results we will obtain and which procedures will not have to be repeated.  Many of the procedures are described below as "standard care" and would be done even if you do not take part in this research study. You will be told which ones are for "research only".
-
-Screening Procedures Insert a description of the screening exams, tests or procedures
-
-Although many of the screening procedures used to determine study eligibility may be routine, subjects must sign a consent form prior to undergoing any screening procedures not already done as part of standard care.  Obtaining a signed consent form is also required prior to collecting and storing results of standard of care procedures for research purposes, unless previously authorized by IRB-approved waiver.
-
-Examples
-* Physical examination - We will measure your height, weight, listen to your heart, your pulse, blood pressure, etc. 
-* OR, if physical exam is standard care - The results of the physical examination done as part of your standard care will be used.
-* Blood draw - Blood will be taken from a vein (or artery) in your arm to, (for example: measure complete blood count, count the number of red blood cells and white blood cells, to check your liver function, measure the amount of sugar/cholesterol in your blood, determine your overall, general health)  ** note the volume of blood drawn is optional unless it exceeds the levels listed in the procedures section below
-* OR, if blood draw is standard care - The results of the blood tests done as part of your standard care will be used.
-* For pregnancy test, insert: If you are capable of becoming pregnant, a pregnancy test will also be done before you receive study treatment.
-
-This visit will take approximately [insert #] minutes OR the research procedures will add approximately [insert #] minutes to the length of a routine care visit.
-
-AND
-The results of the screening exams, tests, and/or procedures will be reviewed to determine whether you will be allowed to continue in the study.  If you are not allowed to continue in the study, the researcher will discuss the reasons with you. [If researcher is also the treating physician, add: and will discuss other possible options].
-
-If the number of visits/duration of study, etc., is more complicated than you were able to summarize on the first page, explain in detail here. Further explanation may be needed if there are circumstances that will have an effect on the number of visits.  For example: The subject will be given a second screening visit to see if results of testing from the first visit are different and the subject might now be eligible to continue.  While taking part in this study, you will [explain the expected duration of the subject's participation in the study e.g., how much time and number of visits.
-
-Study includes more than one group.  Select either without randomization or with randomization
-
-Assignment to Study Groups - 
-Without randomization, describe each group and how subjects are assigned. The following are examples only:
-Groups that differ by time
-When it is determined that you are eligible for the study [or, that you will be allowed to continue in the study"], you will be assigned to take a certain dose of the study drug.  The dose you receive will depend on when you enroll in the study.  Subjects enrolled early in the study will get a low dose of the study drug.  Subjects enrolled later in the study will get higher doses of the study drug.
-Groups that differ by criteria
-When it is determined that you are eligible for the study [or, that you will be allowed to continue in the study"], you will be assigned to take a certain dose of the study drug.  The dose you receive will depend on the results of XXX.  Subjects with lower levels of XXX will get a low dose of the study drug.  Subjects with higher levels of XXX will get higher doses of the study drug.
-
-OR, with randomization
-When it is determined that you are eligible for the study [OR, that you will be allowed to continue in the study], you will be assigned by chance (like flipping a coin [2 groups] OR drawing numbers out of a hat [3 or more groups]) to one of [insert #] study groups. [Describe each of the study groups.  You may use bullets.]
-
-AND if using PLACEBO
-You will have a one in [insert #] chance of being in the placebo group. A placebo is an inactive, harmless substance that looks like the other study drugs.
-
-AND if using BLINDING select either single or double blind
-[single blinding]   You will not know whether you are receiving the study drug or a placebo.  The researchers will know which you are taking.
-[double blinding]  Neither you nor the researchers will know whether you are receiving the study drug or a placebo.  In the event of an emergency, there is a way for the researcher to find out which you are receiving.
-
-
-Study Procedures - as a participant, you will undergo the following procedures:
-
-Important guidance for describing study procedures: 
-* Discuss the procedures / visits in chronological order.
-* Identify the procedures which are standard and would have been done even if they were not in the study (in the same timing and frequency) and those which are being done solely because they are participating (solely for research purposes)
-* Use bullets and/or paragraphs. 
-* Describe in lay language all procedures and their purposes.  
-o Describe what the subject will feel or experience
-* Distinguish between approved and experimental procedures/devices. [Experimental procedures/devices are those that are not FDA-approved or are FDA-approved but not used in accordance with FDA approved labeling.] 
-* Describe any wash-out periods or other deviations from the subjects' regular regimen.
-* Quantify procedures - for example 
-o Number of each procedure per visit and total for study
-o Number of items on a survey or questionnaire and average length of time to complete each;  
-o Volume of blood samples optional unless:
-* (a) volume obtained exceeds 550 ml in an 8 week period from healthy, non-pregnant adults, or
-* (b) volume obtained from other (not healthy, or pregnant) adults and children, the amount drawn exceeds the lesser of 50 ml or 3 ml per kg in an 8 week period
-* Indicate whether subjects will be seen in an outpatient clinic or admitted as inpatients for the study procedures.
-* Describe the length of each visit (It is not necessary to state time needed to complete each research procedure, but it is important that subjects be informed of the time requirement for each study visit) Or, the length of time the research procedures will add to a routine care visit.
-* Address the risks in the risks section.  If you feel you must include risks with the study procedure, you are still required to provide ALL risk information in the risk section.
-
-Optional repository collection procedures
-The following information about you will be collected and stored in the repository:  [list type of data/information being banked] Refer to Form E for additional template language.
-
-Pregnant person Follow-up Insert the statement below if study will follow pregnancy outcomes of participants who become pregnant or partners of participants who become pregnant.
-If you become pregnant during your participation in this research study, the researchers would like to collect follow-up information regarding your pregnancy.  You will be asked to sign a separate consent form.
-
-
-Ending Participation Early Insert "Could your participation end early?" only if the subject's participation may be terminated by the investigator/sponsor.  Describe the anticipated circumstances when the study may be terminated by the sponsor or principal investigator.
-Could your participation end early? There are several reasons why the researchers may need to end your participation in the study (early withdrawal).  Some reasons are:
-* The researcher believes that it is not in your best interest to stay in the study.
-* You become ineligible to participate.
-* Your condition changes and you need treatment that is not allowed while you are taking part in the study.
-* You do not follow instructions from the researchers.
-* The study is stopped.
-
-If applicable, add: 
-The researchers will discuss your options for medical care when your participation in this study ends.
-
-Risks - "What are the risks of participation in the research?"
-In assessing risk, be sure to consider all possible sources of harm, including physical, social, psychological, legal and economic.
-
-The risks that are reasonably expected with the study should be described and compared to risks of common standard therapeutic alternatives (if available) and to the option of no treatment. Specifically, the consent form should describe risks that are:
-very likely, regardless of severity, and 
-less likely but serious, or rare but relatively severe, as compared to the severity of the disease and/or risks of alternative options. 
-
-The risks associated with standard medical therapy that would be delivered regardless of participation in the clinical trial (such as placement of a central venous catheter) should not be included in the research consent document.  However, when subjects are to be randomized and one treatment group constitutes standard medical therapy, then even risks associated with standard therapy must be fully described to enable the subjects to determine whether they would accept assignment to the various study groups.
-
-Risks from the research
-For studies comparing experimental treatment to standard care, explain how group assignment may represent a risk related to effectiveness.  For example:
-The investigators have designed this study to learn how well the new treatment(s) compare to commonly accepted treatment(s).  There is a risk that the effectiveness and/or safety of the treatment for the [insert name of experimental group] group may not be as good as the most commonly accepted treatments.  You may get a treatment or drug that does not help treat your disease or that makes your condition or disease worse.
-
-Use the following format to list risks and side effects related to each research regimen, component or procedure.  
-
-Risks from the specific research procedures (drug(s), interventions, or procedures)
-Revise this section as needed to reflect the expected risks for your study
-There are risks to taking part in this research study.  One risk is that you may have side effects while on the study.  
-
-[Describe the expected duration of the side effects.  Amend the following wording to fit the study.]  Side effects from this study will usually go away soon after you stop taking the [drug(s) or intervention].  In some cases, side effects can be long lasting or may never go away.
-
-Everyone taking part in the study will be watched carefully for any side effects.  However, the study doctors don't know all the side effects that may happen.  Be sure to tell your study doctor immediately, about any side effect that you have while taking part in the study.
-
-The following section will describe the risks related to each your participation in this research study.  You should talk to your study doctor about any side effects or other problems that you have while taking part in the study.   
-
-For minimal risk studies, delete next paragraph and remove "some may be Serious" from the Risk categories below.  
-Side effects can range from mild to serious.  Serious side effects are those that may require hospitalization, are life threatening or fatal (could cause death).  The frequency that people experience a certain side effect can range from many (likely), few (less likely) or only one or two (rarely).  
-Risks and side effects related to the [insert name of the regimen, procedures, drug, intervention, or device] include those which are:
-(Delete any category that is not applicable.)  
-
-Likely, some may be Serious
-In 100 people, approximately (insert range "X" - "Y) may have:
-* 
-
-Less Likely, some may be Serious
-In 100 people, approximately (insert range "X" - "Y) may have:
-* 
-
-Rare and Serious
-In 100 people, approximately (insert range "X" - "Y) may have:
-* 
-
-Side effects that occur in less than 2-3% of patients do not have to be listed unless they are serious.
-
-For more information about risks and side effects, ask one of the researchers or study staff.
-
-AND include if there is limited information available about the safety of the procedure/drug/device (e.g., Phase I, first use in humans)
-There may be unforeseeable side effects that could be life threatening or fatal (could cause death). 
-
-AND if appropriate include
-We will tell you about any significant new findings which develop during the course of this research which may relate to your willingness to continue taking part.  
-
-Risks related to the optional Repository
-Informational risks related to the repository
-Select either anonymous or identifiable material statement depending on the nature your bank.
-
-If only banking anonymous materials use this statement:
-Your samples and medical information will not be stored with identifying information (such as your name) or a code that is linked to your identifying information.  The materials in the repository cannot be traced back to you as the participant.  There is no risk to you that your private information could be unintentionally released.  Once your samples or information are entered into the repository, you will not be able to withdraw them because the samples will not be traceable
-
-OR, if banking identifiable or coded materials, use this statement: 
-Your samples and medical information will be stored with identifying information (such as your name).  If this information were unintentionally (by mistake) released it could harm you.  The repository is required to protect your private information to prevent unintentional release of your private information.  Your name, address, phone number and other identifying information will be taken off anything associated with your tissues or medical information and replaced with a code.  The key, linking your identity to the code will be kept in a separate, secure location, only accessible by the repository staff.  
-
-
-Genetic Informational risks related to the repository
-Select either anonymous or identifiable material statement depending on the nature your bank.
-
-If only banking anonymous materials use this statement:
-Future research studies using materials from this repository may include genetic testing.  Human tissue contains genes that determine many of a person's physical characteristics, such as the color of eyes and hair.  In some cases, genetic testing of tissues can be used to indicate a risk for the development of certain diseases.  Genetic information is unique to each individual and could potentially be used to discover possible changes in a person's future health status or life expectancy, or that of his/her children and family members. Even though the results of genetic testing cannot be linked to you, it is possible that people of your ethnic background may be found to be at more risk for certain diseases based on future genetic research and this information might harm you in the future as a member of the group.  
-
-OR, if banking identifiable or coded materials, use this statement: 
-Future research studies using materials from this repository may include genetic testing.  Human tissue contains genes that determine many of a person's physical characteristics, such as the color of eyes and hair.  In some cases, genetic testing of tissues can be used to indicate a risk for the development of certain diseases.  Genetic information is unique to each individual and could potentially be used to discover possible changes in a person's future health status or life expectancy, or that of his/her children and family members. Even if your tissues are used for this type of research, the results will not be put in your health records.
-Releasing this information to you could cause psychological distress, anxiety or family problems.  
-
-Releasing this information to others, such as including it in your medical record, may pose a possible risk of discrimination, or increase difficulty in obtaining or maintaining disability, long-term care, or life insurance.  
-
-These risks would occur if your information is released by mistake.  The measures being taken to protect your privacy are discussed below and make this possibility unlikely.
-
-Even though the results of genetic testing may not be linked to you, it is possible that people of your ethnic background may be found to be at more risk for certain diseases based on future genetic research and this information might harm you in the future as a member of the group. 
-Also, there may be unknown risks of genetic testing in the future.
-
-
-Are there Risks related to withdrawing from the study? 
-
- [State here whether subjects might be at risk if they stop study participation early.]  Choose one of the two statements below, either safety issues related to early withdrawal or no safety issues from withdrawal. 
-
-If there are safety/risk concerns from withdrawing: 
-If you decide to withdraw from this study early, please discuss your decision with the principal investigator.  You will need to have the following procedures to safely withdraw [explain what procedures will be performed for early study withdrawal]
-If you do not follow these withdrawal procedures, you may experience [state health risks if study withdrawal procedures are not followed.  Address issue of continued treatment, if applicable]. 
-
-OR if there are no safety/risk concerns from withdrawing: 
-If you decide to withdraw from this study early, please discuss your decision with the principal investigator.  The researcher may ask you to complete study withdrawal procedures at a final study visit.  This visit includes [explain what procedures will be performed for early study withdrawal].  There is no risk to you if you do not complete the final withdrawal procedures and you can choose not to participate in them.
-
-Reproductive Risks - If there are reproductive risks, choose appropriate paragraph to describe risk:
-	
-If reproductive risks are of concern only to female subjects and/or their fetuses, add:
-Concerns for sexually active women:  You should not become pregnant while taking part in this study because we do not know how the study drugs/procedures could affect a fetus, if a woman becomes pregnant during the study.  It is important that you talk to your study doctor about avoiding pregnancy during this study.  If you think you might have become pregnant while you are in this study, you must tell one of the study doctors right away so that management of the pregnancy and the possibility of stopping the study can be discussed.
-
-OR, if reproductive risks are of interest to both female subjects and to the male subjects and/or their partners, who could become pregnant, use:
-Concerns for sexually active men and women:  Women should not become pregnant and men should not father a baby while taking part in this study because we do not know how the study drugs/procedures could affect a man's sperm (for some drugs/procedures, the concern may be that the sperm might be affected and in some cases, drugs could being carried by the semen into the vagina and cause harm) or a fetus, if a woman becomes pregnant during the study.  It is important that you talk to your study doctor about avoiding pregnancy during this study.  If you think you might have become pregnant or if you believe your female partner has become pregnant while you are in this study, you must tell one of the study doctors right away so that management of the pregnancy and the possibility of stopping the study can be discussed.  
-
-AND if pregnant women are excluded add:
-If you are a woman who is pregnant or could be pregnant, you cannot take part in this study because we do not know how the [drugs/procedures] might affect a developing fetus.  We will do a pregnancy test before you start treatment to make sure you are not pregnant.   
-
-AND if follow-up on pregnant partners add:
-If your partner becomes pregnant during your participation in this research study, we would like to ask permission to collect follow-up information regarding the pregnancy.  Your partner will be asked to sign a separate consent form.
-
-
-If there are risks to women who are breastfeeding, add:
-Risks to babies who are being breastfed:   Women who are breastfeeding cannot take part in this study because we do not know what effect the drugs/procedures might have on their breast milk.
-
-Are there risks if you also participate in other research studies?
-Being in more than one research study at the same time, [or even at different times,] may increase the risk to you.  It may also affect the results of the studies.  You should not take part in more than one study without approval from the researchers.  
-
-What if a research-related injury occurs? 
-The researchers have taken steps to minimize the known or expected risks.  However, you may still experience problems or side effects, even though the researchers are careful to avoid them.  In the event of a research-related injury or if you experience an adverse reaction, please immediately contact your study doctor.  See the section "Contact Information" for phone numbers and additional information.  You may also need to tell your regular doctors.
-
-If you are injured or made sick from taking part in this research study, medical care will be provided. This care may be billed to you or your insurance. Depending on the circumstances, this care may be provided at no cost to you. We have no plans to give you money if you are injured. The investigator can provide you with more information.
-
-If you sign this form, you do not give up your right to seek additional compensation if you are harmed as a result of being in this study.
-
-Benefits - "How could you or others benefit from your taking part in this study?"Choose either
-The possible benefit of your participating in this study is consider adding the benefits related to the intervention or procedure and/or benefits related to a research monitoring procedure which is likely to contribute to the well-being of the subject.  There is no guarantee or promise that you will receive any benefit from this study.  
-OR
-You may not receive any personal benefits from being in this study.
-
-AND include
-We hope the information learned from this study will benefit other people with similar conditions in the future.
-
-Insert "Alternative procedures/treatments" section only if the research involves therapeutic procedures used to diagnose, treat, or prevent a health-related state.
-Alternative procedures or course of treatment - "What other options are there to participation in this study?"Consider the following: 1) getting treatment or care without being in a study, 2) taking part in another study, and 3) getting no treatment
-There are other options available to you.  Your other choices may include:
-[insert options]
-
-Insert Payments section (below) only if payments to the subject are planned.
-Payments - Will there be any payments for participation?
-Describe the amount or nature (provide details such as cash/check/gift card), when it will be paid/provided (provide details on frequency of compensation and timing), and when the compensation will be prorated if the subject does not complete the study, provide a schedule. 
-
-If payment is being paid by a ClinCard add:
-The researchers will provide you with a MasterCard(r).  Compensation will be automatically credited after completion of each [modify as appropriate - i.e., study visit].  Your name, address and date of birth will be shared with a third-party solely for the purposes of compensation processing.  This information will only be used for the administration of the compensation (ClinCard) and will be kept strictly confidential.  
-
-If you will offer study-related messaging with the ClinCard, add:
-In addition to the compensation on the card, you may also elect to receive study-related messages (text and/or email). These messages will contain information confirming that money has been loaded onto your card. If applicable add: You may also receive reminder messages with information about your next appointment with researchers or study staff.  
-
-Please indicate your willingness to receive study-related messages:
-□ Yes, I would like to participate (please select the best method(s) for communication)
-o Cell Phone (text messages)
-o Email
-□ No, I choose not to participate
-
-Insert the following only if the payments will exceed $600 per subject
-If you are paid, the money you receive may be taxable.  When the total payment is $600 or more in one calendar year, the institution must report the amount to the IRS.  The IRS considers it earned income and treats it like any other income. 
-
-AND If payment is being paid by a check issued by UTHSCSA, add:
-Please note that if you are on record as owing money to the State of Texas, such as for back child support or a delinquent student loan, the payment may be applied to that debt and you may not receive a check. 
-
-
-
-Insert Costs section (below) only if there are additional costs to the subject that may result from participation in the research.
-Costs - Will taking part in this study cost anything?
-Describe the possibility of costs to the subject because of participation.  
-
-For studies involving treatment intervention(s), clearly explain which costs will be billed to the subject's insurance company, and who (the subject? the study sponsor?) will be responsible for payment of any costs not covered by the insurance.  For example: 
-
-"You or your health insurance company will be responsible for the cost of treatments and procedures that would be done whether or not you took part in this study, such as [list].  It is important to understand that some insurance companies do not cover some costs (for example, approved drugs used in a way different from the package instructions). If your insurance company does not cover these treatments or procedures, you will be required to pay for them."  Remember that study subjects often don't know what specific procedures would have been charged to their insurance companies in non-research settings, so specifics and clarity are important here.  For example, are X-rays or scans that determine eligibility being paid for by the study or charged to the subject or his/her insurance?  A suitable way to end this section is "Ask the researchers if you have any questions about what it will cost you to take part in this study (for example bills, fees, or other costs related to the research)."
-
-If sponsor is providing drug/device at no cost
-The sponsor will provide the study drug/device free of charge during this study.  At the end of your participation you must return all unused study drug/device to the researcher.  
-
-Confidentiality - How will your records be kept confidential?
-Information we learn about you in this study will be handled in a confidential manner, within the limits of the law.  If we publish the results of the study in a scientific journal or book, we will not identify you.  The Institutional Review Board and other groups that have the responsibility of monitoring research may want to see study records which identify you as a subject in this study.   
-
-* Modify and include the rest of this section only when study involves use of IDENTIFIABLE HEALTH INFORMATION:
-Research policies require that private information about you be protected and this is especially true for your health information.  However, the law sometimes allows or requires others to see your information.  The information given below describes how your privacy and the confidentiality of your research records will be protected in this study.
-
-What is Protected Health Information (PHI)?  
-Protected Health Information is information about a person's health that includes information that would make it possible to figure out whose it is.  According to the law, you have the right to decide who can see your protected health information.  If you choose to take part in this study, you will be giving your permission to the investigators and the research study staff (individuals carrying out the study) to see and use your health information for this research study.  In carrying out this research, the health information we will see and use about you will include: 
-Summarize the types of information that will be obtained in the study.
-Examples - your  medical history and blood work, information that we get from your medical record, information contained in your underlying medical records related to your medical history and treatments prior to the study, information that is created or collected during your participation in the study including medical and treatment history,  information you give us during your participation in the study such as during interviews or from questionnaires, results of blood tests; demographic information like your age, marital status, the type of work you do and the years of education you have completed.
-
-We will get this information by [specify how the PHI will be gathered for your particular study.  For example:  by asking you, asking your doctor, by looking at your chart at the (name of health care facility)]. 
-
-How will your PHI be shared?  
-Because this is a research study, we will be unable keep your PHI completely confidential.  We may share your health information with people and groups involved in overseeing this research study including:
-If applicable, add/edit the following:
-* the company funding the study
-* the company [name the company] that makes the study drug/device.
-* the following collaborators at other institutions that are involved with the study:  [insert name and institution - these are collaborators at institutions not affiliated with UTHSCSA IRB] 
-* [For studies with a DSMB/DSMC] the committee that checks the study data on an ongoing basis, to determine if the study should be stopped for any reason.
-* the members of the local research team
-* The Institutional Review Board and the Compliance Office of the University of Texas Health Science Center at San Antonio, and other groups that oversee how research studies are carried out. 
-* The Research offices at [select all appropriate, delete others:] the University of Texas Health Science Center at San Antonio, South Texas Veterans Health Care System (STVHCS), University Health System (UHS), Southwest Foundation for Biomedical Research, Southwest Research Institute, Christus Santa Rosa Health Care.  
-* [if the study involves a drug or device regulated by the FDA regardless of whether test article is already approved, add:] the Food and Drug Administration (FDA) and other U.S. and international governmental regulatory agencies involved in overseeing drug or device research
-
-If you decide to participate in this study, you will be giving your permission for the groups named above, to collect, use and share your health information.  If you choose not to let these groups collect, use and share your health information as explained above, you will not be able to participate in the research study.
-
-Parts of your PHI may be photocopied and sent to a central location or it may be transmitted electronically, such as by e-mail or fax. The groups receiving your health information may not be obligated to keep it private.  They may pass information on to other groups or individuals not named here.  [This is a required element.  If you believe it does not apply to your study, submit a request for an alteration of authorization using Form J.]
-
-How will your PHI be protected?  
-[Explain the ways privacy will be protected such as:]   In an effort to protect your privacy, the study staff will use code numbers instead of your name, to identify your health information.  Initials and numbers will be used on any photocopies of your study records, and other study materials containing health information that are sent outside of the (name the study site or sites) for review or testing.  If the results of this study are reported in medical journals or at meetings, you will not be identified.
-
-Do you have to allow the use of your health information?
-You do not have to allow (authorize) the researchers and other groups to see and share your health information.  If you choose not to let the researchers and other groups use your health information, there will be no penalties but you will not be allowed to participate in the study.  
-After you enroll in this study, you may ask the researchers to stop using your health information at any time .  However, you need to say this in writing and send your letter to [give the name and full mailing address of the person to whom a request to revoke must be sent].  If you tell the researchers to stop using your health information, your participation in the study will end and the study staff will stop collecting new health information from you and about you for this study.  However, the study staff will continue to use the health information collected up to the time they receive your letter asking them to stop.
-
-Can you ask to see the PHI that is collected about you for this study?  
-The federal rules say that you can see the health information that we collect about you and use in this study.  Contact the study staff if you have a need to review your PHI collected for this study.
- Explain any limitations that might affect the subjects' access to their PHI, for example:
-You will only have access to your PHI until [insert date or event].
-OR, if the nature of the study makes it necessary or preferable to temporarily suspend access, explain this by adding:  
-Because of the type of research, you can only access your PHI when the study is done.  At that time, you have the right to see and copy the medical information we collect about you during the study, for as long as that information is kept by the study staff and other groups involved.  
-
-How long will your PHI be used?  
-Choose either the authorization to use PHI expires at the end of the study or state the specific date when PHI will no longer be used.  This element is required by HIPAA regulations to be in an authorization.  
-
-End of the study
-By signing this form, you agree to let us use and disclose your health information for purposes of the study until the end of the study.  This permission to use your personal health information expires when the research ends and all required study monitoring is over.
-
-OR, on a specific date
-By signing this form, you agree to let us use and disclose your health information for purposes of the study until (insert a specific date).  This permission to use your personal health information expires on the date noted above.
-
-Contact Information - Who can you contact if you have questions, concerns, comments or complaints?
-If you have questions now, feel free to ask us.  If you have additional questions, concerns, comments or complaints later or you wish to report a problem which may be related to this study please contact:
-MD is reserved for physicians licensed in the US; unlicensed physicians should use "Research Assistant" or similar title.
-
-If any of the numbers given for contacts are PAGER numbers, add instructions for using a pager, such as:  To use the pager, you need to have a touch tone (push button) telephone.  Dial the pager number as you would any phone number.  When you hear 3 short high pitched beeps, dial in the number where you want the doctor to call you back.  Push the # button, hang up and wait for the doctor to return your call.
-
-Primary contact:
-[Insert name and degrees] can be reached at [provide telephone number(s), with area code, that can be reliably reached during and after normal work hours]
-
-If primary is not available, contact
-[Insert name and degrees] can be reached at [provide telephone number(s), with area code, that can be reliably reached during and after normal work hours]
-
-The University of Texas Health Science Center committee that reviews research on human subjects (Institutional Review Board) will answer any questions about your rights as a research subject, and take any concerns, comments or complaints you may wish to offer.  You can contact the IRB by calling 210-567-8250, or by mail to IRB, UTHSCSA, Mail Code 7830, 7703 Floyd Curl Drive, San Antonio, TX  78229-3900.
-
-
-
-Research Consent & Authorization Signature SectionIf you agree to participate in this research and agree to the use of your protected health information in this research sign this section.  You will be given a signed copy of this form to keep.  You do not waive any of your legal rights by signing this form.  
-
-SIGN THIS FORM ONLY IF THE STATEMENTS LISTED BELOW ARE TRUE
-* You have read the above information.
-* Your questions have been answered to your satisfaction about the research and about the collection, use and sharing of your protected health information.  
-If consent provided by adults (without a surrogate), include this signature section
-Adult Signature Section
-* You have voluntarily decided to take part in this research study.
-* You authorize the collection, use and sharing of your protected health information as described in this form.
-
-AM
-PMPrinted Name of Subject
-
-Signature of Subject
-DateTime
-
-AM
-PMPrinted Name of Witness
-Signature of Witness
-DateTime
-  Check if consent and authorization obtained from an individual who is unable to read and/or write but can otherwise communicate and/or comprehend English. Have witness initial below.
-Declaration of witness:  I was present for the entire consent process.  ________ ←(initials of witness)
-AM
-PMPrinted Name of Person Obtaining Consent and AuthorizationSignature of Person Obtaining Consent and Authorization
-DateTimeConsent and authorization was obtained from this individual who is unable to read and/or write but can otherwise communicate and/or comprehend English.   The method used for communication with the subject was: ______________________.  
-The specific means by which the subject communicated agreement to participate was: ____________________________________
-If consent provided by a surrogate, include this signature section
-Surrogate Signature Section  for studies enrolling adults unable to provide consent, or children
-* You are voluntarily giving your consent for another person to participate in this study because you believe this person would want to take part if able to make the decision and you believe it is in this person's best interest.  
-* You also authorize the collection, use and sharing of another person's protected health information as described in this form.
-
-AM
-PM
-Printed Name of Subject
-
-Signature of Subject, indicating Assent 
-(If incapable of signing, person obtaining consent should initial here)
-DateTime
-
-
-
-AM
-PMPrinted Name of Person Giving Consent & Authorization for Subject   
-Signature of Person Giving Consent & Authorization
-Parent/Guardian/Legally Authorized Representative
-
-DateTime
-
-
-
-AM
-PMPrinted Name of Witness Witness Signature
-
-DateTime
-
-
-AM
-PMPrinted Name of Person Obtaining Consent and AuthorizationSignature of Person Obtaining Consent & AuthorizationDateTime 
-Title of Study: must match the title listed on the protocol EXACTLY
-
-Page 1 of 3
-UTHSCSA Research Consent and Authorization Documents (v May2016)
-

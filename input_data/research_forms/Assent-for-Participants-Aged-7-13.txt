@@ -1,41 +1,0 @@
-﻿The sample text in this model is geared toward assent to research blood draw. Revise text and headings as appropriate for your study. Although the basic elements of consent (45 CFR 46 and 21 CFR 50) must appear in this form, the form should also be readable by children aged 7-13. Write as clearly and simply as you can.
-For clinical assent forms involving more that blood draws, revise as appropriate.  
-Assent form for a research study
-While you are giving blood for your lab tests, we would like you to give some extra blood for a research study.
-Research is a way to test new ideas and learn new things. In this study, the doctors are trying to learn . They hope to learn this by studying people's blood.
-You don't have to give extra blood for research. It is OK to say yes or no. We will still take good care of you. You can ask the doctor or nurse any questions you want, anytime. If you agree to give extra blood, it is OK to change your mind later. If you do not want to give extra blood for research, tell the doctor or nurse.  
-The following sentence should only be included if this study will involve the conduct of study procedures at UW Medicine facilities or SCCA, or if the study procedures will be conducted by UW Physicians medical staff.  
-Information about this research will become part of the records kept by your doctors and nurses.
-When will I give the extra blood?
-You are going to have blood taken for other tests. The nurse will take the extra blood at the same time. It should not cause your body any problems.
-The nurse takes blood by putting a needle in your arm. You will get numbing cream first to make it hurt less.
-Will the research study help me?
-This research will not help you now, but we hope it will teach us more about . It may help other children with  later on.
-Signature
-If you want to say "yes" to being in the research study, sign your name here:
-Participant (age 7-13) / Printed Name, Signature, and Date
-
-Add or subtract institution names as needed. UW Consortium must include the University of Washington in this list. If other investigators or research staff besides the principal investigator are listed, their affiliations and telephone numbers must also be included.
-Fred Hutchinson Cancer Research Center
-University of Washington
-Seattle Children's
-Protocol No.: 
-Protocol Title: 
-Principal Investigator:
-Jane Smith, MD, PhD FHCRCStaff contact:
-Name, degreeFHCRCEmergency number (24 hours): 
-Parents must sign consent form. A signed consent must be sent to Data Management, Mail Stop LF-229, FHCRC, 1100 Fairview Ave N, Seattle, WA 98109-1024.
-
-
-
-0000.00B
-
-
-
-042IRBform_ModelAssent.doc/ Version 3.01 / 04-07-12 / Page 1 of 3
-
-
-
-Page 1 of 3
-DRAFT template rev. 06 Feb 2006 ● 042IRBform_ModelAssent.doc
-

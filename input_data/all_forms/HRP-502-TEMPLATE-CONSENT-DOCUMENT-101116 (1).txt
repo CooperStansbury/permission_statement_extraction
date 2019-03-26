@@ -1,174 +1,0 @@
-﻿Title of research study: [insert title of research study here with protocol number, if applicable]
-Investigator: [insert name of principal investigator]
-Why am I being invited to take part in a research study?
-We invite you to take part in a research study because _____________. [Fill in the circumstance or condition that makes subjects eligible for the research.]
-What should I know about a research study?
-(Experimental Subject's Bill of Rights) 
-* Someone will explain this research study to you, including:
-o The nature and purpose of the research study.
-o The procedures to be followed.
-o Any drug or device to be used. <Delete if there are no drugs and devices used.>
-o Any common or important discomforts and risks.
-o Any benefits you might expect.
-o Other procedures, drugs, or devices that might be helpful, and their risks and benefits compared to this study. <Delete for research involving no alternatives.>
-o Medical treatment, if any, that is available for complications. <Delete for research involving no more than minimal risk.>
-* Whether or not you take part is up to you.
-* You can choose without force, fraud, deceit, duress, coercion, or undue influence.
-* You can choose not to take part.
-* You can agree to take part now and later change your mind.
-* Whatever you decide it will not be held against you.
-* You can ask all the questions you want before you decide.
-* If you agree to take part, you will be given a signed and dated copy of this document. <Delete if the consent process will not include obtaining signatures on the consent document.>
-* If you agree to take part, you will be given a copy of this document. <Delete if the consent process includes obtaining signatures on the consent document.>
-Who can I talk to?
-If you have questions, concerns, or complaints, or think the research has hurt you, talk to the research team at [Insert contact information for the research team]
-[Clinical studies will need to provide a 24 hour number]  For non-emergency issues you can call the UCDMC Hospital Operator (916-734-2011), tell the Operator you are participating in a research study and you wish to talk to 		 [the Internal Med Resident on-call, etc.]. In the case of an emergency, dial 911 from any phone.
-This research has been reviewed and approved by an Institutional Review Board ("IRB"). Information to help you understand research is on-line at http://www.research.ucdavis.edu/policiescompliance/irb-admin/.You may talk to a IRB staff member at (916) 703-9151, hs-irbadmin@ucdavis.edu, or 2921 Stockton Blvd, Suite 1400, Room 1429, Sacramento, CA 95817 for any of the following:
-* Your questions, concerns, or complaints are not being answered by the research team.
-* You cannot reach the research team.
-* You want to talk to someone besides the research team.
-* You have questions about your rights as a research subject.
-* You want to get information or provide input about this research.
-Why is this research being done?
-[Tell the subject the purpose of the research. Explain the background of the research problem. Explain any potential benefits to others.]
-How long will the research last?
-We expect that you will be in this research study for ________ [hours/days/months/weeks/years, until a certain event].
-How many people will be studied?
-We expect about _____ people here will be in this research study out of _____ people in the entire study nationally [or internationally].
-What happens if I say yes, I want to be in this research?
-[Tell the subject what to expect using lay language and simple terms. Whenever appropriate include the following items:]
-[
-* A time-line description of the procedures that will be performed. If practical, prepare a time-line chart or schematic to accompany descriptions of procedures and tests for research that require more than 1 or 2 steps/visits
-* The drugs or biologics that will be given to the subject
-* All devices that will be used
-* All hospitalizations, outpatient visits and telephone or written follow-up
-* The length and duration of visits and procedures
-* If blood will be drawn, indicate the amount [in English units] and frequency
-* With whom will the subject interact
-* Where the research will be done
-* When the research will be done
-* List experimental procedures and therapies and identify them as such
-* How often procedures will be performed
-* What is being performed as part of the research study
-* What is being performed as part of standard care
-* What procedures are part of regular medical care that will be done even if the subject does not take part in the research
-* When applicable indicate that the subject will be contacted for future research.
-]
-[Include for a clinical trial that includes randomization. Otherwise delete.] The treatment you get will be chosen by chance, like flipping a coin. Neither you nor the study doctor will choose what treatment you get. You will have an __________________ [equal/one in three/etc.] chance of being given each treatment. [For double-blinded research add] Neither you nor the study doctor will know which treatment you are getting. [For single blinded research add] You will not be told which treatment you are getting, however your study doctor will know.
-What are my responsibilities if I take part in this research?
-[Delete this section if the research is not a clinical trial.]
-If you take part in this research, you will be responsible to: [Describe any responsibilities of the subject.]
-What happens if I do not want to be in this research?
-You may decide not to take part in the research and it will not be held against you.
-[Include if there are alternatives other than participating. Otherwise delete.] Instead of being in this research study, your choices may include: [List alternatives procedures. For student subject pools describe alternatives for course credit. For clinical trials describe the options that you would normally offer patient. If applicable, include supportive care as an option.]
-[Include for a clinical trial. Otherwise delete.] The important risks and possible benefits of these alternatives include: [Describe the important risks and potential benefits of the alternative procedures and courses of treatment.]
-What happens if I say yes, but I change my mind later?
-You can leave the research at any time and it will not be held against you.
-[Include if there are potential adverse consequences to withdrawing from the research. Otherwise delete] If you decide to leave the research, [Describe the adverse consequences.] If you decide to leave the research, contact the investigator so that the investigator can [Describe the procedures for orderly termination by the subject, if any.]
-[Include for FDA-regulated research. Otherwise delete.] If you stop being in the research, already collected data may not be removed from the study database. You will be asked whether the investigator can collect data from your routine medical care. [Note: The consent document cannot give the subject the option of having data removed.] If you agree, this data will be handled the same as research data. [Note: If a subject withdraws from the interventional portion of a study and does not consent to continued follow-up of associated clinical outcome information, the investigator must not access for purposes related to the study the subject's medical record or other confidential records requiring the subject's consent. However, an investigator may review study data related to the subject collected prior to the subject's withdrawal from the study, and may consult public records, such as those establishing survival status.]
-[For research that is not FDA-regulated, describe what will happen to data collected to the point of withdrawal. Describe whether subjects will be asked to explain the extent of their withdrawal and whether they will be asked for permission to collect data through interaction or collection of private identifiable information. For example, a subject may wish to withdraw from the experimental procedure because of unacceptable side effects, but may agree to undergo follow-up procedures and data collection.]
-Is there any way being in this study could be bad for me?
-[Delete this section if there are no risks or discomforts.]
-[The risks of procedures may be presented in a table form.]
-[Describe each of the following risks, if appropriate. If known, describe the probability and magnitude of the risk.]
-* [Physical risks
-* Psychological risks
-* Privacy risks
-* Legal risks
-* Social risks
-* Economic risks]
-[Include for clinical trials and research that involves procedures whose risk profile is not well known. Otherwise delete.] In addition to these risks, this research may hurt you in ways that are unknown. These may be a minor inconvenience or may be so severe as to cause death.
-[Include for research that involves pregnant women or women of child-bearing potential and procedures that involve risks to an embryo or fetus or whose risk profile in pregnancy is not well known. Otherwise delete.] The procedures in this research are known to hurt a pregnancy or fetus in the following ways: _______________. [Omit the previous sentence if there are no known risks.] The research may also hurt a pregnancy or fetus in ways that are unknown. These may be a minor inconvenience or may be so severe as to cause death. [Omit the previous two sentences for research whose risk profile in pregnancy is well known.] You should not be or become pregnant [include as applicable "or father a baby"] while on this research study.
-Will being in this study help me in any way?
-[Delete this section if there are no benefits and the research is not a clinical trial.]
-[Include if there are benefits to participation. Otherwise delete.] We cannot promise any benefits to you or others from your taking part in this research. However, possible benefits include __________________. [Then describe the potential benefits of participation. First describe any direct benefits to the subject, then any benefits to others. If benefits from participation may not continue after the research has ended, describe them here. Monetary reimbursement for participation is not a benefit.]
-[Include for a clinical trial with no benefits to participation. Otherwise delete.] There are no benefits to you from your taking part in this research. We cannot promise any benefits to others from your taking part in this research. However, possible benefits to others include __________________. [Describe any benefits to others. Monetary reimbursement for participation is not a benefit and should be described in a later section.]
-[Include for research involving prisoners] Taking part in this research study will not improve your housing or correctional program assignments. Your taking part in this research study will not improve your chance of parole or release.
-What happens to the information collected for the research?
-Efforts will be made to limit use or disclosure of your personal information, including research study and medical records, to people who have a need to review this information. We cannot promise complete confidentiality. Organizations that may inspect and copy your information include the IRB and other University of California representatives responsible for the management or oversight of this study. [Add to this list other organizations that may have access to the subject's records such as internal financial departments who manage subject fees, if subjects are receiving payments, the Food and Drug Administration, when the research if FDA-regulated, the Department of Health and Human Services, when the research is conducted or funded by DHHS, the sponsor, contract research organization, sponsor's agent and other collaborating institutions.]
-[Describe any limitations on confidentiality based on possible legal issues. For example, if the research team is likely to uncover abuse, neglect, or reportable diseases, explain that this information may be disclosed to appropriate authorities.]
-[If data or specimens will be retained after the study for future research, explain where the data or specimens will be stored, who will have access to the data or specimens, and how long the date or specimens will be retained. Provide an opt in option for the subjects. Opting out does not prevent subjects from enrolling in the study, if applicable] During your participation in this research, data will be collected about you. The de-identified data and any specimens, such as blood or tissue that are taken from you for this study, they will become the property of the University of California. The specimens may be used in this research, may be used in other research, and may be shared with other organizations. The specimens could lead to discoveries or inventions that may be of value to the University of California or to other organizations. Under state law you do not have any right to money or other compensation stemming from products that may be developed from the specimens.
-
-If you agree to share the biological specimen(s) collected from you, please initial here. 			 
-Otherwise, your specimen will be destroyed at the end of this study.
-[Include for a clinical trial. Otherwise delete.] The sponsor, monitors, auditors, the IRB, the Food and Drug Administration will be granted direct access to your research records to conduct and oversee the study. We may publish the results of this research. However, we will keep your name and other identifying information confidential.
-[Include if registration on clinicaltrials.gov is requried. For assistance determining if registration on clinicaltrials.gov  is required visit section 22 of  HRP-503 General Template ] A description of this clinical trial will be available on http://www.ClinicalTrials.gov, as required by U.S. Law. This Web site will not include information that can identify you. At most, the Web site will include a summary of the results. You can search this Web site at any time.
-
-[Include if a HIPAA authorization for research is required. If required, ensure that you provide a copy of  the HIPAA Authorization for Research form to the subject. Otherwise delete.] If we access protected health information (e.g., your medical record), you will be asked to sign a separate form to give your permission. [If applicable, include the following sentences] Your medical records may become part of the research record.  If that happens, your research records may be looked at by the sponsor of this study and government agencies or other groups associated with the study.  They may not copy or take your personal health information from your medical records unless permitted or required by law.
-Federal law provides additional protections of your medical records and related health information. These are described in the UC Davis Health System Notice of Privacy Practices (http://www.ucdmc.ucdavis.edu/compliance/pdf/notice.pdf) and in an attached document.
-[Certificate of Confidentiality: if you have submitted or plan to submit an application for a Certificate of Confidentially, delete "They may not copy or take your personal health information from your medical records unless permitted or required by law" and include the next two paragraphs. NIH will require evidence of IRB approval to issue you a Certificate of Confidentiality.] The [PI or Sponsor] has received a Certificate of Confidentiality from the Federal government that will help protect the privacy of the research records.  The Certificate of Confidentiality allows the Researchers to refuse to disclose identifying information on your participation in any civil, criminal, administrative, legislative, or other proceeding, whether at the federal, state, or local level.
-A Certificate of Confidentiality does not prevent you or a member of your family from voluntarily releasing information about yourself and your involvement in this research. If you have given your consent for an insurer or employer to obtain information about you, the Researcher may not use the Certificate of Confidentiality to withhold this information. A Certificate of Confidentiality also does not prevent a Researcher from disclosing information about you to prevent serious harm to yourself or others, such as reporting to the authorities' incidents of child abuse, elder abuse or spousal abuse.
- [Include for research involving prisoners. Otherwise delete.] If you are a prisoner, your medical records may also be given to officials and agencies within the criminal justice system when necessary and permitted by law.
-Can I be removed from the research without my OK?
-[Delete this section if not applicable.]
-[Include for research where this is a possibility. Otherwise delete.] The person in charge of the research study or the sponsor can remove you from the research study without your approval. Possible reasons for removal include [describe reasons why the subject may be withdrawn, if appropriate.]
-[Include for research where this is a possibility. Otherwise delete.] We will tell you about any new information that may affect your health, welfare, or choice to stay in the research.
-What else do I need to know?
-[Include for sponsored research. Otherwise delete.] This research is being funded by [Insert name of sponsor. If any personal or institutional conflicts have been identified, add additional language consistent with RPAC Op. Guid. 11-04: http://www.ucop.edu/raohome/cgmemos/11-04.pdf], also called the sponsor. Sponsors may change or be added.
-[Include for sponsored research. Otherwise delete.] UC Davis is being paid to conduct this study, but the study doctor and research staff have not received any direct income from the sponsor.
-[If the research involves medical procedure and there are no charges to the participant and insurer (including standard of care costs) include]: There is no charge for you to participate in this study. Neither you nor your insurance carrier will be charged for your taking part in the research. All costs associated with the study will be paid by the sponsor/department.
-[If the participant/insurer is paying for standard of care costs, include as applicable but revise if necessary to assure consistency with the grant or contract under which the study is performed]: You or your health plan will be billed for the costs of routine medical care you receive during the study. These costs may include operating room fees, pharmacy charges, treatments, hospitalization, scans, etc. You will be expected to pay for the usual deductibles and co-payments, and for any routine care that is not covered. Only the costs of research or experimental procedures will be paid by the study. [Describe what these costs are.] 
-For more information about possible costs, please contact the research team. The research team can follow UC Davis Uninsured Non-Emergency Estimate Policy (Policy ID 1883) to work with their department and Decision Support Services to get you a cost estimate.
-[Include for research involving more than minimal risk. Otherwise delete.]It is important that you promptly tell the person in charge of the research if you believe that you have been injured because of taking part in this study. If you are injured as a result of being in this study, the University of California will provide necessary medical treatment. Depending on the circumstances, the costs of the treatment may be covered by University or the study sponsor or may be billed to your insurance company just like other medical costs. The University and the study sponsor do not normally provide any other form of compensation for injury.  For more information about compensation, you may call the IRB Administration at (916) 703-9151 or email at HS-IRBAdmin@ucdavis.edu.
-[Include for research where the sponsor may pay for medical expenses of the subject. Otherwise delete.] If the sponsor pays any of your medical expenses, we may be required to give the sponsor your name, date of birth, and Medicare ID or social security number.
-[If there will be no compensation. Otherwise delete] You will not be compensated for taking part in this study.
-[Include if subjects will be compensated. Otherwise delete.] If you agree to take part in this research study, we will compensate you ________ [indicate amount] for your time and effort. [Indicate if the amount is pro-rated for research visit completion.] You may be asked for your social security number for payment purposes. It will not be used for any other purpose without your permission
-[Include for Department of Defense (DOD) research that targets military personnel where subjects will be compensated. Otherwise delete.] Military personnel should check with their supervisor before accepting payment for participation in this research. You may be asked for your social security number for payment purposes. It will not be used for any other purpose without your permission
-[Include for research involving prisoners where there may be a need for follow-up examination or care after the end of participation. Otherwise delete.] If you are released from jail before you finish this research study, you should take steps to get insurance or Medicaid coverage. Regular office visits and standard treatment will be billed to you or your health insurance. You may continue in the research study after your release from prison. If you move out of the area, we will help you make arrangements to be followed by a physician.
-[Include for research where there is a possibility that the results of the research may have commercial value. Otherwise delete.] The results of this study, including specimens collected, may have commercial value to the sponsors, UC Davis, and/or the researchers. You will have no legal or financial interest in any commercial development resulting from the research or from the information or materials collected.
-[When applicable indicate when and how the subject will be informed of the results of the research.]
-Are there other research opportunities?
-[Delete this section if there are no additional research opportunities.]
-
-If you are interested in being contacted for future research, please provide your phone number and/or email. This is completely optional.
-	(initials) Yes, I am willing to be contacted for future research opportunities. My phone number and/or email is: 										.
-[There are three signature pages attached to this template consent. Use the signature page or pages appropriate for your study. The IRB recommends that you make separate consent documents for each signature page to be used.]
-[Omit the signature page if there is no written documentation of consent.]
-Signature Block for Capable Adult
-Your signature documents your permission to take part in this research.Signature of subjectDatePrinted name of subjectSignature of person obtaining consentDatePrinted name of person obtaining consent[Add the following block if a witness will observe the consent process. E.g., short form of consent documentation or illiterate subjects.]
-My signature below documents that the information in the consent document and any other written information was accurately explained to, and apparently understood by, the subject, and that consent was freely given by the subject.Signature of witness to consent processDatePrinted name of person witnessing consent process
-Signature Block for Adult Unable to Consent
-Your signature documents your permission for the named subject to take part in this research.Printed name of subjectSignature of legally authorized representativeDatePrinted name of legally authorized representativeSignature of person obtaining consentDatePrinted name of person obtaining consent[Add the following block if you will document assent of the subject.]
-Assent* Obtained
-* Not obtained because the capability of the subject is so limited that the subject cannot reasonably be consulted. [Add the following block if a witness will observe the consent process. E.g., short form of consent documentation or illiterate subjects.]
-My signature below documents that the information in the consent document and any other written information was accurately explained to, and apparently understood by, the subject, and that consent was freely given by the subject.Signature of witness to consent processDatePrinted name of person witnessing consent process
-Signature Block for Children
-Your signature documents your permission for the named child to take part in this research.Printed name of childSignature of parent or individual legally authorized to consent to the child's general medical careDate* Parent
-* Individual legally authorized to consent to the child's general medical care (See note below)Printed name of parent or individual legally authorized to consent to the child's general medical careNote: Investigators are to ensure that individuals who are not parents can demonstrate their legal authority to consent to the child's general medical care. Contact legal counsel if any questions arise.Signature of parentDatePrinted name of parentIf signature of second parent not obtained, indicate why: (select one)* The IRB determined that the permission of one parent is sufficient. [Delete if the IRB did not make this determination]
-* Second parent is deceased
-* Second parent is unknown * Second parent is incompetent
-* Second parent is not reasonably available
-* Only one parent has legal responsibility for the care and custody of the child[Add the following block if you will document assent of children]
-Assent* Obtained
-* Not obtained because the capability of the child is so limited that the child cannot reasonably be consulted.
-* Waived by the IRB because the intervention or procedure involved in the research holds out a prospect of direct benefit that is important to the health or well-being of the child and is available only in the context of the research. [Add the following block to all consents]
-Signature of person obtaining consent and assentDatePrinted name of person obtaining consent [Add the following block if a witness will observe the consent process. E.g., short form of consent documentation or illiterate subjects.]
-My signature below documents that the information in the consent document and any other written information was accurately explained to, and apparently understood by, the subject, and that consent was freely given by the subject.Signature of witness to consent processDatePrinted name of person witnessing consent process
-Permission to Take Part in a Human Research Study	Page 1 of 3
-
-For IRB stamp and version date only
-
-
-
-
-
-
-
-Document Revision Date: December 22, 2016
-
-Permission to Take Part in a Human Research Study	Page 1 of 13
-
-
-
-
-
-For IRB Use and version date only
-
-	
-
-
-
-
-
-Document Revision Date: September 22, 2015
-

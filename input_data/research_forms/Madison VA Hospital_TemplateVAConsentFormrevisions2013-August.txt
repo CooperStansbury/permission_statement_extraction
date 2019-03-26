@@ -1,119 +1,0 @@
-﻿Template version date: August 9, 2013
-Instructions for use of this consent form template:
-• On page one of this template, type in information in the header and in the footer. 
-• Type in appropriate names and phone numbers where indicated on final page and signature page.
-• Delete these instructions, and then enter text of the consent form here. Text will flow over to continuation pages, which will be automatically inserted.
-• Where applicable, please use the recommended section headings below.
-• No extra space needs to be left on any page for the IRB approval stamp; space for such approval has already been set aside in the footer which appears at the bottom of every page.
-• For protocols that use more than one consent form, include the consent form type/title either in the footer, or in the heading of the consent form 
-• Additional elements may be required for VA research when appropriate
-
-STUDY SPONSOR:
-[If the study is supported by VA or other external funds, include the heading above and identify the sponsor. If there is no study sponsor, delete this wording.]
-
-INVITATION/SUMMARY
-• Should have clear statement that this is research
-• Should include statement that participation is voluntary
-
-WHAT IS THE PURPOSE OF THE STUDY?
-
-WHAT WILL MY PARTICIPATION INVOLVE?
-
-ARE THERE ANY RISKS?
-
-ARE THERE ANY BENEFITS?
-
-ARE THERE ANY COSTS?
-Veteran-subjects, or non-Veteran subjects participating in this VA study, will not be required to pay for care received as a subject in a VA research project. Some veterans are required to pay co-payments for medical care and services provided at the VA. These co-payments requirements will continue to apply to medical care and services provided by the VA that are not part of this study.
-
-ARE THERE ANY ALTERNATIVES?
-
-WILL I BE PAID FOR MY PARTICIPATING IN THE STUDY? 
-
-[If subjects are to be paid for participating in this research, include the following language as part of the description of the payment rates and method.]
-
-To receive payment for your participation in this study, you may be required to provide your social security number and bank account information. This information will be used by the VA to pay you for this study and will not be kept by the study team.
-
-WILL THERE BE COMPENSATION FOR INJURY?
-[WHEN PROCEDURES OCCUR ONLY AT FACILITIES UNDER MADISON VA PURVIEW INCLUDE THE FOLLOWING LANGUAGE:]
-Will there be compensation for injury if I am injured?
-In the event you sustain injury as a result of participation in this investigation, all necessary and appropriate care will be provided. However, the VA may not pay for the costs of treatment for injuries that result from your non-compliance with study procedures.
-
-[WHEN ANY STUDY PROCEDURES OCCUR AT THE UW HOSPITAL, UW MEDICAL FOUNDATION SITES, AND/OR SITES UNDER UW-MADISON PURVIEW INCLUDE THE FOLLOWING LANGUAGE:] 
-Will there be compensation for injury if I am injured?
-In the event you sustain injury as a result of participation in this investigation, all necessary and appropriate care will be provided.  However, the VA may not pay for the costs of treatment for injuries that result from your non-compliance with study procedures.
-
-Will UW-Madison, UW Medical Foundation or UW Hospital provide any injury compensation in addition to that provided by the VA Hospital?
-In the event that you are injured as a result of participating in this research at a UW Health facility, emergency care will be available. There is no commitment by UW-Madison, UW Medical Foundation or UW Hospital to provide any compensation for research-related injury. The VA Hospital will reimburse UW-Madison, UW Medical Foundation or UW Hospital for any charges that may result from emergency care at the UW Health facility.  You have not released UW-Madison, UW Medical Foundation or UW Hospital from liability for negligence.  Please contact the investigator, (name) at (phone number) if you are injured or for further information.
-
-
-IF I DECIDE TO START THE STUDY, CAN I CHANGE MY MIND? 
-
-
-
-
-HOW WILL MY CONFIDENTIALITY BE PROTECTED?
-Your information used for this study will be kept confidential as required by law. The results of your participation in this study may be used for publication or for scientific purposes, but the results will not include any information that could identify you. Current VA regulations require us to keep study records indefinitely. [IF DATA, IMAGES, AND/OR SAMPLES FROM THIS RESEARCH STUDY WILL BE SHARED WITH OTHER RESEARCHERS OUTSIDE THE MADISON VA, INCLUDE LANGUAGE DESCRIBING WHAT WILL BE SHARED HERE, such as “Your [data, images, samples] will be shared with researchers at the University of Wisconsin-Madison who are working on this study with us. By signing this consent form and the HIPAA authorization form you are giving us permission to share your [data, images, samples] with these researchers.”] Your identity will not be disclosed unless you give specific consent or if required by law. There are times when we may have to show your records to other people. For example, representatives from offices and agencies that oversee research may review your records, such as UW and Madison VA research oversight offices or other federal agencies that oversee research such as the FDA, the Office for Human Subjects Protections, the VA Office of Research Oversight, or the VA Office of the Inspector General. 
-
-[If the study is FDA-regulated include the following language in this section.]
-A description of this clinical trial will be available on http://www.ClinicalTrials.gov, as required by U.S. Law.  This Web site will not include information that can identify you.  At most, the Web site will include a summary of the results.  You can search this Web site at any time.
-
-[If data from this study will be stored on the UW OnCore database system, in addition to your other confidentiality-related language please include the language below.]
-
-Information about you and your participation in this study may be entered into an electronic database at the University of Wisconsin-Madison. This database, known as OnCore, will be used to track information about this study. Information stored in OnCore may be used by OnCore data management staff or for other research activities. Only individuals with appropriate permission can look at identifiable information about you in OnCore. Data entered into OnCore will no longer be owned by the VA and will not be under VA control.
-
-
-WHAT IF I HAVE QUESTIONS?
-If you have questions or concerns about this research, please contact the VA study investigator,      
-      (name)         at   (phone number)  . [IF THERE ARE ADDITIONAL STUDY TEAM MEMBERS THE RESEARCH SUBJECTS CAN CONTACT, ADD THAT INFORMATION HERE, SUCH AS, “You can also contact the study coordinator, X, at X number if you have questions or concerns about the research.] For information on the rights of research subjects, please contact the VA hospital patient relations representative at (608) 280-7182.  If you want to confirm this is a valid VA study, please call the VA Research Office at (608) 280-7007.
-
-In case there are medical problems or questions, call 
-               Nameat Phone Numberduring the day and            Nameat  Phone Numberafter hours. If any medical problems occur in connection with this study, the VA will provide emergency care.
-
-
-
-AUTHORIZATION SECTION
-I have read the information in this consent form, reviewed any questions, and I voluntarily agree to participate in this study.  I have received a copy of this consent form.
-
-
-														 
-Subject’s Signature						Date
-
-						
-Last 4 digits of Subject’s Social Security Number
-								
-
-DELETE SUBJECT’S REPRESENTATIVE SIGNATURE LINE FROM THE CONSENT FORM IF THE STUDY IS NOT SPECIFICALLY APPROVED FOR SURROGATE CONSENT PROCEDURES. ONLY INCLUDE IF THE STUDY IS APPROVED FOR SURROGATE CONSENT.:
-:
-														 :
-Signature of Subject’s Representative*			Subject’s Representative (print)                      
-
-
-								:
-Date*		 
-
-
-
-													
-Signature of Person Obtaining Consent			Date
-								
-
-
-DELETE THIS FOOTNOTE IF STUDY IS NOT SPECIFICALLY APPROVED FOR SURROGATE CONSENT PROCEDURES. ONLY INCLUDE IF THE STUDY IS APPROVED FOR SURROGATE CONSENT.: :
-
-: *Only required if subject is not competent. 
-
-
-		VA RESEARCH CONSENT FORM	 
-	Subject Name:Date:Title of Study:Principal Investigator:VAMC: Madison, WI
-
-
-
-VA FORM 
-JAN 199010-1086PI Name: 
-Page 1 of 1Version No.: Version Date: 
-
-
-
-
-
