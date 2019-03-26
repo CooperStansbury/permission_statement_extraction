@@ -1,0 +1,38 @@
+﻿
+This form may be included with the Initial Application form when requesting a waiver of Protected Health Information (PHI) authorization requirement for the project as a whole or for a specific purpose, such as for recruitment purposes only.  
+PHI means any individually-identifiable health information, maintained in any form or medium, that is: (1) Any person who engages in the practice of assembling, collecting, analyzing, using, evaluating, storing, or transmitting PHI, etc.; (2) relates to the past, present, or future condition of an individual and provision of or payment for health care; and (3) identifies the individual or a reasonable basis exists to believe the information can be used to identify the individual.
+In order to ensure that the waiver is considered and documented appropriately, please provide a reasonable amount of detail in your responses.
+
+I.  Project Identification
+Title of Project     Principal Investigator     IRB Protocol # (if known)     
+II.   Type of Request
+Waiver of the PHI Authorization requirement is required for recruitment purposes only.  PHI Authorization will be obtained from participants prior to their enrollment.Waiver of PHI Authorization requirement for entire projectAlteration of all or some of the elements of the PHI Authorization requirement
+II.   Justification for Waiver or Alteration
+Provide protocol-specific reasons and justification on how all the following criteria are met:The protected health information being collected is the minimum necessary to complete the objectives of the study.
+Protocol-specific explanation:The use or disclosure of protected health information involves no more than minimal risk to the subjects.
+Protocol-specific explanation:A waiver of PHI will not adversely affect the privacy rights and the welfare of the individuals. 
+Protocol-specific explanation:The research could not practicably be conducted without the waiver.
+Protocol-specific explanation:The research could not practicably be conducted without access to and use of the protected health information.
+Protocol-specific explanation:The privacy risks to individuals whose protected health information is to be used or disclosed are reasonable in relation to the anticipated benefits if any to the individuals, and the importance of the knowledge that may reasonably be expected to result from the research.
+Protocol-specific explanation:The study protocol is designed to protect the identifiers from improper use and disclosure.
+Protocol-specific explanation:There is an adequate plan in your study protocols to destroy the identifiers at the earliest opportunity consistent with conduct of the research, unless there is a health or research justification for retaining the identifiers or such retention is otherwise required by law. 
+Protocol-specific explanation:There are adequate written assurances found in the study protocol that the protected health information will not be reused or disclosed to any other person or entity, except as required by law, for authorized oversight of the research project, or for other research for which the use or disclosure of protected health information would be permitted by this subpart.
+Protocol-specific explanation:*If the study involves access to and/or use of information pertaining to drug abuse, alcohol abuse, HIV infection, sickle cell anemia:  There are adequate assurances that (1) The purpose of the data is to conduct scientific research; and (2) no personnel involved in the study will identify, directly or indirectly, any individual patient or subject in any report of such research or otherwise disclose patient or subject identifiers in any manner.
+Protocol-specific explanation:IRB Use Only
+ Approved	 Denied
+ Portions of the study   All of the study
+
+Comments:
+
+
+
+
+
+
+
+Form version date: 09/01/11	Page 2 of 2	modified by: dg
+
+TEXAS A&M UNIVERSITY HUMAN SUBJECTS PROTECTION PROGRAM
+WAIVER OF PHI AUTHORIZATION FOR THE USE OF HUMAN SUBJECT RESEARCH
+
+

@@ -1,0 +1,70 @@
+﻿
+INSTRUCTIONS FOR USE OF THIS TEMPLATE: Use this template to create your own Consent Cover Letter. 
+• Delete all instructions in red text and insert your own text where indicated. 
+• Do not adjust the bottom margin or use the footer.  
+• This template is written for use with a questionnaire or survey.  Adjust the language as appropriate for the study procedures. 
+• In order to use this document to obtain consent, you MUST request a Waiver of Documentation of Consent in the IRB application.
+• The consent form should include the section headings indicated by bold, underline, and capital text.  The descriptions provided in each section are included to assist you in writing an adequate consent document. These are consistent with VA policy, Federal regulation, and University of Utah consent document requirements.  If you need assistance in preparing your document, please feel free to contact the VA Research Compliance/Risk Management Office at 801-582-1565 extension 4866.
+
+Consent Cover Letter
+
+DESCRIPTION OF RESEARCH BY INVESTIGATOR
+
+TO POTENTIAL PARTICIPANTS
+Include the following statement verbatim: Federal regulations require written informed consent before participation in a research study. This is to be certain that research participants know the nature and risks of the study, as they make a decision to take part or not. You are asked to read the following information and discuss it with the investigator, so that you will be fully informed about this research study and how it may affect you. Your signature on this form means that you have been fully informed and that you freely give your consent to participate.
+
+The purpose of this research study is <<state purpose of research>>. We are doing this study because <<state the rationale for the study>>. 
+
+Describe procedures (e.g. “I would like to ask you to complete the enclosed questionnaire and return it in the enclosed self-addressed stamped envelope”). If there are any risks or benefits to the participant, please state them here.  
+
+CONFIDENTIALITY
+Include a statement describing the extent and procedures used to maintain the confidentiality of records and data pertaining to the participant, how the participant’s privacy will be protected and who may view the collected data.  If this study is conducted at the University of Utah and the VA, a statement must be included that this is a multi-site study that combines VA data with non-VA data, and the location (i.e. University of Utah or VA) where data will be combined and analyzed for the study.
+
+Example: This study is being conducted at the VA and the University of Utah.  Information about you will be shared with University researchers for this study.  The data will be stored at the <<insert location, e.g. University of Utah, VA>>.
+
+If you have any questions complaints or if you feel you have been harmed by this research please contact <<list contact person, their affiliation (e.g., Department of Psychology, University of Utah) and a phone number>>.  
+
+Contact the Institutional Review Board (IRB) if you have questions regarding your rights as a research participant. Also, contact the IRB if you have questions, complaints or concerns which you do not feel you can discuss with the investigator. The University of Utah IRB may be reached by phone at (801) 581-3655 or by e-mail at irb@hsc.utah.edu.  
+
+MEDICAL TREATMENT OR COMPENSATION FOR INJURY 
+Include the following statement verbatim: The VA has the authority to provide medical treatment to participants injured by participation in a VA study.  If you are injured as a result of being in this study, the VA will provide the necessary medical treatment in accordance with federal law. If you want to make a legal claim against the VA or anyone who works for the VA, special laws may apply. The Federal Tort Claims Act (28 U.S.C. 1346(b), 2671-2680) is a federal law that controls when and how a person can bring a claim against the U.S. Government. If you sign this document you are not giving up your right to make a legal claim against the United States. 
+
+If the study has a third party sponsor, the participant may have other options for treatment. The options should be explained in a separate section.  Provide a copy of the relevant contract to the VA research office so consistency can be verified.
+
+Include the following statement verbatim: A veteran participant will not be required to pay for care and services (treatment) received as a subject in a VA research project. However, some veterans are required to pay co-payments for medical care and services provided by the VA. These co-payment requirements will continue to apply to medical care and services provided by the VA that are not part of this study.
+
+It should take <<state amount of time required to complete the questionnaire>> to complete the questionnaire. Participation in this study is voluntary. You can choose not to take part. You can choose not to finish the questionnaire or omit any question you prefer not to answer without penalty or loss of benefits.  
+
+By returning this questionnaire, you are giving your consent to participate.
+
+Conclude with a statement which expresses appreciation for participation.
+
+NOTE TO INVESTIGATORS: VA Form 10-3203 “Consent for Use of Picture and/or Voice” must be included if the study involves recording or pictures, audio recordings, or video recordings of VA patients as research participants.
+
+
+
+
+
+ 
+
+VA  Department of Veterans AffairsVA  RESEARCH  CONSENT  FORM
+ Page 1 of 1Participant Name:                                                                                                            Date:  _________                            Title of Study: Principal Investigator:	    VAMC:    Salt Lake City (660)    
+Consent Version Date:_______________________________________  Sponsor Name: _________________________________________________________________________
+
+FOOTER FOR IRB USE ONLY
+Version: G3014«Image:Stamp»«Institution»
+«IRB»
+«Approved» «ApprovedDate»
+«Expiration» «ExpirationDate»
+«Number»VA FORM  10-1086  JUNE 1990
+
+
+VA  Department of Veterans AffairsVA  Authorization for Use of Protected Health Information for Research Purposes
+ Page 13 of 14Participant Name:                                                                                                           Date:  _________                            Title of Study: Principal Investigator:	   VAMC:    Salt Lake City (660)      
+
+
+
+
+
+
+

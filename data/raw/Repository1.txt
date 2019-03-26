@@ -1,0 +1,75 @@
+﻿Bio/Data Repository "Rider" for Consent Forms
+
+The following template language should be attached behind the signature page of the primary study consent form and be included in the consecutively numbered pages of the consent (i.e., primary consent page 1 of 5, 2 of 5, 3 of 5, bio-data repository rider pages 4 of 5 and 5 of 5). 
+
+If the study is primarily designed as a repository, this template language should be included in the primary consent form rather than be presented as a rider.
+
+Consent for Sample and Data Storage and Future Research
+
+
+
+You are being asked to give a [Insert type of sample, e.g. blood, urine, etc.] for research.  What we learn about you from this sample will not be put in your health record.  [If applicable insert:  Your test results will not be shared with you or your doctor.] No one else (like a relative, boss, or insurance company) will be given your test results.  
+
+A single [blood sample of X teaspoons or tablespoons will be drawn from a vein in your arm using a needle; cheek swab sample will be obtained by (indicate method); urine sample will be obtained by (indicate method); extra biopsy tissue will be obtained by (indicate method); or other (indicate what) sample will be obtained by (indicate method.] This will take about X minutes/hour of your time.
+
+	If applicable insert:
+Blood samples - You may feel bothered or pained from the needle stick.  You may have a bruise or the site may get infected.  It is rare, but some people faint.
+Otherwise insert all risks, inconveniences or discomforts associated with specific type of sample collection 
+
+One risk of giving samples for this research may be the release of your name that could link you to the stored samples and/or the results of the tests run on your samples. 
+
+
+To prevent this, these samples will be given a code.  Only the study staff will know the code.  The name that belongs to the code will be kept in a locked file or in a computer with a password.  Only (investigator's name and/or other's names) will have access to your name.   
+
+Your sample will be kept for an unknown length of time (maybe years) for future research.  The sample will be destroyed when it is no longer needed.
+    
+[COMMERCIALIZATION LANGUAGE OPTION - INSERT THE FOLLOWING, IF THIS IS NOT ALREADY IN A MAIN CONSENT]:
+
+Your samples may be used to make new products or tests.  These may have value and may be developed and owned by the study staff, Vanderbilt University, Vanderbilt University Medical Center, and/or others.  If this happens, there are no plans to provide money to you.
+
+[INSERT THE FOLLOWING STATEMENTS IF TRUE]:
+
+Your samples and information about you may be made available to others to use for research.  To protect your privacy, we will not release your name.
+
+You will not receive any benefit as a result of the tests done on your samples.  These tests may help us learn more about the causes, risks, treatments, or how to prevent this and other health problems. 
+
+
+Giving samples for research is your free choice and you may be in the study even if you do not want your samples used or stored for future research.
+
+
+At any time, you may ask to have your sample destroyed.  You should contact [PI name or study staff] at [insert address/phone number] to have your sample destroyed and no longer used for research.  We will not be able to destroy research data that has already been gathered using your sample.  Also, if your identity was removed from the samples, we will not be able to locate and destroy them.  
+
+There will be no costs to you for any of the tests done on your samples.  [Insert if applicable: You will not be paid for the use of your samples.]
+
+Please check Yes or No to the questions below:
+
+My blood/tissue sample may be used for research. 
+
+ 	 Yes 	 No
+
+My blood/tissue sample may be stored/shared for future research in ______.  
+
+	 Yes 	 No
+
+My blood/tissue sample may be stored/shared for future research for other health problems (such as cancer, heart disease, etc).
+
+	 Yes 	 No
+
+
+Signature: ______________________________________ Date: ___________
+
+
+    
+    
+       
+       
+       
+
+
+
+
+
+
+	1 of 1	
+		
+

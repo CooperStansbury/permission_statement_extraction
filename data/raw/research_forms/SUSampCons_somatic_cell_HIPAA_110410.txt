@@ -1,0 +1,438 @@
+﻿Use this template for the collection of tissues or cells to be used in iPSC, SCNT, or other non-hESC pluripotent stem cell research. 
+
+-  Instructional text appears in red.  It should be removed prior to submission to the IRB.
+-  Red text in parentheses ( ) should be replaced by information for your study, 
+   e.g., (your name here)
+-  Do not use italicized text, only available as an example
+* Denotes text that must appear verbatim
+# Denotes text that must appear - use verbatim or in variation
+-  Remove text that is not applicable to your study.
+
+OPTIONAL FORMAT to use when there are BOTH adults and children in the same study; otherwise remove this box.
+When there are both adults and children in the same study, you may use one consent form for both the adult participants and for the parents or guardians granting permission for a participant who is a child.  If you choose to use this format, please insert the information below into your consent form.
+
+Please check one of the following:
+
+_____ You are an adult participant in this study.
+
+_____ You are the parent or guardian granting permission for a child in this study.
+ 
+Print child's name here: 
+
+______________________________________________________
+
+The following information applies to the adult participant or to the child or ward.  If the participant is a child or ward, the use of "you" refers to "your child" or "your ward."
+
+For studies that ONLY involve children, revise the consent form to refer to the participant as "your child...."
+
+* Are you currently participating in any other research studies? _____ Yes _____No
+Participant identification: Required on each page of consent forms for studies conducted at SHC and LPCH.
+The Participant ID may be entered in the box below - this could be the participant's name, initials, medical record number, study number - but it must not be used for the participant's signature or social security number.  Anything entered online in this box will populate to all pages of the consent form.  Entering the name of the specific participant in the Participant ID box is not considered a modification of the approved consent form.
+You may choose another way to identify the participant on each page, e.g. affixing a chart label, but if you do so, please remove the unused box unless it will be covered by a label.
+STUDY barcode:  To avoid scanning errors all photocopies must be generated directly from an original printed version - no copies of copies, please.
+If applicable, include:
+It is possible that you (were previously a participant in a study involving stem cell research at Stanford)/(had previously donated tissue samples for a study involving stem cell research at Stanford)(choose one of the two) entitled (name of study).  If this is the case, we would like to ask your permission to obtain your data and/or tissue samples collected in the previous study for comparison purposes in this study. 
+
+I give permission to the investigator to obtain data and/or tissue samples from the previous study in which I participated.
+
+   Initials ______________  Date ______________   
+      
+I do not give permission to the investigator to obtain data and/or tissue samples from the previous study in which I participated.
+
+   Initials ______________   Date ______________ 
+      
+
+Everything else in this consent will apply to your participation in the present study.  
+
+
+
+PURPOSE OF RESEARCH
+
+You are invited to participate in a research study involving the donation of somatic cells.  Somatic cells make up most of the body's tissues and organs such as the blood, brain, liver, or skin.  In this study, (state what is being studied, along with an explanation of what stem cells are being used and why they are useful.  Please include a description of Somatic Cell Nuclear Transfer research if applicable.   We hope to learn (state what the study is designed to discover or establish).  
+
+This research study is looking for (state number of people) participants with (disease or condition, if applicable).  (If controls are to be a part of the project, state how many will be recruited.) (Clarify if enrollment will occur throughout the United States or internationally.)  Stanford University expects to enroll (state number) research study participants.
+
+You were selected as a possible participant in this study because (state why the participant was selected.  If both test subjects and controls are to be used, explain to which category the individual being consented belongs).
+
+
+
+DURATION OF STUDY INVOLVEMENT 
+
+This research study is expected to take approximately (x days, weeks, months, etc.) e.g., If you decide to enter the study, your active participation will be less than one day.  We estimate that the overall length of the study including analyses of data will be five years.
+* If there is a follow-up period, state so and the expected length of time.
+
+
+PROCEDURES
+
+This consent form is an invitation for you to provide (fill in type of cells and/or tissue that will be used and how they will be obtained).  If you choose to participate, Protocol Director and (his/her) research study staff will (describe all procedures to be followed).  Consider inserting a chart or calendar; these images can be very helpful to participants.  Chronological descriptions are also helpful.  Use lay terminology throughout. 
+
+PD should describe in detail
+* How often each procedure will be done and how long it is expected to take.  Provide detailed description of procedures to be used to obtain the tissue, e.g. skin, fat cells, blood cells, cheek cells, etc.
+* Specify both invasive and non-invasive procedures.
+* Specify if any procedures would be done whether or not the participant enrolls in the research, i.e., whether procedures are standard of care or being done solely for research purposes.
+
+Example of skin biopsy description:
+
+We will ask for a skin sample from you.  The skin sample is obtained by a process called a "punch biopsy".  In this procedure, a small area of skin on the thigh or arm is thoroughly cleaned and injected with xylocaine, a local anesthetic.  When the skin is numb, a small round blade of three millimeters (one-eighth of an inch) in diameter is pressed into the skin, creating a circular cut approximately one eighth inch deep.  This round piece of skin is then removed, pressure is applied to stop bleeding and the resulting hole in the skin covered with a sterile bandage.  In some cases one or two stitches are required to close the wound.  The xylocaine anesthetic may sting for several seconds during the injection; afterwards, the punch biopsy should cause no discomfort.  The biopsy takes about ten minutes to perform, including time for cleaning and preparation.  The wound usually heals within three days.  A punch biopsy will result in minor scarring at the biopsy site.  We will only ask once for a punch biopsy.
+
+* If samples will be sent out of Stanford for analysis or other purposes, include a statement:  
+* Your samples will be sent outside of Stanford for (explain purpose). 
+* If samples, such as tissues or blood, will not be saved at the end of the study add the following:  
+*Any samples left over when the study is completed will not be saved for future research. 
+* If samples will be saved for future research, see Tissue Sampling for Future Use text.   
+
+
+DESCRIPTION OF RESEARCH
+
+The following language is recommended when samples of tissues, cells, blood, or body fluids (hereafter referred to as tissues) will be donated or banked for use in current or future stem cell research.  Investigators should choose the appropriate provisions to be included in their informed consent form and may vary any of the following language as appropriate.
+
+Explain the following:
+* where the work will be conducted
+* the types of experiments that will be performed
+* whether new cell lines will be established and how they will be used. 
+* Indicate that the cells may multiply indefinitely.
+
+The following example is provided:
+
+Most stem cell research begins with the establishment of new stem cell lines.  There are several ways to make these lines.  One way is to derive stem cell lines by using cells in tissues taken from the body, such as blood, adipose (or fat) tissue, or skin.  It is possible that these stem cell lines, which can live indefinitely, may contain all or part of your DNA.  Stem cell lines from tissues can usually be made without changing the genetic information by artificial means.
+
+Another way of making stem cell lines is to introduce certain genes into somatic cells and "reprogram" them to become pluripotent, or able to become any cell in the body, such as brain, liver, or heart cells.  Such cells are called induced pluripotent stem cells, or iPS cells. 
+
+In this study (describe stem cell work)
+
+Somatic Cell Nuclear Transfer research should additionally include information about SCNT and/or Genetic Reprogramming.  Individuals must initial and date their consent to use their somatic cells for SCNT and/or Genetic Reprogramming.  An example can be found below:
+
+Somatic Cell Nuclear Transfer (SCNT).  SCNT removes the nucleus from a human egg, which contains the donor's genetic material (DNA), and replaces it with the nucleus from your somatic cell.  The egg with the new nucleus can then be stimulated to divide.
+
+Genetic Reprogramming. Certain genes may be put into your skin cells to study how the cells can be changed, or reprogrammed, into embryonic-like cells.
+
+Stem cell lines may be made from each of the methods described above.  Cells multiply by dividing in two, and the genetic material is replicated every time a cell divides.  It is possible that these lines, which can live indefinitely, may contain all or part of your DNA. 
+
+Any cell lines created may be kept for many years and may be used in further studies, by researchers at Stanford or other researchers and entities outside of Stanford, which cannot be predicted at the present time.  They may include research that involves genetic manipulation. 
+
+It is possible that derived cells or cell products may be placed into humans or animals. There are no restrictions on the ultimate recipients of these derived cells or cell products.
+
+_______
+Initials
+______
+Date
+
+I consent to donate my somatic cells to be used for Somatic Cell Nuclear Transfer and/or Genetic Reprogramming (which may result in the production of stem cell lines) with no restrictions on future uses outlined in this consent. 
+* You should be aware that your tissues, cells or other materials derived from these tissues may be kept for many years and may be used by researchers at Stanford or by researchers at entities outside of Stanford in future studies, which are not foreseeable now.  They may include research that involves genetic manipulation. 
+
+* It is possible that derived cells or cell products may be placed into humans or animals.  There can be no restrictions placed on the ultimate recipients of these derived cells or cell products, except in the case where donation is intended for autologous transplantation (when you, the donor, would also be the recipient).
+
+The results of the study of your samples will be used for research purposes and tissue derivatives may also be used in human therapies. 
+
+
+TISSUE SAMPLING FOR FUTURE RESEARCH
+
+Research using tissues is important for understanding human disease.  You have been given this information because the investigators want to include your tissues in this research project and because they want to save the samples for future research.  
+Your tissues will be stored (insert how samples will be stored - and if appropriate, how samples will be linked e.g., medical record or code number and unlinked). 
+If samples are linked to individually identifiable information:  You have the right to refuse to allow your tissues to be saved for future study.  The investigators might retain the identified samples, e.g., as part of your routine clinical care, but not for additional research. 
+
+If samples are unlinked to individually identifiable information:  Because your samples will not be linked to your name after they are stored, you cannot withdraw your consent to the use of the samples after they are unlinked. 
+
+If samples will be used for SCNT:  You have the right to refuse to allow your tissues to be studied now or saved for future study.  Your tissues may be stored in liquid nitrogen indefinitely.  However, once the skin biopsy is provided to researchers, you may not be able to withdraw them from the research because they would be processed for somatic cell nuclear transfer (SCNT), and/or genetic reprogramming research immediately for the derivation of stem cell lines.  If you choose to withdraw your tissue from being studied now or saved for future study you will not be able to participate in this research study. 
+
+Any tissues you have donated which are used in research may result in new products, tests or discoveries.  In some instances, these may have potential commercial value and may be developed and owned by the Investigators, Stanford University and/or others.  By consenting to participate, you authorize use of your tissues or samples for the research described above and understand that there are no plans to provide you with compensation or a share in any financial benefits from these products, tests or discoveries.
+If you agree to participate, investigators in this study may wish to re-contact you in the future to ask about your health status, in order to include that information with your tissue.
+* I consent to being re-contacted in the future should the investigators wish to ask for additional health information. 
+
+   Initials ______________   Date ______________    
+
+
+* I do not consent to being re-contacted in the future should the investigators wish to ask for additional health information.
+
+   Initials ______________   Date ______________    
+
+As part of the analysis on your samples, the investigators may do genetic testing.  Genetic research is research that studies genes, including gene characteristics and gene versions that are transmitted by parents to children.  Genetic research may also include genetically modifying cells that are derived from your tissues to better understand how genes function.  Genetic research may include looking at information, such as personal appearance and biochemistry, gene sequences, genetic landmarks, individual and family medical histories, reactions to medications, and responses to treatment.  
+Sometimes patients have been required to furnish information from genetic testing for health insurance, life insurance, and/or a job.  A Federal law, the Genetic Information Nondiscrimination Act of 2008 (GINA), generally makes it illegal for health insurance companies, group health plans, and employers with 15 or more employees to discriminate against you based on your genetic information. 
+The tissue will be used primarily by researchers at Stanford University.  However, there may also be collaborative efforts with other universities, the government, and private companies.  Future research will need to be approved by the Institutional Review Board (IRB)/Stem Cell Research Oversight (SCRO) Panel, which oversees human research and stem cell research at Stanford.   
+* Any tissues you have donated which are used in research may result in new products, tests or discoveries.  In some instances, these may have potential commercial value and may be developed and owned by the investigators, Stanford University and/or others.  By consenting to participate, you authorize use of your tissues or samples for the research described above and understand that there are no plans to provide you with compensation or a share in any financial benefits from these products, tests or discoveries.
+
+* You must be given the opportunity to impose restrictions on future uses of donated materials.  However, researchers may choose to use materials only from donors who agree to all future uses without restriction.
+	I consent to my samples (name tissue) being saved for future research
+     No restrictions.
+     Restrictions (Please specify):_______________________________________
+  I do not consent to my samples being saved for future research.
+
+
+PARTICIPANT RESPONSIBILITIES          
+
+As a participant, your responsibilities include: (Include only those that are applicable.)
+
+* Follow the instructions of the Protocol Director and study staff.
+* Keep your study appointments.  If it is necessary to miss an appointment, please contact the Protocol Director or research study staff to reschedule as soon as you know you will miss the appointment.
+* Tell the Protocol Director or research study staff about any side effects, doctor visits, or hospitalizations that you may have.
+* Complete your questionnaires as instructed. 
+* Ask questions as you think of them.
+* Tell the Protocol Director or research staff if you change your mind about staying in the study.
+
+
+WITHDRAWAL FROM STUDY
+
+* If you first agree to participate and then you change your mind, you are free to withdraw your consent and discontinue your participation at any time. 
+
+* You have the right to refuse to allow your tissues to be studied now or saved for future study; however you cannot withdraw derivatives and other products made from cells isolated from that tissue once they have been distributed, reprogrammed or incorporated into other cells or cellular materials. 
+
+If you decide to terminate your participation in this study, you should notify (specify contact and telephone number). Clearly outline the study withdrawal procedures.
+
+The Protocol Director may also withdraw you from the study, without your consent for one or more of the following reasons:  
+* Failure to follow the instructions of the Protocol Director and study staff.
+* The investigator decides that continuing your participation could be harmful to you.
+* You need treatment not allowed in the study.
+* The study is cancelled. 
+* An administrative reason as determined by the investigator.
+* Unanticipated circumstances.
+
+POSSIBLE RISKS, DISCOMFORTS, AND INCONVENIENCES 
+
+There are possible risks, discomforts, and inconveniences associated with any research study.  These deserve careful thought.  You should talk with the Protocol Director if you have any questions.
+* Describe the discomforts and inconveniences reasonably expected; include the inconvenience of travel.
+* Describe any reasonably foreseeable risks - include for example
+o Physical risks - from study medications and procedures (e.g., venipuncture, exposure to radiation, allergic reaction when treatment includes medication)  
+
+The following is an example of risks associated with skin biopsy:
+
+You will also be asked to provide a skin biopsy.  In spite of all precautions, you might develop medical complications from the skin biopsy.  There is less than one percent chance of local infection or serious bleeding as a result of the punch biopsy.  In the unlikely event that this should occur, it is easily treated and you will be given access to prompt medical attention.
+ 
+Another risk is an allergic reaction due to the local anesthetic applied.  It will be very important to let the doctor know whether you have any allergies, especially allergies to any medications.
+
+Also, you may experience discomfort, bruising, and/or bleeding at the site where the needle is inserted.  Sometimes people get dizzy or feel faint.  If you have had a history of feeling faint when your blood is drawn and/or an injection is given, please let the doctor know before he/she begins the skin biopsy.  
+
+We will also ask you to travel to Stanford to have the skin biopsy done, which may be inconvenient for you.  We will attempt to schedule appointments at times that minimize loss of your time.  If the doctor needs to close the wound with stitches; you may have to return to Stanford to have the stitches removed.
+
+* Include a statement that the particular treatment or procedure may involve risks to the subject, which are currently unforeseeable. 
+While every effort will be made to protect your identity and health information, there is always a small risk of loss of privacy.  Your identity will be kept as confidential as possible as required by law. 
+
+POTENTIAL BENEFITS                             
+
+* Describe any benefits that may be reasonably expected (key word-"reasonably").  If none can be expected, state so as follows:
+
+* WE CANNOT AND DO NOT GUARANTEE OR PROMISE THAT YOU WILL RECEIVE ANY BENEFITS FROM THIS STUDY.
+
+* For SCNT Research include the following:
+o This research is not intended to provide direct medical benefit to you or anyone else.  Cell lines that are derived may not be available for your treatment in the future.  You may not receive any information about subsequent research, or study results using your donated materials.  Additionally, donated somatic cells will not be available for your treatment in the future.  Your participation will potentially further scientific and medical knowledge and may lead to disease treatments in the future.  We cannot and do not guarantee or promise that you will receive any benefits from this study. 
+
+ALTERNATIVES
+* The alternative to participating in this study is to not participate.  
+
+PARTICIPANT'S RIGHTS
+* You should not feel obligated to agree to participate.  
+* Your questions should be answered clearly and to your satisfaction. 
+* You have the option of deliberating before deciding if you want to donate your (name type of tissue) for research.
+
+If you choose not to participate at this time and then you change your mind at a later time, you may re-contact the Protocol Director or research staff at (insert contact information).  
+
+*Your participation in this study is entirely voluntary. 
+
+*Your decision whether or not to participate will not prejudice your medical care.  If you decide to participate, you are free to withdraw your consent and discontinue participation at any time without prejudice to you or effect on any medical care you may receive at this facility.  You will not lose any benefits to which you would otherwise be entitled.  
+
+ClinicalTrials.gov
+Include the following language, if this study has been or will be registered on clinicaltrials.gov:
+A description of this clinical trial will be available on http://www.ClinicalTrials.gov, as required by U.S. Law.  This Web site will not include information that can identify you.  At most, the Web site will include a summary of the results.  You can search this Web site at any time.
+
+CONFIDENTIALITY
+
+An example of the confidentiality disclosure from a specific study is shown below:
+In this study, we ask to have access to limited medical information along with the tissue sample being donated.  This information would be used to (describe the experimental procedure).  If you already are a Stanford patient, information related to your donated tissue will be maintained in your medical record.  If you do not have a Stanford medical record, one will be created for you.  The privacy and confidentiality of Stanford medical records is protected in accordance with the Privacy Notice, which you will receive separately.
+# Your identity and/or your personal health information will not be disclosed except as authorized by you or as required by law.  However, there is always some risk that even de-identified information might be re-identified.
+ If you plan to re-contact participants, state how this will be done. 
+USE AND DISCLOSURE OF PROTECTED HEALTH INFORMATION
+Authorization to Use Your Health Information for 
+Research Purposes
+
+State law requires that the HIPAA text be in at least 14-point type.
+Because information about you and your health is personal and private, it generally cannot be used in this research study without your written authorization.  If you sign this form, it will provide that authorization.  The form is intended to inform you about how your identifiable health information will be used or disclosed in the study.  Your information will only be used in accordance with this authorization form and the informed consent form and as required or allowed by law.  Please read it carefully before signing it.  
+
+What is the purpose of this research study and how will my identifiable health information be utilized in the study?
+
+The purpose of this research study is to (describe purpose of study).  The medical personnel obtaining the (describe tissues) will keep a record of your name and personal health information.  Information related to your tissue sample will be noted in your existing medical record, and if you do not yet have a medical record at Stanford, one will be created to record this information.  The study coordinator will assign a code to any identifiable information before sending cells to the other researchers, who will use only coded (not directly identifiable) health information to derive and analyze stem cell lines.  Your coded health information, such as age, medical conditions, type of clinical treatment, and treatment outcomes, may be analyzed together with the data that are generated from your donated tissue.  
+No personal information will be disclosed to anyone other than research staff involved in this study.  No identifying personal information will be disclosed in written or verbal reports of research results.
+Under current law, any future research study that wishes to use your health information with any direct or indirect identifiers generally requires another, separate authorization form signed by you at that time.  There are some limited exceptions from that requirement.  Both now and in the future, release of identifying information would occur only to the extent and under the conditions specified by law.  
+
+Do I have to sign this authorization form?
+
+You do not have to sign this authorization form.  But if you do not, you will not be able to participate in this research study.  Signing the form is not a condition for receiving any medical care outside the study.
+
+If I sign, can I revoke it or withdraw from the research later?
+
+If you decide to participate, you are free to withdraw your authorization regarding the use and disclosure of your health information (and to discontinue any other participation in the study) at any time.  After any revocation, your health information will no longer be used or disclosed in the study, except to the extent that the law allows us to continue using your information (e.g., necessary to maintain integrity of research).  If you wish to revoke your authorization for the research use or disclosure of your health information in this study, you must write to (researcher's name and address).
+
+What Identifiable Health Information Will Be Used or Disclosed?
+
+As explained above, certain identifiable health information related to this study will be maintained in a medical record, and used or disclosed as permitted by the Privacy Notice that you separately will receive or as required by law.  Identifiable health information related to this study will also be maintained by the study coordinator and used or disclosed in accordance with the consent form.  
+
+The study coordinator will replace your name and other identifiable information with a code so that researchers deriving and analyzing stem cell lines are able to use health information that is relevant to the study, without information that specifically identifies you. 
+
+It is possible that identifying health information may be disclosed for legal or oversight purposes.
+ 
+Who May Use or Disclose your Identifiable Health Information?
+
+The following parties are authorized to use and/or disclose your health information in connection with this research study: 
+* The Protocol Director (Insert Name of PD)
+* Members of the Stanford research team 
+* The Stanford University Administrative Panel on Human Subjects in Medical Research and any other unit of Stanford University as necessary
+
+Who May Receive or Use the Information?
+
+The parties listed in the preceding paragraph may disclose your health information to the following persons and organizations for their use in connection with this research study: 
+
+* Federal agencies that supervise the way research is conducted, such as the Office for Human Research Protections in the U.S. Department of Health and Human Services and FDA.
+* Third parties that Stanford hires for oversight or legal purposes
+* In the unlikely event of infection from the biopsy, your insurance company may get access to your PHI in order to be billed for service.
+
+Your information may be re-disclosed by the recipients described above, if they are not required by law to protect the privacy of the information.
+
+When will my authorization expire?
+Your authorization for the use and/or disclosure of your health information will expire (List a specific date on which the authorization will expire, e.g., "will end on December 31, 2045".  If you are uncertain, choose a date that provides plenty of time for your work to be completed.)
+
+________________________________            	______________
+Signature of Adult Participant                                           Date
+
+If authorization is to be obtained from a legally authorized representative -- e.g., parent(s), legal guardian or conservator - signature line(s) for representative(s) must be included on the authorization, as well as a description of his/her authority to act for the participant:
+
+_______________________________                   ______________
+Signature of Legally Authorized Representative (LAR)          Date
+(e.g., parent, guardian or conservator)
+
+
+________________________________________________________
+LAR's Authority to Act for Participant
+(e.g., parent, guardian or conservator)
+
+FINANCIAL CONSIDERATIONS
+
+Reimbursement
+
+If participants will be reimbursed, add the following:
+
+# We will reimburse participants (state amount) for travel and other expenses incurred. (Describe expenses that will be reimbursed.  Include the amount of reimbursement, and state whether there are any limits to the amount of reimbursement for permissible expenses such as travel expenses, meals, parking, housing, actual lost wages, child care, health insurance, and medical care.)  
+
+* Reimbursements may only be made to U.S. citizens, legal resident aliens, and those who have a work eligible visa.
+
+If the participant will not be reimbursed, use the following statement: 
+# You will not be reimbursed for expenses incurred while participating in this research study.
+	
+Costs
+
+Include the following if there is no treatment involved and there will be no additional costs to the participant due to their participation in the research:
+ * There is no cost to you for participating in this study.
+
+Include the following paragraphs if there might be additional costs to the participant due to their participation in the research: 
+* If you participate in this study, there may be additional costs to you.  These include the personal time it will take to come to all of the study visits.  
+The study will pay for those services, supplies, procedures, and care associated with this study that is not a part of your routine medical care.  
+
+Sponsor
+Disclose what institution(s) -- e.g., NIH - or companies are involved in the study through funding, cooperative research, or by providing study drugs or equipment.  The following generic disclosure is acceptable:
+
+#(Name of institution/company) is providing financial support and/or material for this study. 
+ 
+If the study will take place at the CTRU, add the following:
+# The National Institutes of Health (NIH) is providing some financial support for the facility and staff used in this study.
+
+If consultative or financial relationships exist for the Protocol Director and/or any investigators in a study, disclose in a separate paragraph in the consent form the name and precise nature of the relationship: 
+#Consultative or Financial Relationships
+Examples: 
+Dr. W is a paid consultant to the company sponsoring this study. 
+Dr. X is a paid consultant, paid member of the Advisory Board, and receives payment for lectures from the company sponsoring this study.
+Dr. Y is an unpaid consultant to the company sponsoring this study.
+Dr. Z is a founder of the company, has stock in the company, and is a paid consultant to the company sponsoring this study.
+
+COMPENSATION for Research-Related Injury
+
+The informed consent form must include language on participant compensation in the event of a research-related injury:
+Choose one of the two options below depending on the funding for the project:
+
+Industry Sponsored Projects (Clinical Trials)
+Option 1: Use this language for Industry Sponsored Projects:
+
+All forms of medical diagnosis and treatment - whether routine or experimental - involve some risk of injury.  In spite of all precautions, you might develop medical complications from participating in this study.  If such complications arise, the Protocol Director and the research study staff will assist you in obtaining appropriate medical treatment.  In the event that you have an injury or illness that is directly caused by your participation in this study, care will be provided to you.  You will not be responsible for any of these costs.  
+If you receive Medicare benefits, and if the sponsor of this study pays for any study-related treatment, complications or injuries, personal information about you, your treatment, and your participation in this study will be provided to the sponsor, who is required by law to provide it to Medicare.
+You do not waive any liability rights for personal injury by signing this form.
+
+Other Funding or No funding 
+Option 2: Use this language for Non-Industry Sponsored Projects, including projects with federal funding (i.e., NIH funding), Stanford department funding, gift funding, medical scholars funding and projects with no funding, in the event of a research-related injury:
+
+* All forms of medical diagnosis and treatment - whether routine or experimental - involve some risk of injury.  In spite of all precautions, you might develop medical complications from participating in this study.  If such complications arise, the Protocol Director and the research study staff will assist you in obtaining appropriate medical treatment.  In the event that you have an injury or illness that is directly caused by your participation in this study, reimbursement for all related costs of care first will be sought from your insurer, managed care plan, or other benefits program.  You will be responsible for any associated co-payments or deductibles as required by your insurance.
+
+If costs of care related to such an injury are not covered by your insurer, managed care plan or other benefits program, you may be responsible for these costs.  If you are unable to pay for such costs, the Protocol Director will assist you in applying for supplemental benefits and explain how to apply for patient financial assistance from the hospital.  You do not waive any liability rights for personal injury by signing this form.
+
+CONTACT INFORMATION 
+
+Contact information should include the following as appropriate. 
+* Questions, Concerns, or Complaints:  If you have any questions, concerns or complaints about this research study, its procedures, risks and benefits, or alternative courses of treatment, you should ask the Protocol Director, (name of Protocol Director). You may contact him/her now or later at (Protocol Director's phone number). 
+
+* Injury Notification:  If you feel you have been hurt by being a part of this study, please contact the Protocol Director, (name of Protocol Director) at (Protocol Director's phone number). 
+
+* Independent Contact:  If you are not satisfied with how this study is being conducted, or if you have any concerns, complaints, or general questions about the research or your rights as a participant, please contact the Stanford Institutional Review Board (IRB) to speak to someone independent of the research team at (650)-723-5244 or toll free at 1-866-680-2906.  You can also write to the Stanford IRB, Stanford University, 3000 El Camino Real, Five Palo Alto Square, 4th Floor, Palo Alto, CA 94306.
+
+If applicable:
+Appointment Contact:  If you need to change your appointment, please contact (name) at (phone number).
+
+If applicable:
+Alternate Contact:  If you cannot reach the Protocol Director, please contact (name) at (phone number and/or pager number).
+
+If the contact person for both the first two paragraphs will be the Protocol Director, you may combine the two as follows:
+Questions, Concerns, or Complaints:  If you have any questions, concerns or complaints about this research study, its procedures, risks and benefits, or alternative courses of treatment, you should ask the Protocol Director, (name and phone number of Protocol Director).  You should also contact him/her at any time if you feel you have been hurt by being a part of this study. 
+
+EXPERIMENTAL SUBJECT'S BILL OF RIGHTS
+
+Add the following Bill of Rights to your consent:
+As a research participant you have the following rights.  These rights include but are not limited to the participant's right to:
+
+* be informed of the nature and purpose of the experiment; 
+* be given an explanation of the procedures to be followed in the medical experiment, and any drug or device to be utilized; 
+* be given a description of any attendant discomforts and risks reasonably to be expected; 
+* be given an explanation of any benefits to the subject reasonably to be expected, if applicable; 
+* be given a disclosure of any appropriate alternatives, drugs or devices that might be advantageous to the subject, their relative risks and benefits;
+* be informed of the avenues of medical treatment, if any available to the subject after the experiment if complications should arise; 
+* be given an opportunity to ask questions concerning the experiment or the procedures involved; 
+* be instructed that consent to participate in the medical experiment may be withdrawn at any time and the subject may discontinue participation without prejudice; 
+* be given a copy of the signed and dated consent form; and 
+* be given the opportunity to decide to consent or not to consent to a medical experiment without the intervention of any element of force, fraud, deceit, duress, coercion or undue influence on the subject's decision.
+
+ * Your signature indicates that you have read and understand the above information, that you have discussed this study with the person obtaining consent, that you have decided to participate based on the information provided, and that a copy of this signed and dated form has been given to you.
+
+________________________________
+Printed Name of Participant
+
+
+_____________________________________	               ____________
+Signature of Adult Participant				           Date
+
+When consent is obtained from a legally authorized representative (LAR) or representatives (e.g., parent(s), guardian or conservator), include signature lines for representatives and a description of their authority to act for the participant.
+
+
+_____________________________________	               ____________        
+Signature of Legally Authorized representative (LAR)		  Date 
+(e.g., parent, guardian or conservator)                               	 
+
+_____________________________________
+LAR's Authority to Act for Participant 		
+(e.g., parent, guardian or conservator)
+
+_____________________________________	               ____________ 
+(If available) Signature of Other Parent or Guardian  	            Date      
+                      
+_____________________________________
+Authority to Act for Participant		
+
+
+
+_____________________________________            ____________
+Signature of Person Obtaining Consent			       Date
+
+
+The following witness line is to be signed only if the consent is provided as a summary form and accompanied by a short form foreign language consent.
+
+______________________________________            ___________
+Signature of witness                   				        Date
+STANFORD UNIVERSITY   Consent Form for Somatic Cell
+                                           Donation For Stem Cell ResearchProtocol Director:Protocol Title:  
+
+Page 1 of 3
+    
+SUSampCons_somatic_cell_HIPAA_110410  rev 07/25/14
+

@@ -1,0 +1,333 @@
+﻿
+This template (A) is for studies involving clinical intervention (e.g. drugs, devices, surgery, psychotherapy).  
+
+Additional modules for special cases can be found on the IRB website.  These modules can be inserted into the appropriate study-specific text boxes.
+
+Instructions: 
+To stand out both on your computer screen and in black/white copies, instructions are in bold, italic, and blue type. Instructions are in boxes and should be deleted in final consent. 
+IRB-required template language is in black type and should not be changed. Rarely, changes to the required language may be necessary. To petition for a change in required language, submit proposed changes with justification on the “ICF Template Change Form” to the IRB office. 
+Sample language, which can be used, modified, or deleted as appropriate for your study, is in blue type. Please maintain the blue color to distinguish your study-specific information from the required template language.
+==> Arrows are used to show alternative choices. In the final consent, arrows can be deleted and the usual margin maintained.
+
+Medical College of Wisconsin and Froedtert Hospital
+CONSENT TO PARTICIPATE IN RESEARCH
+
+Name of Study Subject: ____________________________
+
+<Study Title>
+
+<Principal Investigator>
+<Department>
+<Telephone Number>
+Medical College of Wisconsin
+8701 Watertown Plank Road
+Milwaukee WI 53226
+
+You are invited to take part in this research study. This form tells you why this research study is being done, what will happen in the research study, possible risks and benefits to you, your choices, and other important information. If there is anything that you do not understand, please ask questions. Then you can decide if you want to join this study or not.  
+
+A1. INTRODUCTION – WHY ARE WE ASKING YOU ABOUT THIS STUDY?
+Describe reason(s) for subject participation, such as diagnosis and eligibility, and a brief description of the key intervention.
+You are being invited to participate in this research study because …[you have had X condition for more than 6 months.  Because of your condition, you may be eligible for a research study on a new drug for … / a device to be implanted in your chest which senses changes in blood pressure…]
+
+A total of about xx people are expected to participate in this study [nationally / world-wide  / all at / including about xx at] the Medical College of Wisconsin/Froedtert Hospital/BloodCenter of Wisconsin.
+
+The Director of the study is <Principal Investigator> in the <Department of XYZ>. A study team works with <Principal Investigator>. You can ask who these people are. 
+
+<Sponsor>, a drug company, is funding the study. OR The National Institute of Health, a government agency, OR the American Heart Association is funding this study.
+
+If a financial conflict of interest needs to be explained, state it here.
+
+A2. DO I HAVE TO BE IN THIS STUDY?
+You can decide whether to take part in this study or not. You are free to say yes or no. If you say no, your regular medical care will not change. Even if you join this study, you do not have to stay in it. You may stop at any time. 
+
+A research study is different from routine medical care in three ways: 1) there are extra risks that we will tell you about in this form; 2) you may have some extra medical tests and visits; 3) the study procedures, tests and visits follow a set plan that must be kept.
+
+A3. WHY IS THIS RESEARCH STUDY BEING DONE?
+Describe the purpose of the study.
+  - For drug studies, select the Phase example for your study. For a study of mixed phases, choose the lowest phase to describe your study.
+ - For device or other studies, see the instruction section below.
+
+For Phase 1 drug studies:
+In this study we want to find out more about the side effects (problems and symptoms) of a new drug for [X condition], [drug name] and what doses of [drug name] are safe for people to take. Everyone in this study will receive [drug name] which is still experimental and is not approved by the U.S. Food and Drug Administration.  We do not know all the ways that this drug may affect people. This study is not likely to help you, but we hope the information from this study will help us develop a better treatment for [X condition] in the future. 
+
+For Phase 2 drug studies:
+In this study we want to find out more about a new drug, [drug name], in people with [X condition]. We want to find out whether the new drug [drug name] reduces the symptoms of [X condition], and whether it causes any problems (side effects). Everyone in this study will receive [drug name], which is still experimental and is not approved by the U.S. Food and Drug Administration / is approved by the U.S. Food and Drug Administration for use in patients but not with your condition.  We are testing [drug name] to see what effect it has on people with [X condition]. We don’t know if this study will help you. Your condition may get better but it could stay the same or even get worse. We hope the information from this study will help us develop a better treatment for [X condition] in the future.
+
+For Phase 3 drug studies, or studies with comparator:
+In this study we want to find out whether a new drug for [X condition], [drug name], is better than Old-drug, a routine treatment for [X condition]. To do this, we will compare the two drugs in people with [X condition] and see which one reduces pain faster or better, and which one is safer (causes fewer problems). [Drug name] is still experimental and is not approved by the U.S. Food and Drug Administration / is approved by the U.S. Food and Drug Administration for use in patients but not with [X condition].  [Drug name] may have advantages over Old-drug, but we won’t know until we do more research studies.
+We don’t know if this study will help you. Your condition may get better but it could stay the same or even get worse. We hope the information from this study will help us develop a better treatment for [X condition] in the future.
+
+For Phase 4 drug studies, describe the post marketing study: 
+This drug has been approved by the U.S. Food and Drug Administration, and in this study we want to learn more about …
+
+For device studies, describe the FDA status of the device in a way the subject is likely to understand, so that the subject knows the FDA’s ruling on the safety and effectiveness of the device and the FDA indication(s) for the device. Please see the sample modules:
+ - Approved or cleared (510(k)) devices used ON indication / OFF indication
+ - Devices studied under Investigational Device Exemptions (IDEs) used ON Indication / OFF indication
+ - Non-significant Risk devices
+ - HUDs with HDE status, used OFF indication
+
+Describe the purpose of the device or other (surgery, etc.) study…
+
+B1. WHAT WILL HAPPEN IF I TAKE PART IN THE STUDY?  
+
+Provide a concise overall summary of the procedures. 
+• Begin with screening procedures, if applicable.
+• Describe the study groups and explain randomization, placebo, blinding if applicable.
+• Use lay language and explain the purpose of the procedure if it is unfamiliar. 
+• Include the duration of each visit or procedure. 
+• Emphasize drugs/procedures specifically for the research, compared to routine care. 
+• State if any procedure is experimental.
+• An attachment may be added [Attachment #1, optional] with details of the study schedule and procedures. 
+
+Screening procedures: 
+If the study requires screening procedures, briefly describe; otherwise delete.  
+If you decide to join the study, some screening tests will be done first to see if you are eligible. [Describe screening procedures].
+
+If the screening information shows that you meet the requirements, then you will be able to start the study. If the screening information shows that you cannot be in the research study, the study doctors will discuss other options with you and/or refer you back to your regular doctor. 
+
+Research study groups
+If the study has interventional groups, describe the groups and how they are defined.
+[Describe the groups, for example… to find out if a new drug for headaches, new-drug, is better than Old-drug, the routine treatment for headaches, one group of people in the study will be given new-drug and a second group of people will be given Old-drug.  We will check how many headaches people have after one month, and compare the results in the two groups.]  
+
+If the study has a placebo, insert the following in description of groups above: 
+You should know that the placebo is a pill [or infusion, etc.] that contains no real medicine and we do not expect it will do anything for your health. 
+
+If the study is randomized, insert the following:
+Because no one knows which of the [drugs/devices/interventions] is best, you will be “randomized” into one of the [two / three / etc.] study groups. [One group will receive new-drug and one group will receive Old-drug]. Randomization means that you are put into a group by chance. It is like flipping a coin.  You will have a(n) [equal / one in three /explain weighting, etc.] chance of being placed in [either / any] group. Neither you nor the study doctor can choose what group you will be in. 
+
+If the study is double-blinded, insert the following, or modify for single-blind:
+Since the expectations of patients and doctors can influence the results of a study, neither you nor your study doctor can know which drug you will get until the study is over. A computer program chooses which group you are in, and the pills (infusion, etc) in each group will look the same. In an emergency, your doctor can find out which drug you are taking.
+
+Summary of Study Procedures:
+Provide a summary of study procedures
+
+Include the following if research involves donating a unit of blood in any BloodCenter donor room, apheresis procedure or infectious disease testing.
+As part of the procedure for donating a unit of blood, your blood will be tested for diseases that can be passed on to other people by transfusion, including AIDS (the disease caused by the HIV virus), syphilis, hepatitis B, hepatitis C and others. If certain tests are positive, BloodCenter of Wisconsin may inform you, put your name on a list of ineligible donors, and inform certain government health agencies as required by law. Results of your blood test for HIV will be released only to authorized persons as governed by Wisconsin law. A list of persons to be notified and reasons that will cause release of your blood test for HIV is available upon request. Results of the test for HIV will be released to BloodCenter physicians and their assistants. Abnormal test results of active military personnel will be forwarded to the military medical authority of the base to which you are assigned, as required by the Department of Defense.
+
+B2. HOW LONG WILL I BE IN THE STUDY?
+Choose one or more options and modify regarding the subject’s involvement:
+==> You will be in this research study for about [estimated length of time of subject’s involvement].  
+==> You will take the [study drug] for ____ months/ weeks.  
+==> After the [drug/intervention] is finished, we want to keep in touch with you to follow your health over time.  We will telephone you / ask you to come in to the clinic [once a month, once a year] [for the next year / for the rest of your life] and ask about …. 
+
+B3. CAN I STOP BEING IN THE STUDY?  
+Choose one or more of these options and modify:
+You are free to withdraw from the study at any time. If you leave, your regular medical care will not change. If you are thinking about leaving, please tell the study doctor. 
+==> The doctor can tell you about the effects of stopping, and you and the doctor can talk about what follow-up care would help you the most.
+==> You might be asked to come back for one more visit to check your health.
+==> You might be asked to return your research drug containers.
+
+The study doctor [or the study sponsor] may take you out of this study at any time. This would happen if:
+• They think it is in your best interest.
+• You do not follow the study rules.
+• The whole study is stopped.
+If this happens, the study doctor will tell you.
+
+B4. ARE THERE ANY SPECIAL INSTRUCTIONS WHILE I AM IN THE STUDY? 
+Include only if applicable to the study
+[You should not take aspirin while taking this drug.]
+
+C1. WHAT HEALTH RISKS OR PROBLEMS CAN I EXPECT FROM THE STUDY?
+There are risks to taking part in any research study. There is a risk that you may get [a drug/drug combination/device/intervention/dose of a drug] that does not help your condition or may make it worse.  There also may be problems (side effects) we do not know about yet, from [drug] itself, or how it combines with other drugs you are taking. If we learn about new important side effects, we will tell you. 
+
+We watch everyone in the study for problems (side effects). You need to tell the study doctor or a member of the study team immediately if you experience any problems, side effects, or changes in your health.  If you have ____ [severe bleeding], call Dr. ___ immediately at _____. In an emergency, call ____.
+
+C2. RISKS OF _______ [THE INTERVENTION FOR GROUP A, GROUP B, ETC.]
+The research [drug/device/intervention] itself may cause problems (side effects).  Side effects may be mild or very serious.  Some can last a long time or never go away.  
+Many go away soon after you stop taking the [drug/device /intervention]. Drugs can affect individuals in different ways. . Complications of some of the side effects below may lead to life-threatening events such as …. (infections, kidney failure, bleeding, and possibly death).
+
+The side effects that other people have experienced so far with the [drug/device /intervention] are: 
+State here the risks related to the research intervention(s) itself. 
+• Include the research intervention(s) both investigational and comparator
+• Risks can be described as a bulleted list or table, using lay language. 
+• Begin with the most common, and include the probabilities or commonality of each side effect. 
+
+Device risks: In addition to risks of the device itself, including possible malfunction and its consequences, also address the following long-term risks, such as: risks of removal, consequences of removal, device maintenance, and who will bear the cost of maintenance and/or removal.
+
+C3. OTHER RISKS OF THIS RESEARCH STUDY
+Here list other study procedures and their risks, such as 
+• to assess study eligibility, 
+• more frequent assessments for safety or for disease progression, 
+• other required medications, etc. 
+Other procedures [and medications] that are part of the study also involve some risks:
+ 
+C4. REPRODUCTIVE RISKS
+Risks to women who could become pregnant
+Include section only if applicable to the study. 
+The [drug / intervention] in this study might affect a baby, before or after the baby is born. We do not know if the [drug / intervention] causes harm to a baby, so we do not want anyone who might be pregnant to enter the study. You should not become pregnant or nurse a baby while in this study. You must tell the study doctor right away if you think you are pregnant. You will be asked to have a pregnancy test to be sure you are not pregnant at the start of the study /and during the study / and at the end of the study. 
+
+Risks of fathering a child
+This risk does not need to be included unless there is evidence or concern that the drug causes paternity-related birth defects, or unless required by a Sponsor. Modify as needed.
+You should not father a baby while taking part in this study because it is unknown if the [drug / intervention] in this study could affect a baby. If your partner is able to become pregnant, one or both of you must use some form of effective birth control.  You must tell the study doctor right away if you think your partner is pregnant.
+
+Birth control methods for all subjects
+Insert this section if needed and modify list as needed
+Check with the study doctor about the birth control methods needed for this study and how long to use them. Some methods might not be good enough for this study. If you are having sex that could lead to pregnancy, you should use birth control while you are in this study.  
+This may include:
+• Not having vaginal sex (abstinence)
+• Taking birth control pills orally
+• Having birth control shots or patches such as Depo-Provera
+• Surgical sterilization (hysterectomy or tubal ligation)
+• Use of an intrauterine device (IUD)
+• Use of diaphragm with contraceptive jelly
+• Use of condoms with contraceptive foam
+• Use of diaphragm with condoms (“double barrier”)
+• Limiting sexual activity to a male partner who has had a vasectomy
+You should continue using birth control for xx months after stopping the TEST DRUG.
+
+C5. ARE THERE ANY BENEFITS TO TAKING PART IN THE STUDY?
+Describe medical benefits to subject if any, and add a phrase related to the purpose of your study on how / whom the study might help. 
+• Do not list compensation in this section. Payment is a recruitment incentive, not a benefit. 
+• Do not feature “extra medical supervision” as a benefit. 
+• If the drug is investigational, do not suggest that the drug is beneficial.
+Choose one of these options and modify. If not a drug study, choose an appropriate option and modify.
+
+For Phase 1 drug studies:
+This study is not likely to help you, but we hope the information from this study will help us develop better treatments for X condition.
+
+For Phase 2 or 3 drug studies:
+We don’t know if this study will help you. Your condition may get better but it could stay the same or even get worse. We hope the information from this study will help us develop better treatments for X condition.
+
+For Phase 4 drug studies:
+This study may or may not help you, but we hope the information from this study will help us develop better treatments for X condition.
+
+D1. ARE THERE ANY COSTS TO BEING IN THE STUDY?
+Outline clearly: 
+• Activities/financial costs that are part of routine care and to be billed to subject/ subject’s insurance company
+• Activities/costs that are part of the research study and to be paid by sponsor/Investigator
+• Froedtert Hospital can not be identified as a funding source unless approved through the Office of Clinical Research and Innovative Care Compliance
+==> There are no costs to you for any of the visits, drugs or services you receive in this study.  All costs will be paid by the study. If you have questions regarding study costs, please contact Dr. _____. 
+==> Some of / Most of the medical care that you will receive in this study is considered routine care for your condition and would be recommended whether you join the study or not.  Costs for routine care will be billed to you or your insurance carrier.  Activities / costs that are part of the study will not be billed to you or your insurance company. These are ___ [list as applicable]. Some insurers will not pay for drugs, tests or hospitalization that are part of research studies, so check with your insurer before you join this study. If you have questions regarding study costs, please contact Dr. ____.
+
+D2. WILL I BE PAID FOR PARTICIPATING IN THE STUDY?
+Describe amount to be paid, method of payment and payment schedule, such as, if payment is pro-rated. Examples to be modified:
+==> There is no payment for being in this study [but we will give you a parking voucher for free parking every visit, and a gift certificate for ….] 
+==> You will receive [$] for each visit. [Describe payment schedule and total possible payment]. To pay you, we need your social security number. [if paid through MCW/FH] Any payment may be reportable as income on your taxes.
+
+D3. WHAT OTHER HEALTHCARE CHOICES DO I HAVE?
+Include healthcare choices listed below if applicable
+You do not have to join this study. You are free to say yes or no. If you do not join this study, your doctor can discuss other healthcare choices with you. 
+Your other choices may include:
+• [List/describe the different kinds of routine care for this condition or symptoms.]
+• Joining a different research study
+• The procedure or drug offered to you as a study participant also may be available to you without being in any research study.
+
+D4. WILL I BE GIVEN NEW INFORMATION ABOUT THE STUDY?
+If we learn any important new information [about the drug/device/intervention] that might change your mind about being in the study, we will tell you about it right away.  You can then decide if you want to stay in the study.
+
+D5. WHAT HAPPENS IF I AM HARMED BECAUSE I TOOK PART IN THE STUDY? 
+Insert this section if no compensation for injury is planned.
+No funds have been set aside to pay any costs if you become ill or are harmed because of this study. If you think that you have become ill or were harmed because of this study, let the study doctors know right away by calling <telephone number>.  By signing this form, you do not give up your right to seek payment for harm you receive while participating in this study.
+
+Choose one of the below options if Sponsor has agreed to compensate for injury if a direct result of study (either sponsor will cover all expenses or cover expenses not covered by insurance).
+If you become ill or are harmed as a direct result of being in the study, the Sponsor will pay for reasonable and necessary medical care if:
+• You have been following directions
+• Study procedures have been performed properly
+• Your illness is not due to your underlying condition
+
+If you think that you have become ill or were harmed because of this study, let the study doctors know right away by calling <telephone number>.
+
+By signing this form, you do not give up your right to seek payment for harm you receive while participating in this study.
+
+OR
+
+If you become ill or are harmed as a direct result of being in the study, the Sponsor will pay for reasonable and necessary medical care, not covered by your insurance or other third party, if:
+• You have been following directions
+• Study procedures have been performed properly
+• Your illness is not due to your underlying condition
+
+If you think that you have become ill or were harmed because of this study, let the study doctors know right away by calling <telephone number>.
+
+By signing this form, you do not give up your right to seek payment for harm you receive while participating in this study.
+
+
+D6. WHO CAN ANSWER MY QUESTIONS ABOUT THE STUDY?
+• If you have more questions about this study at any time, you can call <Principal Investigator> at <Telephone number>.
+• If you have questions about your rights as a study participant, want to report any problems or complaints, obtain information about the study, or offer input, you can call the MCW/Froedtert Hospital Research Subject Advocate at 414-955-8844.
+
+E. PERMISSION TO COLLECT, USE AND SHARE HEALTH INFORMATION
+
+E1. What health information will be collected and used for this study?
+To do this research study, we need your permission to collect and use some of your health information, or you cannot be in the study. This information may come from questions we ask, forms we ask you to fill out, or your medical record, as described below. We will only collect and use information needed for the study. 
+
+The health information to be collected and used for this study is: 
+List here the types of information to be collected or used for the research study, including the time period from which they were collected. 
+ [Medical records of the care you receive for this study]
+ [Medical records dating from when you join this study until you die]
+ [CT scan taken when you were first diagnosed with <specific disease/condition>]
+
+E2. Who will see the health information collected for this study?
+The only MCW/Froedtert Hospital/BloodCenter of Wisconsin employees allowed to handle your health information are those on the study team, those on the Institutional Review Board (IRB) and those who check on the research activities to make sure the hospital’s rules are followed.
+
+Delete this section if no one outside MCW/FH will access identified data
+The study team may share your information with people who don’t work at MCW/Froedtert Hospital/BloodCenter of Wisconsin because they planned, pay for, or work with us on this study.  The federal Privacy Rule may no longer protect your health information once it leaves MCW/Froedtert Hospital/BloodCenter of Wisconsin.  For this study, we plan to share information with those doctors, researchers or government representatives working with us on this study at the institutions or companies listed here:
+Here list (name), institution, city and state for each sponsor or collaborator needing access to identified data or source records. Include the FDA for all FDA-regulated studies, or delete if results will not be submitted to FDA. It is NOT necessary to list Sponsors who do not need access to data or source records. 
+	U.S. Food and Drug Administration, Rockville, MD    (Delete if not applicable)
+	 [Industry Sponsor, City, State]                                   (Delete if not applicable)
+	 [CRO, City, State]                                                      (Delete if not applicable)
+	 [Multisite Coordinating Center, City, State]               (Delete if not applicable)
+	 [NCI Cooperative Group, City, State]                        (Delete if not applicable)
+	 [Dr. X, Y University, City, State]                                (Delete if not applicable)
+
+We may record your research information, including results of tests and procedures done for research, in your Froedtert Hospital and/or Medical College of Wisconsin medical record or BloodCenter blood donor record.  As a result, this research information may be seen by people allowed to see your medical records for healthcare operations or treatment, by those you allow to see your medical records by giving written permission, and by others when required by law.
+
+We will not use your personal health information for a different study without your permission or the permission of a hospital research review board (IRB). Once all personal identification is removed, the information might be used or released for other purposes without asking you. Results of the study may be presented in public talks or written articles, but no information will be presented that identifies you.
+ 
+E3. What are the risks of sharing this health information?
+One risk of taking part in a research study is that more people will handle your personal health information collected for this study. The study team will make every effort to protect the information and keep it confidential, but it is possible that an unauthorized person might see it. Depending on the kind of information being collected, it might be used in a way that could embarrass you or affect your ability to get insurance. If you have questions, you can talk to the study doctor about whether this could apply to you. 
+
+E4. How long will you keep the health information for this study?
+If you sign this form, we plan to keep your information [for xxx years / for 10 years after the research study ends / without any end-date] in case we need to check it again for this study.
+
+E5. Can I cancel my permission to share this health information?
+If you change your mind later and do not want us to collect or share your health information, you need to send a letter to <Principal Investigator> at specify address. The letter must say that you have changed your mind and do not want the researcher to collect and share your health information. At that time, we may decide that you cannot continue to be part of the study. We may still use the information we have already collected. 
+
+E6. Access to clinical records
+Insert this section if access to records will be prohibited due to blinding of study
+If you join this study, you will be given one of two [or three, etc.] [drugs / interventions] without knowing exactly which one (a “blinded” study). If you ask to see your health records during this “blinded” study, the study team cannot tell you know which [drug / intervention] you are being given. This is because the study team also remains “blinded” about which [drug / intervention] the sponsor has randomly assigned to you. You would have to wait until the time given below. We cannot do the study unless you agree. However, if the blinded information is needed to treat you, it will be provided to the study doctor.
+• What are the blinded options? You will get one of these drugs/interventions:____ 
+• When can you find out which [drug / intervention] you were given? [You can find out in [state in weeks / months from the start of the study, or as a date.]
+
+F1. FOR MORE INFORMATION ABOUT THE STUDY
+If an FDA-regulated drug or device study, insert this section regarding required registration on ClinicalTrials.gov
+A description of this clinical trial will be available on http://www.ClinicalTrials.gov as required by U.S. Law. This Web site will not include information that can identify you. At most, the Web site will include a summary of the results. You can search this Web site at any time.
+
+You can look up this study by referring to the ClinicalTrials.gov number (insert trial number) or by asking the study team for a printed copy.   
+
+CONSENT TO PARTICIPATE IN THE STUDY
+
+By signing my name below, I confirm the following:
+• I have read (or had read to me) this entire consent document, including Attachment 1.  All of my questions have been answered to my satisfaction.
+• The study’s purpose, procedures, risks and possible benefits have been explained to me.  
+• I agree to let the study team use and share the health information and other information gathered for this study.
+• I voluntarily agree to participate in this research study.  I agree to follow the study procedures as directed.  I have been told that I can stop at any time.
+
+IMPORTANT: You will receive a signed and dated copy of this consent form.  Please keep it where you can find it easily.  It will help you remember what we discussed today.
+
+Signature line instructions:
+Generally the subject's signature is sufficient. Thus, the following signature lines are optional to include: Legally Authorized Representative, Witness, Principal Investigator or designated representative. These should only be included when the Investigator chooses to include them, or when required by the Sponsor.
+
+Date or Date & Time: Time on subject’s line is optional to include; if included in template, must be completed by each subject.
+Subject's Name please print Subject's SignatureDate   OR Date/TimeName of Legally Authorized Representative (if applicable) 
+please print Signature of Legally Authorized RepresentativeDateName of Witness (if applicable) please print  (for short form consent process, or consent of blind or illiterate subject)Signature of Witness
+Date
+
+* Name of person discussing/ obtaining consent please print Signature of person discussing/obtaining consentDate* A member of the study team trained and authorized by the Principal Investigator to act on her/his behalf in obtaining informed consent according to the protocol.  In all research study protocols the Principal Investigator is responsible and accountable for the study.
+
+Name of Principal Investigator              please print 
+__ I participated in consent process
+__ I acknowledge enrollment of this subject into the studySignature of Principal InvestigatorDate
+Attachment 1 is optional. Delete if not needed
+Attachment 1 – Details of study schedule and procedures
+Medical College of Wisconsin & Froedtert Hospital 				
+Informed Consent for Research
+Template A - Version: May 1, 2014	
+IRB Protocol Number: <<Enter Study #>> 
+IRB Approval Period: «ApproveDate» - «ExpireDate» 
+
+
+
+
+Page 1 of 1
+Version: <<Enter Version #>>
+

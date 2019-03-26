@@ -1,0 +1,370 @@
+﻿RASCAL CONSENT FORM BUILDER SAMPLE TEXT
+
+Information on Research
+Text Sub-Heading INTRODUCTION INTRODUCTION The purpose of this form is to give you information to help you decide if you want to take part in a research study. This consent form includes information about: 
+
+- why the study is being done; 
+- the things that you will be asked to do if you are in the study;
+- any known risks involved;
+- any potential benefit; and 
+- options, other than taking part in this study, that you have. 
+
+The principal investigator (the lead researcher for this project) [INSERT OTHER APPROPRIATE TITLE IF THE PI WILL NOT CONDUCT THE DISCUSSION] will discuss the study with you. If at any time you have questions about the study, please ask a member of the study team. Take all the time you need to decide whether you want to take part in this research study. 
+
+The purpose of this research is described below in the 'What is Involved in This Study?' section of this consent form. 
+
+This consent form is written to address a research subject. If, however, you will be providing permission as [INSERT, AS APPLICABLE] the parent or legal guardian of a minor [OR] a legally authorized representative, the words 'you' and 'your' should be read as [INSERT, AS APPLICABLE] 'your child' [OR] 'the research subject'. 
+Invitation to Participate WHY IS THIS STUDY BEING DONE? PURPOSE Study purpose
+
+We are doing this research study to find out [INSERT PURPOSE OF THE STUDY IN LAY TERMS. IF INVESTIGATIONAL DRUGS (OFF LABEL OR UNAPPROVED) OR DEVICES WILL BE USED, INSERT APPLICABLE SAMPLE TEXT]. 
+
+You are being asked to take part in this study because [INSERT GENERAL INCLUSION CRITERIA]. About [INSERT TOTAL NUMBER OF SUBJECTS] people are expected to be enrolled in this study [EXPLAIN WHETHER THIS IS AT THIS SITE OR AT ALL SITES]. 
+Study Purpose Off label use of an approved drug
+
+[INSERT DRUG NAME] is being used in an investigational manner (not for the purpose that it is approved for) in this research study. This means that [INSERT DRUG NAME] has been approved by the Food and Drug Administration (FDA) for use in [INSERT CONDITION AND/OR POPULATION OF SUBJECTS IT IS APPROVED FOR], but it has not been approved for [INSERT USE RELATED TO THIS RESEARCH]. 
+Off label use of an approved drug Use of an unapproved drug
+
+[INSERT DRUG NAME] is an investigational drug. This means that the drug has not been approved by the Food and Drug Administration (FDA) for medical use in patients, but has only been approved for use in research. 
+Use of an unapproved drug Use of an unapproved device
+
+[INSERT DEVICE NAME] is an investigational device. This means that [INSERT DEVICE NAME] has not been approved by the Food and Drug Administration (FDA) for medical use in patients, but has only been approved for use in research. Use of an unapproved device Use of an approved device being used off-label
+
+[INSERT DEVICE NAME] is being used in an investigational manner (not for the purpose that it is approved for) in this research study. This means that [INSERT DEVICE NAME] has been approved by the Food and Drug Administration (FDA) for [INSERT CONDITION AND/OR POPULATION OF SUBJECTS IT IS APPROVED FOR] but it has not been approved for [INSERT USE RELATED TO THIS RESEARCH]. 
+Use of an approved device being used off-label WHAT IS INVOLVED IN THIS STUDY? PROCEDURES Procedures
+
+[THIS PARAGRAPH SHOULD INCLUDE ANY RELEVANT DETAILS PERTAINING TO STUDY DESIGN (E.G., RANDOMIZATION, PLACEBO CONTROLLED, DOUBLE OR SINGLE BLIND) AND AN EXPLANATION OF THESE DETAILS IN LAY TERMS.] 
+
+Taking part in this study will last [INSERT TOTAL LENGTH OF STUDY PERIOD] and will include [INSERT ACTUAL OR ESTIMATED TOTAL NUMBER OF STUDY VISITS]. The schedule of study visits and the procedures that will be done at each visit are as follows:
+
+[INSERT DESCRIPTION IN LAY TERMS OF EACH PROCEDURE THAT WILL BE CONDUCTED AT EACH VISIT] 
+Procedures (medical) Procedures
+
+[THIS PARAGRAPH SHOULD INCLUDE ANY RELEVANT DETAILS PERTAINING TO STUDY DESIGN AND AN EXPLANATION OF THESE DETAILS IN LAY TERMS.] Taking part in this study will last [INSERT TOTAL LENGTH OF STUDY PERIOD] and will include [INSERT ACTUAL OR ESTIMATED TOTAL NUMBER OF STUDY VISITS]. The schedule of study visits and the procedures that will be done at each visit are as follows:
+
+[INSERT DESCRIPTION IN LAY TERMS OF EACH PROCEDURE THAT WILL BE CONDUCTED AT EACH VISIT] 
+Procedures (social science or behavioral) Use of Data/Specimens 
+
+We may want to use or share your blood and/or tissue sample(s) with [INSERT, AS APPROPRIATE] other investigators at Columbia University [AND, OR, AND/OR] with investigators at another institution so that other research studies can be done now or in the future. If you agree to let us keep your samples for future research, they may be kept [INSERT APPLICABLE RETENTION ESTIMATE] for [NUMBER OF] years [OR] forever. 
+
+Some research using blood or tissue allows the researchers to make medical tests or treatments that may have commercial value. If this happens, there are no plans to pay you for any products or treatments that are made, or for using your samples. 
+Use of Data/Specimens Permission for future use [APPLIES ONLY TO SAMPLES RETAINED IN AN IDENTIFIABLE OR CODED MANNER]
+
+Please initial below to indicate whether or not you give permission for your specimens to be used for future research. 
+
+[THE FOLLOWING CHECK BOXES SHOULD BE ALTERED TO MATCH WHAT IS BEING DONE IN THIS RESEARCH STUDY]
+______ (initial) I agree to have my specimens stored for future research by the investigators who are conducting this study.
+
+______ (initial) I agree to have my specimens stored and shared with other investigators who are doing research that is related to this study or my condition. 
+
+______ (initial) I agree to have my specimens stored and shared with other investigators who are doing different kinds of research that is not related to this study or my condition. 
+Permission for future use of samples retained with identifiers or in a coded manner Permission for future contact 
+
+The researchers may want to contact you in the future. [EXPLAIN WHY SOME PARTICIPANTS MIGHT BE CONTACTED IN THE FUTURE, AND HOW OFTEN THIS MAY HAPPEN.] 
+
+Please initial below to show whether or not you give permission for future contact.
+
+______ (initial) I give permission to be contacted in the future for research purposes. 
+
+______ (initial) I give permission to be contacted in the future for information relating to this study. 
+Permission for future contact Use of specimens collected in this protocol, as described in this protocol only
+
+As previously described, the blood samples and data obtained from this study will be used for testing and research on [IDENTIFY CONDITION UNDER STUDY] according to the study protocol. Such testing and research may be performed by [INSERT NAME OF PI] or other researchers at this institution or other institutions, including commercial entities, but only as described in the protocol for this study. 
+
+Data and specimens sent to other institutions will we sent [INSERT APPLICABLE DESCRIPTION] with identifiers [OR] in a coded manner [OR] in a de-identified manner (all identifying information removed). 
+Future use of specimens per this protocol Use of specimens collected in this protocol, for use in other research studies
+
+The blood samples and data obtained from this study might be used for future testing and research on [IDENTIFY CONDITION UNDER STUDY] according to different study protocols, as well as future testing and research on [IDENTIFY OTHER POTENTIAL RESEARCH]. Such future testing and research may be performed by [INSERT NAME OF PI] or other researchers at this institution or other institutions, including commercial entities, which may not yet be identified. 
+
+To facilitate this future testing and research, blood samples and data that have been de-identified (all identifying information removed) may be released to other institutions, including commercial entities. Such future testing and research may also lead to the development and use of information, products, tests, and treatments having commercial value. You will not receive any financial compensation that may result from this testing or research, as the specimens used will have been de-identified and it will not be possible to determine if your specimen was used.
+
+Prior to de-identification, the study sponsor may want to contact you or your physician for additional information that would be important to the future project(s).
+
+At the end of this study, if you agree to storage of your specimens, leftover samples and serum will be stored at [IDENTIFY STORAGE SITE] for [IDENTIFY RETENTION PERIOD]. The leftover samples and serum may be moved in the future from [IDENTIFY STORAGE SITE] to other similar storage facilities to accommodate future testing and research. 
+
+All data obtained from this study will be stored at: [IDENTIFY STORAGE SITE]
+
+Consent: (please check only one box)
+
+I consent to the storage of my blood sample and data as described above for potential future research and/or testing with commercial purposes. I also consent to the study sponsor contacting me or my physician for further information. 
+
+I consent to the storage of my blood sample and data as described above for potential future research and/or testing with commercial purposes. I do not consent to the study sponsor contacting me or my physician for further information.
+
+I hereby consent to the storage of my blood sample and data for potential future research and testing only for the study of [IDENTIFY CONDITION]. I also consent to the study sponsor contacting me or my physician for further information. 
+
+I hereby consent to the storage of my blood sample and data for potential future research and testing only for the study of [IDENTIFY CONDITION]. I do not consent to the study sponsor contacting me or my physician for further information.
+
+I do not consent to the storage of my blood sample after the end of this study. 
+
+__________________________     __________________________ 
+Printed name                                 Date
+__________________________ 
+Signature
+Future use of specimens for other studies Use of specimens collected in this protocol, for use in this protocol and for other research
+
+As previously described, the blood samples and data obtained from this study will be used for testing and research on [IDENTIFY CONDITION UNDER STUDY] according to the study protocol. Such testing and research may be performed by [INSERT NAME OF PI] or other researchers at this institution or other institutions, including commercial entities as described in the protocol. 
+
+The blood samples and data obtained from this study may also be used for future testing and research on markers on [IDENTIFY CONDITION UNDER STUDY] according to different study protocols, as well as future testing and research on [IDENTIFY OTHER POTENTIAL RESEARCH]. Such future testing and research may be performed by [INSERT NAME OF PI] or other researchers at this institution or other institutions, including commercial entities, which may not yet be identified. 
+
+To facilitate this future testing and research, blood samples and data that have been de-identified (all identifying information removed) may be released to other institutions, including commercial entities. Such future testing and research may also lead to the development and use of information, products, tests, and treatments having commercial value. You will not receive any financial compensation that may result from this testing or research, as the specimens used will have been de-identified and it will not be possible to determine if your specimen was used.
+
+Prior to de-identification, the study sponsor may want to contact you or your physician for additional information that would be important to the future project(s).
+
+At the end of this study, if you agree to storage of your specimens, leftover samples and serum will be stored at [IDENTIFY STORAGE SITE] for [IDENTIFY RETENTION PERIOD]. The leftover samples and serum may be moved in the future from [IDENTIFY STORAGE SITE] to other similar storage facilities to accommodate future testing and research. 
+
+All data obtained from this study will be stored at: [IDENTIFY STORAGE SITE]
+
+Consent: (please check only one box)
+
+I consent to the storage of my blood sample and data as described above for potential future research and/or testing with commercial purposes. I also consent to the study sponsor contacting me or my physician for further information. 
+
+I consent to the storage of my blood sample and data as described above for potential future research and/or testing with commercial purposes. I also consent to the study sponsor contacting me or my physician for further information. 
+
+I consent to the storage of my blood sample and data as described above for potential future research and/or testing with commercial purposes. I do not consent to the study sponsor contacting me or my physician for further information.
+
+I hereby consent to the storage of my blood sample and data for potential future research and testing only for the study of [IDENTIFY CONDITION]. I also consent to the study sponsor contacting me or my physician for further information. 
+
+I hereby consent to the storage of my blood sample and data for potential future research and testing only for the study of [IDENTIFY CONDITION]. I do not consent to the study sponsor contacting me or my physician for further information.
+
+I do not consent to the storage of my blood sample after the end of this study. 
+
+__________________________     __________________________ 
+Printed name                                 Date
+__________________________ 
+Signature
+Future use of specimens for this protocol and other research Permission for future contact for genetic health information
+
+It is possible that in the future a genetic test could be done on your stored samples that may give a result that could be important to your or a family member's health. Knowing this information could have risks. For example, it could make you anxious. Or, if insurance companies or employers find out about the results of some genetic tests, it could make it difficult to get insurance or to get a job. 
+
+Please choose and initial one of the options below to tell us if you want to know about this information. 
+
+______ (initial) Yes, please try to contact me if information is found in future studies of my genetic material that would be important to my or my family's personal health.
+______ (initial) No, don't contact me about information found from future studies of my genetic material. 
+
+Audio/video recording or photography 
+
+We are asking for you to allow us to [INCLUDE ALL RECORDING PROCEDURES SUCH AS AUDIOTAPE (SOUND), VIDEOTAPE (MOTION PICTURE), PHOTOGRAPH (PICTURE)] you as part of the research study. 
+
+The recording(s) will be used for [INCLUDE PURPOSE OF RECORDING; E.G, ANALYSIS BY THE RESEARCH TEAM, POSSIBLE USE AS A TEACHING TOOL TO THOSE WHO ARE NOT MEMBERS OF THE RESEARCH STAFF (I.E., FOR EDUCATIONAL PURPOSES), COMMERCIAL PURPOSES. IF THE TAPES WILL BE USED FOR COMMERCIAL PURPOSES, THE CONSENT FORM MUST SPECIFICALLY STATE WHETHER OR NOT THE SUBJECT WOULD BE COMPENSATED FOR THIS USE.]
+
+The recording(s) will include [INDICATE WHETHER THE SUBJECT'S NAME OR ANY OTHER IDENTIFIER WILL BE RECORDED. IF VIDEOTAPING WILL BE UTILIZED, INDICATE THE EXTENT TO WHICH THE SUBJECT'S IDENTITY WOULD BE MASKED, E.G., FACIAL FEATURES PARTIALLY BLOCKED OUT, RECORDING WILL NOT INCLUDE FACIAL PICTURES, RECORDING WILL INCLUDE FULL FACIAL PICTURES.] 
+
+The recording(s) will be stored [INCLUDE MEASURES TAKEN TO PROTECT SUBJECT'S PRIVACY, E.G., IN A LOCKED FILE CABINET WITH NO LINK TO SUBJECT'S IDENTITY, IN A LOCKED FILE CABINET AND LINKED WITH A CODE TO SUBJECT'S IDENTITY, IN A LOCKED FILE CABINET AND LABELED WITH SUBJECT'S NAME OR OTHER IDENTIFIABLE INFORMATION] and will be [INDICATE THE LENGTH OF TIME THE RECORDING(S) WILL BE RETAINED, E.G., DESTROYED UPON COMPLETION OF THE STUDY PROCEDURES, DESTROYED UPON PUBLICATION OF STUDY RESULTS, RETAINED INDEFINITELY.] 
+
+[IF RECORDING IS AN OPTIONAL PROCEDURE, INCLUDE THE FOLLOWING]
+Please initial your choice below:
+
+______ (initial) Yes, I agree to recording as described above.
+
+______ (initial) No, I do not want to be recorded. Audio/video recording or photography 
+Risks
+Text Sub-Heading WHAT ARE THE RISKS OF THE STUDY? RISKS General risks
+
+There may be risks or discomforts if you take part in this study. These include: [DESCRIBE ANY REASONABLY FORESEEABLE PHYSICAL, INFORMATIONAL OR PSYCHOLOGICAL RISKS, DISCOMFORTS OR SIDE EFFECTS AND THE LIKELIHOOD OF THE OCCURRENCE]. 
+
+[IF APPLICABLE, INCLUDE THE FOLLOWING STATEMENT] There may be other risks of taking part in this research study that we don't know about. If we learn about other risks, we will let you know what they are so that you can decide whether or not you want to continue to be in the study. 
+General risks Radiation 
+
+Radiation is an energy that is all around us. It is in the air, water, food, and ground. This is called natural radiation.
+
+Radiation is also made by man. It is in our buildings and homes. It is also in medical examinations or treatments such as X-rays. The energy used in X-rays and some other types of scans (such as bone density and Positron Emission Tomography, or PET, scans) is known as radiation.
+
+Radiation and the risks of receiving radiation are hard to measure. Experts on radiation agree that there is some risk because radiation exposure adds up over our lifetime. You should always carefully think about how much radiation you will receive from medical examinations or treatments. 
+
+A millirem (mrem) is a way of measuring radiation. On the average, each person in the United States receives about 300 mrem every year from natural radiation.
+
+People also receive about 60 mrems of radiation every year from other things such as a chest or dental X-rays, or from flying in an airplane. For example, if you have a chest X-ray you will receive about 8 mrems of radiation. If you fly in an airplane from Washington DC to Los Angeles, California and back, you will receive about 5 mrems of radiation. 
+
+This research study includes exposure to radiation. If you have had X-rays in the past or been exposed in other ways to radiation, or if you think that you might be pregnant, you must tell the investigator before you agree to be in the study.
+
+In this study, you will receive radiation from [IDENTIFY PROCEDURE OR PROCEDURES THAT INVOLVE RADIATION]. The estimated total radiation you will receive from the procedures in this study is [INSERT MREM]. This is about equal to [INSERT EXAMPLE SUCH AS CHEST X-RAY(S) OR AIR TRAVEL]. 
+Radiation risks Pregnancy/breastfeeding risks 
+
+Taking part in this study while you are pregnant could cause harm to your fetus. If you are breastfeeding, taking part in this study could cause harm to your baby. You must not take part in this study if you are pregnant or breastfeeding. If you are a sexually active woman of childbearing age and would like to take part in this study you will have to agree to use two methods of birth control. One must be a barrier method (male or female condom) and the other can be one of the following:
+o Birth control drugs that prevent pregnancy given by pills, shots, or placed on or under the skin
+o Diaphragm or cervical cap with a cream or gel that kills sperm
+o Intrauterine device (IUD)
+
+[INSERT THE FOLLOWING IF BIRTH CONTROL SHOULD BE USED AFTER DISCONTINUATION OF THE STUDY DRUG AND FOR HOW LONG] 
+You must continue to use both methods of birth control for [INSERT LENGTH OF TIME] after you stop taking study drugs.
+
+If you think that you have become pregnant while taking part in this study you must contact the investigator or study team right away. [INCLUDE ANY ADDITIONAL FOLLOW UP REQUIREMENTS] 
+Risks for pregnant or breastfeeding women No Foreseeable Risk
+
+To the best of our knowledge, taking part in this study will not hurt you. 
+No foreseeable risk Blood Draw
+
+Risks of having blood drawn are soreness and/or a black and blue mark at the site from where the blood is drawn. Sometimes, people feel uncomfortable at the time of the blood draw. Occasionally people feel lightheaded or faint. There is also a small risk of infection whenever blood is drawn. 
+Risk of blood draw Inconvenience
+
+Although it is not a risk, taking part in this study involves the inconvenience of giving [INSERT AMOUNT OF TIME] of your time in order to [INDICATE WHAT THEY WILL SPEND THEIR TIME DOING - I.E., COMPLETE A QUESTIONNAIRE]. 
+Inconvenience Deception
+
+As part of this experiment you will not be told about some of the study details. If you were told these details at the beginning of the study, it could change the research results. If you decide to be part of the study, you will be given an explanation of what information was withheld from you at the end of your study participation. 
+Deception Psychological Testing/Sensitive Topics 
+
+This research study involves psychological testing. The questions being asked may be sensitive and personal in nature. It is possible that answering some questions may cause some stress. [INSERT OPTIONS TO SUBJECT IF THEY SHOULD FEEL UNCOMFORTABLE PROVIDING A RESPONSE OR BECOME DISTRESSED, I.E., THEY CAN SKIP ANY QUESTIONS THEY WISH, THEY WILL BE REFERRED FOR COUNSELING, ETC.] Risk from sensitive questions Loss of confidentiality 
+
+A risk of taking part in this study is the possibility of a loss of confidentiality. Loss of confidentiality includes having your personal information shared with someone who is not on the study team and was not supposed to see or know about your information. The study team plans to protect your confidentiality. Their plans for keeping your information private are described in the 'confidentiality' section of this consent form. 
+Risk of breach of confidentiality Criminal or Civic Liability - Child Abuse
+
+If you give us information which suggests that your child or any other child is being abused, we are required by law to report that information to the Administration for Children's Services (ACS). Reporting this information may put you, your family, or others who are involved at risk of questioning and legal action by the authorities. 
+Risk related to reporting (child abuse) liability Criminal or Civic Liability - Illegal Activities 
+
+Telling us about your involvement in illegal activities involves the risk of criminal penalties and/or prosecution if your identity were to be revealed. In some cases, we may be required to report such information.
+
+If you give us information that you may hurt yourself or someone else, we must report this information to the authorities. 
+Risk related to reporting (illegal activities) liability 
+Benefits
+Text Sub-Heading ARE THERE BENEFITS TO TAKING PART IN THE STUDY? BENEFITS Potential direct benefit
+
+You may or may not receive personal (direct) benefit from taking part in this study. The possible benefits of taking part in this study include [DESCRIBE ANY BENEFITS TO THE PARTICIPANT WHICH MAY REASONABLY BE EXPECTED FROM THE RESEARCH]. 
+Direct benefit No direct benefit 
+
+You will not receive personal (direct) benefit from taking part in this research study. However, the information collected from this research may help others in the future. 
+Indirect benefit 
+Alternative Procedures
+Text Sub-Heading WHAT OTHER OPTIONS ARE THERE? ALTERNATIVES Alternatives
+
+You may choose not to take part in this research study. 
+Alternatives for non-treatment studies Alternatives
+
+You do not have to take part in this study to get treatment for your condition. 
+[DESCRIBE OTHER TREATMENTS AND/OR DIAGNOSTIC PROCEDURES THAT ARE AVAILABLE OUTSIDE OF THE STUDY. IF THE STUDY TREATMENT IS AVAILABLE WITHOUT TAKING PART IN THE RESEARCH STUDY, INCLUDE A STATEMENT TO THAT EFFECT HERE. ALSO INDICATE IF ANY STANDARD DIAGNOSTIC PROCEDURES OR TREATMENTS MAY BE WITHHELD OR DELAYED AS A RESULT OF STUDY PARTICIPATION.] 
+Alternatives for treatment studies 
+Confidentiality
+Text Sub-Heading WHAT ABOUT CONFIDENTIALITY? CONFIDENTIALITY Confidentiality Protection
+
+[TAILOR THE FOLLOWING PARAGRAPHS TO MEET THE NEEDS OF YOUR STUDY]
+Any information collected during this study that can identify you by name will be kept confidential. We will do everything we can to keep your data secure, however, complete confidentiality cannot be promised. Despite all of our efforts, unanticipated problems, such as a stolen computer may occur, although it is highly unlikely. 
+
+[DESCRIBE PROCEDURES FOR MAINTAINING CONFIDENTIALITY, SUCH AS THE FOLLOWING STATEMENTS] Your specimens (or questionnaire responses) will be assigned a code number, and separated from your name or any other information that could identify you. [OR] The research file that links your name to the code number will be kept in a locked file cabinet and only the investigator and study staff will have access to the file. 
+
+The following individuals and/or agencies will be able to look at and copy your research records: 
+- The investigator, study staff and other medical professionals who may be evaluating the study 
+- Authorities from Columbia University and New York Presbyterian Hospital, including the Institutional Review Board ('IRB') 
+- The United States Food and Drug Administration ('FDA') and/or the Office of Human Research Protections ('OHRP')
+- If this study is sponsored (money or supplies are being provided), the sponsor of this study, [NAME SPONSOR], including persons or organizations working with or owned by the sponsor 
+- Other government regulatory agencies (including agencies in other countries) if the sponsor is seeking marketing approval for new products resulting from this research. 
+Confidentiality protections Certificate of Confidentiality 
+
+To help us protect your privacy, we received a Certificate of Confidentiality from the National Institutes of Health (NIH). With this Certificate, we cannot be forced to provide information that may identify you, even by a court subpoena, in any federal, state, or local civil, criminal, administrative, legislative, or other proceedings. We will use the Certificate to resist any demands for information that would identify you, except as explained below.
+
+The Certificate of Confidentiality does not stop you or a member of your family from telling others about yourself or your involvement in this research. If an insurer, employer, or other person gets your written consent to receive research information, then we cannot use the Certificate to withhold that information.
+
+The Certificate cannot be used to resist a demand for information from representatives of the United States Government that is used for auditing or evaluation of projects they are responsible for overseeing or for information that must be provided in order to meet the requirements of the federal Food and Drug Administration (FDA).
+
+You should also know that this Certificate does not protect you from our responsibility to report certain communicable diseases, suspected child abuse, or danger of physical or mental harm, to appropriate agencies or authorities. 
+Certificate of Confidentiality 
+Injuries
+Text Sub-Heading WHAT IF I GET HURT WHILE I AM ON THE STUDY? RESEARCH RELATED INJURY Taking part in this research study may result in injury or harm to you. In the event of an injury resulting from your participation in this study, you should seek appropriate medical care and inform the study doctor.  In the event of an emergency you should go to an emergency room. 
+
+If you are injured or harmed as a result of participating in the study and receive medical care through the NewYork-Presbyterian Hospital (NYPH), a Columbia doctor, or any other health provider, you will be sent a bill for whatever medical care you receive.  All or part of your bill may be paid by your health insurance.  If this medical care is provided by NYPH or by a Columbia doctor, the study sponsor may pay these providers for any reasonable medical expenses to treat your injury.  The study sponsor, however, is not offering to pay for medical expenses that are covered by your insurance provider or if your injury was not caused by the study drug/device or a study procedure.  
+
+Columbia University and NewYork-Presbyterian Hospital (NYPH) are not offering to provide you the drug/device after the termination of the study or to pay you for pain, worry, lost income, the cost of your medical care or non-medical care costs that might occur as a result of your taking part in this study.  However, you do not waive any of your legal rights in signing this form.  
+Industry-sponsored initiated studies (Phases I-III) involving investigational drugs or devices
+Taking part in this research study may result in injury or harm to you. In the event of an injury resulting from your participation in this study, you should seek appropriate medical care and inform the study doctor.  In the event of an emergency you should go to an emergency room. 
+
+If you are injured or harmed as a result of participating in the study and receive medical care through the NewYork-Presbyterian Hospital (NYPH), a Columbia doctor, or any other health provider, you will be sent a bill for whatever medical care you receive. All or part of your bill may be paid by your health insurance. 
+
+Columbia University and NewYork-Presbyterian Hospital (NYPH) are not offering to provide you the drug/device after the termination of the study or to pay you for pain, worry, lost income, the cost of your medical care or non-medical care costs that might occur as a result of your taking part in this study. However, you do not waive any of your legal rights in signing this form.  
+All other studies that are greater than minimal risk [e.g., Investigator initiated, NIH, non-profit sponsor/research collaborator (other universities or foundations) or industry-supported Phase IV studies involving drugs or devices; if studies involve interventions other than drugs or devices, insert "study intervention" for "drug/device"]
+
+Compensation
+Text Sub-Heading WILL I GET COMPENSATED? COMPENSATION No Payment 
+
+You will not receive any payment or other compensation for taking part in this study. 
+No payment Payment
+
+[INCLUDE THE AMOUNT, SCHEDULE AND TERMS OF COMPENSATION (INCLUDING GIFT CARDS, PARKING REIMBURSEMENT, ETC.) OFFERED TO SUBJECTS FOR PARTICIPATION. IF TAKING PART IN THIS STUDY INVOLVES MORE THAN ONE SESSION, DESCRIBE HOW PAYMENTS WILL BE PRO-RATED IF THE PARTICIPANT WITHDRAWS PRIOR TO COMPLETING THE STUDY. (I.E. YOU WILL RECEIVE A TOTAL OF $100 FOR 10 STUDY VISITS. IF YOU CHOOSE TO WITHDRAW FROM THE STUDY BEFORE ALL VISITS ARE COMPLETED, COMPENSATION WILL BE PRORATED TO INCLUDE ONLY COMPLETED VISITS. FOR INSTANCE, IF YOU COMPLETED 2 VISITS AND DECIDED TO WITHDRAW, YOU WOULD BE PAID $20.00.).] 
+Payment terms Reportable payments
+
+According to IRS regulations, compensation payments totaling more than $600 in a calendar year are considered taxable compensation and will be reported to the Internal Revenue Service (IRS).  Reimbursement for travel or other study-related expenses are not considered compensation for tax purposes.Payments reportable to IRS 
+Additional Costs
+Text Sub-Heading WHAT ARE THE COSTS? COSTS No cost 
+
+There are no costs to you for taking part in this study. 
+No costs No added costs
+
+Taking part in this study will not involve additional costs to you. All study drugs will be given free of charge by the sponsor company or the drug makers. You and/or your insurance company will have to pay for any costs that are part of your regular medical care. 
+Medical - no added costs Added costs
+
+[DESCRIBE ANY COSTS (INCLUDING TRANSPORTATION, EXCESS PROCEDURES, COSTS OF CO-PAYMENTS/DEDUCTIBLES, ETC.) THAT SUBJECTS WILL INCUR AS A RESULT OF PARTICIPATING IN THIS RESEARCH STUDY. IF THE SUBJECT IS RESPONSIBLE FOR RESEARCH COSTS, WHETHER PERSONALLY OR THROUGH THEIR INSURANCE COVERAGE, THIS SHOULD BE EXPLAINED.] 
+Medical - added costs 
+Participation
+Text Sub-Heading DO I HAVE TO BE IN THE STUDY? VOLUNTARY PARTICIPATION Voluntary participation
+
+Taking part in this study is your choice. You can decide not to take part in or stop being in the study at any time. Your choice will not affect the treatment you receive from doctors and staff at Columbia University Medical Center [ADD, IF APPLICABLE] and New York Presbyterian Hospital. 
+Voluntary participation - CUMC Supplement for safety follow up (drug study)
+
+For your safety, you should tell us if you want to stop being in the study. You may be asked to give back any study drug that you have not used and/or come back for a final visit. 
+Safety follow-up if withdrawal Termination of participation by investigator 
+
+You should know that we will not let you participate in the study any more if [INDICATE THE CIRCUMSTANCES IN WHICH THE INVESTIGATOR OR STUDY SPONSOR WILL REMOVE A PARTICIPANT]. In addition, your participation will end if the investigator or study sponsor stops the study earlier than expected. 
+Termination by investigator Voluntary Participation
+
+Taking part in this study is your choice. You may refuse to take part in the study or withdraw from the study at any time without jeopardizing your employment, student status, or any other rights. The investigator may withdraw you at his/her discretion [INDICATE THE CIRCUMSTANCES IN WHICH THE INVESTIGATOR OR STUDY SPONSOR WILL REMOVE A PARTICIPANT]. 
+Voluntary participation - Morningside Voluntary Participation
+
+Participation in this study is voluntary. Refusal to participate will involve no penalty or loss of benefits to which you are otherwise entitled. You may discontinue participation at any time without penalty or loss of benefits to which you are otherwise entitled. 
+Voluntary participation - generic 
+Additional Information
+Text Sub-Heading WHOM DO I CALL IF I HAVE QUESTIONS OR PROBLEMS? CONTACT INFORMATION If you are receiving course credit for participating in this study, you have the right to withdraw from this study at any time without penalty. If you want to withdraw from the study, tell the interviewer and leave the room. You will still receive course credit for the study. 
+Right to Withdraw without Penalty - Course Credit If you have any questions or concerns about the study, you may contact [Insert the investigator name(s) or other contact person, and their telephone number(s). If the researcher is a student, include the advisor's name and telephone number.]
+
+If you have any questions about your rights as a subject, you may contact:
+Institutional Review Board
+Columbia University Medical Center
+722 West 168th Street, 4th Floor
+New York, NY 10032
+Telephone: (212) 305-5883
+
+An Institutional Review Board is a committee organized to protect the rights and welfare of human subjects involved in research. 
+Contact Specifics Questions
+
+If you have any questions or are hurt while taking part in this research study, you should contact [INSERT THE INVESTIGATOR NAME AND CONTACT INFORMATION, E.G., TELEPHONE NUMBER(S), EMAIL ADDRESS, MAILING ADDRESS.] 
+
+If you have any questions about your rights as a research subject, you should contact the Columbia University Institutional Review Board by phone at (212) 305-5883 or by email at irboffice@columbia.edu. 
+
+More information about taking part in a research study can be found on the Columbia University IRB website at: http://www.cumc.columbia.edu/dept/irb. 
+Contact info - CUMC IRB Questions
+
+If you have any questions or are hurt while taking part in this research study, you should contact [INSERT THE INVESTIGATOR NAME AND CONTACT INFORMATION, E.G., TELEPHONE NUMBER(S), EMAIL ADDRESS, MAILING ADDRESS. IF THE RESEARCHER IS A STUDENT, INCLUDE THE ADVISOR'S NAME AND CONTACT INFORMATION.] 
+
+If you have any questions about your rights as a research subject, you should contact the Institutional Review Board by phone at (212) 851-7040 or by email at askirb@columbia.edu. 
+
+More information about taking part in a research study can be found on the IRB website at http://www.columbia.edu/cu/irb 
+Contact info - Morningside IRB STATEMENT OF CONSENT 
+
+[A STATEMENT OF CONSENT SATISFIES THE ELEMENT OF VOLUNTARY PARTICIPATION THAT IS ARTICULATED IN THE FEDERAL REGULATIONS FOR THE PROTECTION OF HUMAN SUBJECTS AS A REQUIRED ELEMENT. IT IS NOT REQUIRED BUT MAY BE DESIRABLE TO INCREASE UNDERSTANDING. OTHER SAMPLES IN THIS CONSENT FORM BUILDER ADEQUATELY ADDRESS THE VOLUNTARY PARTICIPATION ELEMENT AND MAY BE USED IN ADDITION TO OR INSTEAD OF A STATEMENT OF CONSENT.] 
+
+STATEMENT OF CONSENT Statement of Consent
+
+[IN TERMS OF LOCATION, THE STATEMENT OF CONSENT SHOULD BE THE LAST SECTION DIRECTLY ABOVE THE SIGNATURE LINES.]
+
+Statement of consent 
+I have read the consent form and talked about this research study, including the purpose, procedures, risks, benefits and alternatives with the researcher. Any questions I had were answered to my satisfaction. I am aware that by signing below, I am agreeing to take part in this research study and that I can stop being in the study at any time. I am not waiving (giving up) any of my legal rights by signing this consent form. I will be given a copy of this consent form to keep for my records. 
+Consent statement option 1 Statement of Consent
+
+[IN TERMS OF LOCATION, THE STATEMENT OF CONSENT SHOULD BE THE LAST SECTION DIRECTLY ABOVE THE SIGNATURE LINES.]
+
+I voluntarily consent to participate in the study. I have read this consent form which includes information about the nature and the purpose of the study, as well as a description of study procedures.
+
+I have discussed the study with the investigator or study staff, have had the opportunity to ask questions and have received satisfactory answers. The explanation I have been given has mentioned both the possible risks and benefits to participating in the study and the alternatives to participation.
+
+I understand that I am free to not participate in the study or to withdraw at any time. My decision to not participate, or to withdraw from the study will not affect my future care or status with this investigator.
+
+[INSERT THE FOLLOWING PARAGRAPH IF APPLICABLE TO YOUR STUDY] 
+I confirm that I have informed the investigator or study staff to the best of my knowledge of: any medication/drug that I have taken in the month before the start of the study; and any medication/drug that I am taking or plan to take, whether prescribed or not. I agree to cooperate with the study investigator/staff and will report any unexpected or unusual symptoms.
+
+I understand that I will receive and may keep a copy of this signed and dated consent form. By signing and dating this consent form, I have not waived any of the legal rights that I would have if I were not a participant in the study. 
+Consent statement option 2 Statement of Consent 
+
+[IN TERMS OF LOCATION, THE STATEMENT OF CONSENT SHOULD BE THE LAST SECTION DIRECTLY ABOVE THE SIGNATURE LINES.]
+
+PARTICIPANT'S STATEMENT
+I have read the above purpose of the study, and understand my role in taking part in the research. I volunteer to take part in this research. I have had a chance to ask questions. If I have questions later, about the research, I can ask the investigator listed above. I understand that I may refuse to participate or withdraw from participation at any time without jeopardizing my employment, student status or other rights to which I am entitled. The investigator may withdraw me at his/her professional discretion. If I have questions about my rights as a research participant, I can call the Institutional Review Board office at [INSERT APPROPRIATE NUMBER FOR CUMC OR MORNINGSIDE, RESPECTIVELY] (212) 305-5883 [OR] (212) 851-7040. I certify that I am 18 years of age or older and freely give my consent to participate in this study. I will receive a copy of this document for my records. 
+Consent statement option 3 
+
+April 4, 2012
+
+

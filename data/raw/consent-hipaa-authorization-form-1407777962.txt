@@ -1,0 +1,337 @@
+﻿Biomedical Consent/HIPAA form, Version Date 5.16.14 (replaces 7.30.13)
+
+INSTRUCTIONS (should be deleted)
+Instructions are in text boxes and should be deleted.
+
+Use language understandable to the subject (i.e., 8th grade level).
+
+Do not type in the footer.  At approval, the IRB will merge the IRB number and Expiration Date into the footer.   
+
+Northwestern University or Rehabilitation Institute of Chicago 
+ PI's Department 
+
+Consent Form and HIPAA Authorization for Research
+
+
+PROTOCOL TITLE:   Title should match protocol and grant     
+
+PRINCIPAL INVESTIGATOR: 	 Name, Degree  
+
+SUPPORTED BY:   List all sources of monetary/non-monetary support.  If none, state Northwestern University  
+
+Introduction
+You are being asked to take part in a research study. This document has important information about the reason for the study, what you will do if you choose to be in this research study, and the way we would like to use information about you and your health.  
+
+Conflict of Interest Disclosure
+The following disclosure is made to give you an opportunity to decide if this relationship will affect your willingness to participate in this research study:
+
+ When the investigator is also the treating physician, insert:    
+Your doctor, who is also the person responsible for this research study, For cases when the subjects will not always be recruited by their doctor, you may use “If your doctor is also the person responsible for this research study, please note that he/she…"  is interested in both your clinical care and the conduct of this research study.  You have the right to discuss this study with another person who is not part of the research team before making your decision whether or not to be in the study. 
+
+For any other type of conflict of interest, use the IRB's template language: http://irb.northwestern.edu/templates-forms/consent 
+What is the reason for doing this study?
+The purpose of this study is to…  You are being asked to participate because
+• Explain the purpose of the study and why the person is being asked to participate.
+
+• If the study involves an investigational drug or device, state this and clarify that “investigational” means it is not approved by the Food and Drug Administration”
+
+• If the study is  Double-Blind, Randomized, or Phase I-IV, insert the appropriate statement from the IRB’s template language: http://irb.northwestern.edu/templates-forms/consent 
+
+How many people will take part in this study?  Optional unless this is a Phase I study  
+The study investigators hope to enroll  #  subjects at NU and  #  nationwide.  
+
+What will you do if you choose to be in this study? 
+If you consent to participate, you will be asked to …
+
+• Describe in detail, preferably in chronological order, all study related procedures, including surveys, focus groups, audio or video taping, assignment to study groups, medications, etc.  Include where they will be performed, their frequency, and the total duration of the study. 
+
+• IRB template language for certain procedures is available: http://irb.northwestern.edu/templates-forms/consent 
+
+• Identify which procedures are experimental and which are standard of care.    
+
+• Do not include procedures which would occur regardless of the subject's participation in the study unless doing so would aid in the subject's overall understanding of the study. 
+
+What are some of the possible risks and discomforts? 
+The risks from the study procedures include…
+• Describe the reasonably foreseeable risks, side effects, and discomforts of each drug, device, or study procedure (physical, psychological, social and legal). For each procedure, drug or device, order the risks based on likelihood.    
+
+• IRB template language for certain procedures is available: http://irb.northwestern.edu/templates-forms/consent 
+
+When appropriate, insert: 
+• There may also be other side effects that we cannot predict.  or
+• This study may involve risks that we cannot predict to you or your embryo or fetus if you become pregnant. or
+• These risks may be serious and life-threatening. 
+
+Do not include 
+• Risks from procedures that would be performed regardless of whether the person chooses to participate in this study unless doing so would aid in the subject’s overall understanding of the study.  Such procedures should already be described in the section “What will you do if you choose to be in the study?”, or
+• Animal study risks unless there is has been very little research with humans and the inclusion of the risks may help to convey information about potential risks to humans such as in Phase I trials.       
+
+
+What do I need to know about reproductive health/sexual activity if I am in this study?   Include only if applicable. If the reproductive risks apply only to one gender, the paragraph below should be appropriately modified.     
+
+The effect of the study drug on human sperm and eggs has not been studied. The effects on the developing fetus using the study drug during pregnancy and the risk of birth defects are also unknown or may be unforeseeable.   If data exists about the safety of the drug during pregnancy add it here.    Therefore, both men and women should not attempt pregnancy and women should not be pregnant or breast-feeding while taking part in this study   or for XX amount of time after completing the study .
+
+If sexually active, both men and women should use an effective method of birth control while taking the study drug. Barrier contraceptives (condoms or diaphragm) with spermicide, intrauterine devices (IUD’s), hormonal contraceptives, oral contraceptive pills, surgical sterilization, and complete abstinence are examples of effective methods. If you or your partner become pregnant while taking the study drug, it is important that you tell your study nurse/doctor immediately. You may have to stop the study drug.  Other treatment options will be discussed with you if you stop the study drug.
+
+If subjects should be informed of methods to protect against sexually transmitted diseases, insert the following statement, otherwise delete: Only methods that use condoms provide reasonable/true protection against sexually transmitted diseases.  
+
+If participating subjects are postmenopausal women, the paragraph below should be included, otherwise, delete:   
+Since you are considered to be postmenopausal, you are not required to use contraception while in this study.  Rarely, women considered to be postmenopausal become pregnant.  If you suspect that you become pregnant while taking the study drug, it is important that you tell the study nurse/doctor immediately.  You may have to stop the study drug.  Other treatment options will be discussed with you if you stop the study drug.
+
+What are the Possible Benefits for Me or Others?
+• Describe any benefits that can reasonably be expected. The IRB has template language for some procedures: http://irb.northwestern.edu/templates-forms/consent   
+
+• Exclude: 
+o Statements indicating that the subjects may benefit from closer monitoring of their condition 
+o Statements regarding free treatment
+o Statements regarding payments or reimbursement to subjects for their participation.  This should be stated in the Financial Information section 
+
+You are not likely to have any direct benefit from being in this research study.
+ Or    
+The possible benefits to you from this study include . . .  
+ And/Or 
+Taking part in this study may help scientists to better understand…
+
+What other procedures or courses of treatment might be available to me?   
+You do not have to take part in this research study.  Instead of being this study, you can… describe alternative procedures or treatments,  if applicable     
+
+Are there any financial costs to being in this study?
+ THE LANGUAGE IN THIS SECTION SHOULD NOT BE CHANGED EXCEPT AS INDICATED 
+
+There will be no costs to you for being in this study.
+ Or    
+There will be tests and procedures that are done only for this study and other tests and procedures that are part of your conventional medical care (not part of the research). 
+• The sponsor  insert name  will provide you with  name of drug or test  free of charge for this study.
+• The cost of your conventional medical care will be billed to you or to your health insurance company in the usual way. However, some health insurance plans will not pay the costs for people taking part in studies. Check with your health plan or insurance company to find out what they will pay for. Taking part in this study may or may not cost your insurance company more than the cost of getting regular treatment.  If your insurance does not pay, you will be responsible for the charges of your conventional medical care. 
+
+Travel Expenses:  Include if applicable  
+
+You will be given assistance  such as parking validation or vouchers and/or reimbursement for expenses related to  specify which expenses such as parking, bus fare, train fare, etc. .  You will need to provide receipts for  specify .  You will be provided with  insert exact amount, specify the form of reimbursement (check or cash) and when it will be provided.   
+
+
+Tissue or blood samples stored for future research   Insert when applicable      
+Allowing for the storage and future testing of your tissue and blood samples will involve no cost to you. Your sample will be used only for research and will not be sold. The research done with your tissue and blood sample may lead to the development of new products in the future. No compensation will be given to you now or in the future for the use of these samples.
+
+Will I receive payment for participation in this study?    
+ View IRB Guidance regarding payment: http://irb.northwestern.edu/templates-forms/consent 
+
+You will not be paid for your participation in this study.
+ Or   
+You will get  specify dollar amount   for taking part in this research study.  It will be paid  specify method of payment and when it will occur .  If you withdraw from the study, you will be paid for the portions that you completed, depending upon  describe the plan for pro-rated payment .  
+
+ When subjects are paid by check by NU, insert:  The Accounting Services at Northwestern University will be given your name, address, and Social Security Number in order to issue a check for your study participation. Study payments are considered taxable income and reportable to the IRS. A Form 1099 will be sent to you if your total payments are $600 or more in a calendar year.
+
+ When subjects are paid by ClinCard by RIC, insert: 
+You will be paid $XX for each session that you attend (total of $XX). These funds are provided to help support you with time and travel associated with your participation.  RIC is moving away from using petty cash.  During this transition period you may be paid in cash or by ClinCard. If a ClinCard is available when you enter into the study, you will be paid by card. If a ClinCard is not available, then you will receive cash payments on the day of your research visit.
+
+If you are issued a ClinCard, which is a specially designed debit card for clinical research, your funds will be loaded as appropriate. When a visit is completed, funds will be approved and loaded onto your card. The funds will be available within 1 day after being loaded and can be used at your discretion. You will be issued one card for the duration of your participation. If your card is lost or stolen, please call (866) 952-3795 or ask a coordinator for a replacement ClinCard.
+
+Fees are incurred if used at an ATM (fees vary by location).  However, if the card is used for in-store or online purchases via credit or debit, or presented to a bank teller, there are no associated fees and no expiration date.  See the Tips for Using the attached ClinCard Sheet for more information.
+What should I do if I am injured as a result of being in this study? 
+• INCLUDE THIS SECTION IF THE STUDY IS MORE THAN MINMAL RISK. THE LANGUAGE SHOULD NOT BE CHANGED EXCEPT AS INDICATED 
+
+•  When unfunded, PI initiated, or federally funded, insert:  
+If you become ill or get an injury or illness as a result of study (medications, devices or procedures), you should seek medical treatment through your doctor or treatment center of choice. You should promptly tell the study doctor about any illness or injury.  
+
+The hospital [university, researchers] will not pay for medical care required because of a bad outcome resulting from your participation in this research study. This does not keep you from seeking to be paid back for care required because of a bad outcome.
+
+• When industry sponsored, insert the language below.  See the IRB's policy statement regarding modifications to the language:  http://www.irb.northwestern.edu/policies   
+
+If you have an injury or illness from taking the study  drug or device or procedures required for this study, the reasonable medical expenses required to treat such injury or illness may be paid for by the study sponsor.   
+ 
+The coverage for such injury or illness is only available if the Northwestern University principal investigator  and study sponsor if applicable  have decided that the injury/illness is directly related to the study  drug or device or study procedures and is not the result of a pre-existing condition or the normal progression of your disease, or because you have not followed the directions of the study doctor. If your insurance is billed, you may be required to pay deductibles and co-payments that apply.  You should check with your insurance company about any such payments.
+
+ If I have questions or concerns about this research study, whom can I call?
+You can call us with your questions or concerns. 
+
+If you have any illness or injury during your time on this study, you should call us promptly.  Delete if not applicable. 
+
+ Insert PIs name (required) is the person in charge of this research study. You can call him/her at  insert phone #  during  i.e., Monday through Friday, from 9am to 5pm .  
+
+You can also call  insert research staff's name and phone #  with questions about this research study. 
+
+The sentence below is required only for interventional studies where subjects may have side effects where they need to speak to somebody off-hours.  The phone # should connect the subject to a live person and not an answering machine.  This person should understand how to reach the appropriate person on the study team, whether it be the PI or study coordinator.   
+For problems arising evenings or weekends, you may call  insert name and phone #. 
+
+What are my rights as a research subject? 
+THE LANGUAGE IN THIS SECTION SHOULD NOT BE CHANGED EXCEPT AS INDICATED 
+If you choose to be in this study, you have the right to be treated with respect, including respect for your decision whether or not you wish to continue or stop being in the study.  You are free to choose to stop being in the study at any time.  
+
+Choosing not to be in this study or to stop being in this study will not result in any penalty to you or loss of benefit to which you are entitled.  Specifically, your choice not to be in this study will not negatively affect your right to any present or future medical treatment,  Insert if applicable your class standing (for students enrolled in a class at NU), or your present or future employment (for employees at NU or its affiliates).  
+
+ Insert if applicable Any new findings developed during the course of this research that may affect your willingness to continue in this study will be shared with you. 
+
+ Insert if applicable Your participation in this study may be stopped by the investigator without your consent if  specify conditions .  
+
+If you want to speak with someone who is not directly involved in this research, or have questions about your rights as a research subject, please contact the Northwestern University Institutional Review Board (IRB) Office. You can call them at 312-503-9338.
+
+Will I have access to any new inventions?  Insert when RIC is a site 
+
+You may be given access to new inventions that are being developed by the principal investigator, the study sponsor, or other people involved in the study.  Certain laws can make it harder to obtain legal protection for a new invention shared with a study participant, unless the study participant agrees to keep information about the invention confidential.  You agree to keep confidential information you may receive about new inventions, such as new drugs, new devices, or new methods. 
+
+What about my confidentiality and privacy rights?  
+THE LANGUAGE IN THIS SECTION SHOULD NOT BE CHANGED EXCEPT AS INDICATED 
+We are committed to respect your privacy and to keep your personal information confidential.  When choosing to take part in this study, you are giving us the permission to use your personal health information that includes health information in your medical records and information that can identify you. For example, personal health information may include your name, address, phone number or social security number. Your health information we may collect and use for this research includes: 
+• All information in a medical record 
+• Results of physical examinations
+• Medical history
+• Lab tests, or certain health information indicating or relating to a particular condition as well diaries and questionnaires
+• Records about study medication or drugs
+• Records about study devices
+• HIV testing results
+• Substance abuse information: specify    
+• Mental Health information:   specify   
+• Genetic health information:   specify   
+
+Modify the list above to reflect all health information that may be used or disclosed for research purposes. 
+
+Insert the following sentence if mental health information is the only item listed above; otherwise, delete:   
+Illinois State Law prohibits use and disclosure of your mental health information if the use and disclosure is not specifically permitted by this document
+
+Insert the following information if Northwestern Medical Group is a study site:
+During this study you may be coming to the Northwestern Medical Group (NMG) clinical offices for research appointments or to get clinical services, such as lab tests, needed for the study.  When that happens, you will be scheduled for these services through the NMG computer system.  When a clinical exam or lab is done by NMG or one of its employees for the purpose of this research study, that information will be kept in both NMG's clinical records and in the study records.
+
+The following groups of people may give the researchers information about you:  
+• All current and previous health care providers, including but not limited to the Rehabilitation Institute of Chicago (RIC), Northwestern Medical Group (NMG), Northwestern Memorial Hospital (NMH).  delete names which are not applicable    
+
+Once we have the health information listed above, we may share some of this information with the following people. Please note that any research information shared with people outside of Northwestern University and its clinical partners (or affiliates) will not contain your name, address, telephone or social security number or any other direct personal identifier unless disclosure of the direct identifier is required by law [except that such information may be viewed by the Study sponsor and its partners or contractors at the Principal Investigators office]  
+
+ Delete any of the paragraphs below which do not apply to this study  
+• Authorized members of the Northwestern University (if appropriate add “and the Rehabilitation Institute of Chicago”) workforce, who may need to see your information, such as administrative staff members from the Office for Research, Office for Research Integrity and members of the Institutional Review Board (a committee which is responsible for the ethical oversight of the study), 
+
+• Clinical affiliates, including but not limited the Rehabilitation Institute of Chicago (RIC), Northwestern Medical Group (NMG), Northwestern Memorial Hospital (NMH), and the Ann & Robert H. Lurie Children’s Hospital of Chicago (Lurie Children’s).  Your participation in this clinical trial will be tracked in an electronic database and may be seen by investigators running other trials that you are enrolled in and by your healthcare providers.    Required for all studies that must register subjects in eNOTIS, otherwise delete 
+
+• Clinical affiliates, including but not limited to Northwestern Medical Group (NMG) and Northwestern Memorial Hospital (NMH), for purposes including, but not limited to, the affiliate’s provision of care to you and/or the affiliate’s scheduling of appointments and/or billing activities. 
+
+• Other University research centers and University contractors who are also working on the study,
+
+• Study monitors and auditors who make sure that the study is being done properly, 
+
+• Pharmaceutical Company insert name  who is sponsoring the study, and that company’s contractors and partners.
+
+• Government agencies and public health authorities, such as the Food and Drug Administration (FDA) and the Department of Health and Human Services (DHHS).
+
+• Registries or other research-related databases:  State the name and purpose of all registries, other than those maintained by government agencies or public health authorities, to which identifiable information will be directly disclosed by the researcher and/or research staff associated with the study.    
+
+• The study doctor must report positive HIV tests to the Illinois Department of Public Health (IDPH). The IDPH keeps track of all persons in the state with positive HIV tests. The database that keeps track of this information is coded so that your name does not appear with your HIV status. You are given a unique identification number. This helps keep your name private. Required if subjects undergo HIV testing 
+
+• Others:  Specify by name or category any other individuals or organizations who may access, receive, or use the personal health information in connection with the study    
+Those persons who get your health information may not be required by Federal privacy laws (such as the Privacy Rule) to protect it.  Some of those persons may be able to share your information with others without your separate permission.
+
+The results of this study may also be used for teaching, publications, or presentation at scientific meetings.  
+
+Certificate of Confidentiality  Include if applicable  
+The principal investigator has a Certificate of Confidentiality from the federal government.  A Certificate of Confidentiality helps protect the privacy of human research participants enrolled in studies that collect sensitive information.  Certificates protect against legal demands, such as court orders and subpoenas, for information that could identify you in this study.   For additional information about Certificates of Confidentiality see http://grants.nih.gov/grants/policy/coc/faqs.htm.
+
+Recommended information: 
+In this study, you will be asked about illegal activities or highly personal behavior. We have obtained a Certificate of Confidentiality from the federal government and we will only release your study records if you ask us in writing.
+
+If acquiring a Certificate of Confidentiality would be excessive, consider the following: 
+In this study, you will be asked about  e.g.,  illegal activities, sensitive information . We will keep information about you as confidential as possible, but complete confidentiality cannot be guaranteed. On rare occasions, courts have subpoenaed research records.
+
+Mandated Reporter Language  Include if applicable 
+
+In studies in which researchers are probing for or likely to elicit information about child or elder abuse or neglect, the State of Illinois requires researchers to report such information to authorities. The following statements should be added:  
+
+If we learn about current or ongoing child  or elder   abuse or neglect we are required by law to report this to local law authorities.
+ Or    
+The only exception to our promise of confidentiality is that we are legally obligated to report evidence of child  or elder   abuse or neglect.
+ Or    
+We will not ask you about child  or elder  abuse or neglect, but if you tell us about child  or elder  abuse or neglect we are required by law to report your name to state authorities.
+
+ClinicalTrials.gov 
+Include this statement only if this study is to be reported to ClinicalTrials.gov. For guidance, go to www.clinicaltrials.gov.  The administrator for Clinicaltrials.gov at NU is Barb Ferry b-ferry@northwestern.edu. 
+A description of this clinical trial will be available on http://www.ClinicalTrials.gov as required by U.S. Law. This Web site will not include information that can identify you. At most, the Web site will include a summary of the results. You can search this Web site at any time.  
+
+Please note that:
+• You do not have to sign this consent form.  If you do not, it will not affect your treatment by health care providers, or the payment or enrollment in any health plans, or affect your eligibility for benefits. However, you will not be allowed to take part in this research study. 
+• You may change your mind and “take back” (revoke) this consent at any time. Even if you revoke this consent, the Principal Investigator may still use or share health information that was obtained about you before you revoked your consent as needed for the purpose of this study. To revoke your consent for the use of your health information, you must do so in writing to: 
+PI’s Name:
+Institution: 
+Department: 
+Address:
+• Unless you revoke your consent, it will not expire.  
+    If mental health information is collected, you must use the paragraph below instead:  
+This consent expires on _______. After this date, Northwestern University may not gather new information about you, use or disclose your personal health information collected in this study for any purpose other than the research study described in this consent unless it obtains permission to do so from you.
+
+• If you “take back” (revoke) your consent to use any blood or tissue taken for the study, the Principal Investigator will make sure that these specimens are destroyed or will make sure that all information that could identify you is removed from these samples. 
+
+Optional Study Elements:
+• This section should include any special consideration where explicit consent is required for optional elements of the research (such as audiotaping, videotaping, storing photographs for future use, or using the subject’s actual name in research publications).  
+• Permission to use audio or video recording of subjects in the classroom, at professional meetings or in publications will only be allowed if it is relevant to understanding the results.
+• Research consent forms should not include language asking subjects to consent to the use of photos for advertising, publicity and promotional purposes, since these are not research-related uses. Such use should be covered in a separate document from the sponsor and does not require review by the IRB.  
+
+Please initial one of the following to indicate your choice:
+_____ (initial) I agree to…
+_____ (initial) I do not agree to… 
+
+
+Consent Summary: 
+I have read this consent form and the research study has been explained to me. I have been given time to ask questions, and have been told whom to contact if I have more questions.  I agree to be in the research study described above. A copy of the consent form will be provided to me after I sign it.  
+
+ Required for studies conducted at NMH, NMG and the RIC  
+A copy of this signed consent document, information about this study and the results of any test or procedure done may be included in my medical record and may be seen by my insurance company.
+
+
+_____________________________________________________		__________
+Subject’s Name (printed) and Signature					Date
+
+
+_____________________________________________________		__________
+Name (printed) and Signature of Person Obtaining Consent			Date
+
+
+      For studies performed at the Rehabilitation Institute of Chicago, where subjects might not be physically able to sign, the following sentence may be added: 
+      
+      “Subject unable to sign due to _________[insert reason] . Subject gave verbal permission.”  The consent must be witnessed.
+
+___________________________________________________	              
+Witness [print]	
+
+___________________________________________________                 __________
+Witness [signature]                                                                                        Date
+[Can be the person obtaining the signature of the subject or of the subject’s personal representative]
+
+
+For studies using mental health information, the consent must be witnessed:   
+
+_____________________________________________________	         __________
+Witness’ Name (printed) and Signature	          Date				
+ [Can be the person obtaining the signature of the subject or of the subject’s personal representative]
+
+	
+
+For subjects unable to give consent, permission to participate is given by the following authorized subject representative:      
+
+
+_____________________________________________________           
+Authorized subject representative [print]
+
+ ____________________________________________________          ____________
+Authorized subject representative [Signature]                                          Date
+
+My authority to sign as the subject’s authorized representative. 
+
+    Parent
+    Spouse
+    Legal Guardian
+    Authorized Agent (e.g., Health Care Power of Attorney)
+
+
+
+
+
+
+
+Version Date: 
+
+
+		 
+«IRBNo»
+
+Page 1 of 1
+			          NU IRB Approved through «ExpireDate»
+			
+
+
+

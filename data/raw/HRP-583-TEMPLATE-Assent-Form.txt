@@ -1,0 +1,99 @@
+﻿Instructions:
+● Complete the assent form based on the research protocol.
+● Some items in this template are optional or based on certain types of studies. Review the guidance throughout the template.
+● Refer to HRP-013 Legally Authorized Representatives, Children, and Guardians, HRP-090 Informed Consent Process for Research, HRP-091 Written Documentation of Consent in the HRPP Toolkit Library.
+● For additional resources on drafting a consent form, consider the following:
+○ Medical terms, procedures, and conditions for younger children and teenagers
+○ Plain Language Thesaurus for Health Communications
+○ Clear Language and Design
+○ MN Health Literacy
+○ Readability calculator (use Flesch-Kincaid score)
+● Remove help text and instructions before submitting the assent form draft to the IRB. 
+● The readability of the assent has to be age appropriate which means it could be at a 1st or 3rd or 6th grade reading level or anything in between depending on the age or circumstances of the minor. For example, detained adolescent youths typically have a reading level of 3rd grade. Do not assume that literacy and age are correlated.
+● Young people are often confused by the "we" in the consent template. Unless there are a number of people involved in obtaining assent, use the pronoun 'I,' not 'we.'
+
+
+
+
+
+University of Minnesota
+Assent to Participate in Research
+
+Title of Research Study: Study Title
+Researcher: Name of Investigator
+Sponsor: Name of Sponsor
+What is research?
+Doctors and researchers are committed to your care and safety. There are important differences between research and treatment plans:                                                                  
+* The goal of research is to learn new things in order to help groups of kids in the future. Researchers learn things by asking a question, making a plan, and testing it. [For medical studies, otherwise delete.] In some kinds of research they are trying to find a new ways to help kids feel better. They do not know if the new medicine or treatment will work.  
+* The goal of treatment is to help you get better by using medication, therapy, surgery or other things that usually makes kids feel better. Sometimes treatments help make you feel better or get rid of the condition completely. Doctors can make changes to your treatment plan as needed. 
+Why am I being asked to take part in this research study?
+A research study is usually done to find a better way to treat people or to understand how things work. You are being asked to take part in this research study because you are [insert description of why they are being asked to take part].
+What should I know about being in a research study?
+You do not have to be in this study if you do not want to do so. It is up to you if you want to participate and if you want to, talk to your parents about any questions or concerns you have about the study. You can choose not to take part now and change your mind later if you want. If you decide you do not want to be in this study, no one will be mad at you. You can ask all the questions you want before you decide.
+Why is this research being done?
+In this study, I want to find out more about [insert purpose of the study in words understandable to the child].
+How long will the research last?
+I expect that you will be in this research study for one session that will last [insert duration.]
+What happens if I say "Yes, I want to be in this research"?
+If it is okay with you and you agree to join this study, you will be asked to [insert description or list of tasks they will be asked to complete (i.e. survey, tests, interviews, etc.).] 
+Is there any way being in this study could be bad for me?
+[Delete this section if there are no risks or discomforts.]
+[The risks of procedures may be presented in a table form.]
+[Describe each of the following risks, if appropriate. If known, describe the probability and magnitude of the risk.]
+●  	Physical risks
+●  	Psychological risks
+●  	Privacy risks
+●  	Legal risks
+●  	Social risks
+●  	Economic risks
+●  	Group or community risks
+Important information for girls [Remove if not applicable]
+[Include this information when appropriate for studies including girls that have reached puberty and there are risks related to pregnancy or breastfeeding. Otherwise remove.]
+Because of the possible risk, you cannot participate in this study if you are pregnant or breastfeeding.  You will have a pregnancy test before you begin any part of the study.  If the test shows that you are pregnant, you cannot participate in this study.
+Your parent/guardian will not be told the results of the pregnancy test without your permission.  But, if your doctor believes that being pregnant may cause serious problems for your health, they may be forced to tell your parent/guardian the pregnancy test results.
+If you are sexually active, you must agree to use an approved method of birth control during the study.  Your study doctor or nurse can discuss acceptable methods of birth control with you.
+You have the right to choose not to sign this form for any reason.  If you do not sign, you cannot participate in this study.
+What happens to the information collected for the research?
+The researchers will share your information, including research study records, to only people who have a need to review this information. For example, sometimes researchers need to share information with the University or other people that work in research to make sure the researchers are following the rules. 
+What else do I need to know?
+If you agree to take part in this research study, the researcher will [describe any compensation that will be given to the child, when appropriate.]
+Who can I talk to?
+For questions about research appointments, the research study, research results, or other concerns, call the study team at:
+Researcher Name:
+Phone Number:
+Email Address:Study Staff (if applicable):
+Phone Number:
+Email Address: 
+This research has been reviewed and approved by an Institutional Review Board (IRB), a group of people that look at the research before it starts. This group is part of the Human Research Protection Program (HRPP). To share concerns privately with the HRPP about your research experience, call the Research Participants' Advocate Line at 612-625-1650 or go to www.irb.umn.edu/report.html. You are encouraged to contact the HRPP if:
+ 
+●      Your questions, concerns, or complaints are not being answered by the research team.
+●      You cannot reach the research team.
+●      You want to talk to someone besides the research team or your parents.
+●      You have questions about your rights as a research participant.
+●      You want to get information or provide feedback about this research.
+
+
+
+Optional Elements:
+[Revise according to the study]
+The following research activities are optional, meaning that you do not have to agree to them in order to participate in the research study. Place your initials by each statement below to let us know your willingness to participate in these activities that may be required or optional.
+
+I agreeI disagree_______________The researcher may audio or video record me to help do the research. The researcher will not share these recordings with anyone outside of the immediate study team, University, or other people that need to for the research._______________The researcher may audio or video record me for use in scholarly presentations or publications, like a journal article. My identity may be shared as part of this activity, although the researcher will attempt to limit the ability to identify me. I understand what it means if my identity in some way is shared with others._______________I agree to take a pregnancy test and/or use birth control if I am sexually active and agree to tell my doctor if I become pregnant. 
+
+Signature Block for Child Assent
+		
+______________________________________________________      __________________
+Signature of child		                                                                        Date
+	
+______________________________________________________      
+Printed name of child	
+		
+______________________________________________________      __________________
+Printed name of person obtaining assent                                                    Date
+		
+______________________________________________________     
+Signature of person obtaining assent		                                  
+Assent Form
+
+
+

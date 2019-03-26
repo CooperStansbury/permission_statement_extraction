@@ -1,0 +1,129 @@
+﻿Delete the red text prior to submitting this form to the IRB.
+Sample language is in italics
+Required language is in regular text
+
+The University of Arizona Consent to Participate in Research
+
+
+Study Title:Principal Investigator:Sponsor (delete if not sponsored)
+This is a consent form for research participation.  It contains important information about this study and what to expect if you decide to participate.  Please consider the information carefully. Feel free to discuss the study with your friends and family and to ask questions before making your decision whether or not to participate.
+
+Why is this study being done?
+Explain the purpose of the study and a statement that the study involves research.
+
+What will happen if I take part in this study?
+Explain the procedures to be followed. Specifically identify any procedures that are for research only.
+
+How long will I be in the study?
+Explain the expected duration of the subject's participation.
+
+How many people will take part in this study?
+Identify the approximate number of subjects you plan to enroll in the study, both total (study-wide) and local (if different).
+
+Can I stop being in the study?[A1]
+Explain that participation is voluntary, refusal to participate will involve no penalty or loss of benefits to which the subject is otherwise entitled and the subject may discontinue participation at any time without penalty or loss of benefits to which the subject is otherwise entitled.
+
+What risks or benefits can I expect from being in the study?[A2]
+Explain any reasonably foreseeable risks or discomforts to the subjects as a result of participation from the research. Explain any expected benefits to subjects.
+
+Will my study-related information be kept confidential?
+Specify the extent, if any, to which confidentiality of identifiable records will be maintained. Specify the entity(ies) which would potentially have access to research files.
+
+Efforts will be made to keep your study-related information confidential.  However, there may be circumstances where this information must be released.   
+
+Also, your records may be reviewed by the following groups (identify as appropriate):
+* The University of Arizona Institutional Review Board 
+* 0Office for Human Research Protections or other federal, state, or international regulatory agencies
+* The sponsor supporting the study, their agents or study monitors
+
+Who can answer my questions about the study?
+
+For questions, concerns, or complaints about the study you may contact ___________________.
+
+For questions about your rights as a participant in this study or to discuss other study-related concerns or complaints with someone who is not part of the research team, you may contact the Human Subjects Protection Program at 520-626-6721 or online at http://rgw.arizona.edu/compliance/human-subjects-protection-program.
+
+If you are injured as a result of participating in this study or for questions about a study-related injury, you may contact ____________________.
+
+An Institutional Review Board responsible for human subjects research at The University of Arizona reviewed this research project and found it to be acceptable, according to applicable state and federal regulations and University policies designed to protect the rights and welfare of participants in research.
+
+
+Signing the consent form
+
+I have read (or someone has read to me) this form, and I am aware that I am being asked to participate in a research study.  I have had the opportunity to ask questions and have had them answered to my satisfaction.  I voluntarily agree to participate in this study. 
+
+I am not giving up any legal rights by signing this form.  I will be given a copy of this form.
+Printed name of subjectSignature of subjectDate
+When appropriate, one or more of the following elements should also be included in the informed consent. Delete any of the following sections if not applicable to the Human Research.
+
+What happens if I am injured because I took part in this study?
+For research involving more than minimal risk, include the following elements: 
+* An explanation as to whether any compensation is available if injury occurs 
+* An explanation as to whether any medical treatments are available if injury occurs 
+* If compensation and/or treatment is available: what comprises that compensation and/or treatment, or where further information may be obtained
+
+A statement that the particular treatment or procedure may involve risks to the subject (or to the embryo or fetus, if the subject is or may become pregnant) which are currently unforeseeable. 
+If you suffer an injury from participating in this study, you should seek treatment.  The University of Arizona has no funds set aside for the payment of treatment expenses for this study. 
+
+You will be provided with any new information that develops during the course of the research that may affect your decision whether or not to continue participation in the study.
+
+When may participation in the study be stopped?
+Under what circumstances the subject's participation may be stopped by the investigator, the consequences of a subject's decision to withdraw from the research, and the procedures for orderly withdrawal of participation by the subject. 
+What are the costs of taking part in this study?
+Any additional costs to the subject from participating in the research (e.g. subject's time, transportation).
+Will I be paid for taking part in this study?
+Discuss the amount and timing, including a description of any proration, of any compensation (monetary and/or non-monetary).  
+
+By law, payments to subjects may be considered taxable income.
+
+Will educational records be accessed?
+* Specify the records that may be disclosed;
+* State the purpose of the disclosure; and
+* Identify the party or class of parties to whom the disclosure may be made.
+Education records used by this research project are education records as defined and protected by Family Educational Rights and Privacy Act (FERPA). FERPA is a federal law that protects the privacy of student education records. Your consent gives the researcher permission to access the records identified above for research purposes.
+
+Will my data or specimens be stored for future research?
+Include a description of what information/specimens will be stored and whom they will be shared with (both internal to the UA or outside the UA). What research may be conducted with these data/specimens - including unspecified future research, genetics, disease specific, etc. The IRB prefers optional opt-in check boxes where subjects can agree to the various levels of research use.
+
+Also include a description of how the information will be protected and stored. Explain if reconsent will be obtained from subjects for specific uses.
+
+Language in this section must match the language in the IRB application.
+
+
+If you are enrolling minors or individuals who have a legally authorized representative (LAR), include this section.
+
+
+Printed name of person authorized to consent for subject (when applicable)Signature of person authorized to consent for subject 
+(when applicable)Date
+
+Relationship to the subject
+Some studies may require signature of PI or research staff. This is an optional section.
+
+Investigator/Research Staff
+I have explained the research to the participant or the participant's representative before requesting the signature(s) above.  There are no blanks in this document.  A copy of this form has been given to the participant or to the participant's representative.
+
+Printed name of person obtaining consentSignature of person obtaining consentDate
+
+
+
+[A1]Your participation is voluntary.  You may refuse to participate in this study.  If you decide to take part in the study, you may leave the study at any time.  No matter what decision you make, there will be no penalty to you and you will not lose any of your usual benefits.  Your decision will not affect your future relationship with The University of Arizona.  If you are a student or employee at the University of Arizona, your decision will not affect your grades or employment status.
+
+[A2]If project involved Native Americans: If you are Native American and agree to participate in this study there may be risks associated with the research that impact your community. Health information, especially genetic information, can be applied to more than just you. Genetic analysis may be able to provide information about a person's parents, siblings, children, or others. Some genetic research can produce new information about entire subpopulations and individual racial or ethnic groups. It is unknown exactly what the researchers will discover, because this study involves unspecific future research.  Risks may include legal, financial, social, or physical harm.  Information may be published that conflicts with your communities' culture, traditions, mythologies, or spiritual beliefs. 
+
+
+
+
+
+
+
+
+
+		Consent Version: MM/DD/YYYY
+		Page 1 of 2	
+
+
+
+T502a - Consent Form		Consent Version: MM/DD/YYYY
+Form v 2015-01			Page 1 of 8 
+
+
+

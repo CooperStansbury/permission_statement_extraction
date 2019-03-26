@@ -1,0 +1,363 @@
+
+Note to the Investigator: Informed consent is a process, not just a form. Information must be presented to enable persons to voluntarily decide whether or not to participate as a research participant. It is a fundamental mechanism to ensure respect for persons through provision of thoughtful consent for a voluntary act. The procedures used in obtaining informed consent should be designed to educate the participant population in terms that they can understand. Therefore, informed consent language and its documentation (especially explanation of the study's purpose, duration, experimental procedures, alternatives, risks, and benefits) must be written in "lay language", (i.e. understandable to the people being asked to participate). The written presentation of information is used to document the basis for consent and for the participants' future reference. The consent document should be revised when deficiencies are noted or when additional information will improve the consent process.
+
+DIRECTIONS FOR USE OF THIS TEMPLATE: 
+* Do not adjust the bottom margin or use the footer. Do not delete the watermark fields in the footer.
+* Complete the header with the requested information (i.e. title of study and PI name). 
+* Read guidelines for each section, complete as applicable for your project and then delete the template guidelines.  
+* Example text may be used if needed but should not be italicized.  Instructions in red font should be replaced or deleted.  
+* Phrases such as "I understand..." or "You understand..." are not appropriate and should not be included in the document.
+* The document should be written at an appropriate grade level for the group of participants. Most word processors include the ability to assess the reading level.
+* The consent form should include the section headings indicated by bold, underline, and capital text.  The descriptions provided in each section are included to assist you in writing an adequate consent document. These are consistent with VA policy, Federal regulation, and University of Utah consent document requirements.  If you need assistance in preparing your document, please feel free to contact the VA Research Compliance/Risk Management Office at 801-582-1565 extension 4866.
+* For placebo trials the following must be addressed:
+o The term "placebo" must be included as part of the study title or added as a sub-title in the informed consent.  
+o Follow the section-specific instructions for placebo trials as outlined in the Procedures and Risks sections of this template.
+
+DESCRIPTION OF RESEARCH BY INVESTIGATOR
+
+TO POTENTIAL PARTICIPANTS
+Include the following statement verbatim: Federal regulations require written informed consent before participation in a research study. This is to be certain that research participants know the nature and risks of the study, as they make a decision to take part or not. You are asked to read the following information and discuss it with the investigator, so that you will be fully informed about this research study and how it may affect you. Your signature on this form means that you have been fully informed and that you freely give your consent to participate.
+
+BACKGROUND
+Explain that the study involves research and explain the purpose of the research. Briefly tell the participant why this research is being done, why the individual is being invited to participate and how this study will address the problem. Briefly explain who is conducting the study and who is sponsoring the study. If applicable, describe why current therapies are not satisfactory and why an alternative treatment or approach will be used. If applicable, state that the drug or device used in the study is or is not investigational and whether or not it has been approved by the FDA. Other suggested elements appear in the first example.
+
+Example: You are being asked to take part in a research study. Before you decide, it is important for you to understand why the research is being done and what it will involve. Please take time to read the following information carefully and discuss it with friends and relatives if you wish. Ask the research doctor or staff if there is anything that is not clear or if you would like more information. Take time to decide whether or not to volunteer to take part in this research study.  
+Example: The purpose of the study is <<explain purpose of the research using simple, accurate language>>. This study is being conducted by <<insert sponsor, granting agency, investigator, etc.>>.
+
+For studies involving Phase I, II, or III the following sample explanations may be included.
+Example: Phase 1 studies are early human studies done after the animal models have given basic data. They are done on a small number of people to find out about safe dose ranges. 
+Example: Phase 2 studies are done on a larger number of human subjects to see if a new drug is safe. They are also done to find out if the drug works and does what it is supposed to do. 
+Example: Phase 3 studies test a new drug longer and on more people. They are done to learn details about the use of the new drug in many people during their usual activities of daily living. 
+
+STUDY PROCEDURES
+This section should tell the participant about what they will have to do, undergo or experience in the study. Describe all procedures in lay language using simple terms and short sentences. Include a description of the study procedures involved and identify which treatments or procedures that are experimental. (Standard therapy should be included if it is part of the study protocol.) Provide a time-line description (e.g. week 1, week 2, 4 weeks later, etc.) of the procedures that will be performed, the drugs that will be administered, all hospitalizations, and all outpatient visits, etc. Include the total length of time that the participants will be involved both in the active study and for follow-up.
+
+If applicable, include information regarding pregnancy testing for women of childbearing potential and indicate the frequency of pregnancy testing. 
+
+The following are suggested lay definitions which may be included if applicable:
+Randomized Trial: A research trial usually involves comparing different treatments. In a trial, one group will get one treatment and another group will get a different treatment. In a "randomized trial" people are put in one group or the other by random chance. This means that a computer will decide by chance which group a person is in, not the doctors running the trial.
+
+Patients should be told what chance they have of getting the study drug/treatment e.g. a one in four chance, a 50:50 chance, etc.
+
+Single Blind Trial: In a blind trial you will not know which treatment group you are in. 
+
+Double Blind Trial: In this trial, neither you nor your doctor will know which treatment group you are in (although, if your doctor needs to find out for important medical reasons, he/she can do so).
+
+For studies involving placebo or withheld treatment, the following must be addressed:  
+* The reason for the placebo or withheld treatment must be explained.
+* "Placebo" should be defined in lay terms. 
+* Any withheld treatment must be detailed. 
+* Any related procedures should be detailed in this section. If applicable, include any plan for rescue therapy, special monitoring, or crossover to placebo.
+
+Example definition of placebo: A placebo is a dummy treatment such as a pill which looks like the pill that contains the study drug but is not. Placebos contain no drugs or active ingredients. Study participants are given placebos so that the effects of a drug can be compared against no drug.  Use of placebos also prevents the subject and the doctor from knowing whether or not the participant is getting the drug.
+  
+RISKS
+Include a description of any reasonably foreseeable risks, discomforts or side-effects the participant may experience for each procedure and drug (including the possibility that an experimental treatment may be ineffective). List all side effects which are life-altering or potentially life-altering, no matter how rare. Minor risks such as the possible breach of confidentiality should be listed.
+
+For studies involving placebo or withheld treatment, potential risks must be adequately explained, including any risks of non-treatment. 
+
+REPRODUCTIVE RISKS
+For studies involving possible reproductive risks, please include a section that includes the following:
+1. State any known risks in pregnancy, either to mother or child.
+2. State that there may be unforeseeable risks to the participant (or to the embryo or fetus) if the participant is pregnant or becomes pregnant during the study.
+3. List the acceptable methods of birth control for this research project.
+4. Describe what action will occur in the event of pregnancy (i.e. follow-up of pregnancy outcome, immediate withdrawal from the study, etc.)
+
+Example: It is possible that if the treatment is given to a pregnant woman it will harm the unborn child. Pregnant women must not take part in this study, nor should women who plan to become pregnant during the study. Women who are at risk of pregnancy will be asked to have a pregnancy test before taking part to exclude the possibility of pregnancy. If you could become pregnant must use an effective contraceptive during the course of this study. Acceptable methods of birth control include <<list acceptable methods>>.  If you become pregnant while taking part in the study, you must immediately tell your research doctor. Options will be discussed with you at that time. Whether or not you remain on study treatment, we will follow the outcome of your pregnancy and we will continue to follow you according to the study plan.
+
+BENEFITS
+This section should describe any potential benefits to the participant or to others which may reasonably be expected from the research. DO NOT include any compensation to be offered to participants. The description of benefits to the participant should be clear and not overstated to avoid coercion. If no direct benefit is anticipated, it should be stated. If research results will be given to the participant, it should be stated.
+
+Example: We cannot promise any benefits to you from your being in the study. However, possible benefits may include <<list benefits>>. 
+Example: There are no direct benefits to you from your taking part in this study. The information we get from this study may help us treat future patients.
+Example: We hope that this study will help you, however, this cannot be guaranteed.  
+
+ALTERNATIVE PROCEDURES
+Describe any alternative procedures or courses of treatment that might be advantageous to the participant. To enable a rational choice about participating in the research study, individuals should be aware of the full range of options available to them including palliative or comfort care (if applicable). If standard therapy is part of the study protocol, the participant must be told he/she can receive it outside of the study.
+
+Example: You may choose not to participate in this study. If you do not want to take part in the study, there are other choices such as <<list alternatives>>.You may discuss these options with your doctor. 
+
+CONFIDENTIALITY
+Describe the procedures used to maintain the confidentiality of the records and data pertaining to the participant, how the participant's privacy will be protected and who may inspect the records. If you are collecting social security numbers, inform participants of this fact. Tell participants whether they can withhold their social security number and still participate.  If the research is subject to FDA regulation, a statement must be included that notes the possibility that the FDA may inspect the records.  If this study is conducted at the University of Utah and the VA, a statement must be included that this is a multi-site study that combines VA data with non-VA data, and the location (i.e. University of Utah or VA) where data will be combined and analyzed for the study.
+
+Example: Results of this study may be published, but your identity will not appear in any such publication.  
+Example: We will keep all research records that identify you private to the extent allowed by law. Records about you will be kept <<indicate how records are kept, e.g. locked in filing cabinets, on computers protected with passwords or encryption, etc.>>. Only those who work with this study or are performing their job duties for <<the University, the VA, Primary Children's Medical Center, etc.>> will be allowed access to your information. 
+Example: Representatives from <<insert name of group(s) e.g. FDA, NIH, DHHS, sponsor, etc.>> may inspect and/or copy the records that identify you. Results of the study may be published; however, your name and other identifying information will be kept private. We will do everything we can to keep your records private, but cannot guarantee this.
+Example: This study is being conducted at the VA and the University of Utah.  Information about you will be shared with University researchers for this study.  The data will be stored at the <<insert location, e.g. University of Utah, VA>>.
+
+If this research represents a clinical trial that must be registered on www.ClinicalTrials.gov, you must include the following statement verbatim:
+A description of this clinical trial will be available on http://www.ClinicalTrials.gov, as required by U.S. Law.  This Web site will not include information that can identify you.  At most, the Web site will include a summary of the results.  You can search this Web site at any time.
+
+If applicable, please provide a description of the Certificate of Confidentiality and any voluntary disclosure plans by the Investigator(s). For more information regarding Certificates of Confidentiality, please refer to the IRB website.
+
+If HIV testing is performed as a result of study participation, state that additional consent will be required for the University of Utah Hospitals and Clinics or PCMC (as applicable) which describes how results will be given to the participant and the methods or opportunities participants will be given for appropriate counseling and medical care.  
+
+If testing is performed as a result of study participation for any communicable or infectious diseases reportable by Utah State law is performed as a result of study participation, the following must be addressed in this section (refer to http://health.utah.gov/epi/report.html for a current list of Utah's reportable diseases):
+* Tell the participant about the state reporting.
+* Describe how results will be given to the participant to comply with state reporting requirements.  
+* Describe the methods or opportunities participants will be given for appropriate counseling and medical care.  
+
+PERSON TO CONTACT
+Explain whom participants should contact with any questions, complaints, and concerns about the research or related matters. If the study involves serious risks, a number with 24-hour availability must be provided. If the number is a pager or the hospital operator include further instructions for contacting the appropriate individual.  
+
+Include specific information about who the participant should contact in case of a research-related injury. This should include name(s), telephone number(s), and when the person(s) listed may be contacted. If applicable, provide information about who to contact if the participant has questions about the billing of costs in the study.  
+
+Example: If you have questions, complaints or concerns about this study, you can contact <<insert name>> at <<insert phone number>>. If you think you may have been injured from being in this study, please call <<insert name>> at <<insert phone number>>. <<Insert name>> can be reached at this number during <<specify hours or state it is a number available 24-hours a day>>.
+
+INSTITUTIONAL REVIEW BOARD
+Include the following statement verbatim:  Contact the Institutional Review Board (IRB) if you have questions regarding your rights as a research participant. Also, contact the IRB if you have questions, complaints or concerns which you do not feel you can discuss with the investigator. The University of Utah IRB may be reached by phone at (801) 581-3655 or by e-mail at irb@hsc.utah.edu.  
+
+MEDICAL TREATMENT OR COMPENSATION FOR INJURY 
+Include the following statement verbatim: The VA has the authority to provide medical treatment to participants injured by participation in a VA study.  If you are injured as a result of being in this study, the VA will provide the necessary medical treatment in accordance with federal law. If you want to make a legal claim against the VA or anyone who works for the VA, special laws may apply. The Federal Tort Claims Act (28 U.S.C. 1346(b), 2671-2680) is a federal law that controls when and how a person can bring a claim against the U.S. Government. If you sign this document you re not giving up your right to make a legal claim against the United States. 
+
+If the study has a third party sponsor, the participant may have other options for treatment. The options should be explained in a separate section.  Provide a copy of the relevant contract to the VA research office so consistency can be verified.
+
+VOLUNTARY PARTICIPATION
+State that participation is voluntary. Indicate that refusal to participate will involve no penalty or loss of benefits to which the participant is otherwise entitled. Also indicate that the participant may discontinue participation at any time without any penalty or loss to benefits. If applicable, state that the participant may withdraw and still receive the same standard of care that he or she would otherwise have received.  
+
+Example: It is up to you to decide whether or not to take part in this study. If you decide to take part you are still free to withdraw at any time and without giving a reason. Refusal to participate or the decision to withdraw from this study will involve no penalty or loss of benefits to which you are otherwise entitled. If you don't take part, you can still receive all standard care that is available to you. This will not affect the relationship you have with your doctor or other staff, nor decrease the standard of care that you receive as a patient.
+
+Explain any possible consequences of a participant's decision to withdraw from the research. Describe any adverse effects on the participant's health or welfare, or any extra follow-up that may be requested, if the participant decides to withdraw from the study. Explain the procedures for an orderly termination of participation. Such an explanation may be omitted if there are no adverse consequences to withdrawal.
+
+Example: If you want to stop being in this study, please let the research doctor know. That way you can find out what should be done about your routine care outside of the study.
+
+UNFORESEEABLE RISKS
+State that participation in the study may involve risks that are currently unforeseeable. 
+
+Example: In addition to the risks listed above, you may experience a previously unknown risk or side effect. 
+
+RIGHT OF INVESTIGATOR TO WITHDRAW
+Describe foreseeable circumstances under which the subject's participation may be terminated by the investigator without regard to the subject's consent. This section may be omitted if there are no anticipated circumstances under which the subject's participation may be terminated. If withdrawal of a participant by the investigator can occur, possible reasons should be listed. Describe any procedures required for an orderly termination of participation.  
+
+Example: The investigator can withdraw you without your approval. Possible reasons for withdrawal include <<list reason(s) why the participant may be withdrawn>>. 
+
+Include a description of any adverse effects on the participant's health or welfare, or follow-up that may be requested if the participant is withdrawn from the study.
+
+COSTS TO PARTICIPANTS AND COMPENSATION
+Include a statement that veteran-participants will not be required to pay for care received as a participant in a VA research project except as follows: Certain veterans are required to pay co-payments for medical care and services provided by the VA. Veterans receiving medical care and services from the VA that are not rendered as part of the VA-approved research study, must pay any applicable co-payment for such care and services.  
+
+Example: A veteran participant will not be required to pay for care and services (treatment) received as a subject in a VA research project. However, some veterans are required to pay co-payments for medical care and services provided by the VA. These co-payment requirements will continue to apply to medical care and services provided by the VA that are not part of this study.
+
+If participants must bear any additional costs (e.g. transportation, time away from work, health costs, etc.) it must be disclosed in the informed consent information. Any such costs must be consistent with Federal laws concerning veterans' eligibility for medical care and treatment. Indicate if the participant will receive payment of any kind (i.e., money, gift certification, etc.) for participation in this study.
+
+NEW INFORMATION
+State that new findings developed during the course of the research that may affect to the participant's willingness to continue participation will be provided to the subject. This section may be omitted if new information could not reasonably used to alter participation (e.g. one-time interventions). 
+
+Example: Sometimes during the course of a research project, new information becomes available about the <<treatment/drug>> that is being studied. If this happens, your research doctor will tell you about it and discuss with you whether you want to continue in the study.  
+Example (additional text if applicable): If you decide to withdraw at that time, your research doctor will make arrangements for your medical care to continue. If you decide to continue in the study, you will be asked to sign an updated consent form. Also, on receiving new information your research doctor might consider it to be in your best interests to withdraw you from the study. He/she will explain the reasons and arrange for your medical care to continue.
+
+NUMBER OF PARTICIPANTS
+State the approximate number of participants to be enrolled. Indicate whether this study is part of a national study.
+
+Example: We expect to enroll <<enter number>> participants at the VA Salt Lake City Health Care System (VASLCHCS). 
+Example: We also expect to enroll <<enter number>> participants at <<enter number>> other medical centers.  
+
+NOTE:  The following sections may not apply to your study.  If not applicable, you can delete these headings and sections.
+GENETIC RESEARCH  
+Review current IRB guidelines to determine if it is applicable to your study and what information should be provided.
+TISSUE BANKING
+If you are planning to store blood, tissues, or samples of any kind for future research, tissue banking guidelines must be addressed. Please review the current IRB guidelines to determine the appropriate information that must be provided. If you plan to store these samples anywhere except VA property, please contact the VA Research Compliance/Risk Management Office for further instructions. 
+
+NOTE:  The following section must be kept verbatim, unless in italics below (delete this statement when you have completed the preparation of your consent form).
+RESEARCH PARTICIPANTS' RIGHTS
+I have read or have had read to me all of the preceding information.  Dr./Mr./Ms                                                                        ____________________________  has explained the study to me and answered all of my questions.  I have been told of the risks or discomforts and possible benefits of the study. I have been told of other choices of treatment available to me.
+I do not have to take part in this study, and my refusal to participate will involve no penalty or loss of rights to which I am entitled. I may withdraw from this study at any time without penalty or loss of VA or other benefits to which I am entitled.
+The results of this study may be published, but I will not be identified in publications by name, photograph, or other identifiers.  My records, including my name and results of my participation, may be revealed as required by laws and regulations of state and federal agencies. A copy of this consent form will be filed in my medical record chart at the VA Salt Lake City Health Care System.  
+If I have any questions about this study or if any problems arise during the study, I can call:  
+Dr./Mr./Ms.                                                       at                                                 DURING THE DAY and Dr. /Mr./Ms.                                            at                                   AFTER HOURS. If any medical problems occur in connection with this study, the VA Salt Lake City Health Care System will provide emergency care.
+If I have concerns or questions about this research study that the investigator has not answered, I can contact an official of the Institutional Review Board for Human Studies by calling 801-581-3655 or the VA Salt Lake City Health Care System Research Compliance Officer at 801-584-1271.
+I am aware of my rights as a participant, and I voluntarily consent to participate in this study. I confirm that I have read this consent and authorization document which explains what this study is about and how and why it is being done. I will receive a signed consent form or a photocopy of it.
+
+I agree to participate in this research study as you have explained in this document.
+__________________________
+Participant's Name
+____________________________
+Participant's Signature
+___________
+Date
+______________________________
+Name of person obtaining consent
+________________________________
+Signature of person obtaining consent
+_____________
+Date
+
+
+A witness signature block may be inserted here if required by the sponsor or it appropriate for the participant population.  Sample witness signature statements are included below.  Delete this section if you do not plan to use a witness to the consent process/signature.
+
+SAMPLE #1:
+
+WITNESS STATEMENT:
+The participant was unable to read or sign this consent form because of the following reason:
+ The participant is illiterate
+ The participant is visually impaired
+ The participant is physically unable to sign the consent form. Please describe: 
+
+
+__________________________________________________________________________
+
+__________________________________________________________________________
+
+ Other (please specify):
+
+__________________________________________________________________________
+
+
+__________________________________________________________________________
+
+I confirm that I was present as a witness for the consent process for this study.  I confirm that the participant named above was read the information in the consent document and that the participant has agreed to take part in the research study. 
+
+
+______________________________________
+Name of Witness
+
+
+
+_______________________________________                        
+Signature of Witness                                                                         
+
+_____________
+Date
+
+
+SAMPLE #2:
+
+WITNESS STATEMENT: (For Non-English Speaking Participants Only)
+Consent was obtained from the participant using a short form for non-English speakers.  The short form is available in the participant's language and this (long) consent form was read to the participant using an interpreter.
+
+As a witness, I confirm that I was present for the complete consent process for this study.  I confirm that the participant named above was read the information in this consent document in a language he/she understands and that the participant has agreed to take part in the research study.
+
+
+
+______________________________________
+Name of Witness
+
+
+
+_______________________________________                        
+Signature of Witness                                                                         
+
+_____________
+Date
+
+
+
+IMPORTANT:  This signature block for Legally Authorized Representatives (LAR) is only used for populations unable to provide informed consent.  Only use the LAR signature block if it has been explained in the new study application (subject to approval by the IRB).  Delete this if you do not plan to enroll participants using an LAR.
+
+If the participant is unable to give consent, consent is given by the following authorized personal representative of the individual:
+
+LEGALLY AUTHORIZED REPRESENTATIVE CONSENT STATEMENT:
+I confirm that I have read this consent document.  I have had the opportunity to ask questions and those questions have been answered to my satisfaction.  I am willing and authorized to serve as a surrogate decision maker for 
+
+______________________________________.
+Participant's Name
+
+I have been informed of my role and my obligation to protect the rights and welfare of the participant.  I understand that my obligation as a surrogate decision maker is to try to determine what the participant would decide if the participant were able to make such decisions or, if the participant's wishes cannot be determined, what is in the participant's best interests.  I will be given a signed copy of the consent and authorization form to keep.
+______________________________
+Name of authorized personal representative
+________________________________
+Signature of authorized personal representative
+______________
+Date
+
+If the participant is unable to give consent, indicate the legal representative's authority to act for the individual:
+ Spouse
+ Adult (18 years of age or over) for his or her parent 
+ Individual with power of attorney
+ Guardian appointed to make medical decisions for individuals who are incapacitated
+
+
+
+
+
+
+IMPORTANT:  This form must be included if the study involves the recording or pictures, audio recordings, or video recordings.  Delete this page if it does not apply to your study.
+
+CONSENT FOR USE OF PICTURE AND/OR VOICE
+CONSENT OF (Name)
+
+I hereby voluntarily and without compensation authorize pictures and/or voice recording(s) to be made of me (or of the above-named individual if the individual is legally unable to give consent) by (specify the name of the VA facility, newspaper, magazine, television station, etc.)
+
+
+
+While I am (describe the activity, if any to be photographed or recorded)
+
+
+
+I authorize disclosure of the picture and/or voice recording to (specify name and address of the organization, agency, or individual(s) to whom the release is to be made)
+
+
+
+I understand that the said picture, video and/or voice recording is intended for the following purpose(s):
+
+
+
+
+I have read and understand the foregoing and I consent to the use of my picture and/or voice as specified for the above-described purpose(s).  I further understand that no royalty, fee or other compensation of any character shall become payable to me by the United States for such use.  I understand that consent to use my picture, video and/or voice recording is voluntary and my refusal to grant consent will have not effect on my VA benefits to which I may be entitled.  I further understand that I may at any time exercise the right to cease being filmed, photographed or recorded, and may rescind my consent for up to a reasonable time before the picture, video or voice recording is used.
+SIGNATURE OF INDIVIDUAL OR OTHER LEGALLY AUTHORIZED PERSON
+DATE
+
+
+
+PERMISSION OBTAINED BY (NAME - TITLE - ADDRESS)
+
+
+
+SIGNATURE OF INTERVIEWER OR INDIVIDUAL OBTAINING CONSENT
+
+
+
+DATE
+PRODUCTION TITLE
+PRODUCTION NUMBER
+
+
+
+INDIVIDUAL'S NAME AND ADDRESS
+
+
+
+
+
+VA  Department of Veterans Affairs
+VA  RESEARCH  CONSENT  FORM
+ Page 1 of 3
+Participant Name:                                                                                                            Date:  _________                            
+Title of Study: 
+Principal Investigator:	    VAMC:    Salt Lake City (660)    
+Consent Version Date:_______________________________________  
+Sponsor Name: _________________________________________________________________________
+
+
+FOOTER FOR IRB USE ONLY
+Version: 081512
+
+"Image:Stamp"
+"Institution"
+"IRB"
+"Approved" "ApprovedDate"
+"Expiration" "ExpirationDate"
+"Number"
+VA FORM  10-1086  JUNE 1990
+
+
+
+
+
+
+VA  Department of Veterans Affairs
+VA  Authorization for Use of Protected Health Information for Research Purposes
+ Page 13 of 14
+Participant Name:                                                                                                           Date:  _________                            
+Title of Study: 
+Principal Investigator:	   VAMC:    Salt Lake City (660)      
+
+
+
+
+
+
+
+
+
+

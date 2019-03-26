@@ -1,0 +1,164 @@
+﻿Model Consent R - To use this consent form, taking the samples must involve no more than minimal risk to research participants.
+Use this consent when collecting additional blood prior to transplant in situations where it may not be completely known if, or which, protocol a participant will qualify for and there is more risk of doing a separate sampling than taking extra samples during the clinical intervention in preparation for research.
+
+Add or subtract institution names as needed. UW Consortium must include the University of Washington in this list. 
+Fred Hutchinson Cancer Research Center
+University of Washington
+Consent to donate extra tissue samples for research during a planned clinical evaluation for blood or marrow stem cell transplantation
+Protocol No.: 
+Protocol Title: 
+The FHCRC IRB requires only the PI to be listed on the consent form. Others may be added if necessary.
+ Principal Investigator: ; Telephone 
+If this consent might be signed by a legally authorized representative, parent or guardian on behalf of the study participant, add the following statement.  Otherwise delete.
+
+If you are serving as a legally authorized representative, a guardian or are providing parental permission for a child in this study, the terms  "you" and "your" refer to the person for whom you are providing consent or parental permission .
+We would like to take extra tissue samples before you join a research study.
+You are being evaluated to see if you can be in a research study using transplantation to treat your disease. During your evaluation, we take samples of your tissue (blood or bone marrow). This procedure is a normal part of the evaluation.
+When we do this procedure, we would also like to take extra samples to use if you join the study. The purpose of the study is .
+Why do we want to take extra samples now, instead of waiting for you to join the study? If we wait, we would need to repeat the sampling procedure, which could cause you discomfort. By taking the extra samples now, we can do the procedure only 1 time, not 2 times. There is no other benefit to taking the samples now.
+We would take an extra  for the study. This will add about  to the sampling procedure. We would store the extra samples, and use them if you join the study.  
+The sampling procedures include: [PROVIDE A BRIEF DESCRIPTION OF THE BLOOD DRAW, BONE MARROW BIOPSY, ETC.] 
+You do not have to let us take extra samples now. You are free to say yes or no, or to withdraw your tissue after we take it. There is no penalty or loss of benefits if you say no. Whatever you decide, your regular medical care will not change.
+If you join a different study
+If you join a different research study, we would use the extra samples for that study instead of this one.  
+You may be asked to sign a consent form before joining any other study.
+If you do not join a study
+If you do not join a research study, we would like you to donate your tissue samples for future research about cancer or other diseases and conditions.
+You do not have to donate your tissue for future research. You are free to say yes or no, even if you sign this form. Your regular medical care will not change.
+What are the risks?
+Use the following statement - UNLESS there is an increased risk by providing additional blood or marrow (e.g. given the volume taken). Then provide a description of the increased risk of the additional sample.
+We are already taking samples of your tissue (blood or bone marrow). There is no increased physical risk to having extra samples taken at the same time.
+There is a slight risk of loss of confidentiality.
+Also consider if the research involves a genetic analysis component, if so add the risk associated with genetic research.
+Results of your genetic tests may be released by accident. This risk is very low, because we keep your personal information private. If your results become known, you may have problems with family members or insurance.
+Protecting your Privacy as an Individual and the Confidentiality of Your Personal Information 
+Some organizations may need to look at your research records for quality assurance or data analysis. These include:
+Edit list as needed.
+If this is a multicenter trial and FHCRC is the coordinating center, repeat institutions listed at the beginning of the consent only if they will have access to patient-specific data or records from FHCRC participants in the study. If FHCRC is the coordinating center, collaborating center consents should list FHCRC as having access to their patient-specific data/records. 
+Delete the FDA from this list if the study is not FDA regulated.
+If this is an IND study, add IND sponsor/institution. 
+Add pharmaceutical companies or representatives if the study is industry sponsored.
+Add cooperative group (SWOG, COG, etc.) where applicable.
+Add statistical research center if statistical analysis is done and coordinated offsite.
+* Researchers involved with this study.
+* The study sponsors and their agents.
+* Institutional Review Boards (IRB), including the Fred Hutchinson Cancer Research Center IRB. An IRB is a group that reviews the study to protect your rights as a research participant.
+* Fred Hutchinson Cancer Research Center, University of Washington, Seattle Children's, and Seattle Cancer Care Alliance.
+* US National Institutes of Health, National Cancer Institute, Office for Human Research Protections, Food and Drug Administration, and other agencies as required.
+In the paragraph below, the last 3 sentences (beginning with "For example...") are optional; revise or delete as appropriate.
+We will do our best to keep your personal information confidential. But we cannot guarantee total confidentiality. Your personal information may be given out if required by law. For example, workplace safety rules may require health workers to contact you about lab tests. Or a court may order study information to be disclosed. Such cases are rare.
+We will not use your personal information in any reports about this study, such as journal articles or presentations at scientific meetings.
+If your research project is required to be posted to the federal clinical trial registry at  www.clinicaltrials.gov, the following statement must be included in the consent.  For more information regarding which trials need to be posted to www.clinicaltrials.gov contact the FHCRC protocol office or visit http://grants.nih.gov/grants/guide/notice-files/not-od-08-014.html
+A description of this clinical trial will be available on http://www.clinicaltrials.gov, as required by U.S. Law. This Web site will not include information that can identify you. At most, the Web site will include a summary of the results. You can search this Web site at any time.
+The following 4 paragraphs should only be included if this study will involve the conduct of study procedures at UW Medicine facilities or SCCA, or if the study procedures will be conducted by UW Physicians medical staff
+Do not include the paragraph is this study only involves the planned clinical evaluation of healthy donors for blood or marrow stem cell transplantation.  
+
+Policies of the University of Washington (UW Medicine) and the Seattle Cancer Care Alliance (SCCA) require that certain information about your participation in this research be made a part of your permanent medical record. If you do not already have a medical record at UW Medicine or SCCA, one will be created for you even if your only connection with them is as a research subject. 
+   The information in your permanent medical record will include:
+* Name of the study 
+* Name of the group or company that is paying for the research 
+* The number the group or company assigned to this study
+* The name of the researcher
+* The name of the study coordinator
+* Contact phone number for the study
+* Contact email address for the study
+* Emergency phone number for the study
+Information about your research procedures and test results may also be put in your medical record. This will include: [INSERT LIST]
+In the future, if you give permission to any person or group to look at your medical record (such as an insurance company or employer), they could receive this research information. If you have already given permission to anyone (such as your life or health insurance company) to look at your medical record, they may receive this information if they ask for a copy of your medical record. 
+If Protected Health Information (PHI) is used for research, see http://extranet.fhcrc.org/EN/sections/iro/irb/hipaa.htmlfor HIPAA compliance forms.
+
+
+Conflict of Interest - If this research study is subject to a UW Conflict Management plan, add the required UW conflict disclosure language here.  Reference UW GIM Policy 10, and the UW Human Subjects division template consent form, or the following link http://www.washington.edu/research/hsd for more information.
+Genetic Information Protection - If this research involves genetic testing include the following additional confidentiality section regarding GINA:
+
+
+How is my genetic information protected?
+
+
+A federal law called the Genetic Information Nondiscrimination Act (GINA) helps protect your genetic information.  
+
+GINA restricts access to your genetic information so that it can not be used for health insurance coverage decisions. GINA won't allow health insurance companies or group health plans to:  
+* ask for your genetic information you have provided in research studies.
+* use your genetic information when making decisions regarding your eligibility or premiums
+GINA does not help or protect you against genetic discrimination by companies that sell life, disability or long-term care insurance.  
+
+
+
+For more information
+If you have questions or concerns about this study, you may talk to your doctor anytime. Other people you can talk to are listed below.
+In the table below under "Your rights," include both FHCRC and UW contact information if this is a UW Consortium study.
+
+If you have questions about:Call:This study (including complaints and requests for information) (Dr. )
+ ()If you get sick or hurt in this study (there are no plans to provide compensation).  (Dr. )Your rights as a research participant206-667-4867 (Karen Hansen, Director of Institutional Review Office, Fred Hutchinson Cancer Research Center)
+206-543-0098 (Human Subjects Division, University of Washington)Your bills and health insurance coverageWe would like you to donate some of your tissue samples for other research.
+Delete this section if not applicable.
+Use the terms "samples," "tissues," or "specimens" as appropriate, but consistently.
+If you do not join a study we would like you to donate your tissue for future research. This may include genetic research.
+You do not have to donate your tissue for research. You are free to say yes or no. Your regular medical care will not change. If we want to use your tissue for other research or share it with other scientists for research, an ethics review committee (IRB) will review the request. The IRB will decide if we need to ask for your consent to do the research.
+Your donated tissue will be stored in a secure location. It will be used for research only. This research may be done by for profit companies. Researchers will not report their results to you or your doctor. The research results will not appear in your health record. They will not affect your care.
+Research on your tissue may help develop new products. If these products make money, there is no plan to share the money with you.
+If you donate your tissue for research, you can change your mind anytime. Just call Dr.  at  and tell us you do not want us to use your tissue. There is no penalty for changing your mind. Your regular medical care will not change. However, if you do change your mind, we cannot return donated tissue. We may be able to destroy tissue we know is yours. But if it is stored or shared anonymously (without any label saying who it belongs to), we cannot destroy it. In this case it would still be used for research, but no one would know it was yours.
+Read each question and think about your choice. When you decide on each question, please circle YES or NO.
+Do you agree to donate your tissue to study cancer?
+(circle one)
+YES	NO	Initials: 	Date:
+
+Do you agree to donate your tissue to study other health problems, such as diabetes, Alzheimer's disease, or heart disease?
+(circle one)
+YES	NO	Initials: 	Date:
+
+Is it OK if someone contacts you in the future to ask you to donate more tissue for research?
+(circle one)
+YES	NO	Initials: 	Date:
+Future genetic research:
+Delete this section if not applicable.
+Several genetic databases are available to help researchers understand different diseases.  These databases contain DNA information and other data helpful to study diseases.  DNA comes from cells in your body and contains all your genetic information.  As part of this study we would like to put your genetic information into these databases.  Your information may benefit future research.
+All of your personal information would be removed.  Your name, address, etc will not be in the database.  Only genetic information and information about your condition will be sent to the database.
+There is a small risk that your genetic information could be matched against other genetic databases to get your name.  Once we release your data to the central database we are no longer in control of the information.  
+
+Is it OK if we send your genetic information to one or more databases for future research?
+(circle one)
+YES	NO	Initials: 	Date:
+
+Signature:
+Adjust the "(age 14+)" for the appropriate range (e.g., age 14 to 17) to reflect inclusion criteria for teens in this study who would provide documented assent by signing the main consent form in addition to their parent(s) who provide parental permission for the teen.  Do not reflect an age lower than 14+ in the main consent.   If only adults will be enrolled, remove the "Age" from the signature line.
+If you have read this form (or had it read to you), asked any questions, and agree to participate, please sign:
+Participant (age 14+) / Printed Name, Signature, and Date
+
+If this consent form might be used to obtain parental permission, one parental signature line should be included.  
+Parent or legal guardian / Printed Name, Signature, and Date
+
+If consent might be obtained from a legally authorized representative, include the following statement and signature line.
+
+Note: Use of legally authorized representative to consent on behalf of participants who lack the capacity to provide legally effective informed consent must be prospectively approved by the IRB.
+Legally Authorized Representative: If you have read this form (or had it read to you), asked any questions, and consent on behalf of the participant, please sign:
+Legally authorized representative / Printed Name, Signature, and Date
+
+Relation to the participant
+
+
+Include a Witness signature line on your consent only if witness signature is required by regulations (e.g., physical incapacity to read or write English or difficulty with English language comprehension), IRB directive or agreement with study sponsor.
+If you served as an interpreter or witness during the consent process, sign below to indicate you attest to the accuracy of the presentation to the participant and the apparent understanding of the research by the participant.
+Witness or Interpreter / Printed Name, Signature, and Date
+
+
+Researcher's statement
+
+The Researcher's statement and signature is mandatory in the case of studies needing to comply with ICH guidelines (typically required by Industry sponsors). Unless you need to comply with ICH, this statement and signature is not required. A pre-signed consent form is not acceptable.
+
+If you have a research statement and signature line on your IRB approved consent form, you are required to have the person conducting the consent discussion sign the researcher statement.I have discussed the research study, including procedures and risks, with the person signing above. A copy of the signed consent form will be given to the participant.
+Person obtaining consent signature / Printed Name, Signature, and Date
+
+
+
+Protocol: 
+Current version date: 
+Previous version date: 
+Copies to: 
+
+058IRBform_ModelConsentR.doc / Version 5.0 / 09-14-14 / Page 2 of 2
+
+
+
+058IRBform_ModelConsentR.doc / Version 5.0 / 09-01-14 / Page 1 of 1
+

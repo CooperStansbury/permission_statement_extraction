@@ -1,0 +1,382 @@
+﻿Title of Study: must match the title listed on the protocol EXACTLY
+
+Consent to be part of a Research Study
+To be conducted at
+Select appropriate Study sites
+South Texas Veterans Health Care System,
+University of Texas Health Science Center at San Antonio,
+University Health System (UHS),
+Texas Biomedical Research Institute,
+Southwest Research Institute,
+Christus Santa Rosa Health Care
+
+
+
+
+
+
+
+
+Information about this formWhenever tissue or private information is stored for future use in research, this information should be included in the consent form.  The template language may not address every repository – edit the text as appropriate.  
+
+Use one of the following:
+
+Adults only, no surrogate consent, insert:
+You may be eligible to take part in a research study.  This form gives you important information about the study.  You will be asked to sign in more than one place in this document.  
+
+
+OR, for studies enrolling incapacitated or incompetent adults (i.e., surrogate consent) insert:
+You, or your next of kin, may be eligible to take part in a research study.  This form gives you important information about the study.  Next of kin or legally authorized representatives who are giving permission for an adult who is currently unable to provide consent to participate; please note that the word “you” refers to “the adult who cannot provide consent.”  You will be asked to sign in more than one place in this document.
+
+AND include the following:
+Please take time to review this information carefully.  You should talk to the researchers about the study and ask them any questions you have.  You may also wish to talk to others (for example, your friends, family, or a doctor) about your participation in this study.  If you decide to take part in the study, you will be asked to sign this form.  Before you sign this form, be sure you understand what the study is about, including the risks and possible benefits to you.
+
+Please tell the researchers or study staff if you are taking part in another research study.
+
+Taking part in this study is completely voluntary.  You do not have to participate if you don't want to.  You do not have to participate in this study in order to get standard medical treatment.  You may also leave the study at any time.  If you leave the study before it is finished, there will be no penalty to you, and you will not lose any benefits to which you are entitled.
+
+
+General Information – “Who is conducting this research?”
+Principal Investigator
+The Principal Investigator (PI) is [choose either: the researcher directing this research repository (for local repository) or the researcher directing the local collection of materials (for external repository); the PI is responsible for protecting your rights, safety and welfare as a participant in the research.  The PI for this research is [Insert the name and degrees of the PI and the PI’s respective affiliations (i.e., department and institution to include the South Texas Veterans Health Care System )]
+
+Co-Principal Investigator while a Co-PI is not encouraged, insert the following if the study has a Co-Principal Investigator, insert 
+The Co-Principal Investigator shares the principal investigator’s responsibilities for this study.  The Co-Principal Investigator for this repository is - [Insert the name and degrees of the Co-PI and the Co-PI’s respective affiliations (i.e., department and institution to include the South Texas Veterans Health Care System )]
+
+OR, If study has a Principal Investigator listed at the UTHSCSA IRB who is not conducting research at the VA, but has a Co-Principal Investigator who is conducting the study at the VA, use the following wording:
+
+[Insert the name and degrees of the PI], the Principal Investigator (PI) and [Insert the name and degrees of the Co-PI], Co-Principal Investigator, are researchers directing this study; the Principal and Co-Principal Investigators are responsible for protecting your rights, safety and welfare as a participant in the research.  
+
+The PI for the South Texas Veterans Health Care site is [Insert the name and degrees of the Co-PI and the Co-PI’s respective affiliations (i.e., department and institution to include the South Texas Veterans Health Care System)].
+
+
+Conflict of Interest  If any member of the research team has a potential financial conflict of interest related to the study, insert the following or similar statement (Language should be modified to fit the specific facts and circumstances.) Delete this section if no one has a potential financial conflict of interest
+A member of the research team, [insert name] is
+Select and edit the text below as needed – the specific wording should be modified to fit the circumstances:
+ - a paid consultant to the company which is paying for (part of) this study. 
+ - a paid consultant or paid member of the Advisory Board, and receives payment for lectures from the company which is paying for (part of) this study.
+- an unpaid consultant to the company which is paying for (part of) this study.
+- a founder of the company, has stock in the company, and is a paid consultant to the company sponsoring this study.
+- an inventor of [insert the drug, compound, device, etc.,], for which a patent may be filed by the institution. If the patent is pursued, based on data from this and other research, royalties and other compensation may be received by the institution and the investigator. Thus, UTHSCSA and the investigator have a financial interest in the outcome of this study.
+
+AND if appropriate, add:
+UTHSCSA owns equity (stock) in the company insert the [name of the outside entity] which is paying for this study.
+
+AND if appropriate, add:
+In the future, it is possible that the results of this research could result in a financial benefit to insert the [name of the institution] and/or the principal investigator.  This institution has taken steps to not let this interfere with the way the study is conducted or your safety.
+
+AND
+If you require further information regarding the financial arrangements described in this paragraph, you should discuss the matter with the Principal Investigator.  
+
+Funding 
+If funded by an external entity, add:
+VA rules do not allow banking to for-profit repositories.
+
+[insert name of non-profit organization or federal funding agency], a [pick one: non-profit organization or federal agency] that promotes scientific research, is funding this research .  This organization is providing money to [insert name the institution(s) receiving the support, e.g., UTHSCSA] so that the researchers can collect and store materials for research use in the future.
+
+Purpose of the research repository – “What is a repository?”Briefly (one paragraph) explain in lay-terms the reason for the repository.  Do not describe the details of the procedures here – that will be included in the Procedures section. 
+Revise this section to match the specifics of your repository.  Provide explanation of medical or technical terms so that the information is understandable to the lay person.
+
+You are being asked to participate in this research repository.  A research repository is a special type of research also known as a tissue bank or data warehouse.  A repository provides a way for researchers to store samples of tissues (for example, blood, tissue specimens obtained from biopsies, and tissues or organs removed during surgery) and medical information (for example, information from your medical record about your condition) about a person for future use in research studies.  In this consent form, tissues of all types will be referred to as “tissue” and private medical information will be referred to as “data”.  Together, tissues and data stored in a repository are referred to as “materials”.
+
+Materials from a repository can be used in research to help find out more about the causes of disease, how to prevent it, and how to treat it.  Storing tissue and information about the person who provided the tissue in a repository is one way that researchers plan for new research.  
+
+This research repository was designed because we want to learn about [insert focus of the repository].   However, the specifics of future research studies using this repository are unknown at this time.  
+
+Your tissue, along with your medical information may be helpful for research whether or not you have the disease or condition that is the focus of this repository.
+
+Future research studies using materials from this repository may include genetic testing.  In some cases, genetic testing of tissues can be used to indicate a risk for the development of certain diseases or to discover possible changes in a person’s future health status or life expectancy, or that of his/her children and family members. 
+
+There may be potential commercial benefits from the repository’s use of your materials.  There are no plans to provide you with money or other compensation.
+
+
+Select either local or external repository:
+
+Local repository
+The repository is maintained at [insert name and location of repository].  The Principal Investigator is responsible for the repository.  Other researchers requesting tissue samples or information from the repository must have the approval of the PI and also must have a research protocol for this newly proposed study approved by an Institutional Review Board (IRB, a committee responsible for protecting research subjects).
+Insert Mailing Address for local repository
+
+OR External repository
+The repository is maintained at [insert name and location of repository].  [insert name of organization or institution hosting repository] is responsible for the repository.  Other researchers requesting tissue samples or information from the repository must have the approval of the repository director and also must have a research protocol for this newly proposed study approved by an Institutional Review Board (IRB, a committee responsible for protecting research subjects).
+Insert Mailing Address for external repository
+
+You may discontinue all further participation in this research repository at any time and request that your currently stored materials no longer be used.  Contact the local PI or repository at the address provided above.  After you discontinue participation, the repository will not collect any new materials from you and will not use your banked specimens or identifiable information for any new research purposes.
+
+
+Information about Study Participants – “Who is participating in this research?”
+Who can take part in this research?   You are being asked to be a participant in this research repository because state general reason why the person was identified to participate].  For example, because they have the disease being studied and if applicable why it is reasonable for this particular subject to participate; they have not responded the standard care; they are already scheduled for the procedure being studied, etc. This is not intended to be a repetition of the inclusion criteria.
+
+
+Information about Study Procedures – “What will be done if you decide to be in the research repository?”
+If you decide to take part, you will be asked to sign this consent form.
+
+The following information (for example, information from your medical record about your condition) will be collected and stored in the repository:  [list type of data/information being banked]
+
+If banking existing tissue/specimens/data from research or clinical sources include:
+As part of your routine care, you are scheduled to have a [insert procedure] which will involve the removal of [list type of tissue, e.g., blood, spinal fluid, etc] from you body.  Frequently, extra tissue is “left over” after required tests have been done.  Often the left over tissue is discarded.  The researchers are asking permission to obtain the remaining tissue for the repository.  [note – generally the risks related to discarded tissues are limited to issues of confidentiality. If there are additional risks, address these in the risks section]  
+
+If banking left over tissue/specimens (no additional tissue is obtained or procedure performed) include:
+As part of your routine care, you are scheduled to have a [insert procedure] which will involve the removal of [list type of tissue, e.g., blood, spinal fluid, etc] from you body.  The researchers are asking permission to obtain additional tissue at the same time that the routine tissues are being obtained.  The additional tissue will be for the repository. [Note – address the risks reasonably expected from obtaining the additional tissue in the risks section]  
+
+If banking tissue and/or information obtained by performing additional procedures (not indicated as part of routine care or as part of another IRB approved research study) include: 
+The researchers are asking permission to perform additional procedures to obtain tissue or information for the repository.  The following is a description of the procedures that will be done so that the tissues or information may be included in the repository:Insert description of each procedure, e.g., biopsy, venipuncture, or survey
+
+Important guidance for describing repository procedures
+• Use bullets and/or paragraphs. 
+• Describe in lay language all procedures and their purposes.  
+o Describe what the subject will feel or experience
+• Quantify procedures – for example 
+o Number of each procedure per visit and total for research
+o Volume of blood samples only if:
+• (a) exceeds 550 ml in an 8 week period from healthy, non-pregnant adults, or
+• (b) from other adults and children, the amount drawn exceeds the lesser of 50 ml or 3 ml per kg in an 8 week period
+• Address the risks reasonably expected from each repository driven procedure in the risks section.  If you feel you must include risks with the research procedure, you are still required to provide ALL risk information in the risk section.
+
+If you would like to offer options add: 
+Options to the procedures listed above
+
+You can choose to participate in one, some, or all the repository procedures listed in this consent.  Please initial next to the procedures you agree to take part.
+_____ [insert first optional procedure]
+
+_____ [insert second optional procedure]
+
+AND add:
+The materials being put into the repository will be kept for [insert length of time the information and specimens will be stored – e.g., until none of the specimen is left, for X years, or indefinitely].
+You will not be provided with the results of the studies using your tissue from this bank.  Any results from research conducted in the future on your stored specimens would be of unclear value and unknown clinical meaning.
+
+
+Risks – “What are the risks of participation in the research repository?”
+In assessing risk, be sure to consider all possible sources of harm, including physical, social, psychological, legal and economic.  The risks that are reasonably expected from the collection and storage of specimens and information should be described. 
+
+Informational risks related to the repository
+Select either anonymous or identifiable material statement depending on the nature your bank.
+
+If only banking anonymous materials use this statement:
+Your samples and medical information will not be stored with identifying information (such as your name) or a code that is linked to your identifying information.  The materials in the repository cannot be traced back to you as the participant.  There is no risk to you that your private information could be unintentionally released.  Once your samples or information are entered into the repository, you will not be able to withdraw them because the samples will not be traceable
+
+OR, if banking identifiable or coded materials, use this statement: 
+Your samples and medical information will be stored with identifying information (such as your name).  If this information were unintentionally (by mistake) released it could harm you.  The repository is required to protect your private information to prevent unintentional release of your private information.  Your name, address, phone number and other identifying information will be taken off anything associated with your tissues or medical information and replaced with a code.  The key, linking your identity to the code will be kept in a separate, secure location, only accessible by the repository staff.  
+
+
+Genetic Informational risks related to the repository
+Select either anonymous or identifiable material statement depending on the nature your bank.
+
+If only banking anonymous materials use this statement:
+Future research studies using materials from this repository may include genetic testing.  Human tissue contains genes that determine many of a person’s physical characteristics, such as the color of eyes and hair.  In some cases, genetic testing of tissues can be used to indicate a risk for the development of certain diseases.  Genetic information is unique to each individual and could potentially be used to discover possible changes in a person’s future health status or life expectancy, or that of his/her children and family members. Even though the results of genetic testing cannot be linked to you, it is possible that people of your ethnic background may be found to be at more risk for certain diseases based on future genetic research and this information might harm you in the future as a member of the group.  
+
+OR, if banking identifiable or coded materials, use this statement: 
+Future research studies using materials from this repository may include genetic testing.  Human tissue contains genes that determine many of a person’s physical characteristics, such as the color of eyes and hair.  In some cases, genetic testing of tissues can be used to indicate a risk for the development of certain diseases.  Genetic information is unique to each individual and could potentially be used to discover possible changes in a person’s future health status or life expectancy, or that of his/her children and family members. Even if your tissues are used for this type of research, the results will not be put in your health records.
+Releasing this information to you could cause psychological distress, anxiety or family problems.
+
+Releasing this information to others, such as including it in your medical record, may pose a possible risk of discrimination, or increase difficulty in obtaining or maintaining disability, long-term care, or life insurance.  
+
+These risks would occur if your information is released by mistake.  The measures being taken to protect your privacy are discussed below and make this possibility unlikely.
+
+Even though the results of genetic testing may not be linked to you, it is possible that people of your ethnic background may be found to be at more risk for certain diseases based on future genetic research and this information might harm you in the future as a member of the group. 
+Also, there may be unknown risks of genetic testing in the future.
+
+
+If performing collecting procedures include the following section
+Risks from the specific collection procedures
+Revise this section as needed to reflect the expected risks for procedures used to collect information or specimens from subjects.
+ (
+
+Risks and side effects related to the [insert name of the procedure] include those which are:
+ For more than one repository procedure, copy and paste this section. Delete any category below that is not applicable.
+
+Likely (insert range approximately “X” – “Y”#  of subjects out of 100),
+
+
+• Note: There is no standard definition of “likely" and "less likely”.  As a guideline, “likely” can be viewed as occurring in greater than 20% of patients and “less likely” in less than or equal to 20% of patients.  However, this categorization should be adapted to specific research conditions by the principal investigator.
+In the “likely” and “less likely” categories, identify those side effects that may be:”serious”.  ”Serious” is defined as side effects that may require hospitalization or may be irreversible, long-term, life threatening or fatal.  
+	Likely and serious
+• [insert risk]
+• [insert risk]
+
+	Likely and not serious
+• [insert risk]
+• [insert risk]
+
+
+Less Likely (insert range approximately “X” – “Y”#  of subjects out of 100),
+
+	Less Likely and serious
+• [insert risk]
+• [insert risk]
+
+	Less Likely and not serious
+• [insert risk]
+• [insert risk]
+
+Rare but Serious (insert range approximately “X” – “Y”#  of subjects out of 100),
+• [insert risk]
+• [insert risk]
+
+
+Side effects that occur in less than 2-3% of patients do not have to be listed unless they are serious, and should then appear in the “rare but serious” category.
+
+AND if appropriate include
+For more information about risks and side effects, ask one of the researchers or research staff.
+
+If there are reproductive risks, choose appropriate paragraph to describe risk:
+
+If reproductive risks are of concern only to female subjects and/or their fetuses, add:
+Concerns for sexually active women:  You should not become pregnant while taking part in this study because we do not know how the study drugs/procedures could affect a fetus, if a woman becomes pregnant during the study.  It is important that you talk to your study doctor about avoiding pregnancy during this study.  If you think you might have become pregnant while you are in this study, you must tell one of the study doctors right away so that management of the pregnancy and the possibility of stopping the study can be discussed.
+
+Or, if reproductive risks are of interest to both female subjects and to the male subjects and/or their partners, who could become pregnant, use:
+Concerns for sexually active men and women:  Women should not become pregnant and men should not father a baby while taking part in this study because we do not know how the study drugs/procedures could affect a man's sperm (for some drugs/procedures, the concern may be that the sperm might be affected and in some cases, drugs could being carried by the semen into the vagina and cause harm) or a fetus, if a woman becomes pregnant during the study.  It is important that you talk to your study doctor about avoiding pregnancy during this study.  If you think you might have become pregnant or if you believe your female partner has become pregnant while you are in this study, you must tell one of the study doctors right away so that management of the pregnancy and the possibility of stopping the study can be discussed.  
+
+And add:
+If you are a woman who is pregnant or could be pregnant, you cannot take part in this study because we do not know how the drugs/procedures might affect a developing fetus.  We will do a pregnancy test before you start treatment to make sure you are not pregnant.   
+
+If there are risks to women who are breastfeeding, add:
+Risks to babies who are being breastfed:   Women who are breastfeeding cannot take part in this study because we do not know what effect the drugs/procedures might have on their breast milk.
+
+Are there risks if I also participate in other research studies?
+Being in more than one research study at the same time, [or even at different times,] may increase the risk to you.  It may also affect the results of the studies.  You should not take part in more than one study without approval from the researchers involved in each study.  
+
+What if a research-related injury occurs? 
+The researchers have taken steps to minimize the known or expected risks.  However, you may still experience problems or side effects, even though the researchers are careful to avoid them.  In the event of a research-related injury or if you experience an adverse reaction, please immediately contact your study doctor. See the section “Contact Information” for phone numbers and additional information.  You may also need to tell your regular doctors.
+
+In the event that you sustain an injury or illness as a result of your participation in this VA approved research, all medical treatment (emergency as well as medical treatment beyond emergency care) will be provided by the VA.  You will be treated for the injury at no cost to you.  However, no additional compensation has been set aside.  You have not waived any legal rights or released the hospital or its agents from liability for negligence by signing this form.
+
+
+Benefits – “How could I or others benefit if I take part in this study?”Choose either
+The possible benefit of your participating in this study is consider adding the benefits related to the intervention or procedure and/or benefits related to a research monitoring procedure which is likely to contribute to the well-being of the subject.  There is no guarantee or promise that you will receive any benefit from this study.  
+OR
+You may not receive any personal benefits from being in this study.
+
+AND include
+We hope the information learned from this study will benefit other people with similar conditions in the future.
+
+
+Alternatives – “What other options are there to participation in this study?”Consider the following: 1) getting treatment or care without being in a study, 2) taking part in another study, and 3) getting no treatment
+There are other options available to you.  Your other choices may include:
+[insert options]
+
+You can choose to participate in one, some or all the repository procedures listed in this consent.  Please initial next to the procedures you agree to take part.
+_____ [insert first optional procedure]
+
+_____ [insert second optional procedure]
+
+
+AND include, even if no other alternatives
+You have the option not to take part in this research.  
+
+Compensation – Will there be any compensation for participation?
+Describe the amount or nature (provide details such as cash/check/gift card), when it will be paid/provided (provide details on frequency of compensation and timing), and when the compensation will be prorated if the subject does not complete the study, provide a schedule. 
+
+Insert the following only if the payments will exceed $600 per subject
+If you are paid, the money you receive may be taxable.  When the total payment is $600 or more in one calendar year, the institution must report the amount to the IRS.  The IRS considers it earned income and treats it like any other income. 
+
+AND if payment is being paid by a check issued by UTHSCSA or BioMedical Research Foundation of South Texas, add:
+Please note that if you are on record as owing money to the State of Texas, such as for back child support or a delinquent student loan, the payment may be applied to that debt and you may not receive a check. 
+
+AND if compensation is being paid by a check issued by the VA, add:
+Please note that if you are on record as owing money to the Federal Government, such as for back taxes or a delinquent federal student loan, the compensation will be applied by the government to that debt and you will not receive a check. 
+
+Costs – Will taking part in this study cost me anything?Describe the possibility of costs to the subject because of participation. If there are no costs to the subject, state so.  [For example: “You will not have to pay any money to take part in this research.”]
+
+For research repositories involving medical intervention(s), clearly explain which costs will be billed to the subject's insurance company, and who (the subject? the study sponsor?) will be responsible for payment of any costs not covered by the insurance.  For example: 
+Some veterans are required to pay co-payments for medical care and services provided by the VA.  These co-payment requirements will continue to apply to medical care and services provided by the VA that are not part of this study.  There will be no cost to veterans or non-veterans for medical care and services provided by VA that are part of this study.
+Remember that study subjects often don't know what specific procedures would have been charged to their insurance companies in non-research settings, so specifics and clarity are important here.  For example, are X-rays or scans that determine eligibility being paid for by the study or charged to the subject or his/her insurance?  A suitable way to end this section is "Ask the researchers if you have any questions about what it will cost you to take part in this study (for example bills, fees, or other costs related to the research)."
+
+Confidentiality – How will your records be kept confidential?
+Information we learn about you in this research will be handled in a confidential manner, within the limits of the law.  If we or any other researchers publish the results of future research in a scientific journal or book, you will not be identified.  The Institutional Review Board and other groups that have the responsibility of monitoring research may want to see records which identify you as a subject in this research repository.   More information concerning confidentiality is described in the “Authorization to Use and Disclose Protected Health Information as part of a Research Repository.”
+
+If including non-veterans at  a VA site, add:
+Please note that if you do not already have a VA medical record, one will be started for you if you take part in this study. 
+
+
+Contact Information – Who can you contact if you have questions, concerns, comments or complaints?
+If you have questions now, feel free to ask us.  If you have additional questions, concerns, comments or complaints later or you wish to report a problem which may be related to this research repository please contact:
+
+Contact table is optional – revise as needed
+Name/SalutationPhone numberPager
+MD is reserved for physicians licensed in the US; unlicensed physicians should use “Research Assistant” or similar title.  If any of the numbers given for contacts are PAGER numbers, add instructions for using a pager, such as:  To use the pager, you need to have a touch tone (push button) telephone.  Dial the pager number as you would any phone number.  When you hear 3 short high pitched beeps, dial in the number where you want the doctor to call you back.  Push the # button, hang up and wait for the doctor to return your call.
+
+OR contact information can be provided in the following format
+
+Primary contact:
+[Insert name and degrees] can be reached at [provide telephone number(s), with area code, that can be reliably reached during and after normal work hours]
+
+If primary is not available, contact
+[Insert name and degrees] can be reached at [provide telephone number(s), with area code, that can be reliably reached during and after normal work hours]
+
+If you would like to contact someone unaffiliated with the research to ask questions, express concerns, obtain information, offer input, or answer any questions about your rights as a research subject, then contact the University of Texas Health Science Center committee that reviews research on human subjects (Institutional Review Board) by calling 210-567-8250, or by mail to IRB, UTHSCSA, Mail Code 7830, 7703 Floyd Curl Drive, San Antonio, TX  78229-3900.
+
+Research Repository Consent Signature SectionIf you agree to participate in this research repository sign this section.  You will be given a signed copy of this form to keep.  You do not waive any of your legal rights by signing this form.  
+
+SIGN THIS FORM ONLY IF THE STATEMENTS LISTED BELOW ARE TRUE
+• You have read the above information.
+• Your questions have been answered to your satisfaction.  
+If consent provided by adults (without a surrogate), include this signature section
+Adult Signature Section
+You have voluntarily decided to take part in this research repository.
+
+AM
+PMPrinted Name of Subject
+
+
+Signature of Subject
+DateTime
+
+AM
+PMPrinted Name of Witness
+
+Signature of Witness
+DateTime
+
+  Check if consent obtained from an individual who can understand & comprehend English but is physically unable to talk or write. Have witness initial below.
+Declaration of witness:  I was present for the entire consent process.  ________ ←(initials of witness)
+AM
+PMPrinted Name of Person Obtaining ConsentSignature of Person Obtaining Consent
+DateTime  Consent was obtained from this individual who can understand & comprehend English but is physically unable to talk or write.  
+The method used for communication with the subject was: ______________________.  The specific means by which the subject
+ communicated agreement to participate was:_______________________________________________________________________ . 
+
+If consent provided by a surrogate, include this signature section
+Surrogate Signature Section  for studies enrolling adults unable to provide consent, or children
+You are voluntarily giving your consent for another person to participate in this research repository because you believe this person would want to take part if able to make the decision and you believe it is in this person’s best interest.  
+
+
+Printed Name of Subject
+
+DateTimePrinted Name of Person
+Consenting for Subject
+
+Signature of Person Giving Consent
+DateTimePrinted Name of Witness 
+Witness Signature
+
+DateTime
+
+
+Printed Name of Person
+Obtaining ConsentSignature of Person
+Obtaining ConsentDateTime
+Indicate below your authority to act as the participant’s legally authorized representative: 
+(select one)
+( Spouse									 Parent		
+  Adult Child (18 years or over) for his or her parent		  Adult Sibling (18 years or over)
+  Grandparent								 Adult Grandchild
+  Court appointed guardian
+
+
+VA FORM  10-1086  as modified by
+the STVHCS Research Office on April 22, 2011   
+
+
+Page 1 of 1
+Research Consent (vMar2017)
+
+
+Title of Study: must match the title listed on the protocol EXACTLY
+
+Page 12 of 12
+Research Consent (vMarch 2017)
+
+
+VA FORM  10-1086  JUN 1990   (revised 9/93)
+
+
