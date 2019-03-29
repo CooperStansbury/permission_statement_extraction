@@ -16,5 +16,5 @@ python3 $BERT_DIR/run_classifier.py \
 --max_seq_length=128 \
 --train_batch_size=32 \
 --learning_rate=2e-5 \
---num_train_epochs=3.0 \
+--num_train_epochs=5.0 \
 --output_dir=$OUTPUT_DIR/
