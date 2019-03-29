@@ -51,12 +51,20 @@ def getJSONData(annotation_file):
     new_rows = []
 
     with open(annotation_file) as f:
+        line_count = 0 # for debugging
         for line in f: # need to load each line as a separate json object
+
+            line_count += 1
             dat_dict = json.loads(line)
 
             content = dat_dict['content'].split("]],")[1]
             fileID = dat_dict['content'].split("]],")[0].replace("[[fileID:", "")
-            annotation = dat_dict['annotation']['labels'][0]
+
+            # all missing annotations coded as 'NON_permission_statement'
+            try:
+                annotation = dat_dict['annotation']['labels'][0]
+            except:
+                annotation = 'NON_permission_statement'
 
             row = {
                 'annotation':annotation,
