@@ -2,7 +2,7 @@
 
 BERT_BASE_DIR=../bert/uncased_L-12_H-768_A-12
 BERT_DIR=../bert
-OUTPUT_DIR=../bert_output
+OUTPUT_DIR=../bert_output`date '+%Y-%m-%d'`
 DATA=../data/bert_training_inputs
 
 python3 $BERT_DIR/run_classifier.py \
