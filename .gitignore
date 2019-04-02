@@ -2,3 +2,4 @@
 bert/uncased_L-12_H-768_A-12/*
 bert_output/*
 bert_output*/*
+bert/*
