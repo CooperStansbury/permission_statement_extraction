@@ -56,6 +56,7 @@ def getJSONData(annotation_file):
 
             line_count += 1
             dat_dict = json.loads(line)
+            # print(line_count)
 
             content = dat_dict['content'].split("]],")[1]
             fileID = dat_dict['content'].split("]],")[0].replace("[[fileID:", "")
