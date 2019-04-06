@@ -2,9 +2,21 @@
 import re
 import spacy
 
+
 # load once, call many
 nlp_larg = spacy.load('en_core_web_lg')
 
+"""
+The following citation is for the language library developed by spaCy authors:
+
+
+[1] Models for the spaCy Natural Language Processing (NLP) library: explosion/spacy-models.
+Explosion, 2019.
+
+English multi-task CNN trained on OntoNotes, with GloVe vectors trained on Common Crawl.
+Assigns word vectors, context-specific token vectors, POS tags, dependency parse and named entities. This is
+what allows us to predict...
+"""
 
 ### --------------------- 'APPLY' FUNCTIONS --------------------- ###
 
