@@ -3,36 +3,12 @@ import re
 import spacy
 from keras.preprocessing import text, sequence
 from sklearn.preprocessing import MultiLabelBinarizer
+import string
 
 
 # load once, call many
 mlb = MultiLabelBinarizer()
 nlp_larg = spacy.load('en_core_web_lg')
-
-#support for POS counts
-pos_family = {
-    'noun' : ['NN','NNS','NNP','NNPS'],
-    'pron' : ['PRP','PRP$','WP','WP$'],
-    'verb' : ['VB','VBD','VBG','VBN','VBP','VBZ'],
-    'adj' :  ['JJ','JJR','JJS'],
-    'adv' : ['RB','RBR','RBS','WRB']
-}
-
-
-def check_pos_tag(x, flag):
-    """
-    return part of speech tag count
-    """
-    count = 0
-    try:
-        wiki = textblob.TextBlob(x)
-        for tup in wiki.tags:
-            ppo = list(tup)[1]
-            if ppo in pos_family[flag]:
-                count += 1
-    except:
-        pass
-    return count
 
 
 def getSentenceVectors(row):
@@ -72,3 +48,30 @@ def convertVectoOneHot(df):
     vec_column = ['vec_posi' + str(i) for i in range(0,300)]
     vec_df = pd.DataFrame(df['sent_vec'].values.tolist(), columns=vec_column)
     return pd.concat([df, vec_df], axis=1)
+
+
+def convertSeqtoOneHot(df, maxSeen):
+    """ return a dataframe with sequence """
+
+    new_col_names = ['seq_posi' + str(i) for i in range(0,maxSeen)]
+    seq_df = pd.DataFrame(df['seq_vec'].values.tolist(), columns=new_col_names)
+    return pd.concat([df, seq_df], axis=1)
+
+
+def convertPOSSeqtoOneHot(df, maxTokens):
+    """ return a dataframe with POS sequence """
+
+    new_col_names = ['POS_seq_posi' + str(i) for i in range(0,maxTokens)]
+    pos_seq_df = pd.DataFrame(df['POS_Seq'].values.tolist(), columns=new_col_names)
+    return pd.concat([df, pos_seq_df], axis=1)
+
+
+def getSimpleCounts(df):
+    """ return data frame with new columns of word counts """
+
+    df['char_count'] = df['text'].apply(len)
+    df['word_count'] = df['text'].apply(lambda x: len(x.split()))
+    df['word_density'] = df['char_count'] / (df['word_count']+1)
+    df['punctuation_count'] = df['text'].apply(lambda x: len("".join(_ for _ in x if _ in string.punctuation)))
+
+    return df
