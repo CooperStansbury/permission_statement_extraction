@@ -34,6 +34,12 @@ def keras_recall(y_true, y_pred):
     return recall
 
 def keras_auc(y_true, y_pred):
+    """ Area under ROC """
     auc = tf_auc(y_true, y_pred)[1]
     K.get_session().run(local_variables_initializer())
     return auc
+
+
+def keras_true_postives(y_true, y_pred):
+    """ returns count of true positives """
+    return K.sum(K.round(K.clip(y_true * y_pred, 0, 1)))
